@@ -6,4 +6,5 @@
 !*.js
 !*.zip
 !.gitignore
+!README.md
 package.json
