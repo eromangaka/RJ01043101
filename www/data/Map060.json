@@ -4356,8 +4356,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "\\c[14]あるよ！",
-                                    "無いよ！"
+                                    "\\c[14]I have it!",
+                                    "It's not there!"
                                 ],
                                 1,
                                 0,

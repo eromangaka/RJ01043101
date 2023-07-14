@@ -4044,8 +4044,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "\\c[14]撤収\\c[0]だ！",
-                                    "まだ作る"
+                                    "\\c[14]It's a wrap!",
+                                    "Still making"
                                 ],
                                 1,
                                 0,
@@ -9498,8 +9498,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

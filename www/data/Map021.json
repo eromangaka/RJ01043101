@@ -1671,8 +1671,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1890,8 +1890,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "いらない",
-                                    "\\c[14]引き継ぐ！"
+                                    "I don't need it",
+                                    "\\c[14]Carry over!"
                                 ],
                                 -1,
                                 -1,
@@ -2220,8 +2220,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 1,
                                 0,

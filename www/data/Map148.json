@@ -21731,8 +21731,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "終わる",
-                                    "終わらない"
+                                    "Finish",
+                                    "Not ending"
                                 ],
                                 1,
                                 0,

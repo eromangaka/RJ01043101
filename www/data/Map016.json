@@ -15269,8 +15269,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "覗く",
-                                    "覗かない"
+                                    "Peek",
+                                    "Don't peek"
                                 ],
                                 1,
                                 0,
