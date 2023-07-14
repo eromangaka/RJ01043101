@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ーーーー魚ーーーー",
+        "name": "Fish",
         "note": "",
         "params": [
             0,
@@ -30,7 +30,7 @@
     {
         "id": 2,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★☆☆☆\\c[0]】\nお馴染みのアイツ\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 That familiar one \\n\\n\\n----------------------------------\\n◆Cooking\nIngredient",
         "etypeId": 2,
         "traits": [
             {
@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 176,
-        "name": "メダカ",
+        "name": "Medaka",
         "note": "",
         "params": [
             0,
@@ -57,7 +57,7 @@
     {
         "id": 3,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★☆☆☆\\c[0]】\n氷の上で釣れる奴だね\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 It's the one you can catch on the ice, isn't\nit\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 177,
-        "name": "ワカサギ",
+        "name": "Smelt",
         "note": "",
         "params": [
             0,
@@ -84,7 +84,7 @@
     {
         "id": 4,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★☆☆☆\\c[0]】\n雑草の名前じゃないよ\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 It's not the name of a\nweed\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -94,7 +94,7 @@
             }
         ],
         "iconIndex": 178,
-        "name": "アカザ",
+        "name": "Red Sand",
         "note": "",
         "params": [
             0,
@@ -111,7 +111,7 @@
     {
         "id": 5,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★☆☆☆\\c[0]】\n平たい魚だなあ\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 It's a flat fish, huh\\n\\n\\n----------------------------------\\n◆Cooking\nIngredient",
         "etypeId": 2,
         "traits": [
             {
@@ -121,7 +121,7 @@
             }
         ],
         "iconIndex": 179,
-        "name": "イトヨ",
+        "name": "Yarn",
         "note": "",
         "params": [
             0,
@@ -138,7 +138,7 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★☆☆☆\\c[0]】\nショウタ君家に居る\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 Shota-kun is at home \\n\\n\\n----------------------------------\\n◆Cooking\nIngredients",
         "etypeId": 2,
         "traits": [
             {
@@ -148,7 +148,7 @@
             }
         ],
         "iconIndex": 180,
-        "name": "キンギョ",
+        "name": "Goldfish",
         "note": "",
         "params": [
             0,
@@ -165,7 +165,7 @@
     {
         "id": 7,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★★☆☆\\c[0]】\n体色の黒い鯉。ふつう。\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 A black-colored carp. Ordinary.\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -175,7 +175,7 @@
             }
         ],
         "iconIndex": 181,
-        "name": "マゴイ",
+        "name": "Carp",
         "note": "",
         "params": [
             0,
@@ -192,7 +192,7 @@
     {
         "id": 8,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★★☆☆\\c[0]】\n釣れてもあんま嬉しくない\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 Even if you catch it, it's not very\nexciting\\n\\n\\n----------------------------------\\n◆Cooking ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -202,7 +202,7 @@
             }
         ],
         "iconIndex": 182,
-        "name": "ボラ",
+        "name": "Bora",
         "note": "",
         "params": [
             0,
@@ -219,7 +219,7 @@
     {
         "id": 9,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★★☆☆\\c[0]】\n「脆(あ)ゆる」-弱弱しい\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 \"Ayuru\" - Weak\\n\\n\\n----------------------------------\\n◆Cooking\nIngredient",
         "etypeId": 2,
         "traits": [
             {
@@ -229,7 +229,7 @@
             }
         ],
         "iconIndex": 183,
-        "name": "アユ",
+        "name": "Ayu",
         "note": "",
         "params": [
             0,
@@ -246,7 +246,7 @@
     {
         "id": 10,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★★☆☆\\c[0]】\n美味しくないらしい。\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 It seems not tasty. \\n\\n\\n----------------------------------\\n◆Cooking\nIngredient",
         "etypeId": 2,
         "traits": [
             {
@@ -256,7 +256,7 @@
             }
         ],
         "iconIndex": 184,
-        "name": "アメマス",
+        "name": "Sweetfish",
         "note": "",
         "params": [
             0,
@@ -273,7 +273,7 @@
     {
         "id": 11,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★★☆☆\\c[0]】\n北海道では人気の高級魚\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 A popular luxury fish in\nHokkaido\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -283,7 +283,7 @@
             }
         ],
         "iconIndex": 185,
-        "name": "ヒメマス",
+        "name": "Princess Trout",
         "note": "",
         "params": [
             0,
@@ -300,7 +300,7 @@
     {
         "id": 12,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★★★☆\\c[0]】\nブリッチョ\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★★☆\\c[0]】 Briccio\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -310,7 +310,7 @@
             }
         ],
         "iconIndex": 192,
-        "name": "ブリ",
+        "name": "Bree",
         "note": "",
         "params": [
             0,
@@ -327,7 +327,7 @@
     {
         "id": 13,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★★★☆\\c[0]】\nブリッチョもどき\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★★☆\\c[0]】 Mock Briccio\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -337,7 +337,7 @@
             }
         ],
         "iconIndex": 193,
-        "name": "ブリモドキ",
+        "name": "Fake Armor",
         "note": "",
         "params": [
             0,
@@ -354,7 +354,7 @@
     {
         "id": 14,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★★★☆\\c[0]】\nこら～！\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★★☆\\c[0]】 Hey! \\n\\n\\n----------------------------------\\n◆Cooking Ingredients",
         "etypeId": 2,
         "traits": [
             {
@@ -364,7 +364,7 @@
             }
         ],
         "iconIndex": 194,
-        "name": "カツオ",
+        "name": "Bonito",
         "note": "",
         "params": [
             0,
@@ -381,7 +381,7 @@
     {
         "id": 15,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★★★☆\\c[0]】\n刺身おいしいですよね\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★★☆\\c[0]】 Sashimi is delicious, isn't\nit?\\n\\n\\n----------------------------------\\n◆Cooking Ingredients",
         "etypeId": 2,
         "traits": [
             {
@@ -391,7 +391,7 @@
             }
         ],
         "iconIndex": 195,
-        "name": "キハダマグロ",
+        "name": "Yellowfin Tuna",
         "note": "",
         "params": [
             0,
@@ -408,7 +408,7 @@
     {
         "id": 16,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★★★☆\\c[0]】\n横スマ-横スマッシュ攻撃\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★★☆\\c[0]】 Side Smash - Side Smash\nAttack\\n\\n\\n----------------------------------\\n◆Cooking Ingredients",
         "etypeId": 2,
         "traits": [
             {
@@ -435,7 +435,7 @@
     {
         "id": 17,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★★★★\\c[0]】\nマグロ類では安いんだと。\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★★★\\c[0]】 It's said to be cheap for a type of tuna.\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -445,7 +445,7 @@
             }
         ],
         "iconIndex": 197,
-        "name": "ビンナガマグロ",
+        "name": "Albacore Tuna",
         "note": "",
         "params": [
             0,
@@ -462,7 +462,7 @@
     {
         "id": 18,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★★★★\\c[0]】\nそらそうだ。に似てる。\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★★★\\c[0]】 That's right. It's similar.\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredients",
         "etypeId": 2,
         "traits": [
             {
@@ -472,7 +472,7 @@
             }
         ],
         "iconIndex": 198,
-        "name": "ヒラソウダ",
+        "name": "Flat Sword",
         "note": "",
         "params": [
             0,
@@ -489,7 +489,7 @@
     {
         "id": 19,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★★★★\\c[0]】\n目、バチィ！\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★★★\\c[0]】 Eyes, sparkly! \\n\\n\\n----------------------------------\\n◆Cooking\nIngredients",
         "etypeId": 2,
         "traits": [
             {
@@ -499,7 +499,7 @@
             }
         ],
         "iconIndex": 199,
-        "name": "メバチ",
+        "name": "Mebachi",
         "note": "",
         "params": [
             0,
@@ -516,7 +516,7 @@
     {
         "id": 20,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★★★★\\c[0]】\n魚の中でも特に美味い！\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★★★\\c[0]】 Especially delicious among fish!\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -526,7 +526,7 @@
             }
         ],
         "iconIndex": 200,
-        "name": "マナガツオ",
+        "name": "Butterfly Kingfish",
         "note": "",
         "params": [
             0,
@@ -543,7 +543,7 @@
     {
         "id": 21,
         "atypeId": 1,
-        "description": "【レアリティ：\\c[14]★★★★\\c[0]】\nなんでこんなの釣れるの。\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★★★\\c[0]】 Why did I catch something like this?\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -553,7 +553,7 @@
             }
         ],
         "iconIndex": 201,
-        "name": "メカジキ",
+        "name": "Swordfish",
         "note": "",
         "params": [
             0,
@@ -570,7 +570,7 @@
     {
         "id": 22,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★☆☆☆\\c[0]】\nありふれた根菜。\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 A common root vegetable.\n\\n\\n\\n----------------------------------\\n◆Cooking ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -580,7 +580,7 @@
             }
         ],
         "iconIndex": 256,
-        "name": "にんじん",
+        "name": "Carrot",
         "note": "",
         "params": [
             0,
@@ -597,7 +597,7 @@
     {
         "id": 23,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★☆☆☆\\c[0]】\n便利な野菜。\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 A handy vegetable. \\n\\n\\n----------------------------------\\n◆Cooking\ningredient",
         "etypeId": 2,
         "traits": [
             {
@@ -607,7 +607,7 @@
             }
         ],
         "iconIndex": 257,
-        "name": "たまねぎ",
+        "name": "Onion",
         "note": "",
         "params": [
             0,
@@ -624,7 +624,7 @@
     {
         "id": 24,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★☆☆☆\\c[0]】\n煮ても焼いても蒸しても！\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 Boil it, grill it, or steam it!\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -634,7 +634,7 @@
             }
         ],
         "iconIndex": 258,
-        "name": "じゃがいも",
+        "name": "Potato",
         "note": "",
         "params": [
             0,
@@ -651,7 +651,7 @@
     {
         "id": 25,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★☆☆☆\\c[0]】\n素朴な甘さがおいしい。\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 Its simple sweetness is delicious.\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredients",
         "etypeId": 2,
         "traits": [
             {
@@ -661,7 +661,7 @@
             }
         ],
         "iconIndex": 259,
-        "name": "さつまいも",
+        "name": "Sweet Potato",
         "note": "",
         "params": [
             0,
@@ -678,7 +678,7 @@
     {
         "id": 26,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★☆☆☆\\c[0]】\n日本の主食！\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 The staple food of Japan!\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredients",
         "etypeId": 2,
         "traits": [
             {
@@ -688,7 +688,7 @@
             }
         ],
         "iconIndex": 260,
-        "name": "米",
+        "name": "Rice",
         "note": "",
         "params": [
             0,
@@ -705,7 +705,7 @@
     {
         "id": 27,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★☆☆☆\\c[0]】\n疲労回復や滋養強壮に。\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 For fatigue recovery and nourishment.\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredients",
         "etypeId": 2,
         "traits": [
             {
@@ -715,7 +715,7 @@
             }
         ],
         "iconIndex": 261,
-        "name": "にんにく",
+        "name": "Garlic",
         "note": "",
         "params": [
             0,
@@ -732,7 +732,7 @@
     {
         "id": 28,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★☆☆☆\\c[0]】\nいろいろなお料理に。\\nコレステロールゼロ。\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 For various dishes. \\nZero cholesterol.\n\\n\\n----------------------------------\\n◆Cooking ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -742,7 +742,7 @@
             }
         ],
         "iconIndex": 262,
-        "name": "油",
+        "name": "Oil",
         "note": "",
         "params": [
             0,
@@ -759,7 +759,7 @@
     {
         "id": 29,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★☆☆☆\\c[0]】\n天然の海水塩。\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 Natural sea salt. \\n\\n\\n----------------------------------\\n◆Cooking\ningredient",
         "etypeId": 2,
         "traits": [
             {
@@ -769,7 +769,7 @@
             }
         ],
         "iconIndex": 263,
-        "name": "塩",
+        "name": "Salt",
         "note": "",
         "params": [
             0,
@@ -786,7 +786,7 @@
     {
         "id": 30,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★☆☆☆\\c[0]】\nすっぱい柑橘類。\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 A sour citrus fruit. \\n\\n\\n----------------------------------\\n◆Cooking\nIngredient",
         "etypeId": 2,
         "traits": [
             {
@@ -796,7 +796,7 @@
             }
         ],
         "iconIndex": 264,
-        "name": "レモン",
+        "name": "Lemon",
         "note": "",
         "params": [
             0,
@@ -813,7 +813,7 @@
     {
         "id": 31,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★★☆☆\\c[0]】\n透き通ったきれいな天然水。\\n飲用可能。\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 Clear natural water. \\nDrinkable.\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -823,7 +823,7 @@
             }
         ],
         "iconIndex": 272,
-        "name": "きれいな水",
+        "name": "Beautiful Water",
         "note": "山菜マン",
         "params": [
             0,
@@ -840,7 +840,7 @@
     {
         "id": 32,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★★☆☆\\c[0]】\nありふれた食用のきのこ。\\nぷりぷりの食感！\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 A common edible mushroom. \\nA bouncy\ntexture!\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -850,7 +850,7 @@
             }
         ],
         "iconIndex": 273,
-        "name": "しめじ",
+        "name": "Shimeji",
         "note": "山菜マン",
         "params": [
             0,
@@ -867,7 +867,7 @@
     {
         "id": 33,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★★☆☆\\c[0]】\n生でも干しでもおいしいきのこ。\\n旨味たっぷり！\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 A mushroom that's delicious whether fresh or dried. \\nFull of\nflavor!\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -877,7 +877,7 @@
             }
         ],
         "iconIndex": 274,
-        "name": "しいたけ",
+        "name": "Shiitake",
         "note": "山菜マン",
         "params": [
             0,
@@ -894,7 +894,7 @@
     {
         "id": 34,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★★☆☆\\c[0]】\nクセのない味わいのきのこ。\\nシャッキリ食感！\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 A mushroom with a plain taste. \\nCrisp\ntexture!\\n\\n----------------------------------\\n◆Cooking ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -904,7 +904,7 @@
             }
         ],
         "iconIndex": 275,
-        "name": "エリンギ",
+        "name": "Eringi",
         "note": "山菜マン",
         "params": [
             0,
@@ -921,7 +921,7 @@
     {
         "id": 35,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★★★★\\c[0]】\n伝説のきのこ。\\n学名はTricholoma matsutake\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★★★\\c[0]】 A legendary mushroom. \\nScientific name is Tricholoma\nmatsutake\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -931,7 +931,7 @@
             }
         ],
         "iconIndex": 276,
-        "name": "松茸",
+        "name": "Matsutake",
         "note": "山菜マン",
         "params": [
             0,
@@ -948,7 +948,7 @@
     {
         "id": 36,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★★★☆\\c[0]】\n山野に自生していることがある。\\n食べられる植物。\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★★☆\\c[0]】 It can be found growing wild in the mountains. \\nAn edible plant.\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -958,7 +958,7 @@
             }
         ],
         "iconIndex": 277,
-        "name": "山菜",
+        "name": "Wild Vegetables",
         "note": "山菜マン",
         "params": [
             0,
@@ -975,7 +975,7 @@
     {
         "id": 37,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★★★☆\\c[0]】\n独特の辛みが癖になる香辛料。\\n\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★★★☆\\c[0]】 A spice with a unique spiciness that becomes addictive.\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -985,7 +985,7 @@
             }
         ],
         "iconIndex": 278,
-        "name": "山椒",
+        "name": "Sansho",
         "note": "山菜マン",
         "params": [
             0,
@@ -1002,7 +1002,7 @@
     {
         "id": 38,
         "atypeId": 0,
-        "description": "【レアリティ：\\c[14]★☆☆☆\\c[0]】\nその辺に落ちている木の枝。\\n食材…？\\n\\n----------------------------------\\n◆料理素材",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 A branch that has fallen nearby. \\nFood\ningredient...?\\n\\n----------------------------------\\n◆Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -1012,7 +1012,7 @@
             }
         ],
         "iconIndex": 279,
-        "name": "木の枝",
+        "name": "Branch of Wood",
         "note": "山菜マン",
         "params": [
             0,
