@@ -1825,7 +1825,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]The　remaining　\\v[140]　days　until　\\v[138]\\v[139]　\\v[273] 15"
+                                "D_TEXT \\v[136]M\\v[137]D　\\v[140]　　Days　Remaining\\v[273] 15"
                             ]
                         },
                         {
