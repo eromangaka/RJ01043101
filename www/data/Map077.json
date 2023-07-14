@@ -1768,7 +1768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro-kun!"
+                                "\\n[1]-kun!"
                             ]
                         },
                         {
@@ -1943,7 +1943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: \\<Taro! It's Taro, isn't it! \\>　　　\\<Long time no\nsee!"
+                                "\\>Kota: \\<\\n[1]! It's \\n[1], isn't it! \\>　　　\\<Long time no\nsee!"
                             ]
                         },
                         {
@@ -1999,7 +1999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, I see! Taro-kun's school also had winter break, so"
+                                "Oh, I see! \\n[1]-kun's school also had winter break, so"
                             ]
                         },
                         {
@@ -2096,7 +2096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nice to see you again, Taro-kun."
+                                "Nice to see you again, \\n[1]-kun."
                             ]
                         },
                         {
@@ -2324,7 +2324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is Mentaro-kun not here today?"
+                                "Is Men\\n[1]-kun not here today?"
                             ]
                         },
                         {
@@ -2364,7 +2364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shiori: If it's Mentaro-kun, he's currently on a training\njourney and won't be here during his break."
+                                "Shiori: If it's Men\\n[1]-kun, he's currently on a training\njourney and won't be here during his break."
                             ]
                         },
                         {
@@ -2515,7 +2515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mentaro-kun became a professional Mentai car!"
+                                "Men\\n[1]-kun became a professional Mentai car!"
                             ]
                         },
                         {
@@ -2774,7 +2774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As someone who stands shoulder to shoulder with Mentaro-kun,\nI should learn from his stoicism, I guess. ..."
+                                "As someone who stands shoulder to shoulder with Men\\n[1]-kun,\nI should learn from his stoicism, I guess. ..."
                             ]
                         },
                         {
@@ -2892,7 +2892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: \\<If even Akari-chan becomes like Mentaro-kun,\nhaving two serious people together on the show will make it\nless interesting, right?"
+                                "\\>Kota: \\<If even Akari-chan becomes like Men\\n[1]-kun,\nhaving two serious people together on the show will make it\nless interesting, right?"
                             ]
                         },
                         {
@@ -3411,7 +3411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is Taro still doing \\c[14]mentai\\c[0]?"
+                                "Is \\n[1] still doing \\c[14]mentai\\c[0]?"
                             ]
                         },
                         {
@@ -3646,7 +3646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: Taro-kun's hometown is in the city, right? \\>\n\\<I'm so behind~"
+                                "\\>Shiori: \\n[1]-kun's hometown is in the city, right? \\>\n\\<I'm so behind~"
                             ]
                         },
                         {
@@ -3784,7 +3784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Okay, here you go \\kw[1]\\.. I'll give it to Taro-kun!"
+                                "Okay, here you go \\kw[1]\\.. I'll give it to \\n[1]-kun!"
                             ]
                         },
                         {
@@ -4156,7 +4156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I have some extra, so I'll give it to Taro-kun."
+                                "I have some extra, so I'll give it to \\n[1]-kun."
                             ]
                         },
                         {
@@ -4398,7 +4398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I want to have another match with Taro-kun."
+                                "I want to have another match with \\n[1]-kun."
                             ]
                         },
                         {
@@ -4460,7 +4460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: Alright, sounds good! \\> I also want to have some\nfun with Taro after a long time!"
+                                "\\>Kota: Alright, sounds good! \\> I also want to have some\nfun with \\n[1] after a long time!"
                             ]
                         },
                         {
@@ -5249,7 +5249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">Mentai will be strengthened \\c[14]based on Taro's\nlevel\\c[0], so accumulating a lot of experience points and\nleveling up is the shortcut to victory.."
+                                ">Mentai will be strengthened \\c[14]based on \\n[1]'s\nlevel\\c[0], so accumulating a lot of experience points and\nleveling up is the shortcut to victory.."
                             ]
                         },
                         {

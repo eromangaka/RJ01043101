@@ -1448,7 +1448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. New Year's with Taro-kun feels somewhat fresh,\ndoesn't it?\\kw[1]"
+                                "Hehe\\kw[1]\\. New Year's with \\n[1]-kun feels somewhat fresh,\ndoesn't it?\\kw[1]"
                             ]
                         },
                         {
@@ -1739,7 +1739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's right, before I forget, I have to give Taro-kun his\nNew Year's gift. \\."
+                                "That's right, before I forget, I have to give \\n[1]-kun his\nNew Year's gift. \\."
                             ]
                         },
                         {
@@ -2067,7 +2067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. That's great, isn't it, Taro-kun\\kw[1]"
+                                "Hehe\\kw[1]\\. That's great, isn't it, \\n[1]-kun\\kw[1]"
                             ]
                         },
                         {
@@ -3164,7 +3164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, Taro~?"
+                                "Hey, \\n[1]~?"
                             ]
                         },
                         {

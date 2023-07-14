@@ -4352,7 +4352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro ......\\kw[1]"
+                                "\\n[1] ......\\kw[1]"
                             ]
                         },
                         {
@@ -4660,7 +4660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I don't have ten times the stamina that Taro thinks I do,\nyou know!"
+                                "I don't have ten times the stamina that \\n[1] thinks I do,\nyou know!"
                             ]
                         },
                         {

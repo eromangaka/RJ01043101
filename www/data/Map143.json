@@ -1413,7 +1413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\> Taro-kun ... 's \\kw[1] nn ... 's"
+                                "\\> \\n[1]-kun ... 's \\kw[1] nn ... 's"
                             ]
                         },
                         {
@@ -1452,7 +1452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Kanae-san, you need to control your voice ......."
+                                "\\>\\n[1]: \\<Kanae-san, you need to control your voice ......."
                             ]
                         },
                         {
@@ -1469,7 +1469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<It's okay, ...\\Taro-kun \\>　　　\\<since he won't\nwake up anyway. ......"
+                                "\\>Kanae: \\<It's okay, ...\\\\n[1]-kun \\>　　　\\<since he won't\nwake up anyway. ......"
                             ]
                         },
                         {
@@ -1568,7 +1568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Akari..."
+                                "\\n[1]: Akari..."
                             ]
                         },
                         {
@@ -1641,7 +1641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Kanae-san..."
+                                "\\>\\n[1]: \\<Kanae-san..."
                             ]
                         },
                         {
@@ -1687,7 +1687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<I'm sorry, Taro-kun...\\. \\>　　　\\<for making you be\nwith someone like me......."
+                                "\\>Kanae: \\<I'm sorry, \\n[1]-kun...\\. \\>　　　\\<for making you be\nwith someone like me......."
                             ]
                         },
                         {
@@ -1704,7 +1704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<If Taro-kun becomes inconvenient ..."
+                                "\\>Kanae: \\<If \\n[1]-kun becomes inconvenient ..."
                             ]
                         },
                         {
@@ -1786,7 +1786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Kanae-san!"
+                                "\\n[1]: Kanae-san!"
                             ]
                         },
                         {
@@ -1825,7 +1825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: I won't do such a thing!"
+                                "\\n[1]: I won't do such a thing!"
                             ]
                         },
                         {
@@ -1842,7 +1842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<I came here today because I wanted to see Kanae-\nsan! ...!"
+                                "\\>\\n[1]: \\<I came here today because I wanted to see Kanae-\nsan! ...!"
                             ]
                         },
                         {
@@ -1881,7 +1881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<I won't abandon Kanae-san or anything like\nthat...."
+                                "\\>\\n[1]: \\<I won't abandon Kanae-san or anything like\nthat...."
                             ]
                         },
                         {
@@ -1898,7 +1898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<If it's with Kanae-san, then I ......"
+                                "\\>\\n[1]: \\<If it's with Kanae-san, then I ......"
                             ]
                         },
                         {
@@ -1954,7 +1954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<Taro-kun......\\hehe..."
+                                "\\>Kanae: \\<\\n[1]-kun......\\hehe..."
                             ]
                         },
                         {
@@ -2029,7 +2029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<Taro-kun...\\hehe..."
+                                "\\>Kanae: \\<\\n[1]-kun...\\hehe..."
                             ]
                         },
                         {
@@ -2123,7 +2123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Of course!..."
+                                "\\>\\n[1]: \\<Of course!..."
                             ]
                         },
                         {
@@ -2140,7 +2140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Since the moment I decided to date Kanae-san, ..."
+                                "\\>\\n[1]: \\<Since the moment I decided to date Kanae-san, ..."
                             ]
                         },
                         {
@@ -2157,7 +2157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<I am already ......prepared for it, so ......"
+                                "\\>\\n[1]: \\<I am already ......prepared for it, so ......"
                             ]
                         },
                         {
@@ -2196,7 +2196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<Taro-kun...\\hehe..."
+                                "\\>Kanae: \\<\\n[1]-kun...\\hehe..."
                             ]
                         },
                         {
@@ -2346,7 +2346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Kanae-san!"
+                                "\\n[1]: Kanae-san!"
                             ]
                         },
                         {

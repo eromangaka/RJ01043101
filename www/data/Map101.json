@@ -5949,7 +5949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[14]I've run out of energy! \\C[0]\\. Taro collapsed on the\nspot. ......."
+                                "\\C[14]I've run out of energy! \\C[0]\\. \\n[1] collapsed on the\nspot. ......."
                             ]
                         },
                         {

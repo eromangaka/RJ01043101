@@ -3556,7 +3556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What are you muttering about? Taro?"
+                                "What are you muttering about? \\n[1]?"
                             ]
                         },
                         {

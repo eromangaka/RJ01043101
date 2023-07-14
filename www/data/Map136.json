@@ -1429,7 +1429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Ehehe"
+                                "\\n[1]: Ehehe"
                             ]
                         },
                         {
@@ -1446,7 +1446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Rio, being a model, I can take really beautiful\npictures of you!"
+                                "\\>\\n[1]: \\<Rio, being a model, I can take really beautiful\npictures of you!"
                             ]
                         },
                         {
@@ -1463,7 +1463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: And \\<"
+                                "\\n[1]: And \\<"
                             ]
                         },
                         {
@@ -1480,7 +1480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Because it was a dream to wear nothing but an\napron ...."
+                                "\\>\\n[1]: \\<Because it was a dream to wear nothing but an\napron ...."
                             ]
                         },
                         {
@@ -1569,7 +1569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Ah, I'll take that expression!"
+                                "\\>\\n[1]: \\<Ah, I'll take that expression!"
                             ]
                         },
                         {
@@ -1632,7 +1632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Ehehe..."
+                                "\\>\\n[1]: \\<Ehehe..."
                             ]
                         },
                         {
@@ -1649,7 +1649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<I've taken a lot of pictures of girls for work,\nbut ......"
+                                "\\>\\n[1]: \\<I've taken a lot of pictures of girls for work,\nbut ......"
                             ]
                         },
                         {
@@ -1666,7 +1666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Rio without any makeup is the most charming, you\nknow? ..."
+                                "\\>\\n[1]: \\<Rio without any makeup is the most charming, you\nknow? ..."
                             ]
                         },
                         {
@@ -1751,7 +1751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: I-I haven't done anything!"
+                                "\\n[1]: I-I haven't done anything!"
                             ]
                         },
                         {
@@ -1807,7 +1807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: I-It's true!"
+                                "\\n[1]: I-It's true!"
                             ]
                         },
                         {
@@ -1846,7 +1846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<The one I love the most in this world is ...."
+                                "\\>\\n[1]: \\<The one I love the most in this world is ...."
                             ]
                         },
                         {
@@ -1889,7 +1889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<R-Rio, it's only you, you know? ..."
+                                "\\>\\n[1]: \\<R-Rio, it's only you, you know? ..."
                             ]
                         },
                         {
@@ -1978,7 +1978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Proof?"
+                                "\\>\\n[1]: \\<Proof?"
                             ]
                         },
                         {
@@ -2080,7 +2080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Ah, ......"
+                                "\\>\\n[1]: \\<Ah, ......"
                             ]
                         },
                         {
@@ -2097,7 +2097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Hey Rio, ......"
+                                "\\>\\n[1]: \\<Hey Rio, ......"
                             ]
                         },
                         {
@@ -2150,7 +2150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Rio: \\<Come here, Taro. ...\\kw[1]"
+                                "\\>Rio: \\<Come here, \\n[1]. ...\\kw[1]"
                             ]
                         },
                         {

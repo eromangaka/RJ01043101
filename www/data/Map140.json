@@ -1439,7 +1439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<M-Mizuki-san... ..."
+                                "\\>\\n[1]: \\<M-Mizuki-san... ..."
                             ]
                         },
                         {
@@ -1456,7 +1456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Don't start drinking as soon as you enter the inn,\n...."
+                                "\\>\\n[1]: \\<Don't start drinking as soon as you enter the inn,\n...."
                             ]
                         },
                         {
@@ -1512,7 +1512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: No, there isn't."
+                                "\\n[1]: No, there isn't."
                             ]
                         },
                         {
@@ -1575,7 +1575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Mizuki: \\<Hey, Taro, \\>　　　\\<hurry up and take off your\nclothes, okay~?......"
+                                "\\>Mizuki: \\<Hey, \\n[1], \\>　　　\\<hurry up and take off your\nclothes, okay~?......"
                             ]
                         },
                         {
@@ -1614,7 +1614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Huh?"
+                                "\\n[1]: Huh?"
                             ]
                         },
                         {
@@ -1653,7 +1653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: H-Hey, this is a cheap inn, so..."
+                                "\\n[1]: H-Hey, this is a cheap inn, so..."
                             ]
                         },
                         {
@@ -1670,7 +1670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: The walls are thin, so I can hear ...."
+                                "\\n[1]: The walls are thin, so I can hear ...."
                             ]
                         },
                         {
@@ -1726,7 +1726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Mizuki-san, you're quite drunk, huh? This ......"
+                                "\\>\\n[1]: \\<Mizuki-san, you're quite drunk, huh? This ......"
                             ]
                         },
                         {
@@ -1811,7 +1811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: I-It's not like that, but..."
+                                "\\n[1]: I-It's not like that, but..."
                             ]
                         },
                         {
@@ -1906,7 +1906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Y-Yeah, I understand but..."
+                                "\\n[1]: Y-Yeah, I understand but..."
                             ]
                         },
                         {
@@ -2013,7 +2013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Mizuki-san......"
+                                "\\>\\n[1]: \\<Mizuki-san......"
                             ]
                         },
                         {
@@ -2119,7 +2119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Mizuki: \\<Thank youuu~ ...... \\>　　　\\<Taro~..."
+                                "\\>Mizuki: \\<Thank youuu~ ...... \\>　　　\\<\\n[1]~..."
                             ]
                         },
                         {
@@ -2136,7 +2136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: \\<!"
+                                "\\n[1]: \\<!"
                             ]
                         },
                         {
@@ -2260,7 +2260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Mizuki-san..."
+                                "\\n[1]: Mizuki-san..."
                             ]
                         },
                         {
@@ -2284,7 +2284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: \\<, um, can we stop with the intimate stuff and go to\nsleep ...?"
+                                "\\n[1]: \\<, um, can we stop with the intimate stuff and go to\nsleep ...?"
                             ]
                         },
                         {
@@ -2301,7 +2301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Tomorrow too, you'll be busy running around,\nright?"
+                                "\\>\\n[1]: \\<Tomorrow too, you'll be busy running around,\nright?"
                             ]
                         },
                         {
@@ -2517,7 +2517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Mizuki-san..."
+                                "\\n[1]: Mizuki-san..."
                             ]
                         },
                         {
@@ -2635,7 +2635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Mizuki: \\<Ah, come on Taro! \\>Hurry up and take it off!"
+                                "\\>Mizuki: \\<Ah, come on \\n[1]! \\>Hurry up and take it off!"
                             ]
                         },
                         {
@@ -2652,7 +2652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Ahahaha"
+                                "\\n[1]: Ahahaha"
                             ]
                         },
                         {
@@ -2669,7 +2669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Mizuki-san..."
+                                "\\n[1]: Mizuki-san..."
                             ]
                         },
                         {
@@ -2708,7 +2708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Mizuki: \\<...Hey, Taro?"
+                                "\\>Mizuki: \\<...Hey, \\n[1]?"
                             ]
                         },
                         {
@@ -2725,7 +2725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Ehehe"
+                                "\\n[1]: Ehehe"
                             ]
                         },
                         {
@@ -2768,7 +2768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<From now on, please take care of me!"
+                                "\\>\\n[1]: \\<From now on, please take care of me!"
                             ]
                         },
                         {

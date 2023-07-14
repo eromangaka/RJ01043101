@@ -1417,7 +1417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Akari: \\<Taro-kun...\\ is a [kw[1]]."
+                                "\\>Akari: \\<\\n[1]-kun...\\ is a [kw[1]]."
                             ]
                         },
                         {
@@ -1451,7 +1451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Both of you ..."
+                                "\\>\\n[1]: \\<Both of you ..."
                             ]
                         },
                         {
@@ -1468,7 +1468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<You're really beautiful, ...."
+                                "\\>\\n[1]: \\<You're really beautiful, ...."
                             ]
                         },
                         {
@@ -1536,7 +1536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Akari: \\<Taro-kun, you really have a different sense of\nperception, don't you?..."
+                                "\\>Akari: \\<\\n[1]-kun, you really have a different sense of\nperception, don't you?..."
                             ]
                         },
                         {
@@ -1575,7 +1575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<I-Is that so? ......"
+                                "\\>\\n[1]: \\<I-Is that so? ......"
                             ]
                         },
                         {
@@ -1800,7 +1800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Akari-chan..."
+                                "\\n[1]: Akari-chan..."
                             ]
                         },
                         {
@@ -1952,7 +1952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Ahahaha......"
+                                "\\>\\n[1]: \\<Ahahaha......"
                             ]
                         },
                         {
@@ -1998,7 +1998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Hikari: \\<......Taro-kun\\kw[1]"
+                                "\\>Hikari: \\<......\\n[1]-kun\\kw[1]"
                             ]
                         },
                         {
@@ -2112,7 +2112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Akari-chan, ..."
+                                "\\>\\n[1]: \\<Akari-chan, ..."
                             ]
                         },
                         {
@@ -2180,7 +2180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Hikari: \\<Taro-kun, you can do whatever you want,\n...\\kw[1]"
+                                "\\>Hikari: \\<\\n[1]-kun, you can do whatever you want,\n...\\kw[1]"
                             ]
                         },
                         {

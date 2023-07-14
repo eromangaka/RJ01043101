@@ -6291,7 +6291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh......?\\. Taro......?"
+                                "Huh......?\\. \\n[1]......?"
                             ]
                         },
                         {
@@ -6807,7 +6807,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh, Taro-kun again...\\kw[1]"
+                                "Oh, \\n[1]-kun again...\\kw[1]"
                             ]
                         },
                         {
@@ -7020,7 +7020,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Is it okay...?\\kw[1]\\. Taro-kun......\\kw[1]"
+                                "Is it okay...?\\kw[1]\\. \\n[1]-kun......\\kw[1]"
                             ]
                         },
                         {
@@ -8086,7 +8086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Goodnight, Taro-kun\\kw[1]"
+                                "Goodnight, \\n[1]-kun\\kw[1]"
                             ]
                         },
                         {
@@ -8600,7 +8600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Goodnight, Taro-kun\\kw[1]"
+                                "Goodnight, \\n[1]-kun\\kw[1]"
                             ]
                         },
                         {

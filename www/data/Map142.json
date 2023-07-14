@@ -1413,7 +1413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shizuku: \\<Ah, \\kw[1]Ah, Taro-kun...!\\kw[2]"
+                                "\\>Shizuku: \\<Ah, \\kw[1]Ah, \\n[1]-kun...!\\kw[2]"
                             ]
                         },
                         {
@@ -1430,7 +1430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shizuku: \\<Ah, \\kw[1]I'm coming, \\kw[1]I'm coming ...Taro-\nkun...!\\kw[2]"
+                                "\\>Shizuku: \\<Ah, \\kw[1]I'm coming, \\kw[1]I'm coming ...\\n[1]-\nkun...!\\kw[2]"
                             ]
                         },
                         {
@@ -1469,7 +1469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Shizuku, big sister...!"
+                                "\\>\\n[1]: \\<Shizuku, big sister...!"
                             ]
                         },
                         {
@@ -1486,7 +1486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Even though I just lightly bumped into you ..."
+                                "\\>\\n[1]: \\<Even though I just lightly bumped into you ..."
                             ]
                         },
                         {
@@ -1503,7 +1503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<I'm getting excited being naked outside......."
+                                "\\>\\n[1]: \\<I'm getting excited being naked outside......."
                             ]
                         },
                         {
@@ -1632,7 +1632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Shizuku, big sister...!..."
+                                "\\>\\n[1]: \\<Shizuku, big sister...!..."
                             ]
                         },
                         {
@@ -1704,7 +1704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Shizuku!"
+                                "\\n[1]: Shizuku!"
                             ]
                         },
                         {
@@ -1721,7 +1721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: No, it's mutual, you know."
+                                "\\n[1]: No, it's mutual, you know."
                             ]
                         },
                         {
@@ -1738,7 +1738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: I'm also more excited than usual, so..."
+                                "\\n[1]: I'm also more excited than usual, so..."
                             ]
                         },
                         {
@@ -1832,7 +1832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Ahaha! Yeah, that might be true!"
+                                "\\n[1]: Ahaha! Yeah, that might be true!"
                             ]
                         },
                         {
@@ -1968,7 +1968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Taro: \\<Shizuku, big sister..."
+                                "\\>\\n[1]: \\<Shizuku, big sister..."
                             ]
                         },
                         {

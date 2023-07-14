@@ -1677,7 +1677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Father: \\<How was it, Taro? Did you have a fun winter\nbreak?"
+                                "\\>Father: \\<How was it, \\n[1]? Did you have a fun winter\nbreak?"
                             ]
                         },
                         {
@@ -2827,7 +2827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother: Oh, that's right! Taro!"
+                                "Mother: Oh, that's right! \\n[1]!"
                             ]
                         },
                         {
@@ -3993,7 +3993,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>Father: Oh, Taro, is it finally that? \\>\n\\<\\c[14]Adolescence\\c[0]?"
+                                "\\>Father: Oh, \\n[1], is it finally that? \\>\n\\<\\c[14]Adolescence\\c[0]?"
                             ]
                         },
                         {
@@ -4027,7 +4027,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>Mother: \\<Is it possible that Taro......"
+                                "\\>Mother: \\<Is it possible that \\n[1]......"
                             ]
                         },
                         {
@@ -4277,7 +4277,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\>Father: \\<Hahaha! To target a married woman, \\> \\< you've\nreally grown up, Taro!"
+                                "\\>Father: \\<Hahaha! To target a married woman, \\> \\< you've\nreally grown up, \\n[1]!"
                             ]
                         },
                         {
@@ -5028,7 +5028,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>Mother: \\<Oh, Taro too?"
+                                "\\>Mother: \\<Oh, \\n[1] too?"
                             ]
                         },
                         {
@@ -5530,7 +5530,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "However, what remains vividly in Taro's memories is that the\ndays spent in the Ichinose family were all irreplaceable."
+                                "However, what remains vividly in \\n[1]'s memories is that the\ndays spent in the Ichinose family were all irreplaceable."
                             ]
                         },
                         {
@@ -5564,7 +5564,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The promise that leads to the future that he exchanged with\nthem \\c[14] gradually swelled up in Taro's heart as a great\nexpectation."
+                                "The promise that leads to the future that he exchanged with\nthem \\c[14] gradually swelled up in \\n[1]'s heart as a great\nexpectation."
                             ]
                         },
                         {
@@ -5613,7 +5613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Everyone ......"
+                                "\\n[1]: Everyone ......"
                             ]
                         },
                         {
@@ -5688,7 +5688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro closes his eyes while looking back on the irreplaceable\ndays with them---"
+                                "\\n[1] closes his eyes while looking back on the irreplaceable\ndays with them---"
                             ]
                         },
                         {
@@ -5763,7 +5763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Yui, Rio, \\.Rionee......\\|\\.\\^"
+                                "\\n[1]: Yui, Rio, \\.Rionee......\\|\\.\\^"
                             ]
                         },
                         {
@@ -5780,7 +5780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: Miyuki-san, everyone"
+                                "\\n[1]: Miyuki-san, everyone"
                             ]
                         },
                         {
@@ -5874,7 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro: \\c[14] I will come to play again, okay? \\|\\|\\^"
+                                "\\n[1]: \\c[14] I will come to play again, okay? \\|\\|\\^"
                             ]
                         },
                         {

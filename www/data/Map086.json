@@ -1497,7 +1497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You've become quite handsome, Taro-kun."
+                                "You've become quite handsome, \\n[1]-kun."
                             ]
                         },
                         {
@@ -1600,7 +1600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: So, Taro-kun has also been training, huh? \\kw[1]"
+                                "\\>Shiori: So, \\n[1]-kun has also been training, huh? \\kw[1]"
                             ]
                         },
                         {
@@ -1639,7 +1639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: \\<Let's try mentaiko right away, Taro!"
+                                "\\>Kota: \\<Let's try mentaiko right away, \\n[1]!"
                             ]
                         },
                         {
@@ -1968,7 +1968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll show you the skills of the leveled-up Taro-kun!"
+                                "I'll show you the skills of the leveled-up \\n[1]-kun!"
                             ]
                         },
                         {

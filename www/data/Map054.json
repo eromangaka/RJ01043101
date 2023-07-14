@@ -1653,7 +1653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's right, Taro, have you shown your face at the shrine\nstalls?"
+                                "That's right, \\n[1], have you shown your face at the shrine\nstalls?"
                             ]
                         },
                         {

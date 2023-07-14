@@ -1503,7 +1503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Amazing! \\. Taro, haven't your grades improved from before?"
+                                "Amazing! \\. \\n[1], haven't your grades improved from before?"
                             ]
                         },
                         {
@@ -1619,7 +1619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is that so\\kw[1]\\. Taro, you're amazing!"
+                                "Is that so\\kw[1]\\. \\n[1], you're amazing!"
                             ]
                         },
                         {
@@ -2382,7 +2382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, Taro-kun......\\kw[1]"
+                                "Oh, \\n[1]-kun......\\kw[1]"
                             ]
                         },
                         {
@@ -2487,7 +2487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro-kun, would you be happy if I were your homeroom\nteacher?"
+                                "\\n[1]-kun, would you be happy if I were your homeroom\nteacher?"
                             ]
                         },
                         {
@@ -2990,7 +2990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro-kun, you still have some homework left, don't you?"
+                                "\\n[1]-kun, you still have some homework left, don't you?"
                             ]
                         },
                         {
@@ -3039,7 +3039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Only when it's time to do homework, I become Taro-kun's\nexclusive teacher and Taro-kun becomes the student\\kw[1]"
+                                "Only when it's time to do homework, I become \\n[1]-kun's\nexclusive teacher and \\n[1]-kun becomes the student\\kw[1]"
                             ]
                         },
                         {
@@ -3088,7 +3088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll even give proper instructions, and teach Taro-kun the\nscope of the homework just like in a class......"
+                                "I'll even give proper instructions, and teach \\n[1]-kun the\nscope of the homework just like in a class......"
                             ]
                         },
                         {
@@ -3149,7 +3149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then, wouldn't Taro be able to feel like he's my student?\n\\kw[1]"
+                                "Then, wouldn't \\n[1] be able to feel like he's my student?\n\\kw[1]"
                             ]
                         },
                         {
@@ -3448,7 +3448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then, Taro-kun? \\. When you're doing homework with me, you\nshould properly call me 'teacher', okay?"
+                                "Then, \\n[1]-kun? \\. When you're doing homework with me, you\nshould properly call me 'teacher', okay?"
                             ]
                         },
                         {
@@ -3557,7 +3557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Looking forward to working with you! \\. Taro-kun \\kw[1]"
+                                "Looking forward to working with you! \\. \\n[1]-kun \\kw[1]"
                             ]
                         },
                         {

@@ -1406,7 +1406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, Taro?"
+                                "Ah, \\n[1]?"
                             ]
                         },
                         {
@@ -1567,7 +1567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......What about Taro? \\. Don't you have any homework over\nwinter break?"
+                                "......What about \\n[1]? \\. Don't you have any homework over\nwinter break?"
                             ]
                         },
                         {
@@ -2189,7 +2189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, if Taro, who lives in the city, \\. it might make for a\ngood topic."
+                                "Well, if \\n[1], who lives in the city, \\. it might make for a\ngood topic."
                             ]
                         },
                         {
@@ -2694,7 +2694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Does Taro know about Shizuku?"
+                                "Does \\n[1] know about Shizuku?"
                             ]
                         },
                         {

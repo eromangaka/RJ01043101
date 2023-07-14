@@ -1456,7 +1456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. Thank you, Taro-kun."
+                                "Hehe\\kw[1]\\. Thank you, \\n[1]-kun."
                             ]
                         },
                         {
@@ -1554,7 +1554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I thought it would be nice if it could be an early Christmas\npresent for Taro-kun \\c[14]\\c[0]..."
+                                "I thought it would be nice if it could be an early Christmas\npresent for \\n[1]-kun \\c[14]\\c[0]..."
                             ]
                         },
                         {
@@ -1741,7 +1741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But Taro-kun, is your real favorite still a present from\nSanta Claus?"
+                                "But \\n[1]-kun, is your real favorite still a present from\nSanta Claus?"
                             ]
                         },
                         {
@@ -1985,7 +1985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Because Taro-kun is a good boy, Santa will surely come to\ndeliver!"
+                                "Because \\n[1]-kun is a good boy, Santa will surely come to\ndeliver!"
                             ]
                         },
                         {
@@ -2390,7 +2390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Maybe Santa knows that Taro-kun is coming over to play at\nour house?"
+                                "Maybe Santa knows that \\n[1]-kun is coming over to play at\nour house?"
                             ]
                         },
                         {
@@ -2610,7 +2610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder if Taro-kun wants something from Santa?"
+                                "I wonder if \\n[1]-kun wants something from Santa?"
                             ]
                         },
                         {
@@ -3180,7 +3180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm looking forward to tomorrow morning, aren't you, Taro-\nkun\\kw[1]?"
+                                "I'm looking forward to tomorrow morning, aren't you, \\n[1]-\nkun\\kw[1]?"
                             ]
                         },
                         {

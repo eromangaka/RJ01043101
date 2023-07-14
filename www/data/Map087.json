@@ -1424,7 +1424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\> Taro is really strong, huh~!"
+                                "\\> \\n[1] is really strong, huh~!"
                             ]
                         },
                         {
@@ -1441,7 +1441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: Taro is really amazing, huh? He's growing so\nquickly, isn't he?"
+                                "\\>Shiori: \\n[1] is really amazing, huh? He's growing so\nquickly, isn't he?"
                             ]
                         },
                         {
@@ -1602,7 +1602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes! I still think Taro-kun has a talent for mentai!"
+                                "Yes! I still think \\n[1]-kun has a talent for mentai!"
                             ]
                         },
                         {
@@ -1861,7 +1861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If Taro-kun decides to pursue this path, I would be happy\ntoo."
+                                "If \\n[1]-kun decides to pursue this path, I would be happy\ntoo."
                             ]
                         },
                         {
@@ -2656,7 +2656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: \\<When I see the growth of Taro and Akari-chan,\nsometimes I wonder about myself, you know..."
+                                "\\>Kota: \\<When I see the growth of \\n[1] and Akari-chan,\nsometimes I wonder about myself, you know..."
                             ]
                         },
                         {
@@ -3463,7 +3463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: \\<Taro, \\>please accompany me for a few more\nbattles!"
+                                "\\>Kota: \\<\\n[1], \\>please accompany me for a few more\nbattles!"
                             ]
                         },
                         {

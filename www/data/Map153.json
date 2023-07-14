@@ -1941,7 +1941,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "How many times are you planning to do it, Taro? ...\\kw[1]"
+                                "How many times are you planning to do it, \\n[1]? ...\\kw[1]"
                             ]
                         },
                         {
@@ -2955,7 +2955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hmm, Taro..."
+                                "Hmm, \\n[1]..."
                             ]
                         },
                         {
@@ -4174,7 +4174,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Good morning, Taro?"
+                                "Good morning, \\n[1]?"
                             ]
                         },
                         {
@@ -5257,7 +5257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Miyuki: Rio? Taro-kun?"
+                                "Miyuki: Rio? \\n[1]-kun?"
                             ]
                         },
                         {

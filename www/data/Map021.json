@@ -1663,7 +1663,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Is 'Taro' okay? \\C[14]※The heroines will call you 'Taro',\n\\C[14] or 'Taro-kun', etc.."
+                                "Is '\\n[1]' okay? \\C[14]※The heroines will call you '\\n[1]',\n\\C[14] or '\\n[1]-kun', etc.."
                             ]
                         },
                         {
@@ -3173,7 +3173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father With \\c[14]Masakazu\\c[0] being busy with work and\nall, having Taro around helps in various ways.."
+                                "Father With \\c[14]Masakazu\\c[0] being busy with work and\nall, having \\n[1] around helps in various ways.."
                             ]
                         },
                         {
@@ -3309,7 +3309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father Isn't Yui and Rio also happy that Taro is coming?"
+                                "Father Isn't Yui and Rio also happy that \\n[1] is coming?"
                             ]
                         },
                         {
@@ -3406,7 +3406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother But, \\. okay, Taro? \\. You will do your homework and\nhelp out, right?"
+                                "Mother But, \\. okay, \\n[1]? \\. You will do your homework and\nhelp out, right?"
                             ]
                         },
                         {
@@ -3593,7 +3593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father 'Taro, try looking outside."
+                                "Father '\\n[1], try looking outside."
                             ]
                         },
                         {

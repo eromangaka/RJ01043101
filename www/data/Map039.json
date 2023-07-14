@@ -1787,7 +1787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe \\kw[1] Good morning, Taro-kun."
+                                "Hehe \\kw[1] Good morning, \\n[1]-kun."
                             ]
                         },
                         {
@@ -1917,7 +1917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Good morning, Taro-kun."
+                                "Good morning, \\n[1]-kun."
                             ]
                         },
                         {
@@ -1934,7 +1934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like something has arrived for you, Taro-kun?"
+                                "It seems like something has arrived for you, \\n[1]-kun?"
                             ]
                         },
                         {
@@ -2363,7 +2363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro-kun, you've been a good boy, haven't you?\\kw[1]"
+                                "\\n[1]-kun, you've been a good boy, haven't you?\\kw[1]"
                             ]
                         },
                         {
@@ -2728,7 +2728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro-kun, I thought it wouldn't come because the address was\nwrong \\.."
+                                "\\n[1]-kun, I thought it wouldn't come because the address was\nwrong \\.."
                             ]
                         },
                         {
@@ -4190,7 +4190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. That's great, isn't it Taro-kun\\kw[1]"
+                                "Hehe\\kw[1]\\. That's great, isn't it \\n[1]-kun\\kw[1]"
                             ]
                         },
                         {

@@ -1380,7 +1380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. Today is New Year's Eve, isn't it, Taro-\nkun\\kw[1]"
+                                "Hehe\\kw[1]\\. Today is New Year's Eve, isn't it, \\n[1]-\nkun\\kw[1]"
                             ]
                         },
                         {
@@ -1507,7 +1507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro, you really love festivals, don't you\\kw[1]"
+                                "\\n[1], you really love festivals, don't you\\kw[1]"
                             ]
                         },
                         {
@@ -1556,7 +1556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Don't they hold festivals near Taro-kun's house?"
+                                "Don't they hold festivals near \\n[1]-kun's house?"
                             ]
                         },
                         {
@@ -2113,7 +2113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well then Taro-kun, it's a bit early but ......"
+                                "Well then \\n[1]-kun, it's a bit early but ......"
                             ]
                         },
                         {

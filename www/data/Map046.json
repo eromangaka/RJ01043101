@@ -2372,7 +2372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro, what are your thoughts on this year?"
+                                "\\n[1], what are your thoughts on this year?"
                             ]
                         },
                         {
@@ -2612,7 +2612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Heheh\\kw[1] Taro, you...\\kw[1]"
+                                "Heheh\\kw[1] \\n[1], you...\\kw[1]"
                             ]
                         },
                         {
@@ -2691,7 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I also had fun spending time with Taro-kun\\kw[1]"
+                                "I also had fun spending time with \\n[1]-kun\\kw[1]"
                             ]
                         },
                         {
@@ -2758,7 +2758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please take care of me next year as well, Taro-kun\\kw[1]"
+                                "Please take care of me next year as well, \\n[1]-kun\\kw[1]"
                             ]
                         },
                         {
@@ -3554,7 +3554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please take care of me this year as well, Taro-kun\\kw[1]"
+                                "Please take care of me this year as well, \\n[1]-kun\\kw[1]"
                             ]
                         },
                         {
@@ -4468,7 +4468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now, Taro-kun, shall we clean up and go to sleep?"
+                                "Now, \\n[1]-kun, shall we clean up and go to sleep?"
                             ]
                         },
                         {
@@ -4826,7 +4826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well then, let's sleep together today, Taro-kun\\kw[1]"
+                                "Well then, let's sleep together today, \\n[1]-kun\\kw[1]"
                             ]
                         },
                         {
@@ -4936,7 +4936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well then Taro, see you tomorrow\\kw[1]"
+                                "Well then \\n[1], see you tomorrow\\kw[1]"
                             ]
                         },
                         {
@@ -5015,7 +5015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1] Goodnight, Taro\\kw[1]"
+                                "Hehe\\kw[1] Goodnight, \\n[1]\\kw[1]"
                             ]
                         },
                         {

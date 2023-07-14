@@ -6312,7 +6312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hm......?\\. Taro......?"
+                                "Hm......?\\. \\n[1]......?"
                             ]
                         },
                         {
@@ -6835,7 +6835,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh, Taro again...\\kw[1]"
+                                "Oh, \\n[1] again...\\kw[1]"
                             ]
                         },
                         {
@@ -8248,7 +8248,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Goodnight, Taro\\kw[1]"
+                                "Goodnight, \\n[1]\\kw[1]"
                             ]
                         },
                         {
@@ -8693,7 +8693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hmm, \\.Goodnight Taro\\kw[1]"
+                                "Hmm, \\.Goodnight \\n[1]\\kw[1]"
                             ]
                         },
                         {

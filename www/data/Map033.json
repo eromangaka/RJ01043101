@@ -1929,7 +1929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm sorry, Taro."
+                                "I'm sorry, \\n[1]."
                             ]
                         },
                         {
@@ -2203,7 +2203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......You know, Taro-kun"
+                                "......You know, \\n[1]-kun"
                             ]
                         },
                         {
@@ -2522,7 +2522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We've all become captives of you, Taro-kun\\kw[1]"
+                                "We've all become captives of you, \\n[1]-kun\\kw[1]"
                             ]
                         },
                         {
@@ -2828,7 +2828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">\\c[14]That summer, Miyuki and the others ended up\nconnecting with Taro."
+                                ">\\c[14]That summer, Miyuki and the others ended up\nconnecting with \\n[1]."
                             ]
                         },
                         {
@@ -3357,7 +3357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">Miyuki shows a surprised expression at the words spun by\nthe young Taro."
+                                ">Miyuki shows a surprised expression at the words spun by\nthe young \\n[1]."
                             ]
                         },
                         {
@@ -3421,7 +3421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......\\. Taro-kun...\\kw[1]"
+                                "......\\. \\n[1]-kun...\\kw[1]"
                             ]
                         },
                         {
@@ -3445,7 +3445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">Miyuki smiles happily at Taro's sincere words, which were\nspoken with pure eyes and without any falsehood."
+                                ">Miyuki smiles happily at \\n[1]'s sincere words, which were\nspoken with pure eyes and without any falsehood."
                             ]
                         },
                         {
@@ -3569,7 +3569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm very happy with Taro-kun's words\\kw[1]"
+                                "I'm very happy with \\n[1]-kun's words\\kw[1]"
                             ]
                         },
                         {

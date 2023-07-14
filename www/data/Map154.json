@@ -3361,7 +3361,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Taro-kun, it's amazing, you know. ...\\kw[1]"
+                                "\\n[1]-kun, it's amazing, you know. ...\\kw[1]"
                             ]
                         },
                         {
@@ -3569,7 +3569,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Taro-kun, you're so naughty ...\\kw[1]"
+                                "\\n[1]-kun, you're so naughty ...\\kw[1]"
                             ]
                         },
                         {
@@ -4123,7 +4123,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Good morning, Taro-kun."
+                                "Good morning, \\n[1]-kun."
                             ]
                         },
                         {
@@ -4256,7 +4256,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe, Taro-kun."
+                                "Hehe, \\n[1]-kun."
                             ]
                         },
                         {
@@ -4273,7 +4273,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Auntie also sucked Taro-kun's morning ...\\kw[1]"
+                                "Auntie also sucked \\n[1]-kun's morning ...\\kw[1]"
                             ]
                         },
                         {
@@ -5540,7 +5540,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Good morning, Taro-kun..."
+                                "Good morning, \\n[1]-kun..."
                             ]
                         },
                         {
@@ -6960,7 +6960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What about Taro-kun? I wonder if he's sleepy from staying up\nall night?"
+                                "What about \\n[1]-kun? I wonder if he's sleepy from staying up\nall night?"
                             ]
                         },
                         {
@@ -7040,7 +7040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe, thank you Taro-kun."
+                                "Hehe, thank you \\n[1]-kun."
                             ]
                         },
                         {

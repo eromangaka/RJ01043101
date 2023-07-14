@@ -1494,7 +1494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, sorry Taro"
+                                "Ah, sorry \\n[1]"
                             ]
                         },
                         {
@@ -1754,7 +1754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You've become quite reliable, Taro-kun."
+                                "You've become quite reliable, \\n[1]-kun."
                             ]
                         },
                         {
@@ -1771,7 +1771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If Taro-kun is at home, it would put my mind at ease."
+                                "If \\n[1]-kun is at home, it would put my mind at ease."
                             ]
                         },
                         {
@@ -2154,7 +2154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......Taro-kun\\kw[1]"
+                                "......\\n[1]-kun\\kw[1]"
                             ]
                         },
                         {
@@ -2914,7 +2914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Today is the last day I can spend with Taro-kun, you know."
+                                "Today is the last day I can spend with \\n[1]-kun, you know."
                             ]
                         },
                         {
@@ -3193,7 +3193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Yui: \\<Seriously, Mom is way too obsessed with Taro-kun's\n\\>... \\<penis, right? ...\\kw[1]"
+                                "\\>Yui: \\<Seriously, Mom is way too obsessed with \\n[1]-kun's\n\\>... \\<penis, right? ...\\kw[1]"
                             ]
                         },
                         {
@@ -3605,7 +3605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Rio: \\<Taro...?"
+                                "\\>Rio: \\<\\n[1]...?"
                             ]
                         },
                         {
@@ -4363,7 +4363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Miyuki: Taro-kun's penis, ...\\kw[1]. \\> \\<Both of you can't\nwait, huh? ...\\kw[1]"
+                                "Miyuki: \\n[1]-kun's penis, ...\\kw[1]. \\> \\<Both of you can't\nwait, huh? ...\\kw[1]"
                             ]
                         },
                         {

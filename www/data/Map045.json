@@ -1407,7 +1407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, Taro-kun"
+                                "Oh, \\n[1]-kun"
                             ]
                         },
                         {
@@ -1817,7 +1817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro-kun...\\kw[1]"
+                                "\\n[1]-kun...\\kw[1]"
                             ]
                         },
                         {
@@ -2157,7 +2157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro-kun, \\. \\c[14]how about going to buy ingredients for\ndinner\\c[0]?"
+                                "\\n[1]-kun, \\. \\c[14]how about going to buy ingredients for\ndinner\\c[0]?"
                             ]
                         },
                         {
@@ -2298,7 +2298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Because I'll make something that Taro-kun likes......"
+                                "Because I'll make something that \\n[1]-kun likes......"
                             ]
                         },
                         {
@@ -2511,7 +2511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. Taro-kun really likes curry, doesn't he?\\kw[1]"
+                                "Hehe\\kw[1]\\. \\n[1]-kun really likes curry, doesn't he?\\kw[1]"
                             ]
                         },
                         {
@@ -2841,7 +2841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. It really helps that Taro-kun is assisting\nme\\kw[1]"
+                                "Hehe\\kw[1]\\. It really helps that \\n[1]-kun is assisting\nme\\kw[1]"
                             ]
                         },
                         {

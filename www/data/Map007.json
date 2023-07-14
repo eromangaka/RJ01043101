@@ -13114,7 +13114,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Amazing! Taro, you have a good handwriting\\kw[1]"
+                                "Amazing! \\n[1], you have a good handwriting\\kw[1]"
                             ]
                         },
                         {
@@ -13207,7 +13207,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Wow...! You're doing great, Taro!"
+                                "Wow...! You're doing great, \\n[1]!"
                             ]
                         },
                         {
@@ -13659,7 +13659,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Wow! You're doing great, Taro\\kw[1]"
+                                "Wow! You're doing great, \\n[1]\\kw[1]"
                             ]
                         },
                         {
@@ -13752,7 +13752,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Hehe\\kw[1] You're good at this, Taro\\kw[1]"
+                                "Hehe\\kw[1] You're good at this, \\n[1]\\kw[1]"
                             ]
                         },
                         {
@@ -14216,7 +14216,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Oh, Taro...\\kw[1]"
+                                "Oh, \\n[1]...\\kw[1]"
                             ]
                         },
                         {

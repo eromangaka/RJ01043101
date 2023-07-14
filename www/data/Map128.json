@@ -1598,7 +1598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thank you, Taro-kun \\kw[1]"
+                                "Thank you, \\n[1]-kun \\kw[1]"
                             ]
                         },
                         {
@@ -1919,7 +1919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, Taro-kun, you're such a ......\\kw[1]\\.!"
+                                "Oh, \\n[1]-kun, you're such a ......\\kw[1]\\.!"
                             ]
                         },
                         {
@@ -2205,7 +2205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So that's why Taro-kun is willing to be my conversation\npartner."
+                                "So that's why \\n[1]-kun is willing to be my conversation\npartner."
                             ]
                         },
                         {
@@ -2989,7 +2989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, Taro-kun ......"
+                                "Hey, \\n[1]-kun ......"
                             ]
                         },
                         {
@@ -4848,7 +4848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, Taro-kun, is it different? I was sighing because...\nthat."
+                                "So, \\n[1]-kun, is it different? I was sighing because...\nthat."
                             ]
                         },
                         {

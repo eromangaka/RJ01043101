@@ -1853,7 +1853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, yes \\. Taro, let's toast with this \\c[14]Chamerry\\c[0]."
+                                "Yes, yes \\. \\n[1], let's toast with this \\c[14]Chamerry\\c[0]."
                             ]
                         },
                         {

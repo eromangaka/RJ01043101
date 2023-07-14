@@ -1380,7 +1380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ehehe \\kw[1]\\. Look, Taro-kun \\kw[1]"
+                                "Ehehe \\kw[1]\\. Look, \\n[1]-kun \\kw[1]"
                             ]
                         },
                         {
@@ -1533,7 +1533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ta-da! \\. \\c[14]Tarot cards\\c[0]~\\kw[1]"
+                                "Ta-da! \\. \\c[14]\\n[1]t cards\\c[0]~\\kw[1]"
                             ]
                         },
                         {
@@ -1583,7 +1583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]Tarot cards\\c[0]?"
+                                "\\c[14]\\n[1]t cards\\c[0]?"
                             ]
                         },
                         {
@@ -1684,7 +1684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......Wa, \\.Yui really bought tarot cards."
+                                "......Wa, \\.Yui really bought \\n[1]t cards."
                             ]
                         },
                         {
@@ -1788,7 +1788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, how nostalgic. Tarot cards, huh?\\kw[1]"
+                                "Oh, how nostalgic. \\n[1]t cards, huh?\\kw[1]"
                             ]
                         },
                         {
@@ -1848,7 +1848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Tarot card readings were popular when we were students,\nweren't they?...\\kw[1]"
+                                "\\n[1]t card readings were popular when we were students,\nweren't they?...\\kw[1]"
                             ]
                         },
                         {
@@ -2538,7 +2538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Eh!? \\. Taro-kun, you know about it?"
+                                "Eh!? \\. \\n[1]-kun, you know about it?"
                             ]
                         },
                         {
@@ -2692,7 +2692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro-kun, you have a wide circle of acquaintances, don't\nyou...?"
+                                "\\n[1]-kun, you have a wide circle of acquaintances, don't\nyou...?"
                             ]
                         },
                         {
@@ -3177,7 +3177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Actually, \\. I had her predict what Taro-kun would be happy\nto receive as a Christmas present \\kw[1]"
+                                "Actually, \\. I had her predict what \\n[1]-kun would be happy\nto receive as a Christmas present \\kw[1]"
                             ]
                         },
                         {
@@ -3782,7 +3782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......That's right! \\. Yui and I were guessing what Taro\nwould want ...!"
+                                "......That's right! \\. Yui and I were guessing what \\n[1]\nwould want ...!"
                             ]
                         },
                         {

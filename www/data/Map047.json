@@ -1441,7 +1441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, is Taro\\kw[1]\\. taking pictures of breakfast?\\kw[1]"
+                                "Oh, is \\n[1]\\kw[1]\\. taking pictures of breakfast?\\kw[1]"
                             ]
                         },
                         {
@@ -1613,7 +1613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. I'm happy, Taro-kun\\kw[1]"
+                                "Hehe\\kw[1]\\. I'm happy, \\n[1]-kun\\kw[1]"
                             ]
                         },
                         {

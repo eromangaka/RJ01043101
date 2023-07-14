@@ -1671,7 +1671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro's heart leaps as he opens the sliding door and is\nsuddenly confronted with a naked figure in front of him."
+                                "\\n[1]'s heart leaps as he opens the sliding door and is\nsuddenly confronted with a naked figure in front of him."
                             ]
                         },
                         {
@@ -1790,7 +1790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......Oh, Taro-kun\\kw[1]"
+                                "......Oh, \\n[1]-kun\\kw[1]"
                             ]
                         },
                         {
@@ -2091,7 +2091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Did you come to take a bath too, Taro-kun?"
+                                "Did you come to take a bath too, \\n[1]-kun?"
                             ]
                         },
                         {

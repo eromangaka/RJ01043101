@@ -1539,7 +1539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thank you, Taro-kun \\kw[1]"
+                                "Thank you, \\n[1]-kun \\kw[1]"
                             ]
                         },
                         {
@@ -1856,7 +1856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Do you also go camping often, Taro-kun?"
+                                "Do you also go camping often, \\n[1]-kun?"
                             ]
                         },
                         {
@@ -2190,7 +2190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It was really delicious, Taro-kun."
+                                "It was really delicious, \\n[1]-kun."
                             ]
                         },
                         {
@@ -2589,7 +2589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then, Taro-kun, \\. would you teach me how to cook as an\nopportunity?"
+                                "Then, \\n[1]-kun, \\. would you teach me how to cook as an\nopportunity?"
                             ]
                         },
                         {
@@ -3305,7 +3305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey? What's wrong, Taro-kun?"
+                                "Hey? What's wrong, \\n[1]-kun?"
                             ]
                         },
                         {
@@ -3566,7 +3566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll be looking forward to it, Taro-kun."
+                                "I'll be looking forward to it, \\n[1]-kun."
                             ]
                         },
                         {

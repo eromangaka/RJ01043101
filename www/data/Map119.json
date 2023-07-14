@@ -1519,7 +1519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh?! Taro-kun?!"
+                                "Huh?! \\n[1]-kun?!"
                             ]
                         },
                         {
@@ -2001,7 +2001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, Taro-kun, you're such a... ...\\kw[1]!"
+                                "Oh, \\n[1]-kun, you're such a... ...\\kw[1]!"
                             ]
                         },
                         {
@@ -2403,7 +2403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The fact that Taro-kun is here means..."
+                                "The fact that \\n[1]-kun is here means..."
                             ]
                         },
                         {
@@ -3165,7 +3165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then, Taro-kun, bring him along when you have free\ntime\\kw[1]"
+                                "Then, \\n[1]-kun, bring him along when you have free\ntime\\kw[1]"
                             ]
                         },
                         {

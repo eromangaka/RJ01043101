@@ -1962,7 +1962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Good evening, Taro-kun!"
+                                "Good evening, \\n[1]-kun!"
                             ]
                         },
                         {
@@ -2593,7 +2593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As always, you're full of energy, aren't you Taro-kun\\kw[1]"
+                                "As always, you're full of energy, aren't you \\n[1]-kun\\kw[1]"
                             ]
                         },
                         {
@@ -2913,7 +2913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother I'm sorry, Miyuki-san.\\.. Our Taro has been selfishly\nsaying he wants to go play again...."
+                                "Mother I'm sorry, Miyuki-san.\\.. Our \\n[1] has been selfishly\nsaying he wants to go play again...."
                             ]
                         },
                         {
@@ -2966,7 +2966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm also happy to be able to spend time with Taro-kun\nagain\\kw[1]"
+                                "I'm also happy to be able to spend time with \\n[1]-kun\nagain\\kw[1]"
                             ]
                         },
                         {
@@ -3656,7 +3656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother (I feel bad for Taro, but it's our first alone time\non Christmas Eve in a long time\\c[14]\\c[0] you know\\kw[1])"
+                                "Mother (I feel bad for \\n[1], but it's our first alone time\non Christmas Eve in a long time\\c[14]\\c[0] you know\\kw[1])"
                             ]
                         },
                         {
@@ -4159,7 +4159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Come on, Taro-kun! \\. Get up, get up!"
+                                "Come on, \\n[1]-kun! \\. Get up, get up!"
                             ]
                         },
                         {
@@ -4353,7 +4353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother Take care, Taro.\\.. Make sure not to get too carried\naway and be polite.."
+                                "Mother Take care, \\n[1].\\.. Make sure not to get too carried\naway and be polite.."
                             ]
                         },
                         {
@@ -4981,7 +4981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Today, we have prepared a \\c[14]feast\\c[0] for Taro-\nkun\\kw[1]"
+                                "Today, we have prepared a \\c[14]feast\\c[0] for \\n[1]-\nkun\\kw[1]"
                             ]
                         },
                         {
@@ -5155,7 +5155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We've put our heart and soul into making this for Taro\\kw[1]"
+                                "We've put our heart and soul into making this for \\n[1]\\kw[1]"
                             ]
                         },
                         {

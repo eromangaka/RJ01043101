@@ -1452,7 +1452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sorry to keep you waiting, Taro-kun."
+                                "Sorry to keep you waiting, \\n[1]-kun."
                             ]
                         },
                         {
@@ -2012,7 +2012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I thought that if I just borrowed it from Taro-kun, I would\nreach my limit soon."
+                                "I thought that if I just borrowed it from \\n[1]-kun, I would\nreach my limit soon."
                             ]
                         },
                         {
@@ -3133,7 +3133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "By the way, Taro-kun."
+                                "By the way, \\n[1]-kun."
                             ]
                         },
                         {
@@ -4530,7 +4530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Are you okay, Taro-kun?!"
+                                "Are you okay, \\n[1]-kun?!"
                             ]
                         },
                         {
@@ -9062,7 +9062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Should Taro wash the front himself?"
+                                "Should \\n[1] wash the front himself?"
                             ]
                         },
                         {

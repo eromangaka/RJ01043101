@@ -2051,7 +2051,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Taro-kun, you're such a ...\\kw[1] already......\\kw[1]."
+                                "\\n[1]-kun, you're such a ...\\kw[1] already......\\kw[1]."
                             ]
                         },
                         {
@@ -2276,7 +2276,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe, Taro-kun, you're such a ...\\kw[1]."
+                                "Hehe, \\n[1]-kun, you're such a ...\\kw[1]."
                             ]
                         },
                         {
@@ -2830,7 +2830,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Good morning, Taro-kun."
+                                "Good morning, \\n[1]-kun."
                             ]
                         },
                         {
@@ -2963,7 +2963,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe, Taro-kun, you're such a ...\\kw[1]."
+                                "Hehe, \\n[1]-kun, you're such a ...\\kw[1]."
                             ]
                         },
                         {
@@ -4182,7 +4182,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Good morning, Taro-kun."
+                                "Good morning, \\n[1]-kun."
                             ]
                         },
                         {
@@ -5237,7 +5237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Miyuki: Yui? Taro-kun?"
+                                "Miyuki: Yui? \\n[1]-kun?"
                             ]
                         },
                         {

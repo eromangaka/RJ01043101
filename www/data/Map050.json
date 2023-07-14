@@ -2656,7 +2656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, Taro is so dazzling that I can't look at him\ndirectly......"
+                                "Well, \\n[1] is so dazzling that I can't look at him\ndirectly......"
                             ]
                         },
                         {
@@ -2728,7 +2728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. When I look at Taro, I feel energized\\kw[1]"
+                                "Hehe\\kw[1]\\. When I look at \\n[1], I feel energized\\kw[1]"
                             ]
                         },
                         {
@@ -3369,7 +3369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1] I'm looking forward to it, Taro-kun."
+                                "Hehe\\kw[1] I'm looking forward to it, \\n[1]-kun."
                             ]
                         },
                         {

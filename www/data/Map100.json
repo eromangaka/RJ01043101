@@ -1523,7 +1523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, Taro."
+                                "Oh, \\n[1]."
                             ]
                         },
                         {
@@ -1773,7 +1773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "After breaking up with Taro, the next day ......\\., after\nthat ......, about 2-3 people came, I guess?"
+                                "After breaking up with \\n[1], the next day ......\\., after\nthat ......, about 2-3 people came, I guess?"
                             ]
                         },
                         {

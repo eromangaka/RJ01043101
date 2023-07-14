@@ -1645,7 +1645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro will also go back home on the 11th, right?"
+                                "\\n[1] will also go back home on the 11th, right?"
                             ]
                         },
                         {
@@ -1861,7 +1861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I understand how you feel, but it's not good to trouble Taro\ntoo much, you know?"
+                                "I understand how you feel, but it's not good to trouble \\n[1]\ntoo much, you know?"
                             ]
                         },
                         {
@@ -1958,7 +1958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is that right, big sister? Taro-kun also has school, you\nknow."
+                                "Is that right, big sister? \\n[1]-kun also has school, you\nknow."
                             ]
                         },
                         {
@@ -2272,7 +2272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "By the way, Taro-kun, have you ever heard such a rumor?"
+                                "By the way, \\n[1]-kun, have you ever heard such a rumor?"
                             ]
                         },
                         {
@@ -2465,7 +2465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro-kun, a child like you who lamented the end of the\nvacation and continued to make wishes to the gods, as a\nresult... ......"
+                                "\\n[1]-kun, a child like you who lamented the end of the\nvacation and continued to make wishes to the gods, as a\nresult... ......"
                             ]
                         },
                         {
@@ -2794,7 +2794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If the rumor is true, Taro-kun, we can play for even longer,\nright? \\kw[1]"
+                                "If the rumor is true, \\n[1]-kun, we can play for even longer,\nright? \\kw[1]"
                             ]
                         },
                         {
