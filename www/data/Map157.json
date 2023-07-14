@@ -1146,7 +1146,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 変数47:\\V[47] 20"
+                                "D_TEXT Variable　47:　\\V[47] 20"
                             ]
                         },
                         {
@@ -1160,21 +1160,21 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 得点:\\V[1820] 20"
+                                "D_TEXT Score:　\\V[1820] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 表示的数:\\V[1813] 20"
+                                "D_TEXT Displayed　number:　\\V[1813] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 最大表示数:\\V[1814] 20"
+                                "D_TEXT Maximum　display　count:　\\V[1814] 20"
                             ]
                         },
                         {
@@ -1188,28 +1188,28 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 打数:\\V[1822] 20"
+                                "D_TEXT At-bats:　\\V[1822] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 的中:\\V[1821] 20"
+                                "D_TEXT In　the　middle:　\\V[1821] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT コンボ:\\V[1825] 20"
+                                "D_TEXT Combo:　\\V[1825] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 最大コンボ数:\\V[1826] 20"
+                                "D_TEXT Maximum　combo　count:　\\V[1826] 20"
                             ]
                         },
                         {
@@ -11455,7 +11455,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT HIT数:0 25"
+                                "D_TEXT HITNumber:　0 25"
                             ]
                         },
                         {
@@ -11485,7 +11485,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 得点:0 25"
+                                "D_TEXT Score:　0 25"
                             ]
                         },
                         {
@@ -40593,7 +40593,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT HIT数:\\V[1821] 25"
+                                "D_TEXT HITNumber:　\\V[1821] 25"
                             ]
                         },
                         {
@@ -40623,7 +40623,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 得点:\\V[1820] 25"
+                                "D_TEXT Score:　\\V[1820] 25"
                             ]
                         },
                         {

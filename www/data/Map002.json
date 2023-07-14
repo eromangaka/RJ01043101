@@ -2201,7 +2201,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT キッチンへ 15"
+                                "D_TEXT To　the　kitchen 15"
                             ]
                         },
                         {
@@ -2411,7 +2411,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 廊下へ 15"
+                                "D_TEXT To　the　corridor 15"
                             ]
                         },
                         {
@@ -2621,7 +2621,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 玄関へ 15"
+                                "D_TEXT To　the　entrance 15"
                             ]
                         },
                         {
@@ -2967,7 +2967,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 廊下へ 15"
+                                "D_TEXT To　the　corridor 15"
                             ]
                         },
                         {
@@ -3177,7 +3177,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT リビングへ 15"
+                                "D_TEXT To　the　living　room 15"
                             ]
                         },
                         {
@@ -3502,7 +3502,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 2階へ 15"
+                                "D_TEXT 2To　the　floor 15"
                             ]
                         },
                         {
@@ -3712,7 +3712,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT キッチンへ 15"
+                                "D_TEXT To　the　kitchen 15"
                             ]
                         },
                         {
@@ -3922,7 +3922,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT リビングへ 15"
+                                "D_TEXT To　the　living　room 15"
                             ]
                         },
                         {
@@ -4132,7 +4132,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 夫婦部屋へ 15"
+                                "D_TEXT To　the　couple's　room 15"
                             ]
                         },
                         {
@@ -4342,7 +4342,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 玄関へ 15"
+                                "D_TEXT To　the　entrance 15"
                             ]
                         },
                         {
@@ -4667,7 +4667,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 廊下へ 15"
+                                "D_TEXT To　the　corridor 15"
                             ]
                         },
                         {
@@ -4992,7 +4992,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 廊下へ 15"
+                                "D_TEXT To　the　corridor 15"
                             ]
                         },
                         {
@@ -5202,7 +5202,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 廊下へ 15"
+                                "D_TEXT To　the　corridor 15"
                             ]
                         },
                         {
@@ -5412,7 +5412,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 和室へ 15"
+                                "D_TEXT To　the　Japanese-style　room 15"
                             ]
                         },
                         {
@@ -5622,7 +5622,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT リビングへ 15"
+                                "D_TEXT To　the　living　room 15"
                             ]
                         },
                         {
@@ -5832,7 +5832,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 外出する 15"
+                                "D_TEXT Going　out 15"
                             ]
                         },
                         {
@@ -6157,7 +6157,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 玄関へ 15"
+                                "D_TEXT To　the　entrance 15"
                             ]
                         },
                         {
@@ -6367,7 +6367,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT トイレへ 15"
+                                "D_TEXT To　the　toilet 15"
                             ]
                         },
                         {
@@ -6577,7 +6577,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 脱衣所へ 15"
+                                "D_TEXT To　the　changing　room 15"
                             ]
                         },
                         {
@@ -6902,7 +6902,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 1階へ 15"
+                                "D_TEXT 1To　the　floor 15"
                             ]
                         },
                         {
@@ -7112,7 +7112,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 結衣の部屋へ 15"
+                                "D_TEXT To　Yui's　room 15"
                             ]
                         },
                         {
@@ -7322,7 +7322,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 莉音の部屋へ 15"
+                                "D_TEXT To　Rio's　room 15"
                             ]
                         },
                         {
@@ -7647,7 +7647,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 2階へ 15"
+                                "D_TEXT 2To　the　floor 15"
                             ]
                         },
                         {
@@ -7972,7 +7972,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 2階へ 15"
+                                "D_TEXT 2To　the　floor 15"
                             ]
                         },
                         {
@@ -8297,7 +8297,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 廊下へ 15"
+                                "D_TEXT To　the　corridor 15"
                             ]
                         },
                         {
@@ -8622,7 +8622,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 風呂場へ 15"
+                                "D_TEXT To　the　bathroom 15"
                             ]
                         },
                         {
@@ -8832,7 +8832,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 廊下へ 15"
+                                "D_TEXT To　the　corridor 15"
                             ]
                         },
                         {
@@ -9157,7 +9157,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 脱衣所へ 15"
+                                "D_TEXT To　the　changing　room 15"
                             ]
                         },
                         {
@@ -9482,7 +9482,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 玄関へ 15"
+                                "D_TEXT To　the　entrance 15"
                             ]
                         },
                         {
@@ -16289,7 +16289,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT リビング 20"
+                                "D_TEXT Living　room 20"
                             ]
                         },
                         {
@@ -16349,7 +16349,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 　　 月　　    日 18"
+                                "D_TEXT 　　 Month　Day 18"
                             ]
                         },
                         {
@@ -16441,7 +16441,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT MAPスキル 12"
+                                "D_TEXT MAPSkill 12"
                             ]
                         },
                         {
@@ -16875,28 +16875,28 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog テキストテスト"
+                                "addLog Text　test"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog テキストテスト2"
+                                "addLog Text　Test　2"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog テキストテスト3"
+                                "addLog Text　Test　3"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog テキストテスト4"
+                                "addLog Text　Test　4"
                             ]
                         },
                         {

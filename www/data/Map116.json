@@ -1327,7 +1327,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]月\\v[138]\\v[139]日\\v[273]　\\c[14]残り\\v[140]日 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]　\\v[140]　Days　Remaining 15"
                             ]
                         },
                         {
@@ -3918,14 +3918,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]午後\\c[0]になった！"
+                                "ShowInfo It　became　afternoon!"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "ShowInfo \\I[161]ヒカリとその場で解散した"
+                                "ShowInfo \\I[161]Hikari　and　disbanded　on　the　spot"
                             ]
                         },
                         {

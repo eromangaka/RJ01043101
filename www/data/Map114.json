@@ -4612,7 +4612,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]30分経過\\c[0]した！"
+                                "ShowInfo \\I[167]\\c[14]30　minutes　have　passed\\c[0]!"
                             ]
                         },
                         {
@@ -5361,7 +5361,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\c[14]カレーライス 15"
+                                "D_TEXT \\c[14]Curry　Rice 15"
                             ]
                         },
                         {
@@ -5458,7 +5458,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT にんじん　　　×1 15"
+                                "D_TEXT Carrot　x1 15"
                             ]
                         },
                         {
@@ -5488,7 +5488,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT たまねぎ　　　×1 15"
+                                "D_TEXT Onion　x1 15"
                             ]
                         },
                         {
@@ -5518,7 +5518,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT じゃがいも　　×1 15"
+                                "D_TEXT Potato　x1 15"
                             ]
                         },
                         {
@@ -5590,7 +5590,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\c[14]白ごはん 15"
+                                "D_TEXT \\c[14]White　rice 15"
                             ]
                         },
                         {
@@ -5687,7 +5687,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 米　　　　　　×1 15"
+                                "D_TEXT Rice　x1 15"
                             ]
                         },
                         {
@@ -5717,7 +5717,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT きれいな水　　×1 15"
+                                "D_TEXT Beautiful　water　x1 15"
                             ]
                         },
                         {
@@ -5812,7 +5812,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\c[14]焼き芋 15"
+                                "D_TEXT \\c[14]Baked　sweet　potato 15"
                             ]
                         },
                         {
@@ -5909,7 +5909,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT さつまいも　　×2 15"
+                                "D_TEXT Sweet　potato　x2 15"
                             ]
                         },
                         {
@@ -6041,7 +6041,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\c[14]アヒージョ 15"
+                                "D_TEXT \\c[14]Ahijo 15"
                             ]
                         },
                         {
@@ -6147,7 +6147,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT しいたけ　　　×1 15"
+                                "D_TEXT Shiitake　x1 15"
                             ]
                         },
                         {
@@ -6177,7 +6177,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT にんにく　　　×1 15"
+                                "D_TEXT Garlic　x1 15"
                             ]
                         },
                         {
@@ -6207,7 +6207,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 油　　　　　　×1 15"
+                                "D_TEXT Oil　x1 15"
                             ]
                         },
                         {
@@ -6279,7 +6279,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\c[14]ホイル焼き 15"
+                                "D_TEXT \\c[14]Foil-grilled 15"
                             ]
                         },
                         {
@@ -6385,7 +6385,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT しめじ　　　　×1 15"
+                                "D_TEXT Shiitake　mushrooms　x1 15"
                             ]
                         },
                         {
@@ -6415,7 +6415,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT たまねぎ　　　×1 15"
+                                "D_TEXT Onion　x1 15"
                             ]
                         },
                         {
@@ -6445,7 +6445,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT にんにく　　　×1 15"
+                                "D_TEXT Garlic　x1 15"
                             ]
                         },
                         {
@@ -6517,7 +6517,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\c[14]山菜のおひたし 15"
+                                "D_TEXT \\c[14]Boiled　mountain　vegetables 15"
                             ]
                         },
                         {
@@ -6623,7 +6623,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 山菜　　　　　×1 15"
+                                "D_TEXT Wild　vegetables　x1 15"
                             ]
                         },
                         {
@@ -6653,7 +6653,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 塩　　　　　　×1 15"
+                                "D_TEXT Salt　x1 15"
                             ]
                         },
                         {
@@ -6755,7 +6755,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\c[14]ワカサギの天ぷら 15"
+                                "D_TEXT \\c[14]Wakasagi　tempura 15"
                             ]
                         },
                         {
@@ -6870,7 +6870,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT ワカサギ　　　×1 15"
+                                "D_TEXT Wakasagi　x1 15"
                             ]
                         },
                         {
@@ -6900,7 +6900,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 油　　　　　　×1 15"
+                                "D_TEXT Oil　x1 15"
                             ]
                         },
                         {
@@ -6930,7 +6930,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 塩　　　　　　×1 15"
+                                "D_TEXT Salt　x1 15"
                             ]
                         },
                         {
@@ -7002,7 +7002,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\c[14]山菜ぶっこみ鍋 15"
+                                "D_TEXT \\c[14]Wild　vegetable　hot　pot 15"
                             ]
                         },
                         {
@@ -7117,7 +7117,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT エリンギ　　　×1 15"
+                                "D_TEXT Eringi　x1 15"
                             ]
                         },
                         {
@@ -7147,7 +7147,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT しいたけ　　　×1 15"
+                                "D_TEXT Shiitake　x1 15"
                             ]
                         },
                         {
@@ -7177,7 +7177,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 山菜　　　　　×1 15"
+                                "D_TEXT Wild　vegetables　x1 15"
                             ]
                         },
                         {
@@ -7249,7 +7249,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\c[14]アユの塩焼き 15"
+                                "D_TEXT \\c[14]Ayu　salt-grilled 15"
                             ]
                         },
                         {
@@ -7364,7 +7364,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT アユ　　　　　×1 15"
+                                "D_TEXT Ayu　x1 15"
                             ]
                         },
                         {
@@ -7394,7 +7394,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 塩　　　　　　×1 15"
+                                "D_TEXT Salt　x1 15"
                             ]
                         },
                         {
@@ -7424,7 +7424,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 木の枝　　　　×1 15"
+                                "D_TEXT Branch　of　a　tree　x1 15"
                             ]
                         },
                         {
@@ -7496,7 +7496,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\c[14]アクアパッツァ 15"
+                                "D_TEXT \\c[14]Aqua　Pazza 15"
                             ]
                         },
                         {
@@ -7620,7 +7620,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT ヒメマス　　　×1 15"
+                                "D_TEXT Hime　Masu　x1 15"
                             ]
                         },
                         {
@@ -7650,7 +7650,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT エリンギ　　　×1 15"
+                                "D_TEXT Eringi　x1 15"
                             ]
                         },
                         {
@@ -7680,7 +7680,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT レモン　　　　×1 15"
+                                "D_TEXT Lemon　x1 15"
                             ]
                         },
                         {
@@ -7752,7 +7752,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\c[14]松茸ごはん 15"
+                                "D_TEXT \\c[14]Matsutake　rice 15"
                             ]
                         },
                         {
@@ -7876,7 +7876,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 米　　　　　　×1 15"
+                                "D_TEXT Rice　x1 15"
                             ]
                         },
                         {
@@ -7906,7 +7906,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 松茸　　　　　×1 15"
+                                "D_TEXT Matsutake　x1 15"
                             ]
                         },
                         {
@@ -7936,7 +7936,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT きれいな水　　×1 15"
+                                "D_TEXT Beautiful　water　x1 15"
                             ]
                         },
                         {
@@ -8008,7 +8008,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\c[14]山の恵み御膳 15"
+                                "D_TEXT \\c[14]Mountain　Blessings　Bento 15"
                             ]
                         },
                         {
@@ -8132,7 +8132,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT ヒメマス　　　×1 15"
+                                "D_TEXT Hime　Masu　x1 15"
                             ]
                         },
                         {
@@ -8162,7 +8162,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 山椒　　　　　×1 15"
+                                "D_TEXT Sansho　x1 15"
                             ]
                         },
                         {
@@ -8192,7 +8192,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 山菜　　　　　×1 15"
+                                "D_TEXT Wild　vegetables　x1 15"
                             ]
                         },
                         {
@@ -10010,7 +10010,7 @@
                             "code": 356,
                             "indent": 6,
                             "parameters": [
-                                "ShowInfo \\i[167]\\c[14]材料が足りない\\c[0]みたい…。"
+                                "ShowInfo \\i[167]\\c[14]It　seems　like　there's　not　enough　ingredients\\c[0]"
                             ]
                         },
                         {
@@ -10618,7 +10618,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\i[172]\\c[14]カレー\\c[0]を作った！"
+                                "ShowInfo \\i[172]\\c[14]I　made　curry!\\c[0]"
                             ]
                         },
                         {
@@ -10663,7 +10663,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\i[172]\\c[14]白ごはん\\c[0]を作った！"
+                                "ShowInfo \\i[172]\\c[14]I　made　white　rice!\\c[0]"
                             ]
                         },
                         {
@@ -10708,7 +10708,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\i[172]\\c[14]焼き芋\\c[0]を作った！"
+                                "ShowInfo \\i[172]\\c[14]I　made　sweet　potatoes!"
                             ]
                         },
                         {
@@ -10753,7 +10753,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\i[172]\\c[14]アヒージョ\\c[0]を作った！"
+                                "ShowInfo \\i[172]\\c[14]I　made　Ahijo!\\c[0]"
                             ]
                         },
                         {
@@ -10798,7 +10798,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\i[172]\\c[14]ホイル焼き\\c[0]を作った！"
+                                "ShowInfo \\i[172]\\c[14]I　made　foil-grilled　dish!\\c[0]"
                             ]
                         },
                         {
@@ -10843,7 +10843,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\i[172]\\c[14]山菜のおひたし\\c[0]を作った！"
+                                "ShowInfo \\i[172]\\c[14]I　made　a　dish　of　boiled　mountain　vegetables!\\c[0]"
                             ]
                         },
                         {
@@ -10888,7 +10888,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\i[172]\\c[14]ワカサギ天ぷら\\c[0]を作った！"
+                                "ShowInfo \\i[172]\\c[14]I　made　some　smelt　tempura!\\c[0]"
                             ]
                         },
                         {
@@ -10933,7 +10933,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\i[172]\\c[14]山菜ぶっこみ鍋\\c[0]を作った！"
+                                "ShowInfo \\i[172]\\c[14]I　made　a　mountain　vegetable　hot　pot!\\c[0]"
                             ]
                         },
                         {
@@ -10978,7 +10978,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\i[172]\\c[14]アユの塩焼き\\c[0]を作った！"
+                                "ShowInfo \\i[172]\\c[14]I　made　grilled　salted　Ayu　fish!\\c[0]"
                             ]
                         },
                         {
@@ -11023,7 +11023,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\i[172]\\c[14]アクアパッツァ\\c[0]を作った！"
+                                "ShowInfo \\i[172]\\c[14]I　made　Aqua　Pazza!\\c[0]"
                             ]
                         },
                         {
@@ -11068,7 +11068,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\i[172]\\c[14]松茸ごはん\\c[0]を作った！"
+                                "ShowInfo \\i[172]\\c[14]I　made　Matsutake　rice!\\c[0]"
                             ]
                         },
                         {
@@ -11113,7 +11113,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\i[172]\\c[14]山の恵み御前\\c[0]を作った！"
+                                "ShowInfo \\i[172]\\c[14]I　made　a　dish　called　Mountain's　Blessing!"
                             ]
                         },
                         {
@@ -11170,7 +11170,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\i[167]完璧な出来栄えだ！\\c[14][＋1品]\\c[0]"
+                                "ShowInfo \\i[167]It's　a　perfect　job!　\\c[14][+1　item]\\c[0]"
                             ]
                         },
                         {
@@ -11490,7 +11490,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "ShowInfo \\i[167]何を作ろうかな？"
+                                "ShowInfo \\i[167]What　should　I　make?"
                             ]
                         },
                         {
@@ -21295,14 +21295,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT レシピ\\V[1841] 10"
+                                "D_TEXT Recipe　\\V[1841] 10"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT フワフワ\\V[1860] 10"
+                                "D_TEXT Fluffy　\\V[1860] 10"
                             ]
                         },
                         {
@@ -21337,49 +21337,49 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 制限時間\\V[1881] 17"
+                                "D_TEXT Time　limit\\V[1881] 17"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT あたり判定始\\V[1885] 17"
+                                "D_TEXT Collision　detection　started　\\V[1885] 17"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT あたり判定終\\V[1886] 17"
+                                "D_TEXT Collision　detection　ended　\\V[1886] 17"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 得点\\V[1880] 17"
+                                "D_TEXT Score　\\V[1880] 17"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT トータル\\V[1882] 17"
+                                "D_TEXT Total　\\V[1882] 17"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 5P判定\\V[1890] 17"
+                                "D_TEXT 5PJudgment　\\V[1890] 17"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 3P判定\\V[1891] 17"
+                                "D_TEXT 3PJudgment　\\V[1891] 17"
                             ]
                         },
                         {
@@ -22637,7 +22637,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]月\\v[138]\\v[139]日\\v[273]　\\c[14]残り\\v[140]日 15"
+                                "D_TEXT \\v[136]\\v[137]The　remaining　\\v[140]　days　until　\\v[138]\\v[139]　\\v[273] 15"
                             ]
                         },
                         {
@@ -22713,7 +22713,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT MAPスキル 12"
+                                "D_TEXT MAPSkill 12"
                             ]
                         },
                         {
@@ -23759,7 +23759,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT カレーライス 20"
+                                "D_TEXT Curry　rice 20"
                             ]
                         },
                         {
@@ -23863,7 +23863,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT にんじん ×1 17"
+                                "D_TEXT Carrot　x1 17"
                             ]
                         },
                         {
@@ -23900,7 +23900,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT たまねぎ ×1 17"
+                                "D_TEXT Onion　x1 17"
                             ]
                         },
                         {
@@ -23937,7 +23937,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT じゃがいも ×1 17"
+                                "D_TEXT Potato　x1 17"
                             ]
                         },
                         {
@@ -24658,7 +24658,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "ShowInfo \\i[167]何を作ろうかな？"
+                                "ShowInfo \\i[167]What　should　I　make?"
                             ]
                         },
                         {

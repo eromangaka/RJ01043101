@@ -2860,7 +2860,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "ShowInfo \\i[167]\\c[14]全ての絵日記をコンプリート\\c[0]した！"
+                                "ShowInfo \\i[167]\\c[14]I　completed　all　the　picture　diaries!\\c[0]"
                             ]
                         },
                         {
@@ -2912,7 +2912,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT  絵日記収集度 15"
+                                "D_TEXT  Picture　Diary　Collection　Degree 15"
                             ]
                         },
                         {
@@ -2966,7 +2966,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT  絵日記収集度 15"
+                                "D_TEXT  Picture　Diary　Collection　Degree 15"
                             ]
                         },
                         {
@@ -3522,7 +3522,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT ◆獲得した絵日記を閲覧できます(\\v[450]/70) 15"
+                                "D_TEXT ◆You　can　view　the　acquired　picture　diary　(\\v[450]/70) 15"
                             ]
                         },
                         {
@@ -3576,7 +3576,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT ◆秘密ノートを閲覧できます 15"
+                                "D_TEXT ◆You　can　view　the　secret　notebook 15"
                             ]
                         },
                         {

@@ -1418,7 +1418,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]月\\v[138]\\v[139]日\\v[273]　\\c[14]残り\\v[140]日 15"
+                                "D_TEXT \\v[136]\\v[137]The　remaining　\\v[140]　days　until　\\v[138]\\v[139]　\\v[273] 15"
                             ]
                         },
                         {
@@ -12610,14 +12610,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]夜分\\c[0]になった！"
+                                "ShowInfo It's　getting　late　at　night!"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[160]カナエとその場で解散した！"
+                                "ShowInfo \\I[160]Kanae　and　disbanded　on　the　spot!"
                             ]
                         },
                         {

@@ -1740,7 +1740,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]月\\v[138]\\v[139]日\\v[273]　\\c[14]残り\\v[140]日 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]　\\v[140]　Days　Remaining 15"
                             ]
                         },
                         {
@@ -14264,7 +14264,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "ShowInfo \\I[169]淫乱度が\\c[14]3\\c[0]上がった！"
+                                "ShowInfo \\I[169]The　level　of　lewdness　has　\\c[14]3\\c[0]increased!"
                             ]
                         },
                         {
@@ -14303,7 +14303,7 @@
                             "code": 356,
                             "indent": 5,
                             "parameters": [
-                                "ShowInfo \\I[169]奉仕度が\\c[14]3\\c[0]上がった！"
+                                "ShowInfo \\I[169]Service　level　has　increased　by　\\c[14]3\\c[0]!"
                             ]
                         },
                         {
@@ -14342,7 +14342,7 @@
                             "code": 356,
                             "indent": 6,
                             "parameters": [
-                                "ShowInfo \\I[169]変態度が\\c[14]3\\c[0]上がった！"
+                                "ShowInfo \\I[169]The　level　of　perversion\\c[14]3\\c[0]　has　increased!"
                             ]
                         },
                         {
@@ -14924,7 +14924,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]30分経過\\c[0]した！"
+                                "ShowInfo \\I[167]\\c[14]30　minutes　have　passed\\c[0]!"
                             ]
                         },
                         {
@@ -14988,7 +14988,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[168]警戒度が\\c[14]20\\c[0]下がった！"
+                                "ShowInfo \\I[168]The　alert　level　has　\\c[14]20\\c[0]decreased!"
                             ]
                         },
                         {
@@ -15286,7 +15286,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "ShowInfo \\I[170]\\c[14]EV:\\c[0]竿の筆さばき\\kw[1]"
+                                "ShowInfo \\I[170]\\c[14]EV:\\c[0]Skillful　brushwork　of　a　fishing　rod\\kw[1]"
                             ]
                         },
                         {

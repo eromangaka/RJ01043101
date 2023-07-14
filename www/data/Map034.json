@@ -1228,7 +1228,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT  正答：\\v[835]　誤答：\\v[836]　 14"
+                                "D_TEXT  Correct　Answer:　\\v[835]　Incorrect　Answer:　\\v[836] 14"
                             ]
                         },
                         {
@@ -1410,7 +1410,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT  正答：\\v[835]　誤答：\\v[836]　 14"
+                                "D_TEXT  Correct　Answer:　\\v[835]　Incorrect　Answer:　\\v[836] 14"
                             ]
                         },
                         {
@@ -1946,7 +1946,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[170]\\c[14]結衣のタスク\\c[0]を終わらせた！"
+                                "ShowInfo \\I[170]\\c[14]Yui's　task\\c[0]　is　finished!"
                             ]
                         },
                         {
@@ -2082,7 +2082,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]30分経過\\c[0]した！"
+                                "ShowInfo \\I[167]\\c[14]30　minutes　have　passed\\c[0]!"
                             ]
                         },
                         {
@@ -4129,7 +4129,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT  正答：\\v[835]　誤答：\\v[836]　 14"
+                                "D_TEXT  Correct　Answer:　\\v[835]　Incorrect　Answer:　\\v[836] 14"
                             ]
                         },
                         {
@@ -5772,7 +5772,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]時間切れ！"
+                                "ShowInfo \\I[167]Time's　up!"
                             ]
                         },
                         {
@@ -6050,7 +6050,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]これが最後の問題！"
+                                "ShowInfo \\I[167]This　is　the　final　question!"
                             ]
                         },
                         {
@@ -6751,7 +6751,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]間違えた！"
+                                "ShowInfo \\I[167]I　made　a　mistake!"
                             ]
                         },
                         {

@@ -15850,14 +15850,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\I[158]☆白ごはんのレシピ 20"
+                                "D_TEXT \\I[158]☆Recipe　for　white　rice 20"
                             ]
                         },
                         {
@@ -16045,14 +16045,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\I[158]☆焼き芋のレシピ 20"
+                                "D_TEXT \\I[158]☆Baked　Sweet　Potato　Recipe 20"
                             ]
                         },
                         {
@@ -16112,7 +16112,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]★1白ごはんのレシピ\\c[0]をGET!"
+                                "ShowInfo \\I[167]\\c[14]Get　the　recipe　for　★1　white　rice!\\c[0]"
                             ]
                         },
                         {
@@ -16136,14 +16136,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\I[158]☆焼き芋のレシピ 20"
+                                "D_TEXT \\I[158]☆Baked　Sweet　Potato　Recipe 20"
                             ]
                         },
                         {
@@ -16331,14 +16331,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\I[158]☆アヒージョのレシピ 20"
+                                "D_TEXT \\I[158]☆Recipe　for　Ahijo 20"
                             ]
                         },
                         {
@@ -16398,7 +16398,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]★1焼き芋のレシピ\\c[0]をGET!"
+                                "ShowInfo \\I[167]\\c[14]Get　the　recipe　for　roasted　sweet　potatoes!\\c[0]"
                             ]
                         },
                         {
@@ -16422,14 +16422,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\I[158]☆アヒージョのレシピ 20"
+                                "D_TEXT \\I[158]☆Recipe　for　Ahijo 20"
                             ]
                         },
                         {
@@ -16617,14 +16617,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\I[158]☆ホイル焼きのレシピ 20"
+                                "D_TEXT \\I[158]☆Foil-grilled　recipe 20"
                             ]
                         },
                         {
@@ -16684,7 +16684,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]★1アヒージョのレシピ\\c[0]をGET!"
+                                "ShowInfo \\I[167]\\c[14]Get　the　recipe　for　★1　Ahijo!　\\c[0]"
                             ]
                         },
                         {
@@ -16708,14 +16708,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\I[158]☆ホイル焼きのレシピ 20"
+                                "D_TEXT \\I[158]☆Foil-grilled　recipe 20"
                             ]
                         },
                         {
@@ -16903,14 +16903,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\I[158]☆山菜のおひたしのレシピ 20"
+                                "D_TEXT \\I[158]☆Recipe　for　boiled　mountain　vegetables 20"
                             ]
                         },
                         {
@@ -16970,7 +16970,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]★2ホイル焼きのレシピ\\c[0]をGET!"
+                                "ShowInfo \\I[167]\\c[14]Get　the　recipe　for　Grilled　Fish!"
                             ]
                         },
                         {
@@ -16994,14 +16994,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\I[158]☆山菜のおひたしのレシピ 20"
+                                "D_TEXT \\I[158]☆Recipe　for　boiled　mountain　vegetables 20"
                             ]
                         },
                         {
@@ -17189,14 +17189,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\I[158]☆ワカサギ天ぷらのレシピ 20"
+                                "D_TEXT \\I[158]☆Recipe　for　Smelt　Tempura 20"
                             ]
                         },
                         {
@@ -17256,7 +17256,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]★2山菜のおひたしのレシピ\\c[0]をGET!"
+                                "ShowInfo \\I[167]\\c[14]Get　the　recipe　for　boiled　mountain　vegetables!　\\c[0]"
                             ]
                         },
                         {
@@ -17280,14 +17280,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\I[158]☆ワカサギ天ぷらのレシピ 20"
+                                "D_TEXT \\I[158]☆Recipe　for　Smelt　Tempura 20"
                             ]
                         },
                         {
@@ -17475,14 +17475,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\I[158]☆山菜ぶっこみ鍋のレシピ 20"
+                                "D_TEXT \\I[158]☆Recipe　for　wild　vegetable　hot　pot 20"
                             ]
                         },
                         {
@@ -17542,7 +17542,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]★3ワカサギ天ぷらのレシピ\\c[0]をGET!"
+                                "ShowInfo \\I[167]\\c[14]Get　the　recipe　for　3-star　Smelt　Tempura!\\c[0]"
                             ]
                         },
                         {
@@ -17566,14 +17566,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\I[158]☆山菜ぶっこみ鍋のレシピ 20"
+                                "D_TEXT \\I[158]☆Recipe　for　wild　vegetable　hot　pot 20"
                             ]
                         },
                         {
@@ -17761,14 +17761,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\I[158]☆アユの塩焼きのレシピ 20"
+                                "D_TEXT \\I[158]☆Ayu　Salt　Grilled　Recipe 20"
                             ]
                         },
                         {
@@ -17828,7 +17828,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]★3山菜ぶっこみ鍋のレシピ\\c[0]をGET!"
+                                "ShowInfo \\I[167]\\c[14]Get　the　recipe　for　a　3-star　mountain　vegetable　hot　pot!　\\c[0]"
                             ]
                         },
                         {
@@ -17852,14 +17852,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\I[158]☆アユの塩焼きのレシピ 20"
+                                "D_TEXT \\I[158]☆Ayu　Salt　Grilled　Recipe 20"
                             ]
                         },
                         {
@@ -18047,14 +18047,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\I[158]☆アクアパッツァのレシピ 20"
+                                "D_TEXT \\I[158]☆Recipe　for　Aqua　Pazza 20"
                             ]
                         },
                         {
@@ -18114,7 +18114,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]★3アユの塩焼きのレシピ\\c[0]をGET!"
+                                "ShowInfo \\I[167]\\c[14]Get　the　recipe　for　Ayu's　salt-grilled　fish!\\c[0]"
                             ]
                         },
                         {
@@ -18138,14 +18138,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\I[158]☆アクアパッツァのレシピ 20"
+                                "D_TEXT \\I[158]☆Recipe　for　Aqua　Pazza 20"
                             ]
                         },
                         {
@@ -18333,14 +18333,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\I[158]☆松茸ごはんのレシピ 20"
+                                "D_TEXT \\I[158]☆Recipe　for　Matsutake　Mushroom　Rice 20"
                             ]
                         },
                         {
@@ -18400,7 +18400,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]★4アクアパッツァのレシピ\\c[0]をGET!"
+                                "ShowInfo \\I[167]\\c[14]Get　the　recipe　for　★4　Aqua　Pazzo!　\\c[0]"
                             ]
                         },
                         {
@@ -18424,14 +18424,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\I[158]☆松茸ごはんのレシピ 20"
+                                "D_TEXT \\I[158]☆Recipe　for　Matsutake　Mushroom　Rice 20"
                             ]
                         },
                         {
@@ -18619,14 +18619,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\I[158]☆山の恵み御膳のレシピ 20"
+                                "D_TEXT \\I[158]☆Recipe　for　Mountain　Blessings　Bento 20"
                             ]
                         },
                         {
@@ -18686,7 +18686,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]★4松茸ごはんのレシピ\\c[0]をGET!"
+                                "ShowInfo \\I[167]\\c[14]Get　the　recipe　for　4　Matsutake　Mushroom　Rice!\\c[0]"
                             ]
                         },
                         {
@@ -18710,14 +18710,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT NEXTごほうび　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
+                                "D_TEXT NEXTReward　\\c[14]\\V[2000]\\c[0]/\\V[2001] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\I[158]☆山の恵み御膳のレシピ 20"
+                                "D_TEXT \\I[158]☆Recipe　for　Mountain　Blessings　Bento 20"
                             ]
                         },
                         {
@@ -18961,7 +18961,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]★4山の恵み御膳のレシピ\\c[0]をGET!"
+                                "ShowInfo \\I[167]\\c[14]Get　the　recipe　for　the　★4　Mountain　Blessing　Meal!　\\c[0]"
                             ]
                         },
                         {
@@ -70612,7 +70612,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "ShowInfo ◆\\c[14]深夜のジカン\\c[0]になった。"
+                                "ShowInfo ◆\\c[14]It　became　late　at　night\\c[0]"
                             ]
                         },
                         {
@@ -70826,7 +70826,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "ShowInfo \\i[167]今日はもう寝よう…。"
+                                "ShowInfo \\i[167]I'm　going　to　bed　now"
                             ]
                         },
                         {
@@ -71176,7 +71176,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "ShowInfo ◆\\c[14]午後のジカン\\c[0]になった。"
+                                "ShowInfo ◆\\c[14]It　became　afternoon　time\\c[0]"
                             ]
                         },
                         {
@@ -71307,7 +71307,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "ShowInfo ◆\\c[14]夕方のジカン\\c[0]になった。"
+                                "ShowInfo ◆\\c[14]It　became　evening　time\\c[0]"
                             ]
                         },
                         {
@@ -71438,7 +71438,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "ShowInfo ◆\\c[14]夜分のジカン\\c[0]になった。"
+                                "ShowInfo ◆\\c[14]It　became　late　at　night\\c[0]"
                             ]
                         },
                         {
@@ -90887,28 +90887,28 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 投げる箇所\\V[1962] 20"
+                                "D_TEXT Throwing　spot　\\V[1962] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 皿の目的地\\V[1986] 20"
+                                "D_TEXT Destination　of　the　plate　\\V[1986] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 配膳コンボ\\V[1993] 20"
+                                "D_TEXT Tray　Combo　\\V[1993] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 料理\\V[1963]  \\V[1964] \\V[1965] \\V[1966] \\V[1967] \\V[1968] \\V[1969] 20"
+                                "D_TEXT Cooking　\\V[1963]　\\V[1964]　\\V[1965]　\\V[1966]　\\V[1967]　\\V[1968]　\\V[1969] 20"
                             ]
                         },
                         {
@@ -90924,7 +90924,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 客1〇 席\\V[1970] 外見\\V[1971] 注文\\V[1972] 状態\\V[1994] 20"
+                                "D_TEXT Customer　1,　Seat　\\V[1970],　Appearance　\\V[1971],　Order　\\V[1972],　Status　\\V[1994] 20"
                             ]
                         },
                         {
@@ -90941,7 +90941,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 客1× 席\\V[1970] 外見\\V[1971] 注文\\V[1972] 状態\\V[1994] 20"
+                                "D_TEXT Customer　1　×　Seat　\\V[1970]　Appearance　\\V[1971]　Order　\\V[1972]　Status　\\V[1994] 20"
                             ]
                         },
                         {
@@ -90967,7 +90967,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 客2〇 席\\V[1973] 外見\\V[1974] 注文\\V[1975] 状態\\V[1995] 20"
+                                "D_TEXT Customer　2,　Seat　\\V[1973],　Appearance　\\V[1974],　Order　\\V[1975],　Status　\\V[1995] 20"
                             ]
                         },
                         {
@@ -90984,7 +90984,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 客2× 席\\V[1973] 外見\\V[1974] 注文\\V[1975] 状態\\V[1995] 20"
+                                "D_TEXT Guest　2×　Seat　\\V[1973]　Appearance　\\V[1974]　Order　\\V[1975]　Status　\\V[1995] 20"
                             ]
                         },
                         {
@@ -91010,7 +91010,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 客3〇 席\\V[1976] 外見\\V[1977] 注文\\V[1978] 状態\\V[1996] 20"
+                                "D_TEXT Guest　3〇　Seat　\\V[1976]　Appearance　\\V[1977]　Order　\\V[1978]　Status　\\V[1996] 20"
                             ]
                         },
                         {
@@ -91027,7 +91027,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 客3× 席\\V[1976] 外見\\V[1977] 注文\\V[1978] 状態\\V[1996] 20"
+                                "D_TEXT Guest　3×　Seat　\\V[1976]　Appearance　\\V[1977]　Order　\\V[1978]　Status　\\V[1996] 20"
                             ]
                         },
                         {
@@ -91053,7 +91053,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 客4〇 席\\V[1979] 外見\\V[1980] 注文\\V[1981] 状態\\V[1997] 20"
+                                "D_TEXT Guest　4〇　Seat　\\V[1979]　Appearance　\\V[1980]　Order　\\V[1981]　Status　\\V[1997] 20"
                             ]
                         },
                         {
@@ -91070,7 +91070,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 客4× 席\\V[1979] 外見\\V[1980] 注文\\V[1981] 状態\\V[1997] 20"
+                                "D_TEXT Guest　4×　Seat　\\V[1979]　Appearance　\\V[1980]　Order　\\V[1981]　Status　\\V[1997] 20"
                             ]
                         },
                         {

@@ -2063,7 +2063,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "ShowInfo \\I[169]\\c[14]美雪のタスク\\c[0]を終わらせた！"
+                                "ShowInfo \\I[169]\\c[14]Finished　Miyuki's　task!\\c[0]"
                             ]
                         },
                         {
@@ -2209,7 +2209,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]30分経過\\c[0]した！"
+                                "ShowInfo \\I[167]\\c[14]30　minutes　have　passed\\c[0]!"
                             ]
                         },
                         {
@@ -2282,7 +2282,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[168]警戒度が\\c[14]20\\c[0]下がった！"
+                                "ShowInfo \\I[168]The　alert　level　has　\\c[14]20\\c[0]decreased!"
                             ]
                         },
                         {
@@ -7130,14 +7130,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT  皿の耐久値：　 14"
+                                "D_TEXT  Durability　of　the　plate: 14"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT  洗った：\\v[835]　割った：\\v[836]　 14"
+                                "D_TEXT  Washed:　\\v[835]　Broke:　\\v[836] 14"
                             ]
                         },
                         {
@@ -8339,7 +8339,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]ラストオーダー！"
+                                "ShowInfo \\I[167]Last　Order!"
                             ]
                         },
                         {

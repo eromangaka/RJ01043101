@@ -2187,7 +2187,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 覚醒度 20"
+                                "D_TEXT Level　of　Awakening 20"
                             ]
                         },
                         {
@@ -2734,7 +2734,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "ShowInfo \\I[167]どうしようかな？"
+                                "ShowInfo \\I[167]What　should　I　do?"
                             ]
                         },
                         {
@@ -4797,7 +4797,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "ShowInfo \\I[170]\\c[14]結衣は眠りから覚めない\\c[0]"
+                                "ShowInfo \\I[170]\\c[14]Yui　doesn't　wake　up　from　sleep\\c[0]"
                             ]
                         },
                         {
@@ -4825,7 +4825,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "ShowInfo \\I[171]\\c[14]莉音は眠りから覚めない\\c[0]"
+                                "ShowInfo \\I[171]\\c[14]Rio　doesn't　wake　up　from　sleep\\c[0]"
                             ]
                         },
                         {
@@ -4853,7 +4853,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "ShowInfo \\I[169]\\c[14]美雪は眠りから覚めない\\c[0]"
+                                "ShowInfo \\I[169]\\c[14]Miyuki　doesn't　wake　up　from　sleep\\c[0]"
                             ]
                         },
                         {

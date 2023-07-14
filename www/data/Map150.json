@@ -2072,7 +2072,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT ◆めんこのメンテナンスを行えます 15"
+                                "D_TEXT ◆I　can　perform　maintenance　on　the　noodles 15"
                             ]
                         },
                         {
@@ -2236,49 +2236,49 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 変数47:\\V[47] 20"
+                                "D_TEXT Variable　47:\\V[47] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 居場所:\\V[41] 20"
+                                "D_TEXT Location:　\\V[41] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT シナリオ:\\V[950] 20"
+                                "D_TEXT Scenario:\\V[950] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 表情:\\V[38] 20"
+                                "D_TEXT Expression:\\V[38] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 立ち絵:\\V[37] 20"
+                                "D_TEXT Standing　picture:　\\V[37] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 服装:\\V[602] 20"
+                                "D_TEXT Clothing:　\\V[602] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT えっち:\\V[281] 20"
+                                "D_TEXT Pervert:\\V[281] 20"
                             ]
                         },
                         {
