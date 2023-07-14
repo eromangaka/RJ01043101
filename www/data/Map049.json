@@ -1402,14 +1402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寒い寒い……"
+                                "Ugh, it's cold, it's cold......"
                             ]
                         },
                         {
@@ -1426,14 +1419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冬はやっぱり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コタツに限りますなあ……"
+                                "After all, nothing beats a kotatsu in winter, huh?......"
                             ]
                         },
                         {
@@ -1505,14 +1491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今年は暖冬だそうだけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朝は寒いわよね…"
+                                "They say it's a warm winter this year, but the mornings are\nstill cold, aren't they...?"
                             ]
                         },
                         {
@@ -1598,7 +1577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、\\.寒いと言えば……"
+                                "Ah, speaking of \\. being cold, ......"
                             ]
                         },
                         {
@@ -1615,14 +1594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このあいだ河原で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]キャンプ\\c[0]してる人見たよ！"
+                                "I saw someone camping at the riverbank the other day!"
                             ]
                         },
                         {
@@ -1716,14 +1688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この冬真っ只中に？"
+                                "What!? \\. In the middle of this winter?"
                             ]
                         },
                         {
@@ -1783,7 +1748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうそう！"
+                                "That's right!"
                             ]
                         },
                         {
@@ -1843,21 +1808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テントの設営中に見かけたんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな寒いのにやるんだ～って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "驚いちゃった！"
+                                "I saw them setting up the tent, and I was surprised that\nthey would do it in such cold weather!"
                             ]
                         },
                         {
@@ -1917,14 +1868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら……、\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それってもしかして…"
+                                "Oh ......, \\. could that possibly be ...?"
                             ]
                         },
                         {
@@ -2022,14 +1966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いま流行りの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]\"冬キャン\"\\c[0]じゃないかしら？"
+                                "Could it be the trendy \\c[14]Winter Camping\\c[0] I wonder?"
                             ]
                         },
                         {
@@ -2069,7 +2006,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]冬キャン\\c[0]？"
+                                "\\c[14]Winter Camping\\c[0]?"
                             ]
                         },
                         {
@@ -2105,7 +2042,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ええ\\kw[1]"
+                                "Yes\\kw[1]"
                             ]
                         },
                         {
@@ -2175,21 +2112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最近キャンプを趣味に持つ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アウトドアな子が多いって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テレビでやっていたわ\\kw[1]"
+                                "I saw on TV recently that many kids who enjoy camping as a\nhobby are outdoorsy\\kw[1]"
                             ]
                         },
                         {
@@ -2261,7 +2184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ～……"
+                                "Oh really~......"
                             ]
                         },
                         {
@@ -2310,14 +2233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キャンプってなんとなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夏のイメージあるけど…"
+                                "I somehow have an image of camping being a summer thing..."
                             ]
                         },
                         {
@@ -2366,7 +2282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冬のキャンプも人気なんだ？"
+                                "Winter camping is popular too?"
                             ]
                         },
                         {
@@ -2438,21 +2354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かに考えてみたら夏は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャンプスポットに人が集まるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "虫とかもスゴそうだね～……"
+                                "Indeed, if you think about it, summer attracts people to\ncamping spots, and the bugs seem to be pretty intense\ntoo~......"
                             ]
                         },
                         {
@@ -2524,14 +2426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "時期的にも空気も澄んでいて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜の星空がより綺麗なんだそうよ\\kw[1]"
+                                "I heard that due to the season, the air is clearer and the\nnight sky is even more beautiful\\kw[1]"
                             ]
                         },
                         {
@@ -2603,14 +2498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな寒空の下"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よーやりますわ……"
+                                "They really do it under such a cold sky......"
                             ]
                         },
                         {
@@ -2653,7 +2541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は\\c[14]家キャン\\c[0]で良いかな～"
+                                "I think I'm good with \\c[14]home camping\\c[0]~"
                             ]
                         },
                         {
@@ -2747,7 +2635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]家キャン\\c[0]ってなに……？"
+                                "\\c[14]What is home camping\\c[0]?......"
                             ]
                         },
                         {
@@ -2819,7 +2707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あははは"
+                                "Ahahaha"
                             ]
                         },
                         {
@@ -2846,14 +2734,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へぇ……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "キャンプかぁ…"
+                                "Oh really~......\\. Camping, huh?..."
                             ]
                         },
                         {
@@ -2902,14 +2783,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっと河原を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "覗いてみようかな…？"
+                                "Should I take a peek at the riverbank...?"
                             ]
                         },
                         {
@@ -2978,7 +2852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうして朝食を過ごしたよ！"
+                                ">We spent the morning like this!"
                             ]
                         },
                         {
@@ -3004,21 +2878,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "＞若い子を中心に冬キャンが流行ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　らしい！スズカさんも楽しそうにして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　るし、僕も始めてみようかな？"
+                                ">It seems that winter camping is popular, especially among\nyoung people! Suzuka seems to be having fun too, maybe I\nshould try it out?"
                             ]
                         },
                         {
@@ -3045,21 +2905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "＞若い子を中心に冬キャンが流行ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　らしい！\\c[14]河原\\c[0]でテントを見かけたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ちょっと覗いてみようかな？"
+                                ">It seems that winter camping is popular, especially among\nyoung people! Maybe I should take a peek if I see a tent at\nthe riverbank? \\c[14] \\c[0]"
                             ]
                         },
                         {

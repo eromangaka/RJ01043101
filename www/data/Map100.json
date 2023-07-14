@@ -1426,14 +1426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ミズキさん"
+                                "Mizuki-san"
                             ]
                         },
                         {
@@ -1530,7 +1523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、太郎"
+                                "Oh, Taro."
                             ]
                         },
                         {
@@ -1547,14 +1540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "知り合いだからって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キチンと取るものは取るわよ"
+                                "Just because we're acquaintances doesn't mean I won't take\nwhat's rightfully mine."
                             ]
                         },
                         {
@@ -1578,7 +1564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あはは……"
+                                "Ah, ahaha ......"
                             ]
                         },
                         {
@@ -1653,14 +1639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっと…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "占いはどう？順調？"
+                                "Um, how about fortune-telling? Is it going well?"
                             ]
                         },
                         {
@@ -1716,7 +1695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何よ急に改まって……"
+                                "Why are you suddenly being so formal?"
                             ]
                         },
                         {
@@ -1777,14 +1756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうもこうも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フツーよフツー"
+                                "Well, well, just normal, just normal."
                             ]
                         },
                         {
@@ -1801,21 +1773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎と別れてその翌日に……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あのあと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "２～３人来たくらいかな？"
+                                "After breaking up with Taro, the next day ......\\., after\nthat ......, about 2-3 people came, I guess?"
                             ]
                         },
                         {
@@ -1871,7 +1829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなんだ"
+                                "Is that so?"
                             ]
                         },
                         {
@@ -1953,7 +1911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、そうそう"
+                                "Oh, right, right."
                             ]
                         },
                         {
@@ -1970,14 +1928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その中で\\c[14]凄い肩書\\c[0]を持った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客さんが来てビックリしちゃった"
+                                "Among them, a customer with an impressive title \\c[14] came\nand I was surprised."
                             ]
                         },
                         {
@@ -2033,7 +1984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -2089,14 +2040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アンタも知ってるような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "有名会社の社長さんよ"
+                                "The president of a famous company that you also know."
                             ]
                         },
                         {
@@ -2145,14 +2089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "藁にもすがるような勢いで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "社運を占って欲しいって来てさ…"
+                                "They came to me desperately, asking me to predict the\ncompany's future ..."
                             ]
                         },
                         {
@@ -2223,21 +2160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "流石に占いに失敗する訳にも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いかないし、あの時はちょっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊張したかなー…"
+                                "I can't afford to fail at fortune-telling, so I was a little\nnervous at that time, I guess."
                             ]
                         },
                         {
@@ -2287,7 +2210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（……！）"
+                                "\\c[14]（......！）"
                             ]
                         },
                         {
@@ -2383,14 +2306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（あの時うなだれてた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　社会人の人……）"
+                                "\\c[14] (At that time, I was bowing my head, a working adult\n......)"
                             ]
                         },
                         {
@@ -2461,14 +2377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（あの人社長さん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だったんだ……！）"
+                                "\\c[14] (That person was the president! ......!)"
                             ]
                         },
                         {
@@ -2568,7 +2477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それで……"
+                                "So, and then ......"
                             ]
                         },
                         {
@@ -2585,7 +2494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "社運はどうなったの…？"
+                                "What happened to the company's fortunes?"
                             ]
                         },
                         {
@@ -2667,14 +2576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんと次の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プロジェクトが大当たり"
+                                "The next project was a big hit."
                             ]
                         },
                         {
@@ -2691,21 +2593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "傾きつつあった会社を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "立て直せるくらいに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "莫大な利益が出るそうよ"
+                                "It seems that a huge profit was made to the extent that the\ncompany, which was on the verge of decline, could be\nrevived."
                             ]
                         },
                         {
@@ -2766,14 +2654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "羨ましいわね本当"
+                                "Sigh~ I'm really envious."
                             ]
                         },
                         {
@@ -2797,7 +2678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなんだ……"
+                                "Is that so?"
                             ]
                         },
                         {
@@ -2814,7 +2695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "良かった…"
+                                "I'm glad."
                             ]
                         },
                         {
@@ -2870,14 +2751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんでアンタが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホッとするのよ"
+                                "Why are you relieved?"
                             ]
                         },
                         {
@@ -2955,7 +2829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ！？"
+                                "Eh!?"
                             ]
                         },
                         {
@@ -3026,21 +2900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、いや…！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕も知ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "会社みたいだし…！"
+                                "No, no! I also know about the company, you know!"
                             ]
                         },
                         {
@@ -3089,21 +2949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームや玩具の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "会社だったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌だなと思って…"
+                                "I thought it would be unpleasant if it were a company of\ngames and toys."
                             ]
                         },
                         {
@@ -3120,7 +2966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははは…"
+                                "Ahahaha..."
                             ]
                         },
                         {
@@ -3188,7 +3034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふーん……"
+                                "Hmm..."
                             ]
                         },
                         {
@@ -3237,7 +3083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、いいけど"
+                                "Well, it's fine."
                             ]
                         },
                         {
@@ -3254,7 +3100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -3336,14 +3182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……アンタも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１つ占っていく？"
+                                "......Would you like me to read your fortune too?"
                             ]
                         },
                         {
@@ -3421,7 +3260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…え？"
+                                "...Eh?"
                             ]
                         },
                         {
@@ -3470,14 +3309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金取るんでしょ？"
+                                "But ......, you're going to charge money, right?"
                             ]
                         },
                         {
@@ -3545,7 +3377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "良いわよ別にお金なんて"
+                                "It's fine, it's not like I need money or anything."
                             ]
                         },
                         {
@@ -3594,14 +3426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこにいられると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客さん来にくいでしょ？"
+                                "If you stay there, it will be difficult for customers to\ncome, right?"
                             ]
                         },
                         {
@@ -3650,14 +3475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、もっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっち寄りなさい"
+                                "Come closer over here."
                             ]
                         },
                         {
@@ -3713,7 +3531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、うん！"
+                                "Uh, yeah!"
                             ]
                         },
                         {
@@ -3762,14 +3580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ミズキさん！"
+                                "Thank you, Mizuki-san!"
                             ]
                         },
                         {
@@ -3828,7 +3639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうしてミズキさんと過ごしたよ！"
+                                "I spent time with Mizuki-san like this!"
                             ]
                         },
                         {
@@ -3845,21 +3656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞ミズキさん、少し元気になったみたい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この調子で色んな人にミズキさんを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　知ってもらえたら良いな！"
+                                "> Mizuki-san, it seems like you've become a little more\nenergetic! It would be great if more people could get to\nknow Mizuki-san like this!"
                             ]
                         },
                         {

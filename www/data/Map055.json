@@ -1412,7 +1412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手持ちのアイテムを復元"
+                                "Restore the items in hand."
                             ]
                         },
                         {
@@ -1591,7 +1591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "変数1にアイテムリストを保存"
+                                "Save the item list to variable 1"
                             ]
                         },
                         {
@@ -1777,7 +1777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手持ちのアイテムを消去"
+                                "Delete the items in hand."
                             ]
                         },
                         {

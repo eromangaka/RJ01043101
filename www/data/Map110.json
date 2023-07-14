@@ -1508,7 +1508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>女の子「\\<え～んえ～ん"
+                                "\\>Girl: \\<Waaaah waaaah"
                             ]
                         },
                         {
@@ -1547,7 +1547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>男の子「\\<ほら、泣くなよもう……"
+                                "\\>Boy: \\<Hey, don't cry anymore. ......"
                             ]
                         },
                         {
@@ -1564,14 +1564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>男の子「\\<ぬいぐるみなんか無くたって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<お兄ちゃんがいるだろ？"
+                                "\\>Boy: \\<Even without a stuffed animal, \\> \\<you have your\nbig brother, right?"
                             ]
                         },
                         {
@@ -1610,7 +1603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>女の子「\\<私のジュリーちゃんが～！"
+                                "\\>Girl: \\<My Julie-chan is~!"
                             ]
                         },
                         {
@@ -1739,7 +1732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、あの子……"
+                                "Oh, that child ......"
                             ]
                         },
                         {
@@ -1795,7 +1788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの？"
+                                "What's wrong?"
                             ]
                         },
                         {
@@ -1857,7 +1850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>男の子「\\<あ……"
+                                "Boy: What's wrong?"
                             ]
                         },
                         {
@@ -1874,14 +1867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>男の子「\\<いや、こいつがぬいぐるみを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<どこかに落としたみたいで……"
+                                "Boy: No, it seems like this stuffed animal has been dropped\nsomewhere."
                             ]
                         },
                         {
@@ -1920,14 +1906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>女の子「\\<私のジュリーちゃん…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<どこにもいないの……"
+                                "Girl: My Julie-chan is nowhere to be found."
                             ]
                         },
                         {
@@ -1995,7 +1974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あらあら、それは大変ね"
+                                "Oh my, that's troublesome."
                             ]
                         },
                         {
@@ -2082,14 +2061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "待ってて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉さんが見つけてあげるから"
+                                "Wait, I'll find it for you, big sister."
                             ]
                         },
                         {
@@ -2106,14 +2078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからほら……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう、泣かないの"
+                                "So, look ......\\., don't cry anymore."
                             ]
                         },
                         {
@@ -2153,7 +2118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>女の子「\\<……ぐすっ"
+                                "Girl: *sniffle*"
                             ]
                         },
                         {
@@ -2170,7 +2135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>女の子「\\<……本当に見つけてくれるの？"
+                                "Girl: Are you really going to find it for me?"
                             ]
                         },
                         {
@@ -2194,14 +2159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当よ、\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉さん凄いんだから\\kw[1]"
+                                "Really, \\. big sister is amazing, you know\\kw[1]."
                             ]
                         },
                         {
@@ -2254,7 +2212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん……"
+                                "Mizuki-san ......"
                             ]
                         },
                         {
@@ -2271,14 +2229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "占いでぬいぐるみを？"
+                                "Could it be that you're trying to find the stuffed animal\nthrough fortune-telling?"
                             ]
                         },
                         {
@@ -2334,7 +2285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ"
+                                "Yes"
                             ]
                         },
                         {
@@ -2412,14 +2363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "占いなんかしたら…"
+                                "If we do fortune-telling here ..."
                             ]
                         },
                         {
@@ -2436,14 +2380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また人集りが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "できるんじゃ……"
+                                "We can gather people again, right?"
                             ]
                         },
                         {
@@ -2511,14 +2448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……\\.アンタが連れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きておいてよく言うわ…"
+                                "You're coming and yet you have the nerve to say that."
                             ]
                         },
                         {
@@ -2640,21 +2570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……占いなんてものはね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういう子達に使うのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一番なのよ"
+                                "Fortune-telling is the best thing to use for kids like this."
                             ]
                         },
                         {
@@ -2715,7 +2631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "会社がどうだの利益がどうだの……"
+                                "Talking about the company and profits and all that ......"
                             ]
                         },
                         {
@@ -2732,14 +2648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "占いが大人の社会に利用されるのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のポリシーじゃないわ"
+                                "Using fortune-telling in the adult society is not my policy."
                             ]
                         },
                         {
@@ -2817,7 +2726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……"
+                                "Ah"
                             ]
                         },
                         {
@@ -2857,7 +2766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>女の子「\\<…お姉ちゃん、占い師なの？"
+                                "\\>Girl: \\<...Big sister, are you a fortune-teller?"
                             ]
                         },
                         {
@@ -2874,14 +2783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>男の子「\\<占い師だぁ～…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<どうも怪しいなぁ……"
+                                "\\>Boy: \\<Are you a fortune-teller? ...Hmm, you seem quite\nsuspicious."
                             ]
                         },
                         {
@@ -2937,14 +2839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うるさいガキんちょだこと"
+                                "Oh, ...... you noisy brat."
                             ]
                         },
                         {
@@ -3000,7 +2895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ見てなさいって"
+                                "Well, just watch."
                             ]
                         },
                         {
@@ -3087,14 +2982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私こう見えても、そこそこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]人気の占い師\\c[0]なんだから\\kw[1]"
+                                "Despite how I may appear, I'm actually a fairly popular\nfortune-teller."
                             ]
                         },
                         {
@@ -3140,7 +3028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん……"
+                                "Mizuki-san ......"
                             ]
                         },
                         {
@@ -3327,14 +3215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>女の子「\\<わああああん！ジュリーちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<会いたかったよ～！"
+                                "\\>Girl: Wow! Julie-chan! \\> I missed you so much~!"
                             ]
                         },
                         {
@@ -3351,14 +3232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>女の子「\\<探してくれてありがとう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<お姉ちゃん！"
+                                "\\>Girl: \\<Thank you for finding me! \\> \\<Big sister!"
                             ]
                         },
                         {
@@ -3426,7 +3300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どういたしまして\\kw[1]"
+                                "You're welcome \\kw[1]"
                             ]
                         },
                         {
@@ -3466,7 +3340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>男の子「\\<…………"
+                                "Boy: \\<............"
                             ]
                         },
                         {
@@ -3483,14 +3357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>男の子「\\<まったく……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<人騒がせな奴だよな"
+                                "Boy: Seriously, she's such a noisy person."
                             ]
                         },
                         {
@@ -3507,14 +3374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>男の子「\\<ぬいぐるみ一つで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<大袈裟なんだよお前は……"
+                                "Boy: You're exaggerating so much with just one stuffed\nanimal, aren't you?"
                             ]
                         },
                         {
@@ -3582,7 +3442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……とか言って…"
+                                "Saying things like ...... and ...."
                             ]
                         },
                         {
@@ -3657,14 +3517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "妹ちゃんを一番心配してたのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方だったじゃないの"
+                                "You were the one who was most worried about your little\nsister, weren't you?"
                             ]
                         },
                         {
@@ -3726,7 +3579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>男の子「\\<ぐ…っ！"
+                                "Boy: Guh!"
                             ]
                         },
                         {
@@ -3750,21 +3603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬいぐるみの場所が分かった時、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真っ先に向かって行ったのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何処の誰だったかしらね～"
+                                "I wonder who was the first to head straight to the location\nof the stuffed animal when they found out where it was~"
                             ]
                         },
                         {
@@ -3781,7 +3620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当、素直じゃないんだから"
+                                "Seriously, you're not being honest."
                             ]
                         },
                         {
@@ -3843,7 +3682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>男の子「\\<う、うるさい！"
+                                "Boy: Y-You're noisy!"
                             ]
                         },
                         {
@@ -3860,14 +3699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>女の子「\\<お兄ちゃんも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<一緒に探してくれてありがとう！"
+                                "\\>Girl: \\<Thank you for searching together with me, big\nbrother!"
                             ]
                         },
                         {
@@ -3906,14 +3738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>男の子「\\<………ばっ\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<べ、べつにお前の為じゃ…"
+                                "Boy: U-Um, it's not like I did it for your sake or\nanything..."
                             ]
                         },
                         {
@@ -3949,7 +3774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
+                                "Hehe\\kw[1]"
                             ]
                         },
                         {
@@ -4011,14 +3836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>男の子「\\<ほ、ほら！もう帰るぞ！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<母ちゃん達が待ってるんだから！"
+                                "\\>Boy: \\<H-Hey! Let's go home already! \\. \\> \\<Mom and the\nothers are waiting!"
                             ]
                         },
                         {
@@ -4035,7 +3853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>女の子「\\<うん！"
+                                "\\>Girl: \\<Yes!"
                             ]
                         },
                         {
@@ -4052,7 +3870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>男の子「\\<………あ…"
+                                "Boy: Uh, thank you..."
                             ]
                         },
                         {
@@ -4069,7 +3887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>男の子「\\<ありがとな…、姉ちゃん……"
+                                "Boy: Thank you, big sister..."
                             ]
                         },
                         {
@@ -4151,7 +3969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！"
+                                "......！"
                             ]
                         },
                         {
@@ -4212,7 +4030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あらあら\\kw[1]"
+                                "Oh my, oh my \\kw[1]"
                             ]
                         },
                         {
@@ -4274,14 +4092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>男の子「\\<ほ、ほら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<お前もちゃんとお礼言うんだよ！"
+                                "Boy: H-Hey! Look! You, too, should say thank you properly!"
                             ]
                         },
                         {
@@ -4298,14 +4109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>女の子「\\<うん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<ありがとう、お姉ちゃん！"
+                                "Girl: Yeah! Thank you, big sister!"
                             ]
                         },
                         {
@@ -4361,7 +4165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ\\kw[1]"
+                                "Yes"
                             ]
                         },
                         {
@@ -4410,7 +4214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう無くしたら駄目よ？"
+                                "You can't lose it anymore, okay?"
                             ]
                         },
                         {
@@ -4471,7 +4275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大切なお友達なんだから\\kw[1]"
+                                "Because they are important friends \\kw[1]"
                             ]
                         },
                         {
@@ -4511,7 +4315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>女の子「\\<……うん！"
+                                "Girl: Yeah!"
                             ]
                         },
                         {
@@ -4635,7 +4439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ……"
+                                "Ehehe ......"
                             ]
                         },
                         {
@@ -4691,7 +4495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……なによ？"
+                                "What is it?"
                             ]
                         },
                         {
@@ -4747,7 +4551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや……"
+                                "No ......"
                             ]
                         },
                         {
@@ -4764,14 +4568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさんって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも素っ気ないのに…"
+                                "Mizuki-san is always so cold..."
                             ]
                         },
                         {
@@ -4846,14 +4643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "意外な一面が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見れたな～って…"
+                                "I saw an unexpected side of you~ ..."
                             ]
                         },
                         {
@@ -4921,7 +4711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な～にが意外なのよ"
+                                "What's surprising?"
                             ]
                         },
                         {
@@ -4938,21 +4728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっけない態度取るのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタだけで、こんなの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フツーよフツー"
+                                "You're the only one who takes such a cold attitude, this is\nnormal, normal."
                             ]
                         },
                         {
@@ -5030,7 +4806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうなの！？"
+                                "I-Is that so!?"
                             ]
                         },
                         {
@@ -5069,7 +4845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんで僕にだけ…"
+                                "W-Why only me?"
                             ]
                         },
                         {
@@ -5147,7 +4923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんで、って……"
+                                "Why, you ask?"
                             ]
                         },
                         {
@@ -5164,7 +4940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -5239,7 +5015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あ"
+                                "......Ah"
                             ]
                         },
                         {
@@ -5295,14 +5071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたの？"
+                                "...... ? \\. What's wrong?"
                             ]
                         },
                         {
@@ -5380,7 +5149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、あの男の子……"
+                                "No, that boy ......"
                             ]
                         },
                         {
@@ -5397,14 +5166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんか私に似てるなぁって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ってたんだけど……"
+                                "I've been thinking that he looks similar to me, somehow."
                             ]
                         },
                         {
@@ -5421,7 +5183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -5470,7 +5232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっか……"
+                                "I see"
                             ]
                         },
                         {
@@ -5519,7 +5281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…私もあの子を見習わないとね"
+                                "I also need to learn from that child."
                             ]
                         },
                         {
@@ -5543,7 +5305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん…？"
+                                "Mizuki-san?"
                             ]
                         },
                         {
@@ -5648,7 +5410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>＞ベシッ\\<\\^"
+                                ">Beshi"
                             ]
                         },
                         {
@@ -5704,7 +5466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いたっ！"
+                                "Ouch!"
                             ]
                         },
                         {
@@ -5775,14 +5537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんで今"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "叩いたの！？"
+                                "W-Why did you hit me just now!?"
                             ]
                         },
                         {
@@ -5850,7 +5605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………\\.知りません"
+                                "I don't know."
                             ]
                         },
                         {
@@ -5930,14 +5685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうして兄妹の探しものを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お手伝いしたよ！"
+                                ">I helped them search for their lost item like this!"
                             ]
                         },
                         {
@@ -5954,21 +5702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞なんだかいつものミズキさんじゃない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　みたいで不思議な感覚だった！でも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕にだけ何で素っ気ないんだろう？"
+                                ">It feels like Mizuki-san is somehow different from usual.\nIt's a strange sensation! But why is she being cold only to\nme?"
                             ]
                         },
                         {

@@ -69812,14 +69812,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【RESULT】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\> MAXCOMBO ： \\C[14]\\V[1999]\\C[0]\\<　\\>MISS ： \\C[14]\\V[1992]\\C[0]\\<"
+                                "\\>【RESULT】\\< \\> MAXCOMBO ： \\C[14]\\V[1999]\\C[0]\\<　\\>MISS ：\n\\C[14]\\V[1992]\\C[0]\\<"
                             ]
                         },
                         {
@@ -69871,14 +69864,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【RESULT】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>\\c[14] MAXCOMBO 50 BONUS!!　+50pt\\<"
+                                "\\>【RESULT】\\< \\>\\c[14] MAXCOMBO 50 BONUS!!　+50pt\\<"
                             ]
                         },
                         {
@@ -69951,14 +69937,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\>【RESULT】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\>\\c[14] MAXCOMBO 40 BONUS!!　+40pt\\<"
+                                "\\>【RESULT】\\< \\>\\c[14] MAXCOMBO 40 BONUS!!　+40pt\\<"
                             ]
                         },
                         {
@@ -70031,14 +70010,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\>【RESULT】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\>\\c[14] MAXCOMBO 30 BONUS!!　+30pt\\<"
+                                "\\>【RESULT】\\< \\>\\c[14] MAXCOMBO 30 BONUS!!　+30pt\\<"
                             ]
                         },
                         {
@@ -70111,14 +70083,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\>【RESULT】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\>\\c[14] MAXCOMBO 20 BONUS!!　+20pt\\<"
+                                "\\>【RESULT】\\< \\>\\c[14] MAXCOMBO 20 BONUS!!　+20pt\\<"
                             ]
                         },
                         {
@@ -70191,14 +70156,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\>【RESULT】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\>\\c[14] MAXCOMBO 10 BONUS!!　+10pt\\<"
+                                "\\>【RESULT】\\< \\>\\c[14] MAXCOMBO 10 BONUS!!　+10pt\\<"
                             ]
                         },
                         {
@@ -70336,14 +70294,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\>【RESULT】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\>\\c[14] PERFECT BONUS!!　+50pt\\<"
+                                "\\>【RESULT】\\< \\>\\c[14] PERFECT BONUS!!　+50pt\\<"
                             ]
                         },
                         {
@@ -70479,21 +70430,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【RESULT】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\> 慰謝料　： \\C[10]-\\V[2002]\\C[0]円\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\> 給料 　 ： \\C[14]+\\V[1991]\\C[0]円\\<"
+                                "\\> Salary: \\C[14]+\\V[1991]\\C[0] yen\\<"
                             ]
                         },
                         {

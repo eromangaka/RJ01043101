@@ -3764,7 +3764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -3781,7 +3781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "............"
                             ]
                         },
                         {
@@ -3820,7 +3820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ん"
+                                "......Hmm"
                             ]
                         },
                         {
@@ -3986,7 +3986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれ……"
+                                "That ......"
                             ]
                         },
                         {
@@ -4003,7 +4003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この音……"
+                                "This sound......"
                             ]
                         },
                         {
@@ -4027,7 +4027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "車の音………？"
+                                "Sound of a car?"
                             ]
                         },
                         {
@@ -4138,7 +4138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -4177,7 +4177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは……"
+                                "This is ......."
                             ]
                         },
                         {
@@ -4307,7 +4307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、起きた起きた\\kw[1]"
+                                "Oh, you're awake, you're awake \\kw[1]"
                             ]
                         },
                         {
@@ -4379,7 +4379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おはよう太郎君\\kw[1]"
+                                "Good morning, Taro-kun \\kw[1]"
                             ]
                         },
                         {
@@ -4403,14 +4403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おはよう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結衣お姉ちゃん…"
+                                "Good morning, Yui-chan."
                             ]
                         },
                         {
@@ -4481,7 +4474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………って"
+                                "What?"
                             ]
                         },
                         {
@@ -4552,7 +4545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あれ！？"
+                                "Ah, what's that!?"
                             ]
                         },
                         {
@@ -4569,14 +4562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ど、どこに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "向かってるの？"
+                                "W-Where are you heading?"
                             ]
                         },
                         {
@@ -4643,7 +4629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふっふっふ…\\kw[1]"
+                                "Hehehe ...\\\\kw[1]"
                             ]
                         },
                         {
@@ -4686,14 +4672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実はこれから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]初日の出\\c[0]を見に行きまーす"
+                                "Actually, I'm going to see the sunrise on the first day of\nthe year."
                             ]
                         },
                         {
@@ -4749,7 +4728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]初日の出\\c[0]…？"
+                                "First sunrise?"
                             ]
                         },
                         {
@@ -4828,7 +4807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう\\kw[1]"
+                                "Yes"
                             ]
                         },
                         {
@@ -4888,14 +4867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "高山って山から日の出が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "綺麗に見えるんだ\\kw[1]"
+                                "In Takayama, you can see a beautiful sunrise from the\nmountains."
                             ]
                         },
                         {
@@ -4912,14 +4884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "都会じゃなかなか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見る機会ないでしょ？"
+                                "In the city, it's not easy to have the opportunity to see\nit, right?"
                             ]
                         },
                         {
@@ -4968,14 +4933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だから太郎君に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サプライズしようと思って\\kw[1]"
+                                "So I was thinking of surprising Taro-kun \\kw[1]"
                             ]
                         },
                         {
@@ -5021,7 +4979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結衣お姉ちゃん…"
+                                "Yui, big sister"
                             ]
                         },
                         {
@@ -5100,14 +5058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "天気も良いみたいだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと綺麗に見れると思うわ\\kw[1]"
+                                "The weather seems good, so I think we'll be able to see it\nbeautifully."
                             ]
                         },
                         {
@@ -5167,14 +5118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私も久しぶりに見るから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しみだな～\\kw[1]"
+                                "I'm looking forward to it too since it's been a while since\nI last saw it~"
                             ]
                         },
                         {
@@ -5198,7 +5142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなんだ…"
+                                "Is that so?"
                             ]
                         },
                         {
@@ -5247,7 +5191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ…！"
+                                "Hehehe!"
                             ]
                         },
                         {
@@ -5264,14 +5208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結衣お姉ちゃん！"
+                                "Thank you, big sister Yui!"
                             ]
                         },
                         {
@@ -5350,14 +5287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "喜んでもらえて良かった\\kw[1]"
+                                "Hehe, I'm glad you're happy."
                             ]
                         },
                         {
@@ -5452,21 +5382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ところで……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごく幸せそうな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔して眠ってたけど……"
+                                "By the way, you were sleeping with such a happy expression\non your face."
                             ]
                         },
                         {
@@ -5552,7 +5468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]初夢\\c[0]でも見てたのかな？"
+                                "Did you see your first dream?"
                             ]
                         },
                         {
@@ -5630,7 +5546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]初夢\\c[0]……"
+                                "First dream"
                             ]
                         },
                         {
@@ -5679,7 +5595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういえば…"
+                                "By the way,"
                             ]
                         },
                         {
@@ -5696,14 +5612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見たような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見てないような…"
+                                "It's like I saw it, but also like I didn't see it. ..."
                             ]
                         },
                         {
@@ -5804,14 +5713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あちゃ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎もかぁ…"
+                                "Oh, Taro too, huh? ..."
                             ]
                         },
                         {
@@ -5828,14 +5730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夢ってなんで起きたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ忘れちゃうもんかね～"
+                                "Why do we forget our dreams as soon as we wake up?"
                             ]
                         },
                         {
@@ -5891,7 +5786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははは…"
+                                "Ahahaha..."
                             ]
                         },
                         {
@@ -5940,7 +5835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結衣お姉ちゃんは？"
+                                "Where is big sister Yui?"
                             ]
                         },
                         {
@@ -6007,7 +5902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私もおぼろげ…"
+                                "I also vaguely ..."
                             ]
                         },
                         {
@@ -6056,21 +5951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも太郎君は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんなに幸せそうな顔で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝てたんだから……"
+                                "But Taro-kun was sleeping with such a happy expression on\nhis face."
                             ]
                         },
                         {
@@ -6119,14 +6000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きっと良い夢"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見てたんだろうね\\kw[1]"
+                                "You must have had a good dream, right?"
                             ]
                         },
                         {
@@ -6204,7 +6078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうかな？"
+                                "Is that so?"
                             ]
                         },
                         {
@@ -6283,7 +6157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
+                                "Hehe \\kw[1]"
                             ]
                         },
                         {
@@ -6326,14 +6200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]初夢は正夢になりやすい\\c[0]って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かの本で読んだことがあるわ\\kw[1]"
+                                "I read somewhere that the first dream is more likely to come\ntrue."
                             ]
                         },
                         {
@@ -6350,14 +6217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君にとって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今年も良い１年になりそうね\\kw[1]"
+                                "It looks like it will be a good year for Taro-kun again,\nright?"
                             ]
                         },
                         {
@@ -6381,7 +6241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ…"
+                                "Hehe ..."
                             ]
                         },
                         {
@@ -6398,7 +6258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだと良いな！"
+                                "I hope so!"
                             ]
                         },
                         {
@@ -6515,14 +6375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、懐中電灯を持った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客さんがちらほら見えてきた"
+                                "Oh, I see some customers with flashlights here and there."
                             ]
                         },
                         {
@@ -6539,14 +6392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そろそろ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "高山が見えてくる頃かな"
+                                "I wonder if it's about time we can see the mountains."
                             ]
                         },
                         {
@@ -6625,14 +6471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎、早く降りる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備した方が良いんじゃない？"
+                                "Taro, you should get ready to get off soon, shouldn't you?"
                             ]
                         },
                         {
@@ -6714,7 +6553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうして？"
+                                "Why?"
                             ]
                         },
                         {
@@ -6770,14 +6609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "初日の出を見に来る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客さんは多いからね～"
+                                "There are many customers coming to see the first sunrise,\nyou know~"
                             ]
                         },
                         {
@@ -6833,14 +6665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポジション取りが遅れると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎の身長じゃ見れないかも…\\kw[1]"
+                                "If we're late in securing a position, we might not be able\nto see Taro's height. ...\\"
                             ]
                         },
                         {
@@ -6918,7 +6743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、ええっ！？"
+                                "Huh, huh!?"
                             ]
                         },
                         {
@@ -6967,14 +6792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急いで支度しないと…！"
+                                "So, we need to hurry and get ready!"
                             ]
                         },
                         {
@@ -7053,14 +6871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう、莉音ねえったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また太郎君をからかって…"
+                                "Oh, Rio, you're teasing Taro again, aren't you?"
                             ]
                         },
                         {
@@ -7149,7 +6960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>あははは！\\<\\^"
+                                "\\>Ahahaha! \\<\\^"
                             ]
                         },
                         {
@@ -7189,7 +7000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞あははははは！"
+                                ">Ahahaha!"
                             ]
                         },
                         {
@@ -7528,14 +7339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ…っ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はあ……っ"
+                                "Haa... Haa..."
                             ]
                         },
                         {
@@ -7574,14 +7378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょ、ちょっと太郎…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早すぎだから…っ"
+                                "Hey, hey Taro! It's too early, you know~"
                             ]
                         },
                         {
@@ -7612,7 +7409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって……"
+                                "Because ......"
                             ]
                         },
                         {
@@ -7661,21 +7458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "莉音ねえが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早くしないとって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言うから……"
+                                "Rio-neechan is saying that we need to hurry."
                             ]
                         },
                         {
@@ -7711,14 +7494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はいはい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が悪うございました…"
+                                "Yes, yes .... I apologize for my mistake ...."
                             ]
                         },
                         {
@@ -7790,7 +7566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
+                                "Hehe \\kw[1]"
                             ]
                         },
                         {
@@ -7807,14 +7583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特等席が取れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かったわね、太郎君\\kw[1]"
+                                "It's good that we were able to get first-class seats, Taro-\nkun."
                             ]
                         },
                         {
@@ -7838,7 +7607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -7917,21 +7686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スマホの情報だと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう少しで時間"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みたいだけど……"
+                                "According to the smartphone information, it seems like\nthere's a little more time left."
                             ]
                         },
                         {
@@ -7948,14 +7703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どの辺りに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見えてくるの？"
+                                "Where will it appear around here?"
                             ]
                         },
                         {
@@ -8004,14 +7752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "方角的にほら…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの山の谷間あたりじゃないか"
+                                "I think it's in the valley of that mountain over there, in\nthat direction."
                             ]
                         },
                         {
@@ -8028,14 +7769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "随分前に見に行った時も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの辺りだったと思うよ"
+                                "I think it was around that area when we went to see it a\nwhile ago."
                             ]
                         },
                         {
@@ -8107,7 +7841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ\\kw[1]"
+                                "Yes"
                             ]
                         },
                         {
@@ -8167,14 +7901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "日が昇って辺り一面が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩られていくあの瞬間…"
+                                "The moment when the sun rises and colors the entire\nsurroundings ..."
                             ]
                         },
                         {
@@ -8191,14 +7918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きっと太郎君、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "驚くと思うわ…\\kw[1]"
+                                "Taro-kun, I'm sure you'll be surprised."
                             ]
                         },
                         {
@@ -8270,14 +7990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しみだね、太郎君\\kw[1]"
+                                "Hehe... I'm looking forward to it, Taro-kun\\kw[1]"
                             ]
                         },
                         {
@@ -8433,7 +8146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あ！"
+                                "Oh!"
                             ]
                         },
                         {
@@ -8916,7 +8629,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……っ"
+                                "......"
                             ]
                         },
                         {
@@ -8955,7 +8668,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…太郎…っ？"
+                                "Taro?"
                             ]
                         },
                         {
@@ -9113,7 +8826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……あれ？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -9192,14 +8905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ビックリした…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "急に黙り込むから……"
+                                "I was surprised ... because you suddenly fell silent ......"
                             ]
                         },
                         {
@@ -9271,7 +8977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふふっ\\kw[1]"
+                                "Hehe\\kw[1]"
                             ]
                         },
                         {
@@ -9331,14 +9037,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "景色に感動して言葉を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "失っちゃったのかな？\\kw[1]"
+                                "Did you get so moved by the scenery that you lost your\nwords?"
                             ]
                         },
                         {
@@ -9416,7 +9115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ……"
+                                "Ah"
                             ]
                         },
                         {
@@ -9433,14 +9132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うん…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんな感じ…"
+                                "Yeah ..., that's the feeling ...."
                             ]
                         },
                         {
@@ -9519,7 +9211,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふふっ\\kw[1]"
+                                "Hehe\\kw[1]"
                             ]
                         },
                         {
@@ -9536,14 +9228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "改めて、今年もよろしくね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "太郎君\\kw[1]"
+                                "Once again, nice to meet you this year, Taro-kun."
                             ]
                         },
                         {
@@ -9567,7 +9252,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -9719,14 +9404,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>莉音「\\<おお～……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　　\\<こりゃ凄い……"
+                                "\\>Rio: Oh~ ......This is amazing, \\<Rio."
                             ]
                         },
                         {
@@ -9786,14 +9464,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>結衣「\\<本当……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　　\\<…綺麗……"
+                                "Yui: It's really... beautiful."
                             ]
                         },
                         {
@@ -9865,14 +9536,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>美雪「\\<ええ本当……\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　　\\<久しぶりに見に来たけど……"
+                                "\\>Miyuki: \\<Oh, really......\\kw[1] \\>　　　\\<It's been a while\nsince I last came to see it, but......"
                             ]
                         },
                         {
@@ -9921,14 +9585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>叔父「\\<ああ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　　\\<見に来た甲斐があったね"
+                                "\\>Uncle: \\<Ah, ... \\>　　　\\<it was worth coming to see it."
                             ]
                         },
                         {
@@ -9998,7 +9655,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -10105,14 +9762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>莉音「\\<あれ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　　\\<太郎？"
+                                "\\>Rio: \\<That... ......Taro?"
                             ]
                         },
                         {
@@ -10204,14 +9854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ…っ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ごめん……"
+                                "Ah, sorry."
                             ]
                         },
                         {
@@ -10260,7 +9903,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "凄い綺麗だったから…"
+                                "It was so beautiful."
                             ]
                         },
                         {
@@ -10341,14 +9984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>結衣「\\<ふふ…っ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　　\\<感動で言葉を失くしちゃった？\\kw[1]"
+                                "Yui: Hehe, did you get so moved that you lost your words?"
                             ]
                         },
                         {
@@ -10418,7 +10054,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うん…！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -10435,14 +10071,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こんな綺麗な景色"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "初めて見たよ…！"
+                                "I saw such a beautiful view for the first time!"
                             ]
                         },
                         {
@@ -10459,14 +10088,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "連れてきてくれて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ありがとう！"
+                                "Thank you for bringing me along!"
                             ]
                         },
                         {
@@ -10569,7 +10191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
+                                "Hehe\\kw[1]"
                             ]
                         },
                         {
@@ -10586,14 +10208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "改めて今年もよろしくね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君\\kw[1]"
+                                "Nice to meet you again this year, Taro-kun."
                             ]
                         },
                         {
@@ -10663,7 +10278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -10801,14 +10416,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "＞こうして僕は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　\\c[14]1月1日\\c[0]にタイムリープしたよ！"
+                                ">And so, I time-leaped to January 1st!"
                             ]
                         },
                         {
@@ -10825,21 +10433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "＞神様のご利益は本当にあったんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　残りの冬休みの時間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　悔いの無いように過ごそう！"
+                                ">The blessings of the gods were truly real! Let's spend the\nremaining winter vacation time without any regrets!"
                             ]
                         },
                         {
@@ -10944,14 +10538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "＞こうしてお姉ちゃん達と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　初日の出を眺めたよ！"
+                                ">And so, I watched the first sunrise with my older sisters!"
                             ]
                         },
                         {
@@ -10968,21 +10555,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "＞都会じゃ絶対に見ることのできない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　綺麗な景色に感動しちゃった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　皆と見ることができて本当に良かったな！"
+                                ">I was so moved by the beautiful scenery that I can never\nsee in the city! I'm really glad I could see it with\neveryone!"
                             ]
                         },
                         {

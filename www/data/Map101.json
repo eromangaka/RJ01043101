@@ -3581,7 +3581,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>トレーニングを終了しますか？\\<"
+                                "\\>Are you ending the training? \\<"
                             ]
                         },
                         {
@@ -5949,14 +5949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[14]体力が尽きてしまった！\\C[0]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎はその場に倒れ込んだ……。"
+                                "\\C[14]I've run out of energy! \\C[0]\\. Taro collapsed on the\nspot. ......."
                             ]
                         },
                         {

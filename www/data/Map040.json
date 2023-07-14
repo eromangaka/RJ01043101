@@ -1185,7 +1185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以上でα体験版は終わりです、お疲れさまでした。"
+                                "That's the end of the alpha version, thank you for your hard\nwork."
                             ]
                         },
                         {
@@ -1202,21 +1202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから更に内容を充実させ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャラクターのシナリオ、個別イベント等、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盛り沢山の内容にできればと思っております。"
+                                "From here, we hope to further enrich the content, such as\ncharacter scenarios, individual events, etc., and make it\nfull of content."
                             ]
                         },
                         {
@@ -1233,21 +1219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "未完成、未実装部分多くあったかと思いますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現段階でのフィードバックも受け付けておりますので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ci-enの記事にてコメントして頂ければ幸いです。"
+                                "I believe there were many unfinished and unimplemented\nparts, but we are accepting feedback at this stage, so we\nwould appreciate it if you could comment on the Ci-en\narticle."
                             ]
                         },
                         {
@@ -1264,7 +1236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでは、良いクリスマスを(⌒▽⌒)丿"
+                                "Then, have a great Christmas (⌒▽⌒)丿"
                             ]
                         },
                         {

@@ -1485,21 +1485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごーいっ！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君、半年ぶりでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実力は衰えていないみたいだね！"
+                                "It seems like your skills haven't declined!"
                             ]
                         },
                         {
@@ -1562,7 +1548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ、そうかな？"
+                                "Hehe, do you think so?"
                             ]
                         },
                         {
@@ -1579,21 +1565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "久しぶりに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あかりちゃんと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遊べたから…"
+                                "I was able to play with Akari-chan after a long time ..."
                             ]
                         },
                         {
@@ -1610,7 +1582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少し張り切っちゃった"
+                                "I got a little carried away."
                             ]
                         },
                         {
@@ -1646,14 +1618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も負けてられないな\\kw[1]"
+                                "Hehe, I can't afford to lose either."
                             ]
                         },
                         {
@@ -1728,14 +1693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "めんたいで勝ったあとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]右クリックで経験値を確認\\c[0]して……"
+                                "After winning the mentai, \\c[14] right-click to check the\nexperience points \\c[0] and ......."
                             ]
                         },
                         {
@@ -1784,14 +1742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんと\\c[14]レベルアップ\\c[0]するのを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忘れないようにね\\kw[1]"
+                                "Don't forget to level up properly, okay?"
                             ]
                         },
                         {
@@ -1857,14 +1808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<そうそう！\\c[14]レベルを上げないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<強い人の勝負には勝てない\\c[0]ぜ！"
+                                "\\>Kouta: \\<That's right! \\cIf you don't level up, you won't\nbe able to win against strong opponents, you know? \\> \\<"
                             ]
                         },
                         {
@@ -1881,14 +1825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<レベルを上げないと\\c[14]相手の攻撃を凌げなく\\c[0]なるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<\\c[14]めんこの威力もHPも低いまま\\c[0]だからな"
+                                "\\>Kouta: \\<If you don't level up, you won't be able to\nwithstand \\c[14]the opponent's attacks\\c[0], and\n\\>　　　\\<\\c[14]the power of the mentai and HP will remain\nlow\\c[0]."
                             ]
                         },
                         {
@@ -1905,14 +1842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<そうね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<相手とのレベル差があると……"
+                                "\\>Shiori: \\<That's right,...... if there's a level\ndifference between \\>　　　\\<you and your opponent,......"
                             ]
                         },
                         {
@@ -1955,14 +1885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<\\c[14]バーを最大で止めた時に発動する\"一撃必殺\"\\c[0]も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<決まらないって話も聞いたことがあるわ"
+                                "\\>Shiori: \\<\\I've also heard that there are times when the\n\\c[0]One-Hit Kill skill doesn't activate even when you stop\nthe bar at its maximum \\<power."
                             ]
                         },
                         {
@@ -2008,7 +1931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（そんな要素あったんだ…）"
+                                "\\c[14](I didn't know there was such an element...)"
                             ]
                         },
                         {
@@ -2032,14 +1955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "めんたいも日に日にルールが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "進化していくからね\\kw[1]"
+                                "The mentai rules are evolving day by day, you know. \\kw[1]"
                             ]
                         },
                         {
@@ -2149,7 +2065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、そうだ\\kw[1]"
+                                "Oh, that's right."
                             ]
                         },
                         {
@@ -2198,14 +2114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私達以外の人達とも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦ってみたらどうかな？"
+                                "How about trying to fight with people other than us?"
                             ]
                         },
                         {
@@ -2283,14 +2192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "めんたいこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以外の人とも？"
+                                "With people other than us in the mentai game?"
                             ]
                         },
                         {
@@ -2314,7 +2216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん\\kw[1]"
+                                "Yes \\kw[1]"
                             ]
                         },
                         {
@@ -2363,14 +2265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少し前にコウタ君も話したけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は\\c[14]大人もめんたいをやる時代\\c[0]なんだ"
+                                "A while ago, Kouta also mentioned it, but now it's an era\nwhere even adults play mentai."
                             ]
                         },
                         {
@@ -2387,14 +2282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少なくともこの街の人のほとんどは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めんたいやってると思うから……"
+                                "At least I think most people in this town are playing\nmentai, ......"
                             ]
                         },
                         {
@@ -2443,14 +2331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "色んな人に勝負を仕掛けてみて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レベルを上げてみたらどうかな"
+                                "How about challenging various people and trying to level up?"
                             ]
                         },
                         {
@@ -2512,14 +2393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<おお、良いなソレ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<面白そう！"
+                                "\\>Kouta: \\<Oh, that sounds great! \\>　　　\\<It seems\ninteresting!"
                             ]
                         },
                         {
@@ -2536,14 +2410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<そうね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<同じ顔ぶれで飽きてた所だし…"
+                                "\\>Shiori: \\<That's true. ......We were getting tired of the\nsame faces, ..."
                             ]
                         },
                         {
@@ -2560,14 +2427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<街の色んな人に勝負を仕掛けて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<修行するのも悪くないわね"
+                                "Shiori: Challenging various people in town and training\nwouldn't be a bad idea."
                             ]
                         },
                         {
@@ -2645,7 +2505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…そうだね"
+                                "...That's right."
                             ]
                         },
                         {
@@ -2688,14 +2548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "別の人と対戦するのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良い経験になるかも！"
+                                "It might be a good experience to battle against different\npeople!"
                             ]
                         },
                         {
@@ -2731,14 +2584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やる気になってくれて嬉しいな\\kw[1]"
+                                "Hehe, I'm glad you're getting motivated \\kw[1]\\."
                             ]
                         },
                         {
@@ -2755,14 +2601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあ今日は解散して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また今度集まろっか！"
+                                "Well then, let's disband for today and gather again next\ntime!"
                             ]
                         },
                         {
@@ -2824,14 +2663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<ああ、そうだな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<レベルを上げて皆でまた対戦しようぜ！"
+                                "\\>Kouta: \\<Ah, that's right! \\>　　　\\<Let's level up and have\nanother battle with everyone!"
                             ]
                         },
                         {
@@ -2870,14 +2702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<賛成～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<次は負けないわよ、太郎！"
+                                "\\>Shiori: \\<I agree~! \\>　　　\\<Next time, I won't lose, Taro!"
                             ]
                         },
                         {
@@ -2901,7 +2726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ……"
+                                "Hehehe ......"
                             ]
                         },
                         {
@@ -2918,14 +2743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よーし！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕も頑張るぞ！"
+                                "Alright! \\. I'll do my best too!"
                             ]
                         },
                         {
@@ -3012,7 +2830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうしてめんたいこの子達と過ごしたよ！"
+                                "I spent time with these children!"
                             ]
                         },
                         {
@@ -3029,21 +2847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は大人もめんたいをやる時代みたい！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めんたいこ以外の人達とも戦って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと実力をつけなくっちゃ！"
+                                "It seems like now even adults are playing Mentai! \\. I have\nto battle with people other than Mentai players and improve\nmy skills even more!"
                             ]
                         },
                         {

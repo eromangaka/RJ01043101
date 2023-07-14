@@ -1430,7 +1430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、こんにちは～"
+                                "Hello~"
                             ]
                         },
                         {
@@ -1552,7 +1552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃい"
+                                "Welcome"
                             ]
                         },
                         {
@@ -1601,14 +1601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さ、上がって\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅茶を淹れてあげるわ"
+                                "Come in, \\.. I'll make some tea for you."
                             ]
                         },
                         {
@@ -1654,14 +1647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうございます！"
+                                "Thank you very much!"
                             ]
                         },
                         {
@@ -1793,7 +1779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、美味しい！"
+                                "Ah, delicious!"
                             ]
                         },
                         {
@@ -1810,14 +1796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冬だからかな…？\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄く身体が温まるよ！"
+                                "Is it because it's winter? It really warms up my body!"
                             ]
                         },
                         {
@@ -1885,14 +1864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かった……"
+                                "I'm glad."
                             ]
                         },
                         {
@@ -1970,7 +1942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それで……"
+                                "So ......"
                             ]
                         },
                         {
@@ -1987,14 +1959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕にお願いしたい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ことって…？"
+                                "What do you want to ask me, ...?"
                             ]
                         },
                         {
@@ -2109,7 +2074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ……"
+                                "Yes ......"
                             ]
                         },
                         {
@@ -2177,14 +2142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先日の貴方達の戦い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見事だったわ……"
+                                "Your battle the other day was splendid. ......"
                             ]
                         },
                         {
@@ -2201,21 +2159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が現役選手だった頃よりも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄まじく、\\.美しささえ感じる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]\"絆の力\"\\c[0]……"
+                                "The power of bonds \\c[0]...... is incredibly \\.strong and\neven \\.beautiful, more so than when I was an active athlete.\n\\c[14]"
                             ]
                         },
                         {
@@ -2264,14 +2208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "業界トップと言って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "過言でない程の実力を感じたわ"
+                                "I felt the level of skill that can be called the top in the\nindustry."
                             ]
                         },
                         {
@@ -2327,7 +2264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、\\.えへへ……"
+                                "Huh, \\.hehe......"
                             ]
                         },
                         {
@@ -2409,14 +2346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その中でも、貴方は特に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一際\\c[14]\"異彩\"\\c[0]を放っていた……"
+                                "Among them, you in particular were radiating a remarkable\n\\c[14]brilliance\\c[0]."
                             ]
                         },
                         {
@@ -2494,7 +2424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]\"異彩\"\\c[0]……？"
+                                "\\c[14]Remarkable brilliance\\c[0]......?"
                             ]
                         },
                         {
@@ -2550,7 +2480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]\"めんたいオーラ\"\\c[0]のことよ"
+                                "\\c[14]Mentai aura\\c[0] is what I'm talking about."
                             ]
                         },
                         {
@@ -2599,14 +2529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一見、穏やかでありながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "底知れないオーラ総量……"
+                                "At first glance, she appears calm, but there is an\nunfathomable total amount of aura. ......"
                             ]
                         },
                         {
@@ -2655,14 +2578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見たところ貴方は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あかりやめん太君……"
+                                "It seems that you are Akari and Men-taikun."
                             ]
                         },
                         {
@@ -2679,14 +2595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それ以外にも沢山の人と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]\"絆\"\\c[0]を育んできたようね"
+                                "It seems like you have also nurtured many bonds with a lot\nof people."
                             ]
                         },
                         {
@@ -2732,7 +2641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……"
+                                "Ah"
                             ]
                         },
                         {
@@ -2788,21 +2697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は現役を引退したけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでもめんたい狩りとの戦いは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ終わっていない"
+                                "I retired from active duty, but the battle with mentaikari\nis not over yet."
                             ]
                         },
                         {
@@ -2819,14 +2714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メンタイカーを目指す"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子供達の未来を守る為……"
+                                "To aim for Mentaikar and protect the future of children.\n......"
                             ]
                         },
                         {
@@ -2875,14 +2763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてこの街を守る為にも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はもっと力をつけたい"
+                                "And in order to protect this town, I want to become\nstronger."
                             ]
                         },
                         {
@@ -2906,7 +2787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -2962,14 +2843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "単刀直入に言うわ"
+                                "Taro-kun ......\\., I'll be straightforward."
                             ]
                         },
                         {
@@ -3012,14 +2886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私と\\c[14]絆を育む\\c[0]のに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "協力してくれないかしら？"
+                                "Would you be willing to cooperate with me to nurture our\nbonds?"
                             ]
                         },
                         {
@@ -3068,7 +2935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現役のあの頃のように……"
+                                "Like back in those active days ......"
                             ]
                         },
                         {
@@ -3117,14 +2984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……いえ、\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの時以上の力を身につけたいの"
+                                "......No, \\. I want to acquire power greater than that time."
                             ]
                         },
                         {
@@ -3170,7 +3030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒカリさん……"
+                                "Hikari-san ......"
                             ]
                         },
                         {
@@ -3252,14 +3112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……うん！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕で良ければ！"
+                                "......Yes! \\. If it's okay with me!"
                             ]
                         },
                         {
@@ -3276,14 +3129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒカリさんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現役の頃の話も聞きたいし…"
+                                "I also want to hear stories from when Hikari-san was active.\n..."
                             ]
                         },
                         {
@@ -3300,14 +3146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仲良くしてくれるなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕は嬉しいかな！"
+                                "If you would be friends with me, I would be happy!"
                             ]
                         },
                         {
@@ -3375,14 +3214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かった……"
+                                "Hehe ......\\. I'm glad ......"
                             ]
                         },
                         {
@@ -3460,7 +3292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも……"
+                                "But ......"
                             ]
                         },
                         {
@@ -3509,14 +3341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絆を深める為に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲良くするって言うと…"
+                                "When I say 'to get along' in order to deepen our bonds ..."
                             ]
                         },
                         {
@@ -3533,14 +3358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やりづらいかな…？"
+                                "Is it a little difficult to do, I wonder?"
                             ]
                         },
                         {
@@ -3618,7 +3436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……"
+                                "Ah"
                             ]
                         },
                         {
@@ -3679,14 +3497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それもそうね……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごめんなさい"
+                                "That's true, I'm sorry."
                             ]
                         },
                         {
@@ -3735,14 +3546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあまずは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お互いを知る所から始めましょうか"
+                                "Well then, shall we start by getting to know each other?"
                             ]
                         },
                         {
@@ -3766,7 +3570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -3834,14 +3638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうね……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずは何から話そうかしら…"
+                                "Hmm, well, where should we start talking from?"
                             ]
                         },
                         {
@@ -3900,7 +3697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうしてヒカリさんと話したよ！"
+                                "I talked with Hikari-san like this!"
                             ]
                         },
                         {
@@ -3917,21 +3714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞めんたい力を上げる為に、ヒカリさんと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絆を育もう！まずは共通点を見つけて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　会話を弾ませてみようかな？"
+                                "To increase the power of our bond, let's nurture it with\nHikari-san! First, let's try to find common points and have\nan exciting conversation, shall we?"
                             ]
                         },
                         {

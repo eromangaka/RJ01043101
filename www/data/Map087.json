@@ -1424,14 +1424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<くそ～！また負けた～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<やっぱ強いな太郎は～！"
+                                "\\> Taro is really strong, huh~!"
                             ]
                         },
                         {
@@ -1448,14 +1441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<本当、凄いわね太郎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<見る見る内に成長していくじゃない"
+                                "\\>Shiori: Taro is really amazing, huh? He's growing so\nquickly, isn't he?"
                             ]
                         },
                         {
@@ -1486,7 +1472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ、そうかな…"
+                                "Ehehe, is that so? ..."
                             ]
                         },
                         {
@@ -1616,14 +1602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！やっぱり太郎君、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]めんたいの才能\\c[0]あると思うな！"
+                                "Yes! I still think Taro-kun has a talent for mentai!"
                             ]
                         },
                         {
@@ -1640,14 +1619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]プロのメンタイカー\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目指してみない？"
+                                "\\c[14]Why don't you try aiming to become a professional\nmentai player?\\c[0]"
                             ]
                         },
                         {
@@ -1725,14 +1697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕が！？"
+                                "Huh?! Me!?"
                             ]
                         },
                         {
@@ -1772,7 +1737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<確かに、それくらいの実力あるよな"
+                                "\\>Kota: \\<Certainly, he has that kind of ability."
                             ]
                         },
                         {
@@ -1789,14 +1754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<半年前の夏だって、めん太君と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\<　　　　\\<五分五分って感じだったし…"
+                                "\\>Kota: \\<Even half a year ago, it felt like a fifty-fifty\nmatch between Mentai- kun and \\< \\<."
                             ]
                         },
                         {
@@ -1813,14 +1771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<そうねぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\<　　　　\\<\\c[14]プロライセンス\\c[0]目指してみたら？"
+                                "Shiori: That's right, huh? \\<... \\< Why don't you try aiming\nfor a professional license?"
                             ]
                         },
                         {
@@ -1837,7 +1788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<ねえ、あかり？"
+                                "Shiori: Hey, Akari?"
                             ]
                         },
                         {
@@ -1893,7 +1844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん、良いと思うな\\kw[1]"
+                                "Yeah, I think that's a good idea."
                             ]
                         },
                         {
@@ -1910,14 +1861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君がこの道を志してくれたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も嬉しいし\\kw[1]"
+                                "If Taro-kun decides to pursue this path, I would be happy\ntoo."
                             ]
                         },
                         {
@@ -1979,14 +1923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<……おお！そうなったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<\\c[14]\"めんたいネーム\"\\c[0]考えておかないとな！"
+                                "\\>Kota: \\<......Oh! If that happens, we should come up with\na \\<\\c[14]mentai name\\c[0]!"
                             ]
                         },
                         {
@@ -2068,7 +2005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]\"めんたいネーム\"\\c[0]？"
+                                "\\c[14]Mentai Name\\c[0]?"
                             ]
                         },
                         {
@@ -2108,7 +2045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<\\c[14]\"プロになった時の活動名\"\\c[0]のことよ"
+                                "\\>Shiori: \\<\\About the \\c[0]c[14]activity name when you\nbecome a professional."
                             ]
                         },
                         {
@@ -2125,14 +2062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<めん太君やあかりちゃんは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<そのまま本名で選手登録してるけど……"
+                                "\\>Kota: \\<Mentai-kun and Akari-chan are registered as\nplayers with their real names \\>　　　\\<as they are, but ......"
                             ]
                         },
                         {
@@ -2149,14 +2079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<もっと派手な、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<格好良い名前にしても良いんだ"
+                                "\\>Kota: \\<It's okay to have a more flashy, \\>\\<cool name."
                             ]
                         },
                         {
@@ -2199,14 +2122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<俺がもしプロになったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<\\c[14]\"デンジャラス・コウタ\"\\c[0]で登録する予定だぜ！"
+                                "\\>Kota: \\<If I were to become a professional, I plan to\nregister as \\> \\<\\c[14]Dangerous Kota\\c[0]!"
                             ]
                         },
                         {
@@ -2245,14 +2161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「もっと良い名前考えたほうが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<大人になった時恥ずかしくないと思うけど…"
+                                "\\>Shiori: I think it would be better to come up with a\nbetter name so that \\> \\<we won't be embarrassed when we\nbecome adults...."
                             ]
                         },
                         {
@@ -2356,7 +2265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははは……"
+                                "Ahahaha ......"
                             ]
                         },
                         {
@@ -2506,14 +2415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<しかし、\\c[14]才能\\c[0]……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<\\c[14]才能\\c[0]かあ……"
+                                "\\>Kota: \\<However, \\c[14]talent\\c[0]......\n\\>　　　\\<\\c[14]talent\\c[0], huh?......"
                             ]
                         },
                         {
@@ -2636,14 +2538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの？\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コウタ君、急に……"
+                                "What's wrong? \\. Kota-kun, suddenly ......."
                             ]
                         },
                         {
@@ -2705,7 +2600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<いやよ……"
+                                "\\>Kota: \\<No way ......"
                             ]
                         },
                         {
@@ -2744,14 +2639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<\\c[14]才能の無さに挫折してプロをやめた選手\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<知ってるからさ……"
+                                "\\>Kota: \\<\\I know about the \\c[0]players who quit being\nprofessionals due to their lack of \\<talent, you know......."
                             ]
                         },
                         {
@@ -2768,14 +2656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<太郎やあかりちゃん達の成長を見てると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<俺はどうなんだろうなって時々考えるんだ……"
+                                "\\>Kota: \\<When I see the growth of Taro and Akari-chan,\nsometimes I wonder about myself, you know..."
                             ]
                         },
                         {
@@ -2865,7 +2746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ………"
+                                "Ah"
                             ]
                         },
                         {
@@ -2934,7 +2815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<そうね………"
+                                "\\>Shiori: \\<That's right........."
                             ]
                         },
                         {
@@ -2951,14 +2832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<あかりちゃんと同年代なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<私もまだ足踏みしてる……"
+                                "\\>Shiori: \\<Even though I'm the same age as Akari-chan,\n\\>　　　\\<I feel like I'm still stuck in one place."
                             ]
                         },
                         {
@@ -2975,14 +2849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<本当にプロになれるのかなって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<時々不安になるわ……"
+                                "\\>Shiori: I sometimes get worried about whether I can really\nbecome a professional \\<..."
                             ]
                         },
                         {
@@ -3028,7 +2895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "みんな……"
+                                "Everyone ......"
                             ]
                         },
                         {
@@ -3125,14 +2992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何言ってるの二人とも！"
+                                "What are you two even saying anymore, ......!"
                             ]
                         },
                         {
@@ -3149,14 +3009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "才能の開花なんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早いか遅いかの違いじゃない！"
+                                "It's not about whether talent blooms early or late!"
                             ]
                         },
                         {
@@ -3227,14 +3080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大人になってからプロの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メンタイカーになった人もいるんだし……"
+                                "There are also people who become professional mentors after\nbecoming adults, you know. ......"
                             ]
                         },
                         {
@@ -3309,7 +3155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "２人なら大丈夫だよ！"
+                                "You two will be fine!"
                             ]
                         },
                         {
@@ -3371,7 +3217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<あかりちゃん………"
+                                "\\>Kota: \\<Akari-chan, ........."
                             ]
                         },
                         {
@@ -3410,7 +3256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<…………"
+                                "Kota: \\<............"
                             ]
                         },
                         {
@@ -3479,7 +3325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<そ、そうだよな！"
+                                "Kota: Y-Yeah, that's right!"
                             ]
                         },
                         {
@@ -3522,7 +3368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<ごめんな、しんみりしちゃって！"
+                                "\\>Kota: \\<Sorry, I got a little sentimental!"
                             ]
                         },
                         {
@@ -3539,7 +3385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<ええ、そうね……"
+                                "\\>Shiori: \\<Yes, that's right. ......"
                             ]
                         },
                         {
@@ -3556,14 +3402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<自分は自分だもの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<人と比べても仕方ないものね！"
+                                "\\>Shiori: \\<I am who I am, so there's no point in comparing\nmyself to others!"
                             ]
                         },
                         {
@@ -3607,14 +3446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<……うっし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<となれば、まだまだ修行が必要だな！"
+                                "\\>Kota: \\<......Alright! \\>If that's the case, I still have\na lot of training to do!"
                             ]
                         },
                         {
@@ -3631,14 +3463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<太郎、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<また何戦か付き合ってくれよ！"
+                                "\\>Kota: \\<Taro, \\>please accompany me for a few more\nbattles!"
                             ]
                         },
                         {
@@ -3694,7 +3519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -3781,7 +3606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうしてめんたいこ達の皆と過ごしたよ！"
+                                ">I spent time with everyone from the mentaiko group like\nthis!"
                             ]
                         },
                         {
@@ -3798,21 +3623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞今日の試合で自分の強さを実感できたよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今後もいっぱいめんたいを重ねて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レベルアップしていこう！"
+                                ">I was able to feel my own strength in today's match! From\nnow on, let's continue to accumulate experiences and level\nup together!"
                             ]
                         },
                         {

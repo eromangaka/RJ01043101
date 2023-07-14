@@ -1480,7 +1480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……おっ！"
+                                "Oh!"
                             ]
                         },
                         {
@@ -1497,14 +1497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだか男前になったね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君\\kw[1]"
+                                "You've become quite handsome, Taro-kun."
                             ]
                         },
                         {
@@ -1567,7 +1560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、そうかな？"
+                                "Oh, really?"
                             ]
                         },
                         {
@@ -1607,14 +1600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<ちゃんと太郎も修行を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<積んできたということね\\kw[1]"
+                                "\\>Shiori: So, Taro-kun has also been training, huh? \\kw[1]"
                             ]
                         },
                         {
@@ -1653,7 +1639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<早速めんたいしようぜ、太郎！"
+                                "\\>Kota: \\<Let's try mentaiko right away, Taro!"
                             ]
                         },
                         {
@@ -1670,14 +1656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<修行を積んできた俺の実力、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<見せてやるよ！"
+                                "\\>Kota: \\<I'll show you the power I've gained from my\ntraining!"
                             ]
                         },
                         {
@@ -1784,21 +1763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（コウタ君も少し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　勇ましくなった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気がする……）"
+                                "\\c[14](Kota-kun also seems to have become a little more\ncourageous......)"
                             ]
                         },
                         {
@@ -1869,14 +1834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（みんな修行で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　強くなったんだ…！）"
+                                "\\c[14](Everyone has become stronger through training!...!)"
                             ]
                         },
                         {
@@ -1961,14 +1919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあこの間みたいに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "対戦会しよっか\\kw[1]"
+                                "Well then, shall we have a match like we did the other day?"
                             ]
                         },
                         {
@@ -2017,14 +1968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レベルアップした太郎君の実力"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見せてもらうよ！"
+                                "I'll show you the skills of the leveled-up Taro-kun!"
                             ]
                         },
                         {
@@ -2070,7 +2014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よーし、負けないぞ！"
+                                "Alright, I won't lose!"
                             ]
                         },
                         {
@@ -2157,7 +2101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうしてめんたいこ達と過ごしたよ！"
+                                ">I spent time with the mentaiko gang like this!"
                             ]
                         },
                         {
@@ -2174,21 +2118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞実力をつけたみんなと再試合！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レベルの上がった僕の実力を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　みんなに見てもらわなくっちゃ！"
+                                ">A rematch with everyone who has gained strength! I have\nleveled up my skills, so I want everyone to see them!"
                             ]
                         },
                         {

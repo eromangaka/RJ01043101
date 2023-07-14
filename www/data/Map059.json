@@ -1518,7 +1518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリフ"
+                                "Dialogue"
                             ]
                         },
                         {
@@ -1808,14 +1808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントID:003「ヒロインの吹き出し」の位置に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「吹き出しウィンドウ2」を使って台詞が表示されます。"
+                                "The dialogue will be displayed using Speech Bubble Window 2\nat the position of Event ID:003 Heroine's Speech Bubble."
                             ]
                         },
                         {
@@ -1874,14 +1867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントID:002「ボクの吹き出し」の位置に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「吹き出しウィンドウ1」を使って台詞が表示されます。"
+                                "The dialogue will be displayed using Speech Bubble Window 1\nat the position of Event ID:002 My Speech Bubble.."
                             ]
                         },
                         {
@@ -2026,14 +2012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特殊な演出として、このような画面で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナレーションを喋らせる場合もあります。"
+                                "There may also be special productions where narration is\nspoken on screens like this."
                             ]
                         },
                         {
@@ -2050,21 +2029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このナレーションの場合は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「文章の表示」の背景を「透明」に指定します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（キャラ台詞の場合は「ウィンドウ」に設定します）"
+                                "In the case of this narration, the background of the Display\nText is set to Transparent. (In the case of character\ndialogue, it is set to Window)."
                             ]
                         },
                         {
@@ -2354,28 +2319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな風に文章が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書いてあるんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The text is written like this."
                             ]
                         },
                         {
@@ -2392,28 +2336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "改行されてる部分があるよね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "There are parts that are broken into new lines, aren't\nthere?"
                             ]
                         },
                         {
@@ -2430,28 +2353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これはわざと改行してるわけではないので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This is not intentionally line-breaking."
                             ]
                         },
                         {
@@ -2468,14 +2370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「OK」を押して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな風に小さくまとめてね。"
+                                "Press OK and summarize it like this."
                             ]
                         },
                         {

@@ -1448,21 +1448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君のいるお正月って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか新鮮だね\\kw[1]"
+                                "Hehe\\kw[1]\\. New Year's with Taro-kun feels somewhat fresh,\ndoesn't it?\\kw[1]"
                             ]
                         },
                         {
@@ -1522,7 +1508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだね～\\kw[1]"
+                                "That's right~\\kw[1]"
                             ]
                         },
                         {
@@ -1594,14 +1580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いっつも年越しは適当だけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は豪勢だもんね～\\kw[1]"
+                                "We usually just wing it for New Year's, but today is\nextravagant, isn't it~\\kw[1]"
                             ]
                         },
                         {
@@ -1673,14 +1652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう…っ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "莉音……？"
+                                "Already, Rio......?"
                             ]
                         },
                         {
@@ -1711,7 +1683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははは"
+                                "Ahahaha"
                             ]
                         },
                         {
@@ -1767,21 +1739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ、\\.忘れる前に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君にお年玉をあげないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いけないな"
+                                "That's right, before I forget, I have to give Taro-kun his\nNew Year's gift. \\."
                             ]
                         },
                         {
@@ -1863,14 +1821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良いの！？"
+                                "Eh, is that okay!?"
                             ]
                         },
                         {
@@ -1894,14 +1845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろん\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きな物に使うと良い"
+                                "Of course\\. It would be good to use it on something you\nlike."
                             ]
                         },
                         {
@@ -1953,7 +1897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞叔父さんから\\c[14]5000円\\c[0]貰った！"
+                                ">I received 5000 yen from my uncle!\\c[14]\\c[0]"
                             ]
                         },
                         {
@@ -2044,14 +1988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わあ…！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとう叔父さん！"
+                                "Wow...! \\. Thank you, Uncle!"
                             ]
                         },
                         {
@@ -2130,14 +2067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かったわね、太郎君\\kw[1]"
+                                "Hehe\\kw[1]\\. That's great, isn't it, Taro-kun\\kw[1]"
                             ]
                         },
                         {
@@ -2186,14 +2116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]三が日までは初詣はやってる\\c[0]し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "屋台も出てると思うから……"
+                                "\\c[14]They'll be doing the first shrine visit until the\nthird day of the New Year\\c[0], and I think there will be\nstalls out too......"
                             ]
                         },
                         {
@@ -2210,14 +2133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]やり残したこと\\c[0]があれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "向かってみると良いかもしれないな"
+                                "\\c[14]If there's something left undone\\c[0], it might be\ngood to try and tackle it."
                             ]
                         },
                         {
@@ -2326,14 +2242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "初詣と言えば……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結衣、時間は大丈夫？"
+                                "Speaking of the first shrine visit ......\\., Yui, do you\nhave enough time?"
                             ]
                         },
                         {
@@ -2405,7 +2314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん、まだ平気"
+                                "Yeah, I still have time."
                             ]
                         },
                         {
@@ -2465,14 +2374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう少ししたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出ないとだけど……"
+                                "I have to leave in a little while though......"
                             ]
                         },
                         {
@@ -2554,7 +2456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれ？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -2571,14 +2473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結衣お姉ちゃん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰かと初詣行くの？"
+                                "Is Yui going to the first shrine visit with someone?"
                             ]
                         },
                         {
@@ -2657,14 +2552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ……\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実は今日ね……"
+                                "Ehehe......\\kw[1] Actually, today......"
                             ]
                         },
                         {
@@ -2707,14 +2595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]神社の巫女さんのアルバイト\\c[0]、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やることになってるんだ\\kw[1]"
+                                "\\c[14]I've decided to take a part-time job as a shrine\nmaiden\\c[0], that's what I'm going to do\\kw[1]"
                             ]
                         },
                         {
@@ -2792,7 +2673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]巫女さんのアルバイト\\c[0]？"
+                                "\\c[14]A part-time job as a shrine maiden\\c[0]?"
                             ]
                         },
                         {
@@ -2878,14 +2759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ～…！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結衣、神社でアルバイトするんだ？"
+                                "Oh wow...!\\. Yui, you're going to work part-time at the\nshrine?"
                             ]
                         },
                         {
@@ -2934,7 +2808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なに？日雇い？"
+                                "What? Day labor?"
                             ]
                         },
                         {
@@ -2994,14 +2868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん、午前中から午後にかけての"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "短いシフトなんだけど……"
+                                "Yeah, it's a short shift from morning to afternoon......"
                             ]
                         },
                         {
@@ -3018,14 +2885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おみくじ処の受付、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やることになって……"
+                                "I'm going to be working at the fortune-telling booth ......"
                             ]
                         },
                         {
@@ -3103,7 +2963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -3146,14 +3006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行けばお姉ちゃんに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "会えるかな？"
+                                "I wonder if I can meet my older sister if I go?"
                             ]
                         },
                         {
@@ -3232,14 +3085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "暇だったら是非遊びにおいでよ\\kw[1]"
+                                "Yeah\\kw[1]\\. If you're free, definitely come and visit\\kw[1]"
                             ]
                         },
                         {
@@ -3318,7 +3164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと太郎～？"
+                                "Hey, Taro~?"
                             ]
                         },
                         {
@@ -3335,14 +3181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な～に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鼻の下伸ばしてんのよ？"
+                                "What's with the long face?"
                             ]
                         },
                         {
@@ -3420,7 +3259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "の、伸ばしてないよ！"
+                                "No, I'm not making a long face!"
                             ]
                         },
                         {
@@ -3499,14 +3338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "莉音は今日の予定は？"
+                                "Uhmm...... What's Rio's plan for today?"
                             ]
                         },
                         {
@@ -3578,7 +3410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はなーんにも"
+                                "I have absolutely nothing."
                             ]
                         },
                         {
@@ -3595,14 +3427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こたつに潜って寝正月にでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しようかな～って思ってます…"
+                                "I'm thinking about maybe just diving into the kotatsu and\nsleeping through the New Year~..."
                             ]
                         },
                         {
@@ -3674,14 +3499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相変わらずなんだから…"
+                                "You're still the same as always ......\\...."
                             ]
                         },
                         {
@@ -3737,7 +3555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あはは……"
+                                "Ahaha......"
                             ]
                         },
                         {
@@ -3830,14 +3648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お母さんは？\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か予定あるの？"
+                                "What about mom? \\. Does she have any plans?"
                             ]
                         },
                         {
@@ -3909,7 +3720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は、そうねぇ……"
+                                "Well, let's see........."
                             ]
                         },
                         {
@@ -4030,14 +3841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せっかくのお正月ですし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "のんびりしようかしら…？\\kw[1]"
+                                "It's a special New Year, maybe I should relax...?\\kw[1]"
                             ]
                         },
                         {
@@ -4109,14 +3913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お母さんだって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私と変わらないじゃん……"
+                                "Mom is no different from me, right?......"
                             ]
                         },
                         {
@@ -4168,7 +3965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうして皆とお正月の朝を過ごしたよ！"
+                                ">I spent the New Year's morning with everyone like this!"
                             ]
                         },
                         {
@@ -4185,21 +3982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞いつもと違う、一ノ瀬一家のお正月！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　新鮮な食卓を囲んで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　楽しくおせち料理を召し上がったよ！"
+                                ">A different New Year's celebration with the Ichinose\nfamily! We gathered around a fresh dining table and enjoyed\neating traditional New Year's dishes!"
                             ]
                         },
                         {
@@ -4228,14 +4011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞皆、今日はそれぞれ予定があるみたいだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\c[14]お正月は誰と一緒に過ごそうかな…？\\c[0]"
+                                ">Everyone seems to have plans for today, but \\c[14]I wonder\nwho I should spend New Year's with...?\\c[0]"
                             ]
                         },
                         {
@@ -4973,14 +4749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>結衣お姉ちゃんの仕事を観に行こうかな！\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>\\c[14]（条件：好感度60イベント閲覧済み）\\<\\^"
+                                "\\>I'm thinking of going to see Yui's work!\\<\n\\>\\c[14](Condition: Affection level 60 event viewed)\\<\\^"
                             ]
                         },
                         {
@@ -5018,14 +4787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>莉音ねえとダラダラ過ごそうかな！\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>\\c[14]（条件：足コキ習得済み）\\<\\^"
+                                "\\>I'm thinking of spending some lazy time with Rio!\\<\n\\>\\c[14](Condition: Footjob skill acquired)\\<\\^"
                             ]
                         },
                         {
@@ -5063,14 +4825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>美雪さんと一緒に過ごそうかな！\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>\\>\\c[14]（条件：おもらしイベント閲覧済み）\\<\\^"
+                                "\\>I'm thinking of spending time with Miyuki!\\<\n\\>\\>\\c[14](Condition: Wetting event viewed)\\<\\^"
                             ]
                         },
                         {
@@ -5108,14 +4863,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>叔父さんのお酒に付き合おうかな！\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>\\c[14]（条件：なし）\\c[0]\\<\\^"
+                                "\\>I'm thinking of joining my uncle for a drink!\\<\n\\>\\c[14](Condition: None)\\c[0]\\<\\^"
                             ]
                         },
                         {
@@ -5188,7 +4936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\c[14]（どうしよう？）\\<"
+                                "\\>\\c[14](What should I do?)\\<"
                             ]
                         },
                         {
@@ -6298,14 +6046,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "条件を満たして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ないみたい…"
+                                "It seems like the conditions aren't being met..."
                             ]
                         },
                         {
@@ -7875,14 +7616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>結衣お姉ちゃんは神社で\\c[14]巫女さんのアルバイト\\c[0]が\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>あるみたい。覗きに行ってみようかな…？\\<\\^"
+                                "\\>It seems like sister Yui has a part-time job as a shrine\nmaiden at the shrine\\c[14]\\c[0]\\< \\>I wonder if I should go\nand take a look....?\\<\\^"
                             ]
                         },
                         {
@@ -7920,14 +7654,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>莉音ねえは家で\\c[14]寝正月\\c[0]を予定してるみたい。\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>僕もお家でダラダラしようかな…？\\<\\^"
+                                "\\>It seems like sister Rio is planning to have a \\c[14]lazy\nNew Year\\c[0] at home.\\< \\>Maybe I should just laze around\nat home too...?\\<\\^"
                             ]
                         },
                         {
@@ -7965,14 +7692,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>美雪さんは\\c[14]お家でのんびり\\c[0]するみたい。\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>家事で毎日大変そうだし、美雪さんと一緒にいようかな？\\<\\^"
+                                "\\>It seems like Miyuki-san is planning to have a\n\\c[14]relaxed time\\c[0] at home.\\< \\>Considering how tough\nit seems to be with housework every day, maybe I should stay\nwith Miyuki-san?\\<\\^"
                             ]
                         },
                         {
@@ -8010,14 +7730,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>叔父さんは\\c[14]特番見ながらお酒\\c[0]を飲むみたい。\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>僕も一緒にテレビ見ようかな？\\<\\^"
+                                "\\>It seems like uncle is going to \\c[14]drink alcohol while\nwatching a special program\\c[0].\\< \\>Maybe I should watch TV\nwith him?\\<\\^"
                             ]
                         },
                         {

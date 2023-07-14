@@ -1700,14 +1700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【GET ITEM!】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\> \\i[207]\\c[14]プロテイン\\c[0]を獲得！\\<"
+                                "\\> \\i[207]\\c[14]Obtained protein\\c[0]! \\<"
                             ]
                         },
                         {
@@ -1779,14 +1772,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【GET ITEM!】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\> \\i[204]\\c[14]勃起王\\c[0]を獲得！\\<"
+                                "\\>【GET ITEM!】\\< \\> \\i[204]\\c[14]Erection King\\c[0]\nobtained!\\<"
                             ]
                         },
                         {
@@ -1858,14 +1844,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【GET ITEM!】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\> \\i[236]\\c[14]ディフェンダー\\c[0]を獲得！\\<"
+                                "\\>【GET ITEM!】\\< \\> \\i[236]\\c[14]Obtained Defender\\c[0]! \\<"
                             ]
                         },
                         {
@@ -1937,14 +1916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【GET ITEM!】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\> \\i[219]\\c[14]福引券×３\\c[0]を獲得！\\<"
+                                "\\>【GET ITEM!】\\< \\> \\i[219]\\c[14]Obtained 3 Raffle\nTickets\\c[0]! \\<"
                             ]
                         },
                         {
@@ -2024,14 +1996,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【GET ITEM!】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\> \\i[220]\\c[14]プラスパワー\\c[0]を獲得！\\<"
+                                "\\>【GET ITEM!】\\< \\> \\i[220]\\c[14]Obtained Power Plus\\c[0]! \\<"
                             ]
                         },
                         {
@@ -2106,14 +2071,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【GET ITEM!】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\> \\i[186]\\c[14]お金持ちになる方法\\c[0]を獲得！\\<"
+                                "\\>【GET ITEM!】\\< \\> \\i[186]\\c[14]Obtained the method to\nbecome rich\\c[0]! \\<"
                             ]
                         },
                         {
@@ -14474,14 +14432,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【RESULT】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\> HIT ： \\C[14]\\V[1821]\\C[0]\\<　\\>MISS ： \\C[14]\\V[1823]\\C[0]\\<"
+                                "\\>【RESULT】\\< \\> HIT ： \\C[14]\\V[1821]\\C[0]\\<　\\>MISS ：\n\\C[14]\\V[1823]\\C[0]\\<"
                             ]
                         },
                         {
@@ -14554,14 +14505,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【RESULT】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>\\c[14] PERFECT BONUS!!　+100000pt\\<"
+                                "\\>【RESULT】\\< \\>\\c[14] PERFECT BONUS!!　+100000pt\\<"
                             ]
                         },
                         {
@@ -14621,14 +14565,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【RESULT】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\> TOTAL SCORE ： \\C[14]\\V[1820]\\C[0]\\<"
+                                "\\>【RESULT】\\< \\> TOTAL SCORE ： \\C[14]\\V[1820]\\C[0]\\<"
                             ]
                         },
                         {

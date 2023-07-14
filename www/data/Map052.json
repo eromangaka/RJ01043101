@@ -1662,14 +1662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ～…\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこそこ混んでるねぇ～"
+                                "Wow...\\. It's somewhat crowded, isn't it~"
                             ]
                         },
                         {
@@ -1686,14 +1679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うちの町って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに人居たんだ？"
+                                "Were there always this many people in our town?"
                             ]
                         },
                         {
@@ -1765,7 +1751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん、私もビックリ……"
+                                "Yeah, I'm also surprised......"
                             ]
                         },
                         {
@@ -1814,14 +1800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだかいつもより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人が多く感じるね……？"
+                                "It feels like there are more people than usual, doesn't\nit......?"
                             ]
                         },
                         {
@@ -1893,14 +1872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君、離れないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手握りましょうか\\kw[1]"
+                                "Taro, should we hold hands so we don't get separated?\\kw[1]"
                             ]
                         },
                         {
@@ -1931,14 +1903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "美雪叔母さん"
+                                "Thank you, Aunt Miyuki."
                             ]
                         },
                         {
@@ -1994,14 +1959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近くで祭りやってるの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この辺だけだからな"
+                                "They're having a festival nearby, it's just around this\narea."
                             ]
                         },
                         {
@@ -2018,14 +1976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと遠いとこからでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遊びに集まってきてるのかもな"
+                                "People might be gathering to play even from far away places."
                             ]
                         },
                         {
@@ -2097,21 +2048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "年の瀬だしみんな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テンション上がって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アクティブなのかね～"
+                                "It's the end of the year, so maybe everyone's spirits are\nhigh and they're being active~"
                             ]
                         },
                         {
@@ -2161,14 +2098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、見て！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]\"射的\"\\c[14]あったよ！"
+                                "Ah, look! \\. \\c[14] There's a shooting game \\c[14] over\nthere!"
                             ]
                         },
                         {
@@ -2247,14 +2177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おー、あっちには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]\"輪投げ\"\\c[0]もあるね"
+                                "Oh, over there they also have \\c[14]ring toss\\c[0], don't\nthey?"
                             ]
                         },
                         {
@@ -2332,7 +2255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わぁ……"
+                                "Wow......"
                             ]
                         },
                         {
@@ -2410,14 +2333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ね、ね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早くやろう！"
+                                "Hey, hey! Let's do it quickly!"
                             ]
                         },
                         {
@@ -2496,14 +2412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君楽しそうね\\kw[1]"
+                                "Hehe\\kw[1]\\. Taro seems to be having fun\\kw[1]"
                             ]
                         },
                         {
@@ -2601,14 +2510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よーし、それじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私と\\c[14]勝負\\c[0]しよっか！"
+                                "Alright, then shall we have a \\c[14]match\\c[0] with me!"
                             ]
                         },
                         {
@@ -2657,14 +2559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームときたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は負けないよ～？"
+                                "When it comes to games, I won't lose, you know~?"
                             ]
                         },
                         {
@@ -2736,14 +2631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テレビゲームの腕前って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "屋台のゲームに活かされるのかな…"
+                                "I wonder if my video game skills can be applied to these\nstall games..."
                             ]
                         },
                         {
@@ -2767,14 +2655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よーし！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "負けないぞ、莉音ねえ！"
+                                "Alright! \\. I won't lose, Rio-ne!"
                             ]
                         },
                         {
@@ -2853,7 +2734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
+                                "Hehe\\kw[1]"
                             ]
                         },
                         {
@@ -2913,7 +2794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃ、何から回ろっか？\\kw[1]"
+                                "So, where should we start from? \\kw[1]"
                             ]
                         },
                         {

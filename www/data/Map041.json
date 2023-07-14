@@ -1442,7 +1442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この問題も正解！"
+                                "This problem is also correct!"
                             ]
                         },
                         {
@@ -1503,21 +1503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごーい！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君、前より"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "成績上がったんじゃないの？"
+                                "Amazing! \\. Taro, haven't your grades improved from before?"
                             ]
                         },
                         {
@@ -1580,7 +1566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ！"
+                                "Hehehe!"
                             ]
                         },
                         {
@@ -1597,14 +1583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実は冬休み前のテスト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "点数上がったんだ！"
+                                "Actually, my scores went up on the test before winter break!"
                             ]
                         },
                         {
@@ -1640,14 +1619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなんだ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君凄いじゃん！"
+                                "Is that so\\kw[1]\\. Taro, you're amazing!"
                             ]
                         },
                         {
@@ -1671,14 +1643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結衣お姉ちゃんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教え方が上手なおかげだよ！"
+                                "It's thanks to Yui's good teaching!"
                             ]
                         },
                         {
@@ -1746,21 +1711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだかそう言って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もらえると嬉しいな\\kw[1]"
+                                "Hehe \\kw[1] Somehow, it makes me happy to hear you say that\n\\kw[1]"
                             ]
                         },
                         {
@@ -1777,21 +1728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……\\.実は私ね？\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "将来\\c[14]学校の先生\\c[0]になれたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良いなって思ってるの"
+                                "......\\.You know what? \\. I've been thinking that it would\nbe nice if I could become a \\c[14]school teacher\\c[0] in the\nfuture."
                             ]
                         },
                         {
@@ -1873,7 +1810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]学校の先生\\c[0]？"
+                                "\\c[14]A school teacher\\c[0]?"
                             ]
                         },
                         {
@@ -1929,7 +1866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん\\kw[1]"
+                                "Yes\\kw[1]"
                             ]
                         },
                         {
@@ -1978,14 +1915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私、\\.人に教えたり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お世話するの好きだから…"
+                                "I like teaching and taking care of others, \\...."
                             ]
                         },
                         {
@@ -2034,7 +1964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "性に合ってるかなと思って\\kw[1]"
+                                "I've been thinking it might suit me\\kw[1]"
                             ]
                         },
                         {
@@ -2080,21 +2010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結衣お姉ちゃんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学校の先生かぁ…"
+                                "Heh......\\. Yui becoming a school teacher, huh..."
                             ]
                         },
                         {
@@ -2143,21 +2059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしお姉ちゃんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "担任の先生なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クラスの人気者だろうな"
+                                "If big sister were the homeroom teacher, she'd probably be\nthe class favorite."
                             ]
                         },
                         {
@@ -2193,14 +2095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだと嬉しいな\\kw[1]"
+                                "Hehe \\kw[1]\\. I'd be happy if that's the case \\kw[1]"
                             ]
                         },
                         {
@@ -2278,14 +2173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも、そうなったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと悔しいかな"
+                                "But, if that happens, I might feel a bit frustrated."
                             ]
                         },
                         {
@@ -2341,7 +2229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悔しい？"
+                                "Frustrating?"
                             ]
                         },
                         {
@@ -2387,21 +2275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって今までは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結衣お姉ちゃん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕だけの先生だったのに…"
+                                "Because until now, Yui sister was only my teacher..."
                             ]
                         },
                         {
@@ -2440,21 +2314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "将来は他の誰かの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先生になるんだって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思うと……"
+                                "Thinking that in the future, Yui will become someone else's\nteacher........."
                             ]
                         },
                         {
@@ -2522,14 +2382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう…\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君ったら…\\kw[1]"
+                                "Oh, Taro-kun......\\kw[1]"
                             ]
                         },
                         {
@@ -2617,7 +2470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……\\kw[1]"
+                                "......\\kw[1]"
                             ]
                         },
                         {
@@ -2634,21 +2487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君は私が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "担任の先生だったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬉しい？"
+                                "Taro-kun, would you be happy if I were your homeroom\nteacher?"
                             ]
                         },
                         {
@@ -2730,7 +2569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "当たり前だよ！"
+                                "Of course!"
                             ]
                         },
                         {
@@ -2747,14 +2586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなに優しくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可愛い先生だったら…"
+                                "If the teacher was this kind and cute..."
                             ]
                         },
                         {
@@ -2793,21 +2625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毎日学校来るのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと楽しみで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕方ないと思うな！"
+                                "I think I would be so excited to come to school every day, I\nwouldn't be able to help it!"
                             ]
                         },
                         {
@@ -2897,7 +2715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっか…\\kw[1]"
+                                "I see...\\kw[1]"
                             ]
                         },
                         {
@@ -2946,7 +2764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあさ……"
+                                "Then, you see........."
                             ]
                         },
                         {
@@ -3017,14 +2835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冬休みが終わるまで…\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]学校ごっこ\\c[0]しよっか？\\kw[1]"
+                                "Shall we play school until the winter break is over?...\\.\n\\c[14]\\c[0]?\\kw[1]"
                             ]
                         },
                         {
@@ -3106,7 +2917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]学校ごっこ\\c[0]？"
+                                "\\c[14]Playing school\\c[0]?"
                             ]
                         },
                         {
@@ -3130,7 +2941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん\\kw[1]"
+                                "Yes\\kw[1]"
                             ]
                         },
                         {
@@ -3179,14 +2990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君の宿題、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだいくつか残ってるでしょ？"
+                                "Taro-kun, you still have some homework left, don't you?"
                             ]
                         },
                         {
@@ -3235,21 +3039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿題をやる時だけ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は太郎君専属の先生で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君が生徒になるの\\kw[1]"
+                                "Only when it's time to do homework, I become Taro-kun's\nexclusive teacher and Taro-kun becomes the student\\kw[1]"
                             ]
                         },
                         {
@@ -3298,21 +3088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんと号令もして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が太郎君に宿題の範囲を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "授業みたいに教えたら……"
+                                "I'll even give proper instructions, and teach Taro-kun the\nscope of the homework just like in a class......"
                             ]
                         },
                         {
@@ -3373,21 +3149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうしたら太郎君も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の生徒の気分になれる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んじゃないかな？\\kw[1]"
+                                "Then, wouldn't Taro be able to feel like he's my student?\n\\kw[1]"
                             ]
                         },
                         {
@@ -3469,14 +3231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わあ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ、面白そう！"
+                                "Wow...! That sounds fun!"
                             ]
                         },
                         {
@@ -3493,21 +3248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結衣お姉ちゃんのこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]一ノ瀬先生\\c[0]って呼ぶね！"
+                                "Then, I'll call Yui-oneechan \\c[14]Ichinose-sensei\\c[0]!"
                             ]
                         },
                         {
@@ -3597,7 +3338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、\\.\\c[14]一ノ瀬先生\\c[0]……"
+                                "Uh, \\.\\c[14]Ichinose-sensei\\c[0]......"
                             ]
                         },
                         {
@@ -3658,21 +3399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あはは…\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだかちょっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くすぐったいかも\\kw[1]"
+                                "Ahaha...\\kw[1]\\. Somehow it feels a bit ticklish\\kw[1]"
                             ]
                         },
                         {
@@ -3721,21 +3448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあ太郎君？\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私と宿題する時は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと先生呼びするんだよ？"
+                                "Then, Taro-kun? \\. When you're doing homework with me, you\nshould properly call me 'teacher', okay?"
                             ]
                         },
                         {
@@ -3759,14 +3472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "分かったよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一ノ瀬先生！"
+                                "I understand, Ichinose-sensei!"
                             ]
                         },
                         {
@@ -3834,14 +3540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだかちょっと新鮮かも\\kw[1]"
+                                "Hehe\\kw[1]\\. It feels a bit fresh somehow\\kw[1]"
                             ]
                         },
                         {
@@ -3858,14 +3557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これからよろしくね！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君\\kw[1]"
+                                "Looking forward to working with you! \\. Taro-kun \\kw[1]"
                             ]
                         },
                         {
@@ -3931,14 +3623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうして結衣お姉ちゃん…\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一ノ瀬先生と会話して過ごしたよ！"
+                                ">Thus, I spent time having a conversation with Yui-\noneechan...\\. Ichinose-sensei!"
                             ]
                         },
                         {
@@ -3955,21 +3640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞いつも面倒臭い宿題も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ごっこ遊びになるとちょっと新鮮！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　先生と一緒に\\c[14]沢山の宿題\\c[0]を終わらせよう！"
+                                ">Even the always bothersome homework feels a bit fresh when\nit becomes a pretend play! Let's finish a lot of\nhomework\\c[14] together with the teacher\\c[0]!"
                             ]
                         },
                         {

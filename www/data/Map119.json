@@ -1393,14 +1393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シズクお姉ちゃん！"
+                                "Shizuku, big sister!"
                             ]
                         },
                         {
@@ -1526,14 +1519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わっ…！？\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君…！？"
+                                "Huh?! Taro-kun?!"
                             ]
                         },
                         {
@@ -1557,7 +1543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ…"
+                                "Hehehe ..."
                             ]
                         },
                         {
@@ -1625,14 +1611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わー、久しぶり！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元気してた？"
+                                "Wow, long time no see! \\. How have you been?"
                             ]
                         },
                         {
@@ -1741,7 +1720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -1812,7 +1791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その……"
+                                "That ......"
                             ]
                         },
                         {
@@ -1883,7 +1862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おかげさまで……"
+                                "Thanks to everyone's support ......"
                             ]
                         },
                         {
@@ -1961,7 +1940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……\\kw[1]"
+                                "Akw"
                             ]
                         },
                         {
@@ -2022,14 +2001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう…\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君ったら……\\kw[1]"
+                                "Oh, Taro-kun, you're such a... ...\\kw[1]!"
                             ]
                         },
                         {
@@ -2107,14 +2079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シ、シズクお姉ちゃんも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元気そうだね！"
+                                "Shizuku, big sister, you also seem to be doing well!"
                             ]
                         },
                         {
@@ -2170,7 +2135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁね～\\kw[1]"
+                                "Well, you know~"
                             ]
                         },
                         {
@@ -2219,21 +2184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私も大学休みに入って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようやく一息つける"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感じになってね～…"
+                                "Now that I'm on break from university, I finally feel like I\ncan take a breather~"
                             ]
                         },
                         {
@@ -2250,14 +2201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相変わらず休み中は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店番頼まれてるんだけど……"
+                                "As usual, I've been asked to take care of the store during\nmy break......."
                             ]
                         },
                         {
@@ -2318,7 +2262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、元気にやってるよ\\kw[1]"
+                                "Well, I'm doing fine."
                             ]
                         },
                         {
@@ -2374,7 +2318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなんだ！"
+                                "Is that so?"
                             ]
                         },
                         {
@@ -2442,7 +2386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっと……"
+                                "Um..."
                             ]
                         },
                         {
@@ -2459,14 +2403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コッチにいるってことは…"
+                                "The fact that Taro-kun is here means..."
                             ]
                         },
                         {
@@ -2483,14 +2420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また従姉弟のお家に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お世話になってる感じかな？"
+                                "It feels like we're being taken care of at our cousin's\nhouse again, right?"
                             ]
                         },
                         {
@@ -2514,7 +2444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -2589,7 +2519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あ、そうだ"
+                                "Oh, that's right."
                             ]
                         },
                         {
@@ -2606,14 +2536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一ノ瀬って人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知り合いいる？"
+                                "Do you know anyone named Ichinose?"
                             ]
                         },
                         {
@@ -2659,7 +2582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……\\c[14]\"一ノ瀬\"\\c[0]？"
+                                "Ichinose?"
                             ]
                         },
                         {
@@ -2741,7 +2664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、いるいる！"
+                                "Ah, there they are!"
                             ]
                         },
                         {
@@ -2812,14 +2735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……えっ、まさか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこの家？"
+                                "Huh, you mean that house over there?"
                             ]
                         },
                         {
@@ -2875,7 +2791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -2892,21 +2808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "莉音ねえに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "駄菓子屋の事"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話したら……"
+                                "When I talked to Rio-ne about the candy store... ......"
                             ]
                         },
                         {
@@ -2923,21 +2825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シズクお姉ちゃんと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知り合いって言うから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ビックリしちゃった！"
+                                "I was surprised when you said you know Shizuku-neechan!"
                             ]
                         },
                         {
@@ -2973,7 +2861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ～、すごい偶然！"
+                                "Wow, what a coincidence!"
                             ]
                         },
                         {
@@ -3022,14 +2910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっかそっか～…\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "莉音、元気にしてる？"
+                                "Oh, I see, I see~ Rio, are you doing well?"
                             ]
                         },
                         {
@@ -3053,7 +2934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -3109,14 +2990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "莉音とは中学以来……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、１度どこかで会ったかな？"
+                                "Rio and I have known each other since middle school\n......\\.. Well, maybe we've met once before somewhere?"
                             ]
                         },
                         {
@@ -3165,21 +3039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "進学する高校が違ったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近所に住んでても意外と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔合わせる機会なくてね～"
+                                "Since we went to different high schools, even though we live\nin the same neighborhood, we surprisingly didn't have many\nchances to see each other~"
                             ]
                         },
                         {
@@ -3203,7 +3063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははは"
+                                "Ahahaha"
                             ]
                         },
                         {
@@ -3220,14 +3080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "似たようなこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "莉音ねえも言ってたよ"
+                                "Rio-ne also said something similar."
                             ]
                         },
                         {
@@ -3295,7 +3148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
+                                "Hehe\\kw[1]"
                             ]
                         },
                         {
@@ -3312,14 +3165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあ太郎君、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度暇な時に連れてきてよ\\kw[1]"
+                                "Then, Taro-kun, bring him along when you have free\ntime\\kw[1]"
                             ]
                         },
                         {
@@ -3368,14 +3214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店番してる間は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "退屈だからね～"
+                                "I get bored while I'm on duty at the store~"
                             ]
                         },
                         {
@@ -3424,14 +3263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "莉音が来てくれたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔話で盛り上がれそうだし"
+                                "If Rio comes, it seems like we can get excited with old\nstories."
                             ]
                         },
                         {
@@ -3455,7 +3287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -3504,14 +3336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…お婆さん、まだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腰悪くしてるの？"
+                                "Grandma, is your back still hurting?"
                             ]
                         },
                         {
@@ -3601,7 +3426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん、そうみたい……"
+                                "Hmm, it seems so."
                             ]
                         },
                         {
@@ -3618,14 +3443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "流石に老いには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝てないっぽいね～…"
+                                "I guess I can't beat old age after all~"
                             ]
                         },
                         {
@@ -3671,7 +3489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなんだ…"
+                                "Is that so?"
                             ]
                         },
                         {
@@ -3729,21 +3547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も将来あんな風に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なっちゃうのかな…"
+                                "Sigh, I wonder if I'll become like that in the future too."
                             ]
                         },
                         {
@@ -3760,7 +3564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -3838,14 +3642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っと、ごめんごめん！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変な話しちゃった！"
+                                "Oops, sorry, sorry! \\. I said something weird!"
                             ]
                         },
                         {
@@ -3862,14 +3659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず、駄菓子屋は冬休みも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]夕方までは開店\\c[0]してるからさ！"
+                                "Anyway, the candy store is open until evening even during\nwinter break, you know!"
                             ]
                         },
                         {
@@ -3886,14 +3676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "またご贔屓にして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やってくださいよ\\kw[1]"
+                                "Please continue to favor us again."
                             ]
                         },
                         {
@@ -3949,7 +3732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -3966,14 +3749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "利用させてもらうね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シズクお姉ちゃん！"
+                                "I'll make use of it! Shizuku, big sister!"
                             ]
                         },
                         {
@@ -4009,14 +3785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お待ちしてます\\kw[1]"
+                                "Hehe \\kw[1] We'll be waiting \\kw[1]"
                             ]
                         },
                         {
@@ -4075,7 +3844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうしてシズクお姉ちゃんと再会したよ！"
+                                "I reunited with Shizuku, big sister, like this!"
                             ]
                         },
                         {
@@ -4092,21 +3861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞久しぶりに会ったシズクお姉ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だけど\\c[14]\"毎日お世話になってたから\"\\c[0]、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あまり久しぶりに感じなかったかな…？"
+                                ">Long time no see, Shizuku big sister! But \\c[14] since I've\nbeen relying on you every day, it didn't feel like it had\nbeen that long..., did it?"
                             ]
                         },
                         {
@@ -4123,14 +3878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞冬も退屈そうに店番をしてるみたいだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いっぱい僕が利用してあげなくっちゃ！"
+                                ">It seems like even during winter, she's bored while taking\ncare of the store, so I have to use it a lot for her!"
                             ]
                         },
                         {

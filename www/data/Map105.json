@@ -1522,21 +1522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふー\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "久々に美味しいご飯に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありつけたよ～"
+                                "I found it~"
                             ]
                         },
                         {
@@ -1553,7 +1539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう太郎君\\kw[1]"
+                                "Thank you, Taro-kun \\kw[1]"
                             ]
                         },
                         {
@@ -1584,7 +1570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どういたしまして"
+                                "You're welcome."
                             ]
                         },
                         {
@@ -1640,14 +1626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その辺のコンビニ飯でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "美味しいっちゃ美味しいんだけど…"
+                                "Convenience store food around here is delicious, you know.\n..."
                             ]
                         },
                         {
@@ -1696,14 +1675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっぱり手料理の方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あったかくて美味しいよね\\kw[1]"
+                                "Homemade food is definitely warmer and more delicious,\nright? \\kw[1]"
                             ]
                         },
                         {
@@ -1727,7 +1699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははは"
+                                "Ahahaha"
                             ]
                         },
                         {
@@ -1744,14 +1716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スズカさんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "喜んでくれて良かった"
+                                "I'm glad Suzuka-san was happy."
                             ]
                         },
                         {
@@ -1787,7 +1752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
+                                "Hehe \\kw[1]"
                             ]
                         },
                         {
@@ -1874,14 +1839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういえば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "釣りキャンプ、だっけ？"
+                                "By the way, was it fishing camping?"
                             ]
                         },
                         {
@@ -1898,7 +1856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君もよくキャンプするの？"
+                                "Do you also go camping often, Taro-kun?"
                             ]
                         },
                         {
@@ -1954,14 +1912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よくってほどは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しないけど……"
+                                "Not as often as you think, ......"
                             ]
                         },
                         {
@@ -2010,14 +1961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お父さんに連れてもらって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャンプすることがあるんだ"
+                                "I sometimes go camping with my dad."
                             ]
                         },
                         {
@@ -2034,21 +1978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日振る舞った料理も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お父さんに教えてもらった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "簡単なやつなんだよ"
+                                "The dish I treated you to today is a simple one that my dad\ntaught me."
                             ]
                         },
                         {
@@ -2116,14 +2046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど～…\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "通りで手際が良いわけだ"
+                                "I see~ ...\\. That's why they're so efficient."
                             ]
                         },
                         {
@@ -2172,7 +2095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は昔っから家事全般苦手でね～"
+                                "I've always been bad at household chores~"
                             ]
                         },
                         {
@@ -2189,14 +2112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご飯も適当に済ませることが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多いんだぁ……"
+                                "I often just quickly finish my meals."
                             ]
                         },
                         {
@@ -2257,14 +2173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だから今日なんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "久しぶりにご飯を食べた感覚！"
+                                "So today, it felt like I was eating a meal after a long\ntime!"
                             ]
                         },
                         {
@@ -2281,14 +2190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すっごく美味しかったよ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君\\kw[1]"
+                                "It was really delicious, Taro-kun."
                             ]
                         },
                         {
@@ -2312,14 +2214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははは\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは嬉しいけど…"
+                                "Ahahaha \\. That's nice to hear ...."
                             ]
                         },
                         {
@@ -2368,14 +2263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分で作ったりとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しないの？"
+                                "Don't you cook or make things yourself?"
                             ]
                         },
                         {
@@ -2443,14 +2331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん、それも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えてみたことはあるんだけど…"
+                                "Hmm, I have thought about that before."
                             ]
                         },
                         {
@@ -2525,7 +2406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "面倒くさいからいいや、って\\kw[1]"
+                                "It's too much trouble, so never mind."
                             ]
                         },
                         {
@@ -2603,7 +2484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（ズ、ズボラ…！）"
+                                "\\c[14](You, you lazy ...!)"
                             ]
                         },
                         {
@@ -2659,7 +2540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、そうだ\\kw[1]\\."
+                                "Oh, that's right. \\kw[1]\\."
                             ]
                         },
                         {
@@ -2708,14 +2589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃ太郎君、\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これを機会に私に料理教えてくれない？"
+                                "Then, Taro-kun, \\. would you teach me how to cook as an\nopportunity?"
                             ]
                         },
                         {
@@ -2793,7 +2667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？僕が！？"
+                                "Huh!? Me!?"
                             ]
                         },
                         {
@@ -2817,14 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうそう\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日のご飯、美味しかったし\\kw[1]"
+                                "Oh, by the way, today's meal was delicious."
                             ]
                         },
                         {
@@ -2880,7 +2747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "べ、別に良いけど……"
+                                "W-Well, it's not a big deal ......."
                             ]
                         },
                         {
@@ -2929,14 +2796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも、\\.簡単なやつしか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "できないよ？"
+                                "But, \\. I can only make simple things, you know?"
                             ]
                         },
                         {
@@ -2960,21 +2820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も簡単なやつしか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "できないと思うから\\kw[1]"
+                                "It's okay \\kw[1]\\.. I also think I can only make simple\nthings."
                             ]
                         },
                         {
@@ -3052,14 +2898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それはそれで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうなのかな……"
+                                "Hmm, I wonder how it would turn out like that."
                             ]
                         },
                         {
@@ -3180,7 +3019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（でもそっか……）"
+                                "\\c[14](But I guess so......)"
                             ]
                         },
                         {
@@ -3197,14 +3036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（このままだとスズカさん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　適当なご飯しか食べなくて…）"
+                                "\\c[14](If things continue like this, Suzuka-san will only\neat simple meals.)"
                             ]
                         },
                         {
@@ -3253,14 +3085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（栄養失調で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　倒れちゃったりして……）"
+                                "\\c[14](They might collapse due to malnutrition......)"
                             ]
                         },
                         {
@@ -3316,7 +3141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？"
+                                "......？"
                             ]
                         },
                         {
@@ -3340,14 +3165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（意外とズボラなところ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あるみたいだし……）"
+                                "(It seems like there are unexpectedly lazy aspects to them)"
                             ]
                         },
                         {
@@ -3364,21 +3182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（誰かがスズカさんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　食生活を見直して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あげないと……）"
+                                "\\c[14](Someone needs to reconsider Suzuka-san's eating\nhabits ......)"
                             ]
                         },
                         {
@@ -3501,14 +3305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おーい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたの、太郎君？"
+                                "Hey? What's wrong, Taro-kun?"
                             ]
                         },
                         {
@@ -3586,14 +3383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、ううん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでもないよ！"
+                                "Uh, no! It's nothing!"
                             ]
                         },
                         {
@@ -3642,14 +3432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあ今度"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また作りに来るから…"
+                                "Well then, I'll come again next time to make it. ..."
                             ]
                         },
                         {
@@ -3698,14 +3481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その時はレシピと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒に教えてあげるね！"
+                                "I'll teach you the recipe at that time!"
                             ]
                         },
                         {
@@ -3773,14 +3549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほんと？\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えへへ、嬉しいな\\kw[1]"
+                                "Is that so? \\. Ehehe, I'm happy. \\kw[1]"
                             ]
                         },
                         {
@@ -3797,14 +3566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "楽しみに待ってるからね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君\\kw[1]"
+                                "I'll be looking forward to it, Taro-kun."
                             ]
                         },
                         {
@@ -3860,14 +3622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（スズカさんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　笑顔のためにも…）"
+                                "\\c[14](For the sake of Suzuka-san's smile ...)"
                             ]
                         },
                         {
@@ -3916,14 +3671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（僕がなんとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しなくっちゃ…！）"
+                                "\\c[14](I have to do something about it somehow!)...!"
                             ]
                         },
                         {
@@ -3982,14 +3730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうしてスズカさんに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　キャンプ飯をごちそうしたよ！"
+                                "I treated Suzuka-san to camp food like this!"
                             ]
                         },
                         {
@@ -4006,21 +3747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞スズカさん、このまま放っておくと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　適当なご飯しか食べなさそう……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕がちゃんと作ってあげなくちゃ…！"
+                                "If I leave Suzuka-san alone like this, she might only eat\nrandom meals. I have to make sure to cook for her properly!"
                             ]
                         },
                         {

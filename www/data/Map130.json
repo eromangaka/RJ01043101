@@ -1737,14 +1737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カナエさん！"
+                                "Kanade-san!"
                             ]
                         },
                         {
@@ -1859,7 +1852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは太郎君\\kw[1]"
+                                "Hello Taro-kun \\kw[1]"
                             ]
                         },
                         {
@@ -1930,14 +1923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日も……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私とお話してくれるの？"
+                                "Will you talk to me again today, ......\\.?"
                             ]
                         },
                         {
@@ -1961,7 +1947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -1978,14 +1964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は面白い話沢山"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持ってきたんだ！"
+                                "I have brought a lot of interesting stories today!"
                             ]
                         },
                         {
@@ -2002,21 +1981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きっとカナエさんに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しんでもらえると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思って！"
+                                "I thought Kanade-san would definitely enjoy it!"
                             ]
                         },
                         {
@@ -2072,14 +2037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう…\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にお節介なんだから…\\kw[1]"
+                                "You're really meddlesome, aren't you?"
                             ]
                         },
                         {
@@ -2128,7 +2086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも嬉しいわ太郎君\\kw[1]"
+                                "But I'm happy, Taro-kun"
                             ]
                         },
                         {
@@ -2177,14 +2135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さ、上がって\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "美味しい紅茶を淹れてあげるわ\\kw[1]"
+                                "Come on in, I'll make you a delicious cup of tea."
                             ]
                         },
                         {
@@ -2208,7 +2159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -2333,14 +2284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでね、その時に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きな音が鳴って…"
+                                "So, you know, at that time there was a loud noise."
                             ]
                         },
                         {
@@ -2411,7 +2355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドカーンって！"
+                                "Boom!"
                             ]
                         },
                         {
@@ -2479,14 +2423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うふふっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは驚いたわね…\\kw[1]"
+                                "Hehehe \\kw[1]\\. That was surprising, wasn't it... \\kw[1]"
                             ]
                         },
                         {
@@ -2557,7 +2494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしたら友達がね…"
+                                "And then my friend, you know... ..."
                             ]
                         },
                         {
@@ -2646,14 +2583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かポケットから落ちたわよ…？"
+                                "Oh, ......\\. something fell out of your pocket, ...?"
                             ]
                         },
                         {
@@ -2731,7 +2661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え…？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -2837,7 +2767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ…っ！"
+                                "Ah!"
                             ]
                         },
                         {
@@ -3008,14 +2938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この写真……！"
+                                "Wow! Look at this photo!"
                             ]
                         },
                         {
@@ -3032,7 +2955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの人の……"
+                                "That person's ......"
                             ]
                         },
                         {
@@ -3110,7 +3033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カ、カナエさん……"
+                                "Kanae-san ......"
                             ]
                         },
                         {
@@ -3188,7 +3111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君……"
+                                "Taro-kun ......"
                             ]
                         },
                         {
@@ -3312,7 +3235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんなさい！！"
+                                "I'm sorry!!"
                             ]
                         },
                         {
@@ -3394,7 +3317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…え？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -3477,7 +3400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ど、どうして太郎君が謝るの？"
+                                "Why is Taro apologizing?"
                             ]
                         },
                         {
@@ -3555,21 +3478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって…\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話しづらそうに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "してたことを…"
+                                "Because he seemed difficult to talk to."
                             ]
                         },
                         {
@@ -3586,14 +3495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無理やり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "暴いたみたいで…"
+                                "It seems like they forcibly exposed ...."
                             ]
                         },
                         {
@@ -3639,7 +3541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……"
+                                "Ah!"
                             ]
                         },
                         {
@@ -3663,21 +3565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寂しそうにしてる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "理由を知りたくて…"
+                                "I want to know the reason why Kanae-san looks lonely."
                             ]
                         },
                         {
@@ -3726,21 +3614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかしたらって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思って、その日の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "深夜に……"
+                                "I thought maybe, and in the late night of that day ......"
                             ]
                         },
                         {
@@ -3786,7 +3660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -3857,7 +3731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう………"
+                                "So ........."
                             ]
                         },
                         {
@@ -3906,14 +3780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜遅く帰ってくる理由……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり浮気だったんだ……"
+                                "The reason for coming home late at night ......\\.. It turns\nout, it was an affair after all ......."
                             ]
                         },
                         {
@@ -3991,7 +3858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさん……"
+                                "Kanae-san......"
                             ]
                         },
                         {
@@ -4015,7 +3882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -4086,14 +3953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ううん、本当は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薄々気づいてたの……"
+                                "No, I actually had a vague idea about it."
                             ]
                         },
                         {
@@ -4142,21 +4002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの人が帰る日が遅いのも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が何しているか逐一確認の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "電話が鳴るのも……"
+                                "That person coming home late and the constant phone calls to\ncheck what I'm doing ......"
                             ]
                         },
                         {
@@ -4231,7 +4077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかしたら、\\.ってね…"
+                                "Perhaps, \\. you know..."
                             ]
                         },
                         {
@@ -4277,7 +4123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -4355,14 +4201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確証が無くて、ずっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モヤモヤしてたけど……"
+                                "I didn't have any evidence, so I was feeling confused all\nalong. ......"
                             ]
                         },
                         {
@@ -4379,7 +4218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -4440,7 +4279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
+                                "Hehe\\kw[1]"
                             ]
                         },
                         {
@@ -4515,14 +4354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君のおかげで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スッキリしちゃった\\kw[1]"
+                                "Thanks to Taro-kun, I feel refreshed now."
                             ]
                         },
                         {
@@ -4568,7 +4400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさん……"
+                                "Kanae-san ......"
                             ]
                         },
                         {
@@ -4652,7 +4484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -4723,14 +4555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君……"
+                                "Taro-kun, right?"
                             ]
                         },
                         {
@@ -4824,14 +4649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日……\\.夜まで一緒に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "居てくれないかしら…？"
+                                "Would you stay with me until tonight?"
                             ]
                         },
                         {
@@ -4887,7 +4705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え…？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -4965,14 +4783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろん、あの人が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰ってくるまでよ……？"
+                                "Of course, until that person comes back, right?"
                             ]
                         },
                         {
@@ -5021,7 +4832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その時間までで良いから……"
+                                "Until that time is fine ......"
                             ]
                         },
                         {
@@ -5092,7 +4903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その……"
+                                "That ......"
                             ]
                         },
                         {
@@ -5141,14 +4952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒にいたい気分なの…"
+                                "I feel like I want to be with Taro-kun ..."
                             ]
                         },
                         {
@@ -5194,7 +4998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……"
+                                "Ah"
                             ]
                         },
                         {
@@ -5243,7 +5047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさん……"
+                                "Kanae-san ......"
                             ]
                         },
                         {
@@ -5339,7 +5143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（そっか……）"
+                                "(I see)"
                             ]
                         },
                         {
@@ -5356,14 +5160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（このまま僕が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帰ったら……）"
+                                "\\c[14](If I go home like this ......)"
                             ]
                         },
                         {
@@ -5402,14 +5199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（旦那さんが帰るまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　また一人ぼっちなんだ…）"
+                                "\\c[14](I'll be alone again until my husband comes home...)"
                             ]
                         },
                         {
@@ -5426,21 +5216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（浮気した旦那さんを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どういう気持ちで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　待てば良いか……）"
+                                "\\c[14](How should I wait for my husband who cheated on me?\n......)"
                             ]
                         },
                         {
@@ -5457,14 +5233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（カナエさん、きっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　わからないでいるんだ…）"
+                                "\\c[14](Kanae-san, I'm sure you don't understand)..."
                             ]
                         },
                         {
@@ -5575,14 +5344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……うん！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕で良ければ！"
+                                "......Yes! \\. If it's okay with me!"
                             ]
                         },
                         {
@@ -5631,14 +5393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寂しいって言うなら…"
+                                "If Kanae-san says she's lonely ..."
                             ]
                         },
                         {
@@ -5687,14 +5442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕がずっと傍に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "居てあげるよ！"
+                                "I will always be by your side!"
                             ]
                         },
                         {
@@ -5750,7 +5498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君……\\kw[1]"
+                                "Taro-kun ......\\kw[1]"
                             ]
                         },
                         {
@@ -5811,14 +5559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬉しい……\\kw[1]"
+                                "Hehe \\kw[1]\\. I'm happy... \\kw[1]"
                             ]
                         },
                         {
@@ -5867,7 +5608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう、太郎君…\\kw[1]"
+                                "Thank you, Taro-kun. ...\\"
                             ]
                         },
                         {
@@ -5891,7 +5632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ……"
+                                "Hehe ......"
                             ]
                         },
                         {
@@ -5980,14 +5721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……っと、\\.ごめんね\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと辛気臭くなっちゃった"
+                                "I'm sorry, I became a little gloomy."
                             ]
                         },
                         {
@@ -6036,7 +5770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええと……"
+                                "Um ......"
                             ]
                         },
                         {
@@ -6111,7 +5845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……そうだわ！"
+                                "That's right!"
                             ]
                         },
                         {
@@ -6128,14 +5862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっきのお話の続き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞かせてもらえるかしら？"
+                                "Can you continue the story from earlier? Can you tell me?"
                             ]
                         },
                         {
@@ -6152,14 +5879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きな音が鳴ったあと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おばさん気になって仕方無いわ\\kw[1]"
+                                "After a loud noise, I can't help but be curious about the\nlady. \\kw[1]"
                             ]
                         },
                         {
@@ -6183,7 +5903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -6200,14 +5920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで友達がね…"
+                                "Um, so my friend..."
                             ]
                         },
                         {
@@ -6478,7 +6191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お゛っ\\kw[1]おお゛っ\\kw[2]"
+                                "Ohhh"
                             ]
                         },
                         {
@@ -6495,14 +6208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君っ\\kw[1]お゛っ\\kw[2]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おおお゛っっ\\kw[2]"
+                                "Taro-kun, ohhh"
                             ]
                         },
                         {
@@ -6533,14 +6239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…っ！はあ…っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カナエさん…っ！"
+                                "Haa! Haa! Kanade-san!"
                             ]
                         },
                         {
@@ -6646,7 +6345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ばちゅっ\\kw[1]ばちゅっ\\kw[1]ばちゅっ\\kw[1]"
+                                "Smooch\\kw[1] smooch\\kw[1] smooch\\kw[1]"
                             ]
                         },
                         {
@@ -6663,14 +6362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かつて旦那と営んでいた寝室で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎はカナエの事を慰めていた"
+                                "Taro was comforting Kanade in the bedroom where they used to\nspend time with her husband."
                             ]
                         },
                         {
@@ -6687,14 +6379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "乱暴に打ち付けるような後背位の姿勢で、まるで快楽を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "植え付けるかのように、旦那を忘れさせる為のセックス"
+                                "Sex in a rough doggy-style position, as if planting\npleasure, to make her forget about her husband."
                             ]
                         },
                         {
@@ -6711,14 +6396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "腰を強く掴みカナエの尻を固定し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その膣に向かい奥深くへと抽挿を繰り返す"
+                                "He firmly grasped her waist and fixed Kanade's buttocks,\nrepeatedly thrusting deep into her vagina."
                             ]
                         },
                         {
@@ -6764,14 +6442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ\\kw[1]んんっ\\kw[1]お゛っ\\kw[2]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君っ\\kw[1]太郎君…っ\\kw[2]"
+                                "Ah, Taro-kun, Taro-kun!"
                             ]
                         },
                         {
@@ -6788,14 +6459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと突いて…っ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おばさんのおまんこ…っ\\kw[2]"
+                                "Thrust more ... \\kw[1] \\. Aunt's pussy ... \\kw[2]"
                             ]
                         },
                         {
@@ -6812,7 +6476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと気持ちよくして…っ\\kw[1]"
+                                "Make me feel even better"
                             ]
                         },
                         {
@@ -6884,7 +6548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンパンパンパン\\kw[2]"
+                                "Pan pan pan pan \\kw[2]"
                             ]
                         },
                         {
@@ -6930,14 +6594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ゛っ\\kw[1]いいっ\\kw[2]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこ…っ\\kw[1]気持ちいいっ\\kw[1]"
+                                "Ahh, it feels good there, it feels so good."
                             ]
                         },
                         {
@@ -6986,7 +6643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君…っ\\kw[1]お゛っ\\kw[1]"
+                                "Taro-kun, oh"
                             ]
                         },
                         {
@@ -7003,14 +6660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと乱暴にシていいから…っ\\kw[2]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ\\kw[2]あっ\\kw[2]"
+                                "You can be rougher ..., ah \\kw[2] ah \\kw[2] ah \\kw[2]"
                             ]
                         },
                         {
@@ -7027,14 +6677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おばさんのこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めちゃくちゃにして…っ\\kw[2]"
+                                "Please treat me roughly, Auntie."
                             ]
                         },
                         {
@@ -7112,7 +6755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさん…っ！"
+                                "Kanade-san!"
                             ]
                         },
                         {
@@ -7152,14 +6795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぱちゅ\\kw[1]ぱちゅ\\kw[1]と、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "力強い抽挿の音が部屋内に響き立つ"
+                                "The sound of strong thrusting echoes in the room."
                             ]
                         },
                         {
@@ -7176,14 +6812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "尻肉同士が打ちつけ合う音と、愛液と先走りが混じり合う"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "卑猥な音が混ざりあい、淫猥な空気が部屋を包んでいく"
+                                "The sound of buttocks colliding and the obscene sound of\nlove juices and pre-cum mixing together, intertwining with\neach other, filling the room with a lewd atmosphere."
                             ]
                         },
                         {
@@ -7229,14 +6858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ…っはあ…っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カナエさん…っ！"
+                                "Haa... haa...! Kanade-san...!"
                             ]
                         },
                         {
@@ -7253,14 +6875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕もう…っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出る…っ！"
+                                "I'm about to... I'm going to..."
                             ]
                         },
                         {
@@ -7306,14 +6921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ\\kw[1]ああんっ\\kw[2]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出して…っ！太郎君…っ！"
+                                "Ahh, release it! Taro-kun, release it!"
                             ]
                         },
                         {
@@ -7330,7 +6938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おばさんの奥深くに…っ\\kw[1]"
+                                "Deep inside Auntie's ... \\kw[1]"
                             ]
                         },
                         {
@@ -7347,14 +6955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ\\kw[1]お゛っ\\kw[2]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中出し…っ\\kw[1]シて…っ\\kw[2]"
+                                "Ahh, creampie me harder"
                             ]
                         },
                         {
@@ -7410,7 +7011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさん…っ！"
+                                "Kanade-san!"
                             ]
                         },
                         {
@@ -7509,14 +7110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお゛っ\\kw[2]あっ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んんんんんんんんっ\\kw[2]"
+                                "Oh... ah... nnn..."
                             ]
                         },
                         {
@@ -7651,14 +7245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ…っ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　はあ……っ"
+                                "Haa... haa..."
                             ]
                         },
                         {
@@ -7675,7 +7262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさん……"
+                                "Kanade-san"
                             ]
                         },
                         {
@@ -7721,14 +7308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん…っ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おお゛…っ\\kw[2]"
+                                "Nn... Ohh..."
                             ]
                         },
                         {
@@ -7745,7 +7325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君……\\kw[1]"
+                                "Taro-kun ......\\kw[1]"
                             ]
                         },
                         {
@@ -7812,7 +7392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと……"
+                                "More ......"
                             ]
                         },
                         {
@@ -7851,14 +7431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっとおちんちん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "突くから……っ！"
+                                "Thrust harder, please!"
                             ]
                         },
                         {
@@ -7875,14 +7448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寂しい気持ち……"
+                                "Kanade-san's feeling of loneliness ......"
                             ]
                         },
                         {
@@ -7899,14 +7465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕がいっぱい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上書きするから…っ"
+                                "I will overwrite it completely ...."
                             ]
                         },
                         {
@@ -7930,7 +7489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……\\kw[1]"
+                                "Ah"
                             ]
                         },
                         {
@@ -8095,7 +7654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>パンパンパンパン\\kw[2]\\<\\^"
+                                "\\>Pounding, pounding, pounding, pounding\\kw[2]\\<\\^"
                             ]
                         },
                         {
@@ -8119,7 +7678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお゛…っ\\kw[2]"
+                                "Oh!"
                             ]
                         },
                         {
@@ -8159,14 +7718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "射精したばかりなのにも関わらず、すぐに剛直さを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取り戻した太郎はカナエの膣に肉棒を再び打ち付ける"
+                                "Taro, who had just ejaculated, quickly regained his hardness\nand thrust his penis into Kanade's vagina again."
                             ]
                         },
                         {
@@ -8183,14 +7735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエの寂しい想いを上書きしてみせるように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強く激しく、尻肉を乱暴に打ち付けていく"
+                                "I will forcefully and violently pound Kanade's buttocks, as\nif to overwrite her feelings of loneliness."
                             ]
                         },
                         {
@@ -8214,14 +7759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ\\kw[1]おお゛…っ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君…っ\\kw[1]太郎君…っ\\kw[2]"
+                                "Ah, oh, Taro-kun, Taro-kun."
                             ]
                         },
                         {
@@ -8299,14 +7837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ…っ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カナエさん…っ！"
+                                "Haa... Kanade-san!"
                             ]
                         },
                         {
@@ -8323,7 +7854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いっぱい喘いで…っ！"
+                                "Moan a lot!"
                             ]
                         },
                         {
@@ -8340,14 +7871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕のおちんちんで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっぱい気持ちよくなって！"
+                                "Feel really good with my penis!"
                             ]
                         },
                         {
@@ -8393,14 +7917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ\\kw[1]あっ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬉しい…っ\\kw[2]"
+                                "Ah, ah, I'm happy!"
                             ]
                         },
                         {
@@ -8417,14 +7934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君のおちんちんっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ち良いっ\\kw[2]"
+                                "Taro-kun's penis feels good."
                             ]
                         },
                         {
@@ -8441,14 +7951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと突いてっ\\kw[1]あっ\\kw[2]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おお゛っ\\kw[1]お゛っ\\kw[2]"
+                                "Thrust more! Ah! Oh! Oh!"
                             ]
                         },
                         {
@@ -8520,14 +8023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "声を抑えることなく、打ち付けられる快楽に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただただ喘ぎ続けるカナエ"
+                                "Kanade continues to moan without suppressing her voice, as\nshe is repeatedly struck by pleasure."
                             ]
                         },
                         {
@@ -8544,14 +8040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "心にぽっかり空いた寂しさが、太郎の激しい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腰の打ち付けで埋まっていくような感覚――――"
+                                "The feeling of the loneliness that had opened up a gaping\nhole in her heart is being filled by Taro's intense thrusts\nof his hips."
                             ]
                         },
                         {
@@ -8568,14 +8057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "打ち付けられる度に心も身体も太郎を受け入れ始め、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "旦那にも聞かせたことのない嬌声が部屋中を包んでいく"
+                                "Every time she is pounded, both her heart and body begin to\naccept Taro, and her sweet voice, which she has never let\nher husband hear, fills the entire room."
                             ]
                         },
                         {
@@ -8621,14 +8103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ\\kw[1]あっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ち良い…っ\\kw[2]"
+                                "Ah, oh, it feels good."
                             ]
                         },
                         {
@@ -8645,7 +8120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君…っ\\kw[1]\\.太郎君っ\\kw[2]"
+                                "Taro-kun ..., Taro-kun \\kw[1] \\., Taro-kun \\kw[2]."
                             ]
                         },
                         {
@@ -8723,7 +8198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさん…っ！"
+                                "Kanade-san!"
                             ]
                         },
                         {
@@ -8740,14 +8215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おまんこ……っ！"
+                                "Kanade-san's vagina!"
                             ]
                         },
                         {
@@ -8786,14 +8254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どんどん僕のことを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "受け入れてくれて…っ！"
+                                "Please continue to accept me more and more!"
                             ]
                         },
                         {
@@ -8810,14 +8271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すっごく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ち良いよ…っ！"
+                                "It feels really good!"
                             ]
                         },
                         {
@@ -8863,14 +8317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬉しい…っ\\kw[1]お゛っ\\kw[2]"
+                                "Ahh, I'm happy! Ohh"
                             ]
                         },
                         {
@@ -8887,7 +8334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと気持ち良くなって…っ\\kw[1]"
+                                "Please make me feel even better."
                             ]
                         },
                         {
@@ -8904,14 +8351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おばさんのおまんこ…っ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっぱい打ち付けて…っ\\kw[2]"
+                                "Aunt's vagina, pound it hard."
                             ]
                         },
                         {
@@ -8989,7 +8429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさん…っ！"
+                                "Kanade-san!"
                             ]
                         },
                         {
@@ -9029,7 +8469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>パンパンパンパン\\kw[2]\\<\\^"
+                                "\\>Pound, pound, pound, pound\\kw[2]\\<\\^"
                             ]
                         },
                         {
@@ -9053,14 +8493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ\\kw[1]おお゛…っ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君…っ\\kw[1]太郎君…っ\\kw[2]"
+                                "Oh, Taro-kun, Taro-kun!"
                             ]
                         },
                         {
@@ -9132,14 +8565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お互いの気持ちを確かめ合いながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "快楽を打ち付け合う男女の交尾―――"
+                                "A sexual intercourse between a man and a woman, pounding\npleasure while confirming each other's feelings---"
                             ]
                         },
                         {
@@ -9156,14 +8582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "長らくすることもなかった旦那とのセックスを忘れ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カナエの身体は、太郎への身体へと次第と仕上がっていく"
+                                "Kanade's body gradually transforms into Taro's body,\nforgetting about the sex she hadn't had with her husband for\na long time."
                             ]
                         },
                         {
@@ -9209,14 +8628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ\\kw[1]あっ\\kw[2]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ち良い…っ\\kw[2]ああん\\kw[1]"
+                                "Ahh, it feels good, ahh"
                             ]
                         },
                         {
@@ -9233,7 +8645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おちんちん膨らんで…っ\\kw[1]"
+                                "My penis is getting hard."
                             ]
                         },
                         {
@@ -9250,14 +8662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう出そう…？\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "精液出ちゃいそう…？\\kw[2]"
+                                "Are you about to cum? Is your semen about to come out?"
                             ]
                         },
                         {
@@ -9335,7 +8740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさん…っ！"
+                                "Kanade-san!"
                             ]
                         },
                         {
@@ -9352,14 +8757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そろそろ…っ！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また…っ！"
+                                "It's about time! Let's go again!"
                             ]
                         },
                         {
@@ -9405,14 +8803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ\\kw[1]あっ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出して…っ！太郎君\\kw[2]"
+                                "Ahh, ahh, cum inside, Taro-kun."
                             ]
                         },
                         {
@@ -9429,14 +8820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また…っ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おまんこにいっぱい中出しっ\\kw[1]"
+                                "Again, fill my pussy with lots of cum."
                             ]
                         },
                         {
@@ -9453,14 +8837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ\\kw[1]お゛っ\\kw[2]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おお゛っ\\kw[2]"
+                                "Ahh, ohh, oohh"
                             ]
                         },
                         {
@@ -9538,7 +8915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出すよカナエさん…！"
+                                "I'm going to cum, Kanade-san!"
                             ]
                         },
                         {
@@ -9555,14 +8932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おまんこ中出し…っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…あっ！イクっ！"
+                                "Cum inside my pussy! Ah! I'm cumming!"
                             ]
                         },
                         {
@@ -9661,14 +9031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お゛っ\\kw[2]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んんんんんっ\\kw[1]"
+                                "Ohh \\kw[2] Mmm \\kw[1]"
                             ]
                         },
                         {
@@ -9781,14 +9144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ…っ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　はあ……っ"
+                                "Haa... Haa..."
                             ]
                         },
                         {
@@ -9834,14 +9190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ…\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ゛……っ\\kw[1]"
+                                "Haa... Haa..."
                             ]
                         },
                         {
@@ -9865,7 +9214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさん……"
+                                "Kanade-san"
                             ]
                         },
                         {
@@ -9911,7 +9260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ん……っ\\kw[1]"
+                                "Nn"
                             ]
                         },
                         {
@@ -9928,14 +9277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君……\\kw[1]"
+                                "Thank you, Taro-kun. ......\\"
                             ]
                         },
                         {
@@ -9952,14 +9294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おばさんの為に……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっぱい腰振ってくれて…\\kw[1]"
+                                "Please move your hips a lot for me, Auntie."
                             ]
                         },
                         {
@@ -9983,7 +9318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -10022,7 +9357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだだよ…っ"
+                                "Not yet ...."
                             ]
                         },
                         {
@@ -10072,7 +9407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……え？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -10118,14 +9453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "旦那さんを忘れるくらい…っ"
+                                "Kanade-san forgets about her husband ...."
                             ]
                         },
                         {
@@ -10142,14 +9470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと激しいセックス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しないと…っ！"
+                                "We need to have more intense sex, ...!"
                             ]
                         },
                         {
@@ -10195,7 +9516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……"
+                                "Ah"
                             ]
                         },
                         {
@@ -10212,7 +9533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君……\\kw[1]"
+                                "Taro-kun ......\\kw[1]"
                             ]
                         },
                         {
@@ -10382,7 +9703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお゛…っ\\kw[2]"
+                                "Oh..."
                             ]
                         },
                         {
@@ -10454,7 +9775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンパンパンパン\\kw[2]"
+                                "Pan pan pan pan \\kw[2]"
                             ]
                         },
                         {
@@ -10500,7 +9821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ\\kw[1]だめ…っ\\kw[1]"
+                                "Ah, no!"
                             ]
                         },
                         {
@@ -10517,7 +9838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おばさんイったばかりだから…っ\\kw[2]"
+                                "I just came, so..."
                             ]
                         },
                         {
@@ -10534,14 +9855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お゛っ\\kw[1]おお゛っ\\kw[2]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イクっ\\kw[1]またイク…っ\\kw[2]"
+                                "Oh, I'm going to... I'm going to... again!"
                             ]
                         },
                         {
@@ -10878,14 +10192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ…っ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　はあ……っ"
+                                "Haa... Haa..."
                             ]
                         },
                         {
@@ -10924,7 +10231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさん……"
+                                "Kanade-san ......"
                             ]
                         },
                         {
@@ -10967,14 +10274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん…っ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はあ…っ\\kw[1]あ…っ\\kw[1]"
+                                "Nn... haa... ahh..."
                             ]
                         },
                         {
@@ -10991,7 +10291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君……"
+                                "Taro-kun ......"
                             ]
                         },
                         {
@@ -11008,7 +10308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出しすぎ…よ…っ\\kw[1]"
+                                "Too much..., you know...!"
                             ]
                         },
                         {
@@ -11064,7 +10364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ……"
+                                "Hehehe ......"
                             ]
                         },
                         {
@@ -11081,14 +10381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おまんこ気持ちよくて…"
+                                "Kanade-san's pussy feels good."
                             ]
                         },
                         {
@@ -11105,7 +10398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いっぱい出ちゃった…"
+                                "I came a lot"
                             ]
                         },
                         {
@@ -11151,14 +10444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう…\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君ったら…\\kw[1]"
+                                "Taro-kun, you're already..."
                             ]
                         },
                         {
@@ -11423,7 +10709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん……っ\\kw[1]"
+                                "Nn..."
                             ]
                         },
                         {
@@ -11508,14 +10794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カ、カナエさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫…？"
+                                "Kanade-san, are you okay?"
                             ]
                         },
                         {
@@ -11539,14 +10818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……っ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ええ……っ\\kw[2]"
+                                "Yes, I'm fine."
                             ]
                         },
                         {
@@ -11607,7 +10879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君って凄いのね…\\kw[1]"
+                                "Taro-kun is amazing, huh? ...\\kw[1]"
                             ]
                         },
                         {
@@ -11663,14 +10935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とても若くて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雄々しくて……\\kw[1]"
+                                "Very young and manly."
                             ]
                         },
                         {
@@ -11719,14 +10984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とっても硬い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おちんちんとの交尾……\\kw[1]"
+                                "Intercourse with a very hard penis."
                             ]
                         },
                         {
@@ -11801,14 +11059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とても子供とは思えない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セックスだったわ……\\kw[1]"
+                                "It was a very adult-like sex. ......\\"
                             ]
                         },
                         {
@@ -11886,7 +11137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あはは……"
+                                "Ah, ahaha ......"
                             ]
                         },
                         {
@@ -11942,14 +11193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君……\\kw[1]"
+                                "Hey, Taro-kun"
                             ]
                         },
                         {
@@ -12015,14 +11259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん…っ\\kw[1]ちゅ…っ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "れる…っ\\kw[2]"
+                                "Nn...chu...re...chu..."
                             ]
                         },
                         {
@@ -12100,7 +11337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……"
+                                "Ah"
                             ]
                         },
                         {
@@ -12267,7 +11504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]"
+                                "Hehe...!"
                             ]
                         },
                         {
@@ -12316,14 +11553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おばさんのお願い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞いてくれたお礼…\\kw[1]"
+                                "Thank you for listening to Auntie's request."
                             ]
                         },
                         {
@@ -12340,14 +11570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君とのセックス…\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっても良かったわ…\\kw[1]"
+                                "Sex with Taro-kun was really good."
                             ]
                         },
                         {
@@ -12425,7 +11648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさん……"
+                                "Kanade-san ......"
                             ]
                         },
                         {
@@ -12481,7 +11704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………\\kw[1]"
+                                ".........\\kw[1]"
                             ]
                         },
                         {
@@ -12568,14 +11791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いしても良いかしら…？\\kw[1]"
+                                "Can I ask for a favor again?"
                             ]
                         },
                         {
@@ -12631,7 +11847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え…？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -12687,7 +11903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おばさんが寂しくなったら…\\kw[1]"
+                                "When Auntie gets lonely ...\\kw[1]"
                             ]
                         },
                         {
@@ -12736,7 +11952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日みたいにまた……\\kw[1]"
+                                "Like today, ......\\kw[1] again."
                             ]
                         },
                         {
@@ -12753,7 +11969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おちんちん挿れてほしいの…\\kw[1]"
+                                "I want you to insert your penis ...\\kw[1]"
                             ]
                         },
                         {
@@ -12831,7 +12047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさん……"
+                                "Kanade-san ......"
                             ]
                         },
                         {
@@ -12881,7 +12097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -12898,14 +12114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさんはやっぱり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "笑ってる方が良いよ！"
+                                "Kanade-san is better off laughing after all!"
                             ]
                         },
                         {
@@ -12983,7 +12192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -13039,21 +12248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悲しい顔してると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕も悲しいから……"
+                                "When Kanade-san has a sad face, I also feel sad."
                             ]
                         },
                         {
@@ -13102,21 +12297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "役に立つなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでも僕を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼ってほしいな！"
+                                "If I can be of help, I want you to rely on me anytime!"
                             ]
                         },
                         {
@@ -13162,7 +12343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……"
+                                "Ah"
                             ]
                         },
                         {
@@ -13211,7 +12392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君……\\kw[1]"
+                                "Taro-kun ......\\"
                             ]
                         },
                         {
@@ -13272,7 +12453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ……\\kw[1]"
+                                "Hehe ......\\kw[1]"
                             ]
                         },
                         {
@@ -13363,14 +12544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅ…っ\\kw[1]れる…っ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん…っ\\kw[2]"
+                                "Chu...re\\kw[1]ru...t\\kw[1] n...t\\kw[2]"
                             ]
                         },
                         {
@@ -13387,14 +12561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅるる…っ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん…っ\\kw[1]ちゅるる…っ\\kw[2]"
+                                "Slurp ...t\\kw[1]\\. n...t\\kw[1]chururu ...t\\kw[2]"
                             ]
                         },
                         {
@@ -13440,7 +12607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさん……"
+                                "Kanade-san ......"
                             ]
                         },
                         {
@@ -13464,14 +12631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと激しいキス……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "して……？\\kw[1]"
+                                "Do you want a more intense kiss?"
                             ]
                         },
                         {
@@ -13488,14 +12648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私にあの人のこと……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忘れさせて……？\\kw[1]"
+                                "Can I make you forget about that person?"
                             ]
                         },
                         {
@@ -13594,7 +12747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>＞ピンポーン\\<\\^"
+                                ">Ping pong^"
                             ]
                         },
                         {
@@ -13804,7 +12957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>旦那「\\<……ん、あれ？"
+                                "\\>Husband: \\<......Huh, what's that?"
                             ]
                         },
                         {
@@ -13821,14 +12974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>旦那「\\<おい、カナエ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　\\<施錠ロックなんて珍しいな？"
+                                "\\>Husband: \\<Hey, Kanade? It's rare to see the door locked\nlike this, isn't it?"
                             ]
                         },
                         {
@@ -13906,14 +13052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（旦那さんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帰ってきちゃった…！）"
+                                "\\c[14](My husband came home!)...!"
                             ]
                         },
                         {
@@ -13991,7 +13130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君はココで隠れてて…！"
+                                "Taro-kun is hiding here!"
                             ]
                         },
                         {
@@ -14008,7 +13147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が対応するから…"
+                                "I will handle it. ..."
                             ]
                         },
                         {
@@ -14086,7 +13225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -14265,7 +13404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、おかえりなさい貴方…"
+                                "Welcome home, dear ...."
                             ]
                         },
                         {
@@ -14314,14 +13453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さ、さっき警察の人が来て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近物騒だからって話で……"
+                                "U-Um, earlier a police officer came by and talked about how\nthings have been dangerous lately..."
                             ]
                         },
                         {
@@ -14370,14 +13502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんなさいね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段は施錠ロックしないのに…"
+                                "I'm sorry, I usually don't lock the door. ..."
                             ]
                         },
                         {
@@ -14417,7 +13542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>旦那「\\<……そうか"
+                                "Husband: Is that so?"
                             ]
                         },
                         {
@@ -14434,7 +13559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>旦那「\\<それより腹減ったな。飯は？"
+                                "Husband: More importantly, are you hungry? Where's the food?"
                             ]
                         },
                         {
@@ -14524,14 +13649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、ごめんなさい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだできてなくて……"
+                                "Oh, I'm sorry. It's not ready yet. ......"
                             ]
                         },
                         {
@@ -14602,14 +13720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それより先に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お風呂に入ったらどう？"
+                                "Um, how about taking a bath first?"
                             ]
                         },
                         {
@@ -14626,7 +13737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "外は寒かったでしょう？"
+                                "Wasn't it cold outside?"
                             ]
                         },
                         {
@@ -14666,7 +13777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>旦那「\\<……ああ、そうだな"
+                                "\\>Husband: \\<......Ah, I see."
                             ]
                         },
                         {
@@ -14683,7 +13794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>旦那「\\<じゃあ先にそうさせてもらうよ"
+                                "\\>Husband: \\<Well then, I'll go first."
                             ]
                         },
                         {
@@ -14822,7 +13933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞シャーーー………"
+                                ">Shaaa........."
                             ]
                         },
                         {
@@ -14900,7 +14011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、大丈夫かな？"
+                                "I-I wonder if everything is okay?"
                             ]
                         },
                         {
@@ -14956,14 +14067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の内に……"
+                                "Yes, now is the time."
                             ]
                         },
                         {
@@ -15041,7 +14145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナエさん……"
+                                "Kanade-san ......"
                             ]
                         },
                         {
@@ -15097,7 +14201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう……\\kw[1]"
+                                "Already"
                             ]
                         },
                         {
@@ -15146,7 +14250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は大丈夫よ…\\kw[1]"
+                                "I'm fine."
                             ]
                         },
                         {
@@ -15221,7 +14325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それより約束……\\kw[1]"
+                                "More importantly, the promise"
                             ]
                         },
                         {
@@ -15292,7 +14396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また今度、\\c[14]\"遊び\"\\c[0]に来て…？"
+                                "Will you come to play \\c[14]next time\\c[0]?"
                             ]
                         },
                         {
@@ -15341,14 +14445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私、まだまだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "物足りないから……\\kw[1]"
+                                "I'm still not satisfied, so ......\\kw[1]."
                             ]
                         },
                         {
@@ -15426,7 +14523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……"
+                                "Ah"
                             ]
                         },
                         {
@@ -15504,7 +14601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん、約束するよ！"
+                                "Yes, I promise!"
                             ]
                         },
                         {
@@ -15572,14 +14669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かった……\\kw[1]"
+                                "Hehe, I'm glad..."
                             ]
                         },
                         {
@@ -15656,14 +14746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ\\kw[1]ちゅ…っ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゅぷ…っ\\kw[2]"
+                                "*Mmm*\\kw[1] *chu*... *mm*\\kw[1]\\. *chu-p*... *mm*\\kw[2]"
                             ]
                         },
                         {
@@ -15680,7 +14763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……んっ\\kw[1]"
+                                "......Hmm\\kw[1]"
                             ]
                         },
                         {
@@ -15829,7 +14912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "約束よ、太郎君…\\kw[1]"
+                                "Promise, Taro-kun"
                             ]
                         },
                         {
@@ -15969,7 +15052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうしてカナエさんと過ごしたよ！"
+                                "I spent time with Kanae-san like this!"
                             ]
                         },
                         {
@@ -15986,21 +15069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞カナエさん、少し元気になったみたいで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　良かった！旦那さんが帰ってきた時は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　焦ったけど、なんとかなって良かったよ！"
+                                "Kanae-san, it seems like you've become a little better. I'm\nglad! I was worried when your husband came back, but somehow\nthings worked out."
                             ]
                         },
                         {

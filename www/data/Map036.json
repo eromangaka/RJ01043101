@@ -1683,21 +1683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【リザルト】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>SCORE ： \\C[14]\\V[838]\\C[0]\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>洗った皿： \\C[14]\\V[835]\\C[0]　割った皿： \\C[14]\\V[836]\\<"
+                                "\\>[Result]\\< \\>SCORE: \\C[14]\\V[838]\\C[0]\\< \\>Washed dishes:\n\\C[14]\\V[835]\\C[0] Broken dishes: \\C[14]\\V[836]\\<"
                             ]
                         },
                         {
@@ -1885,14 +1871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【リザルト】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>お小遣い　：　\\C[14]+\\V[839]\\C[0]\\<"
+                                "\\>[Result]\\< \\>Allowance: \\C[14]+\\V[839]\\C[0]\\<"
                             ]
                         },
                         {
@@ -1964,14 +1943,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\>【PERFECTボーナス】\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\>お小遣い　：　\\C[14]+500\\C[0]\\<"
+                                "\\>[PERFECT BONUS]\\< \\>Allowance: \\C[14]+500\\C[0]\\<"
                             ]
                         },
                         {

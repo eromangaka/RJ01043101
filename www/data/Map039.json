@@ -1787,14 +1787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おはよう、太郎君"
+                                "Hehe \\kw[1] Good morning, Taro-kun."
                             ]
                         },
                         {
@@ -1857,14 +1850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おはよう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結衣お姉ちゃん！"
+                                "Good morning, big sister Yui!"
                             ]
                         },
                         {
@@ -1931,7 +1917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おはよう太郎君"
+                                "Good morning, Taro-kun."
                             ]
                         },
                         {
@@ -1948,14 +1934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだか太郎君宛に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か届いてるみたいだよ？"
+                                "It seems like something has arrived for you, Taro-kun?"
                             ]
                         },
                         {
@@ -2033,7 +2012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え…？"
+                                "Eh...?"
                             ]
                         },
                         {
@@ -2123,7 +2102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見てみて、コレ！"
+                                "Look at this, check it out!"
                             ]
                         },
                         {
@@ -2277,14 +2256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ…っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コレってもしかして…"
+                                "Ah...! Could this possibly be..."
                             ]
                         },
                         {
@@ -2374,7 +2346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
+                                "Hehe\\kw[1]"
                             ]
                         },
                         {
@@ -2391,14 +2363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良い子にしてたものね\\kw[1]"
+                                "Taro-kun, you've been a good boy, haven't you?\\kw[1]"
                             ]
                         },
                         {
@@ -2481,14 +2446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サンタさんからの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プレゼントだって\\kw[1]"
+                                "They say it's a present from Santa\\kw[1]"
                             ]
                         },
                         {
@@ -2566,7 +2524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やったー！"
+                                "Hooray!"
                             ]
                         },
                         {
@@ -2583,14 +2541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "住所違うのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に来てくれたんだ！"
+                                "Even though the address was wrong, it really came!"
                             ]
                         },
                         {
@@ -2706,7 +2657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "住所…？"
+                                "Address...?"
                             ]
                         },
                         {
@@ -2777,14 +2728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君、\\.家が違うから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来てくれないと思ってたんだよ"
+                                "Taro-kun, I thought it wouldn't come because the address was\nwrong \\.."
                             ]
                         },
                         {
@@ -2844,7 +2788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あー、そういう…"
+                                "Ah, I see..."
                             ]
                         },
                         {
@@ -3004,14 +2948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ちゃんと用意しといて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　正解だったね、結衣）"
+                                "(I'm glad I prepared properly, it was the right decision,\nYui)"
                             ]
                         },
                         {
@@ -3093,7 +3030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（うん…！）"
+                                "(Yes...!)"
                             ]
                         },
                         {
@@ -3153,14 +3090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（でも、ここからが大事な所"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だよ！お姉ちゃん…！）"
+                                "(But, the important part starts from here, big sister...!)"
                             ]
                         },
                         {
@@ -3287,14 +3217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねえ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開けてみても良い？"
+                                "Hey, is it okay to open it?"
                             ]
                         },
                         {
@@ -3373,7 +3296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろん\\kw[1]"
+                                "Of course\\kw[1]"
                             ]
                         },
                         {
@@ -3402,14 +3325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "朝食はプレゼントの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとにしましょうか\\kw[1]"
+                                "Shall we have breakfast after the present?\\kw[1]"
                             ]
                         },
                         {
@@ -3491,14 +3407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、\\.なにが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入ってるか楽しみだね？"
+                                "Hey, \\. I'm excited to see what's inside, aren't you?"
                             ]
                         },
                         {
@@ -3522,7 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -3744,7 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]トイカメラ\\c[0]……"
+                                "\\c[14]Toy Camera\\c[0]......"
                             ]
                         },
                         {
@@ -3833,7 +3742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドキドキ……"
+                                "Heart-pounding......"
                             ]
                         },
                         {
@@ -3979,14 +3888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やったー！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ欲しかったんだ！"
+                                "Yay! \\. I've wanted this!"
                             ]
                         },
                         {
@@ -4087,7 +3989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？"
+                                "What!?"
                             ]
                         },
                         {
@@ -4143,14 +4045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これ、\\.今テレビでCM"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やってる玩具なんだよ！"
+                                "This is the toy that's being advertised on TV right now, \\.!"
                             ]
                         },
                         {
@@ -4167,14 +4062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本物じゃないけど、\\c[14]その場で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "写真を現像できる\\c[0]んだ！"
+                                "It's not the real thing, but you can develop photos on the\nspot with \\c[14]this\\c[0]!"
                             ]
                         },
                         {
@@ -4230,21 +4118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ…\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今のオモチャって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに凄いんだなあ"
+                                "Wow...\\., toys these days are really amazing, huh."
                             ]
                         },
                         {
@@ -4316,14 +4190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かったわね太郎君\\kw[1]"
+                                "Hehe\\kw[1]\\. That's great, isn't it Taro-kun\\kw[1]"
                             ]
                         },
                         {
@@ -4347,7 +4214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -4507,21 +4374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まさか……、\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\c[14]\"本当にカメラが欲しい\"\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんてね…）"
+                                "(I can't believe ......, \\. \\c[14]I really want a\ncamera\\c[0] just like that...)"
                             ]
                         },
                         {
@@ -4593,7 +4446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ね、凄いよね！）"
+                                "(Hey, it's amazing, isn't it!)"
                             ]
                         },
                         {
@@ -4636,14 +4489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あの\\c[14]\"占い\"\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本当だったんだ…！）"
+                                "(That \\c[14]fortune telling\\c[0] was really true...!)"
                             ]
                         },
                         {
@@ -4715,14 +4561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（いやぁ、買ってあげた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　甲斐がありましたなあ…）"
+                                "(Well, it was worth buying it for them...)"
                             ]
                         },
                         {
@@ -4794,14 +4633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まあ、私達は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　頼んだだけで……）"
+                                "(Well, we just asked for it ......)"
                             ]
                         },
                         {
@@ -4818,14 +4650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（買ったのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お母さんだけどね……）"
+                                "(But it was mom who bought it, you know......)"
                             ]
                         },
                         {
@@ -4997,14 +4822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]◆チュートリアル\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　トイカメラの説明を聞きますか？"
+                                "\\c[14]◆Tutorial\\c[0] Would you like to hear the explanation\nof the toy camera?"
                             ]
                         },
                         {
@@ -5358,21 +5176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]トイカメラ\\c[0]を入手したことで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スキルホルダーに\\c[14]「カメラ撮影」\\c[0]が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追加されました。"
+                                "\\c[14]Toy Camera\\c[0] has been acquired, adding\n\\c[14]'Camera Shooting'\\c[0] to the skill holder."
                             ]
                         },
                         {
@@ -5824,21 +5628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "MAPカテゴリにある"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]「カメラ撮影」\\c[0]を選択して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]スキルを使用してみましょう！\\^"
+                                "Select \\c[14]'Camera Shooting'\\c[0] in the MAP category, and\ntry using the \\c[14]skill!\\^"
                             ]
                         },
                         {
@@ -6185,7 +5975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]よくできました！"
+                                "\\c[14]Well done!"
                             ]
                         },
                         {
@@ -6214,21 +6004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "するとカメラアイコンが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]マウスを追従する\\c[0]ようになり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]「カメラモード」\\c[0]に切り替わります。"
+                                "Then the camera icon will start to follow the\n\\c[14]mouse\\c[0], and it will switch to \\c[14]Camera\nMode\\c[0]."
                             ]
                         },
                         {
@@ -6257,21 +6033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モード中に被写体をクリックすることで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]その対象を撮影する\\c[0]ことができます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]（人物やオブジェクトなど）"
+                                "You can \\c[14]take a picture of the subject\\c[0] by clicking\non it in the mode. \\c[14](such as people or objects)."
                             ]
                         },
                         {
@@ -6321,21 +6083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>試しに被写体を選んで撮影してみよう！\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>\\c[14]（本チュートリアルの被写体は、\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　結衣・莉音・美雪・叔父　となります）\\c[0]\\<\\^"
+                                "\\>Let's try choosing a subject and taking a picture!\\<\n\\>\\c[14](The subjects of this tutorial are, \\< \\>\nYui.Rio.Miyuki.Uncle)\\c[0]\\<\\^"
                             ]
                         },
                         {
@@ -6602,7 +6350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]よくできました！"
+                                "\\c[14]Well done!"
                             ]
                         },
                         {
@@ -6638,21 +6386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人物を撮影する場合は、\\c[14]人物をクリック\\c[0]。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オブジェクトを撮影する場合は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]アイコンの中心で撮影\\c[0]するよう心がけましょう。"
+                                "When taking a picture of a person, click on the\n\\c[14]person\\c[0].\\! When taking a picture of an object, try\nto take it at the \\c[14]center of the icon\\c[0].."
                             ]
                         },
                         {
@@ -6812,21 +6546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いま撮影したことで、１つ実績が解除され"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "右クリックメニューの\\c[14]ACHIEVEMENT\\c[0]の欄に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]「カメラ小僧」\\c[0]が追加されました。"
+                                "With the photo you just took, one achievement has been\nunlocked and Camera Boy has been added to the ACHIEVEMENT\nsection of the right-click menu\\c[14]\\c[0]."
                             ]
                         },
                         {
@@ -6855,21 +6575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メニューから選ぶことで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]被写体の詳細を閲覧\\c[0]することができます。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いわゆる\\c[14]コレクション要素\\c[0]ですね。"
+                                "You can view the \\c[14]details of the subject\\c[0] by\nselecting from the menu.\\! It's what you'd call a\n\\c[14]collection element\\c[0], isn't it.?"
                             ]
                         },
                         {
@@ -6898,21 +6604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "街中には様々な被写体が存在するので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "対象になりそうなものを見つけて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんどん撮影してみましょう。"
+                                "There are various subjects in the city, so let's find\npotential ones and keep taking pictures."
                             ]
                         },
                         {
@@ -6941,14 +6633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（スキル習得画面で、この撮影を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　サポートするスキルも習得できます）\\c[0]"
+                                "\\c[14](In the skill acquisition screen, you can also learn\nskills to support this photography)\\c[0]"
                             ]
                         },
                         {
@@ -7368,14 +7053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、カメラには\\c[14]電池残量\\c[0]があり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "1度シャッターを切ると\\c[14]10%電池を消費\\c[0]します。"
+                                "Also, the camera has a \\c[14]battery level\\c[0], and every\ntime you take a picture, it \\c[14]consumes 10% of the\nbattery\\c[0].."
                             ]
                         },
                         {
@@ -7404,21 +7082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空打ち等をして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "電池が無駄にならないよう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "注意して撮影しましょう！"
+                                "Be careful not to waste the battery by taking blank shots,\netc. Let's take pictures carefully!"
                             ]
                         },
                         {
@@ -7642,21 +7306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ところで、\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結衣お姉ちゃんや"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "莉音ねえのは？"
+                                "...... By the way, where are \\. Yui and Rio?"
                             ]
                         },
                         {
@@ -7763,7 +7413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ！？"
+                                "Eh!?"
                             ]
                         },
                         {
@@ -7846,14 +7496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あー…\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達のはえっと…"
+                                "Ah- ...\\. We are, um, ..."
                             ]
                         },
                         {
@@ -7946,14 +7589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、確かに私達の分が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無いのはおかしい！"
+                                "No, it's certainly strange that our share is missing!"
                             ]
                         },
                         {
@@ -8025,21 +7661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せっかくのクリスマスなのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プレゼントが無いとなんか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盛り上がりませんな～……"
+                                "It's a bit of a letdown not having presents on such a\nspecial Christmas, isn't it~......"
                             ]
                         },
                         {
@@ -8137,7 +7759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねえ、お母さん？"
+                                "Hey, mom?"
                             ]
                         },
                         {
@@ -8209,21 +7831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はいはい\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貰えなかった貴方達には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が何か買ってあげるわ\\kw[1]"
+                                "Yes, yes \\kw[1]\\. For those of you who didn't receive\nanything, I will buy something for you \\kw[1]"
                             ]
                         },
                         {
@@ -8335,14 +7943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当！？\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なに買ってくれるの？"
+                                "Really!? \\. What will you buy for me?"
                             ]
                         },
                         {
@@ -8414,7 +8015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっと……"
+                                "Umm......"
                             ]
                         },
                         {
@@ -8561,7 +8162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]かがみ餅\\c[0]……とか？"
+                                "\\c[14]How about Kagami mochi?\\c[0]......?"
                             ]
                         },
                         {
@@ -8633,14 +8234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それ……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正月の準備のやつじゃん…"
+                                "That's ......\\. the thing for New Year's preparations, isn't\nit ...?"
                             ]
                         },
                         {
@@ -8696,7 +8290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あはは……"
+                                "Ahaha......"
                             ]
                         },
                         {
@@ -8762,7 +8356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうしてクリスマスの朝を終えたよ！"
+                                ">And so, we finished the morning of Christmas!"
                             ]
                         },
                         {
@@ -8779,21 +8373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞欲しかった\\c[14]「トイカメラ」\\c[0]が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさかまさかのクリスマスプレゼント！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　サンタさんはやっぱり物知りだ！"
+                                ">The \\c[14]Toy Camera\\c[0] I wanted turned out to be an\nunexpected Christmas present! Santa really does know\neverything!"
                             ]
                         },
                         {
@@ -8810,14 +8390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞早速街に出て、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\c[14]いろんな写真を撮ってみよう！"
+                                ">Let's go out into the town right away, and try taking\nvarious photos! \\c[14]"
                             ]
                         },
                         {

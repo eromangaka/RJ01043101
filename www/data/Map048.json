@@ -1380,14 +1380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見てみて太郎君\\kw[1]"
+                                "Ehehe \\kw[1]\\. Look, Taro-kun \\kw[1]"
                             ]
                         },
                         {
@@ -1418,7 +1411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？"
+                                "......？"
                             ]
                         },
                         {
@@ -1435,14 +1428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの？\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結衣お姉ちゃん"
+                                "What's the matter? \\. Sister Yui"
                             ]
                         },
                         {
@@ -1547,14 +1533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃーん！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]タロットカード\\c[0]～\\kw[1]"
+                                "Ta-da! \\. \\c[14]Tarot cards\\c[0]~\\kw[1]"
                             ]
                         },
                         {
@@ -1604,7 +1583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]タロットカード\\c[0]？"
+                                "\\c[14]Tarot cards\\c[0]?"
                             ]
                         },
                         {
@@ -1705,21 +1684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……わ、\\.結衣"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に買ったんだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タロットカード"
+                                "......Wa, \\.Yui really bought tarot cards."
                             ]
                         },
                         {
@@ -1823,14 +1788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、懐かしいわね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タロットカードだなんて\\kw[1]"
+                                "Oh, how nostalgic. Tarot cards, huh?\\kw[1]"
                             ]
                         },
                         {
@@ -1890,14 +1848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生の頃流行ってたっけ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タロット占い…\\kw[1]"
+                                "Tarot card readings were popular when we were students,\nweren't they?...\\kw[1]"
                             ]
                         },
                         {
@@ -1943,7 +1894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "占い……"
+                                "Fortune-telling......"
                             ]
                         },
                         {
@@ -2022,7 +1973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ…\\kw[1]"
+                                "Ehehe...\\kw[1]"
                             ]
                         },
                         {
@@ -2039,14 +1990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実はわたし、占いに挑戦"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "してみようと思いまして…"
+                                "Actually, I thought I'd try my hand at fortune-telling..."
                             ]
                         },
                         {
@@ -2102,7 +2046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ～"
+                                "Oh really~"
                             ]
                         },
                         {
@@ -2119,14 +2063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結衣お姉ちゃん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "占いに興味あるんだ"
+                                "So, sister Yui, you're interested in fortune-telling?"
                             ]
                         },
                         {
@@ -2193,14 +2130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "元々はそんなに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "興味無かったんだけどね"
+                                "Originally, I wasn't that interested though."
                             ]
                         },
                         {
@@ -2249,21 +2179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最近ちょっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やってみようかなって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思うことがあって…"
+                                "Recently, I've been thinking about giving it a try..."
                             ]
                         },
                         {
@@ -2319,14 +2235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やってみようと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思うこと……？"
+                                "Things you want to try doing......?"
                             ]
                         },
                         {
@@ -2419,14 +2328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実はね、いまこの街に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]凄腕の占い師\\c[0]さんが来てるんだ\\kw[1]"
+                                "Actually, right now in this town, there's a \\c[14]very\nskilled fortune teller\\c[0] who has come\\kw[1]."
                             ]
                         },
                         {
@@ -2472,7 +2374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]凄腕の占い師\\c[0]……"
+                                "\\c[14]A very skilled fortune teller\\c[0]......"
                             ]
                         },
                         {
@@ -2547,14 +2449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかしてそれって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]ミズキ\\c[0]さんのこと？"
+                                "Could that possibly be about \\c[14]Mizuki\\c[0]-san?"
                             ]
                         },
                         {
@@ -2643,14 +2538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君知ってるの？"
+                                "Eh!? \\. Taro-kun, you know about it?"
                             ]
                         },
                         {
@@ -2674,7 +2562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -2691,14 +2579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この間の夏に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲良くなったんだ！"
+                                "I became good friends with her last summer!"
                             ]
                         },
                         {
@@ -2715,14 +2596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "百発百中の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄い占い師さんだよね"
+                                "She's an amazing fortune teller who's always spot on, isn't\nshe?"
                             ]
                         },
                         {
@@ -2801,7 +2675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あらあら……"
+                                "Oh my, oh my......"
                             ]
                         },
                         {
@@ -2818,7 +2692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君って顔広いのね…？"
+                                "Taro-kun, you have a wide circle of acquaintances, don't\nyou...?"
                             ]
                         },
                         {
@@ -2942,7 +2816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（………）"
+                                "\\c[14]（.........）"
                             ]
                         },
                         {
@@ -2985,7 +2859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（何もシてないでしょうね？）"
+                                "\\c[14](You're not doing anything, right?)"
                             ]
                         },
                         {
@@ -3063,7 +2937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（し、してないよ！）"
+                                "\\c[14](I, I'm not doing anything!)"
                             ]
                         },
                         {
@@ -3176,7 +3050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それで…"
+                                "So, that's how it is..."
                             ]
                         },
                         {
@@ -3193,14 +3067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたの？"
+                                "What happened to Mizuki-san?"
                             ]
                         },
                         {
@@ -3267,14 +3134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えーっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうそう…！"
+                                "Uh-huh, that's right...!"
                             ]
                         },
                         {
@@ -3317,21 +3177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実はね、\\.太郎君への"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリスマスプレゼント"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何が喜ぶか占ってもらったんだ\\kw[1]"
+                                "Actually, \\. I had her predict what Taro-kun would be happy\nto receive as a Christmas present \\kw[1]"
                             ]
                         },
                         {
@@ -3387,7 +3233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕のプレゼント？\\^"
+                                "My present?\\^"
                             ]
                         },
                         {
@@ -3488,14 +3334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと、結衣！？"
+                                "Ah! \\. Wait a minute, Yui!?"
                             ]
                         },
                         {
@@ -3555,14 +3394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしたら\\c[14]「トイカメラが良さそう」\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "って占い師さんに言われて……"
+                                "Then the fortune teller told me \\c[14]A toy camera seems\nlike a good idea\\c[0] ......"
                             ]
                         },
                         {
@@ -3579,7 +3411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それで……"
+                                "So, ......"
                             ]
                         },
                         {
@@ -3661,7 +3493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……って、\\.あ……"
+                                "...... said, \\.ah......"
                             ]
                         },
                         {
@@ -3728,21 +3560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トイカメラって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サンタさんが贈って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くれたんだよね？"
+                                "A toy camera is what Santa gave you, right?"
                             ]
                         },
                         {
@@ -3831,14 +3649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あ、\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ～～～～！"
+                                "......Ah, \\. Ah~~~~!"
                             ]
                         },
                         {
@@ -3889,7 +3700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えーっと、違くて…！"
+                                "Uh-uh, that's not it...!"
                             ]
                         },
                         {
@@ -3971,21 +3782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……そう！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私と結衣で太郎の欲しい物を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "予想し合ってて…！"
+                                "......That's right! \\. Yui and I were guessing what Taro\nwould want ...!"
                             ]
                         },
                         {
@@ -4002,14 +3799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "予想を当てたほうが勝ち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…みたいなゲームをしてたの！"
+                                "We were playing a game where the one who guesses correctly\nwins! Like ...!"
                             ]
                         },
                         {
@@ -4095,7 +3885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうそう！そうなの！"
+                                "Th-that's right! That's it!"
                             ]
                         },
                         {
@@ -4177,14 +3967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それで卑怯にもこの妹めが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "占いで予想してもらいまして！"
+                                "So, unfairly, this little sister even had her prediction\nmade by a fortune teller!"
                             ]
                         },
                         {
@@ -4266,14 +4049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それで見事占いは的中！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝負は私の勝ち！"
+                                "So, the fortune-telling was spot on! I won the game!"
                             ]
                         },
                         {
@@ -4316,7 +4092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ね、すごいでしょ？"
+                                "...Hey, amazing, isn't it?"
                             ]
                         },
                         {
@@ -4340,7 +4116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -4411,7 +4187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えーっと…"
+                                "Let's see..."
                             ]
                         },
                         {
@@ -4428,14 +4204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズルはよくないん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃないかな……？"
+                                "Isn't it bad to cheat......?"
                             ]
                         },
                         {
@@ -4524,14 +4293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すみません……"
+                                "Yes......\\. Sorry......"
                             ]
                         },
                         {
@@ -4580,7 +4342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははは"
+                                "Ahahaha"
                             ]
                         },
                         {
@@ -4597,14 +4359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっきから言ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのミズキって人って……"
+                                "The person named Mizuki that you've been talking about since\na while ago is ......"
                             ]
                         },
                         {
@@ -4647,14 +4402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかして\\c[14]派手な髪色\\c[0]した"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "若い占い師さんかな？"
+                                "Could it be the young fortune teller with the flashy hair\ncolor\\c[0] you've been talking about\\c[14]?"
                             ]
                         },
                         {
@@ -4748,14 +4496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうそう！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お父さん知ってるの？"
+                                "That's right! \\. Does your father know?"
                             ]
                         },
                         {
@@ -4804,14 +4545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こないだ\\c[14]街道\\c[0]で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店を出してるの見かけたよ"
+                                "I saw them running a shop on the highway the other\nday\\c[14]."
                             ]
                         },
                         {
@@ -4828,14 +4562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "占い師なんて滅多に見ないからね、\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人目を引いていたのを覚えているよ"
+                                "I remember them catching people's attention because you\ndon't often see a fortune teller, \\.."
                             ]
                         },
                         {
@@ -4891,7 +4618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ～…"
+                                "Oh really~..."
                             ]
                         },
                         {
@@ -4915,21 +4642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それにしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "百発百中だなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄い占い師だなぁ…"
+                                "Even so, a fortune teller who's right every time is amazing,\nhuh..."
                             ]
                         },
                         {
@@ -4946,7 +4659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今度俺も占ってもらおうかな"
+                                "Maybe I should get a fortune reading next time."
                             ]
                         },
                         {
@@ -5002,7 +4715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっか……"
+                                "I see......"
                             ]
                         },
                         {
@@ -5019,14 +4732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]街道\\c[0]にミズキさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いるかもしれないんだ…"
+                                "\\c[14]Mizuki might be on the highway\\c[0]..."
                             ]
                         },
                         {
@@ -5043,14 +4749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今度会いに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行ってみようかな！"
+                                "Maybe I should go and see them next time!"
                             ]
                         },
                         {
@@ -5109,7 +4808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうしてみんなと朝食を過ごしたよ！"
+                                ">I spent breakfast with everyone like this!"
                             ]
                         },
                         {
@@ -5126,21 +4825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞占い師の\\c[14]ミズキ\\c[0]さんがこの冬にも街に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　来てるみたい！僕にあったら驚くかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今度、\\c[14]街道\\c[0]に行ってみよう！"
+                                ">It seems that the fortune teller \\c[14]Mizuki\\c[0] is also\ncoming to town this winter! I wonder if they would be\nsurprised to see me? Next time, I'll try going to the\n\\c[14]highway\\c[0]!"
                             ]
                         },
                         {

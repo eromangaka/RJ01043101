@@ -1600,14 +1600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<ついこの間太郎を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　\\<預けたばっかりなのに……"
+                                "\\> Just when I entrusted \\< ......"
                             ]
                         },
                         {
@@ -1624,7 +1617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<ほんと時間が経つのは早いわね～"
+                                "\\>Mother: \\<Time really flies, doesn't it~"
                             ]
                         },
                         {
@@ -1641,7 +1634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>父「\\<そうだなあ～…"
+                                "\\>Father: \\<That's right~ ..."
                             ]
                         },
                         {
@@ -1684,14 +1677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>父「\\<どうだ、太郎？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　\\<冬休みも楽しく過ごせたか？"
+                                "\\>Father: \\<How was it, Taro? Did you have a fun winter\nbreak?"
                             ]
                         },
                         {
@@ -1754,7 +1740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -1803,14 +1789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夏に比べて休みは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "短かったけど…"
+                                "The break was shorter compared to summer, but..."
                             ]
                         },
                         {
@@ -1859,21 +1838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いっぱい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色々な人と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遊んだんだ！"
+                                "I played with a lot of different people!"
                             ]
                         },
                         {
@@ -1913,14 +1878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<ふふ…っ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　\\<それは良かったわね\\kw[1]"
+                                "Mother: Hehe, that's good to hear."
                             ]
                         },
                         {
@@ -1937,14 +1895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<でも、長期休みごとにお世話になってばかりで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　\\<本当に大丈夫かしら……？"
+                                "Mother: But, every long break, we always rely on you. Are\nyou really okay, ......?"
                             ]
                         },
                         {
@@ -1961,14 +1912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<美雪さん達はああ言ってくれたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　\\<子供一人預かるのって凄く負担だろうし…"
+                                "Mother: Miyuki and the others said that taking care of one\nchild is a huge burden, right?"
                             ]
                         },
                         {
@@ -1985,7 +1929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>父「\\<確かにそうだなあ……"
+                                "Father: Certainly, that's true."
                             ]
                         },
                         {
@@ -2035,14 +1979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>父「\\<それじゃあ今度は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　\\<ウチに来てもらうってのはどうだ？"
+                                "\\>Father: \\<Well then, how about coming over to our place\nnext time?"
                             ]
                         },
                         {
@@ -2120,7 +2057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？"
+                                "What!?"
                             ]
                         },
                         {
@@ -2186,7 +2123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<あら、良いわねソレ\\kw[1]"
+                                "Mother: Oh, that's nice."
                             ]
                         },
                         {
@@ -2203,7 +2140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<美雪さんの家に比べたらウチは狭いけど…"
+                                "\\>Mother: \\<Compared to Miyuki's house, our place is small,\nbut ..."
                             ]
                         },
                         {
@@ -2220,14 +2157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<都会は施設も充実してるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　\\<色々と労ってあげられるかもしれないわ\\kw[1]"
+                                "Mother: The city has well-equipped facilities, so we might\nbe able to take care of \\> \\< in various ways."
                             ]
                         },
                         {
@@ -2305,7 +2235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -2322,7 +2252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えーっと……"
+                                "Um..."
                             ]
                         },
                         {
@@ -2365,21 +2295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのあいだ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お母さんもお父さんも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いるんだよね？"
+                                "During that time, both mom and dad are there, right?"
                             ]
                         },
                         {
@@ -2419,7 +2335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<いるけど？"
+                                "Mother: Are they there?"
                             ]
                         },
                         {
@@ -2497,14 +2413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じ、じゃあ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいかな…？"
+                                "U-um, is that okay?"
                             ]
                         },
                         {
@@ -2544,7 +2453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<なによそれ"
+                                "Mother: What is that?"
                             ]
                         },
                         {
@@ -2561,7 +2470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<お母さん達がいるとお邪魔だって言うの？"
+                                "Mother: Are you saying that it would be bothersome if the\nmothers are there?"
                             ]
                         },
                         {
@@ -2617,7 +2526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、\\.えっと……"
+                                "Um, uh"
                             ]
                         },
                         {
@@ -2679,7 +2588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>父「\\<わっはっはっは！"
+                                "Father: Hahaha!"
                             ]
                         },
                         {
@@ -2696,14 +2605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>父「\\<ま、確かに親の前だと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　\\<結衣ちゃん達にカッコつけ辛いもんな！"
+                                "\\>Father: \\<Well, it's true that it's hard to act cool in\nfront of \\>Yui-chan and the others when our parents are\naround!"
                             ]
                         },
                         {
@@ -2720,7 +2622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<ふーん……"
+                                "Mother: Hmm..."
                             ]
                         },
                         {
@@ -2737,14 +2639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<ま、アンタにしてみればウチで遊ぶより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　\\<泊まりに行く方が楽しいものね～"
+                                "Mother: Well, for you, it's probably more fun to stay\novernight \\> than to play at home, right~"
                             ]
                         },
                         {
@@ -2768,14 +2663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<春休み、また一緒に結衣ちゃん達と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　\\<遊べると良いわね"
+                                "Mother: It would be nice if we could play with Yui-chan and\nthe others again during spring break."
                             ]
                         },
                         {
@@ -2831,7 +2719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -2939,7 +2827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<……あ、そうだ！太郎！"
+                                "Mother: Oh, that's right! Taro!"
                             ]
                         },
                         {
@@ -2956,7 +2844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<\\c[14]初夢\\c[0]、見た？"
+                                "Mother: \\<\\c[14]Did you see \\>the first dream\\c[0]?"
                             ]
                         },
                         {
@@ -3012,7 +2900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "初夢？"
+                                "First dream?"
                             ]
                         },
                         {
@@ -3052,7 +2940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<そうそう！"
+                                "Mother: Oh, that's right!"
                             ]
                         },
                         {
@@ -3069,14 +2957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<初夢って\\c[14]正夢になりやすい\\c[0]って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　\\<聞いたことあってね～"
+                                "Mother: I heard that \\<first dreams\\c are more likely to\ncome true\\c!"
                             ]
                         },
                         {
@@ -3093,14 +2974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<お母さん、夢の内容覚えておこうと思って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　\\<枕元に日記帳を置いて寝たんだけど…"
+                                "\\>Mother: \\<Mom, I thought about remembering the contents of\nmy dream, so I placed a diary next to my pillow and went to\nsleep, but ..."
                             ]
                         },
                         {
@@ -3117,7 +2991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<目覚める頃にはすっかり覚えて無くて…"
+                                "\\>Mother: \\<By the time I woke up, I completely forgot ...."
                             ]
                         },
                         {
@@ -3134,14 +3008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>母「\\<何か見た気がするんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　\\<なんだったかしらね～…アレ……"
+                                "\\>Mother: \\<I feel like I saw something, but I wonder what\nit was~ ...That thing......."
                             ]
                         },
                         {
@@ -3187,7 +3054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "初夢……"
+                                "First dream"
                             ]
                         },
                         {
@@ -3204,7 +3071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕も見たような…"
+                                "I think I saw it too."
                             ]
                         },
                         {
@@ -3304,7 +3171,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…そうだ！"
+                                "...Oh, that's right!"
                             ]
                         },
                         {
@@ -3321,14 +3188,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]\\v[997]\\c[0]の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "夢を見たんだ…！"
+                                "I had a dream ...!"
                             ]
                         },
                         {
@@ -3390,7 +3250,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\>母「\\<あら、結衣ちゃんの夢？"
+                                "\\>Mother: \\<Oh, Yui-chan's dream?"
                             ]
                         },
                         {
@@ -3407,14 +3267,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\>母「\\<ふふっ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\>　　\\<沢山お世話になったからかしらね\\kw[1]"
+                                "Mother: Hehe, I wonder if it's because I've been taken care\nof a lot."
                             ]
                         },
                         {
@@ -3475,7 +3328,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\>母「\\<あら、莉音ちゃんの夢？"
+                                "\\>Mother: \\<Oh, Rio-chan's dream?"
                             ]
                         },
                         {
@@ -3492,14 +3345,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\>母「\\<ふふっ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\>　　\\<二人共なかよしだものね～\\kw[1]"
+                                "Mother: Hehe, you two are such good friends~"
                             ]
                         },
                         {
@@ -3560,7 +3406,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\>母「\\<美雪さんの夢？"
+                                "Mother: Miyuki-san's dream?"
                             ]
                         },
                         {
@@ -3577,14 +3423,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\>母「\\<あら……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\>　　\\<なんだか意外ねぇ……"
+                                "Mother: Oh, what a surprise. \\> \\<, you're quite unexpected,\naren't you? ......"
                             ]
                         },
                         {
@@ -3675,7 +3514,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\>母「\\<あら、賑やかでいいわね\\kw[1]"
+                                "\\>Mother: \\<Oh, it's lively and nice, isn't it? \\kw[1]"
                             ]
                         },
                         {
@@ -3725,7 +3564,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\>母「\\<\\v[997]？"
+                                "\\>Mother: \\<\\What is it?"
                             ]
                         },
                         {
@@ -3749,7 +3588,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "えへへ……"
+                                "Hehehe ......"
                             ]
                         },
                         {
@@ -3766,14 +3605,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "向こうで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "仲良くなったんだ！"
+                                "We became good friends over there!"
                             ]
                         },
                         {
@@ -3813,7 +3645,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\>母「\\<へぇ～…"
+                                "Mother: Oh, really~ ..."
                             ]
                         },
                         {
@@ -3873,7 +3705,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>母「\\<どんな夢だったの？"
+                                "\\>Mother: \\<What kind of dream was it?"
                             ]
                         },
                         {
@@ -3951,7 +3783,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ！？"
+                                "Huh!?"
                             ]
                         },
                         {
@@ -4022,7 +3854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっと……"
+                                "Um..."
                             ]
                         },
                         {
@@ -4078,7 +3910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "い、言いたくない"
+                                "I... I don't want to say."
                             ]
                         },
                         {
@@ -4118,14 +3950,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>母「\\<あら、なに～？良いじゃないのよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　\\<教えてくれたって～！"
+                                "\\>Mother: Oh, what is it? Isn't it nice that they told you?"
                             ]
                         },
                         {
@@ -4168,14 +3993,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>父「\\<お、太郎も遂にアレか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　\\<\\c[14]\"思春期\"\\c[0]ってやつか？"
+                                "\\>Father: Oh, Taro, is it finally that? \\>\n\\<\\c[14]Adolescence\\c[0]?"
                             ]
                         },
                         {
@@ -4192,7 +4010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>母「\\<あら、そうなの？"
+                                "Mother: Oh, is that so?"
                             ]
                         },
                         {
@@ -4209,7 +4027,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>母「\\<もしかして太郎……"
+                                "\\>Mother: \\<Is it possible that Taro......"
                             ]
                         },
                         {
@@ -4297,7 +4115,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\>母「\\<結衣ちゃんの事好きなのかしら…？\\kw[1]"
+                                "\\>Mother: \\<I wonder if you like Yui-chan?... \\kw[1]?"
                             ]
                         },
                         {
@@ -4358,7 +4176,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\>母「\\<莉音ちゃんの事好きなのかしら…？\\kw[1]"
+                                "\\>Mother: \\<I wonder if you like Rio-chan? ...? \\kw[1]"
                             ]
                         },
                         {
@@ -4419,7 +4237,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\>母「\\<美雪さんの事好きなのかしら…？\\kw[1]"
+                                "\\>Mother: \\<I wonder if you like Miyuki-san? ...? \\kw[1]"
                             ]
                         },
                         {
@@ -4459,14 +4277,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\>父「\\<わっはっは！既婚者を狙うとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\>　　\\<なかなか成長したなあ、太郎！"
+                                "\\>Father: \\<Hahaha! To target a married woman, \\> \\< you've\nreally grown up, Taro!"
                             ]
                         },
                         {
@@ -4557,14 +4368,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\>母「\\<結衣ちゃんや莉音ちゃんに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\>　　\\<恋しちゃったとか…？\\kw[1]"
+                                "\\>Mother: \\<Did you fall in love with Yui-chan or Rio-chan?\n\\>Or maybe both?\\kw[1]"
                             ]
                         },
                         {
@@ -4614,7 +4418,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\>母「\\<その子のこと好きなのかしら…？\\kw[1]"
+                                "\\>Mother: \\<I wonder if you like that child? ...?\\kw[1]"
                             ]
                         },
                         {
@@ -4712,7 +4516,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うう…"
+                                "Uu ..."
                             ]
                         },
                         {
@@ -4783,7 +4587,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "う、うるさいな！"
+                                "Ugh, you're so noisy!"
                             ]
                         },
                         {
@@ -4800,14 +4604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "良いでしょ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんだって！"
+                                "It's good, right? Whatever!"
                             ]
                         },
                         {
@@ -4847,7 +4644,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>母「\\<あら、反抗期みたい"
+                                "\\>Mother: \\<Oh, it seems like the rebellious phase."
                             ]
                         },
                         {
@@ -4886,7 +4683,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>父「\\<わっはっはっは！"
+                                "\\>Father: \\<Wahahaha!"
                             ]
                         },
                         {
@@ -4903,14 +4700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>父「\\<こりゃもう少し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　\\<美雪に面倒見てもらった方が良いかもな！"
+                                "\\>Father: \\<Hmm, maybe it would be better for Miyuki to take\ncare of this a little longer!"
                             ]
                         },
                         {
@@ -4927,14 +4717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>母「\\<そうねぇ、結衣ちゃんも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　\\<莉音ちゃんも立派に育ってるし…"
+                                "\\>Mother: \\<That's right, Yui-chan and Rio-chan have both\ngrown up beautifully. ..."
                             ]
                         },
                         {
@@ -4951,7 +4734,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>母「\\<子育てのコツ、教えてもらおうかしら"
+                                "\\>Mother: \\<Shall I ask for some tips on raising children?"
                             ]
                         },
                         {
@@ -5029,14 +4812,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "二人が僕のこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いじるからでしょ！"
+                                "They're teasing me, aren't they?"
                             ]
                         },
                         {
@@ -5098,7 +4874,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>父＆母「\\<わっはっはっは！"
+                                "\\>Father & Mother: \\<Wahahaha!"
                             ]
                         },
                         {
@@ -5186,14 +4962,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ、あはは…\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕も覚えてないや…"
+                                "Ah, ahaha ...\\.. I don't remember either ...."
                             ]
                         },
                         {
@@ -5259,7 +5028,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>母「\\<あら、太郎も？"
+                                "\\>Mother: \\<Oh, Taro too?"
                             ]
                         },
                         {
@@ -5276,14 +5045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>母「\\<そうなのよねぇ～…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　\\<夢ってなんでかスッポリ忘れちゃうのよねぇ…"
+                                "Mother: That's right, huh~ Yui, why is it that we completely\nforget about our dreams?"
                             ]
                         },
                         {
@@ -5300,7 +5062,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>母「\\<あなたは、どう？"
+                                "\\>Mother: \\<What about you?"
                             ]
                         },
                         {
@@ -5317,7 +5079,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>父「\\<うーん、どうだったかなあ…"
+                                "Father: Hmm, I wonder, how was it?"
                             ]
                         },
                         {
@@ -5334,14 +5096,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>父「\\<ただ一つ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　\\<ハッキリ思い出せるのは…"
+                                "\\>Father: \\<There's only one thing, \\> \\<that I can clearly\nremember is ...."
                             ]
                         },
                         {
@@ -5358,14 +5113,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>父「\\<寝落ちするまで夜通し喘ぐ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　\\<お前の声がエロかった――\\|\\^"
+                                "\\>Father: \\<I moaned all night until I fell asleep. \\>\n\\<Your voice was erotic.--\\|\\^"
                             ]
                         },
                         {
@@ -5404,7 +5152,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>母「\\<ちょ、ちょっと！あなた！？"
+                                "\\>Mother: \\<Wait, wait! You!?"
                             ]
                         },
                         {
@@ -5443,7 +5191,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>父「\\<わっはっはっは！"
+                                "\\>Father: \\<Wahahaha!"
                             ]
                         },
                         {
@@ -5467,7 +5215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ、あはは……"
+                                "Ah, ahaha ......"
                             ]
                         },
                         {
@@ -5711,21 +5459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しばらくして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "辺り一面に広がっていた田舎の景色が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "都会のビル群で彩られていく"
+                                "After a while, the rural scenery that had spread all around\nwas gradually adorned by the urban skyscrapers."
                             ]
                         },
                         {
@@ -5742,14 +5476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "短く、あっと言う間に過ぎ去った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冬休みという期間―――"
+                                "The period known as winter vacation passed by quickly in a\nshort amount of time."
                             ]
                         },
                         {
@@ -5803,14 +5530,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それでも色濃く太郎の思い出として残るのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一ノ瀬家で過ごした日々が、全て\\c[14]かけがえのないモノ\\c[0]だったからだ"
+                                "However, what remains vividly in Taro's memories is that the\ndays spent in the Ichinose family were all irreplaceable."
                             ]
                         },
                         {
@@ -5827,14 +5547,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "結衣、莉音、美雪、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そして街で出会った沢山の仲間たち―――"
+                                "Yui, Rio, Miyuki, and many friends they met in the city---"
                             ]
                         },
                         {
@@ -5851,14 +5564,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "彼女達と交わした\\c[14]\"未来へと繋がる約束\"\\c[0]が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "太郎の中で大きく期待として膨らんでいく"
+                                "The promise that leads to the future that he exchanged with\nthem \\c[14] gradually swelled up in Taro's heart as a great\nexpectation."
                             ]
                         },
                         {
@@ -5907,14 +5613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「みんな……"
+                                "Taro: Everyone ......"
                             ]
                         },
                         {
@@ -5938,7 +5637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "車窓から外の景色を眺めながら、春の訪れを待ちあぐむ"
+                                "While gazing at the scenery outside the car window, I long\nfor the arrival of spring."
                             ]
                         },
                         {
@@ -5955,14 +5654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夏に、冬に続き、春にも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと色濃い思い出が作れるように―――"
+                                "In order to create even more vivid memories in spring,\nfollowing summer and winter---"
                             ]
                         },
                         {
@@ -5979,14 +5671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女たちとの絆が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっともっと育まれるように―――"
+                                "So that the bonds with them can grow even stronger and\nstronger---"
                             ]
                         },
                         {
@@ -6003,14 +5688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女達とのかけがえのない日々を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "振り返りながら、太郎は瞼を閉じる―――"
+                                "Taro closes his eyes while looking back on the irreplaceable\ndays with them---"
                             ]
                         },
                         {
@@ -6085,14 +5763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「結衣お姉ちゃん、\\.莉音ねえ……\\|\\.\\^"
+                                "Taro: Yui, Rio, \\.Rionee......\\|\\.\\^"
                             ]
                         },
                         {
@@ -6109,14 +5780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「美雪さん……\\.みんな……\\|\\.\\^"
+                                "Taro: Miyuki-san, everyone"
                             ]
                         },
                         {
@@ -6210,14 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\\c[14]また……\\.遊びに行くからね！\\|\\|\\^"
+                                "Taro: \\c[14] I will come to play again, okay? \\|\\|\\^"
                             ]
                         },
                         {

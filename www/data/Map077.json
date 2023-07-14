@@ -1445,7 +1445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<あれ……"
+                                "\\>Kota: \\<What's that ......"
                             ]
                         },
                         {
@@ -1575,7 +1575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え……？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -1638,7 +1638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ……"
+                                "Hehehe ......"
                             ]
                         },
                         {
@@ -1674,21 +1674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あかりちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めんたいこのみんな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "久しぶり！"
+                                "Akari-chan! Everyone's favorite mentaiko! Long time no see!"
                             ]
                         },
                         {
@@ -1782,7 +1768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君！"
+                                "Taro-kun!"
                             ]
                         },
                         {
@@ -1957,14 +1943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<太郎！太郎じゃないか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<久しぶりだな！"
+                                "\\>Kota: \\<Taro! It's Taro, isn't it! \\>　　　\\<Long time no\nsee!"
                             ]
                         },
                         {
@@ -2020,14 +1999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっか！太郎君の学校も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冬休みになったから……"
+                                "Oh, I see! Taro-kun's school also had winter break, so"
                             ]
                         },
                         {
@@ -2051,14 +2023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また遊びに来たんだ！"
+                                "Yeah! \\. You came to play again!"
                             ]
                         },
                         {
@@ -2114,14 +2079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わあ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだったんだ！\\kw[1]"
+                                "Wow, I didn't realize that!"
                             ]
                         },
                         {
@@ -2138,14 +2096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また会えて嬉しいよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君\\kw[1]"
+                                "Nice to see you again, Taro-kun."
                             ]
                         },
                         {
@@ -2169,7 +2120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ"
+                                "Ehehe"
                             ]
                         },
                         {
@@ -2186,14 +2137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "みんな相変わらず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元気そうだね！"
+                                "Everyone seems to be doing well as usual!"
                             ]
                         },
                         {
@@ -2233,7 +2177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<ああ、みんな元気にやってるぜ"
+                                "\\>Kota: \\<Ah, everyone is doing well."
                             ]
                         },
                         {
@@ -2250,14 +2194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<来るなら連絡の一つ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<寄こしてくれれば良かったのに"
+                                "\\>Shiori: \\<If you were coming, it would have been nice to\nreceive a message beforehand \\>　　　\\<and let us know."
                             ]
                         },
                         {
@@ -2281,7 +2218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははは"
+                                "Ahahaha"
                             ]
                         },
                         {
@@ -2370,7 +2307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あれ？"
+                                "......Huh?"
                             ]
                         },
                         {
@@ -2387,14 +2324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日はめん太君、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来てないの？"
+                                "Is Mentaro-kun not here today?"
                             ]
                         },
                         {
@@ -2434,14 +2364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<めん太君なら休みの間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<\\c[14]修行の旅\\c[0]に出ちゃって今はいないわ"
+                                "Shiori: If it's Mentaro-kun, he's currently on a training\njourney and won't be here during his break."
                             ]
                         },
                         {
@@ -2458,14 +2381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\c[14]『プロになったからには欠かさず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<　鍛錬を積まないといけない』\\c[0]って……"
+                                "Shiori: \\c[14]Now that I've become a professional, I have to\ntrain without fail\\> \\<."
                             ]
                         },
                         {
@@ -2504,7 +2420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<相変わらずかなりストイックよねぇ…"
+                                "\\>Shiori: \\<You're still quite diligent, aren't you? ..."
                             ]
                         },
                         {
@@ -2560,7 +2476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わあ……！"
+                                "Wow!"
                             ]
                         },
                         {
@@ -2599,21 +2515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "めん太君プロの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メンタイカーに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なれたんだ！"
+                                "Mentaro-kun became a professional Mentai car!"
                             ]
                         },
                         {
@@ -2669,7 +2571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん、そうなんだ\\kw[1]"
+                                "Yeah, that's right. \\kw[1]"
                             ]
                         },
                         {
@@ -2718,21 +2620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すっかりTVにも馴染んできて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今やめんたいの顔役って感じで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄いんだよ！"
+                                "She has completely become accustomed to TV, and now she's\nlike the face of mentaiko. It's amazing!"
                             ]
                         },
                         {
@@ -2803,14 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たまに二人でTV共演することも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるんだけど……"
+                                "Sometimes we also appear together on TV ......"
                             ]
                         },
                         {
@@ -2893,21 +2774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "同じ肩を並べる身としては、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めん太君のストイックさは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見習わないといけないかな…"
+                                "As someone who stands shoulder to shoulder with Mentaro-kun,\nI should learn from his stoicism, I guess. ..."
                             ]
                         },
                         {
@@ -2969,7 +2836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<良いのよ、あかりはそのままで！"
+                                "\\>Shiori: \\<It's fine, Akari should stay as she is!"
                             ]
                         },
                         {
@@ -3008,7 +2875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<そうだぜ、あかりちゃん！"
+                                "\\>Kota: \\<That's right, Akari-chan!"
                             ]
                         },
                         {
@@ -3025,14 +2892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<あかりちゃんまでめん太君みたいになったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<堅物が２人並んで番組が面白くなくなるだろ"
+                                "\\>Kota: \\<If even Akari-chan becomes like Mentaro-kun,\nhaving two serious people together on the show will make it\nless interesting, right?"
                             ]
                         },
                         {
@@ -3078,7 +2938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>あははは\\<\\^"
+                                "\\>Ahahaha\\<\\^"
                             ]
                         },
                         {
@@ -3102,7 +2962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははは"
+                                "Ahahaha"
                             ]
                         },
                         {
@@ -3180,7 +3040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも、そっか……"
+                                "But, I see."
                             ]
                         },
                         {
@@ -3255,14 +3115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二人ともすっかり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]タレント\\c[0]さんなんだ"
+                                "Both of them have completely become celebrities."
                             ]
                         },
                         {
@@ -3330,7 +3183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]"
+                                "Hehe...h\\kw[1]"
                             ]
                         },
                         {
@@ -3483,7 +3336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ところで……"
+                                "By the way ......"
                             ]
                         },
                         {
@@ -3558,14 +3411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君はまだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]めんたい\\c[0]やってる？"
+                                "Is Taro still doing \\c[14]mentai\\c[0]?"
                             ]
                         },
                         {
@@ -3643,7 +3489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、えーっと……"
+                                "Um, well..."
                             ]
                         },
                         {
@@ -3682,14 +3528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地元じゃやってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "友達いなくって…"
+                                "I don't have any friends who do it in my hometown."
                             ]
                         },
                         {
@@ -3751,7 +3590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<おいおいマジかよ！"
+                                "\\>Kota: \\<Hey hey, are you serious!"
                             ]
                         },
                         {
@@ -3790,7 +3629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<今や\\c[14]大人もメンコを始める時代\\c[0]なんだぜ？"
+                                "\\>Kota: \\<Nowadays, \\ceven adults are starting to play with\nmenko, you know?"
                             ]
                         },
                         {
@@ -3807,14 +3646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<太郎君の実家って都会なんでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<遅れてるわねぇ～"
+                                "\\>Shiori: Taro-kun's hometown is in the city, right? \\>\n\\<I'm so behind~"
                             ]
                         },
                         {
@@ -3870,7 +3702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははは…"
+                                "Ahahaha ..."
                             ]
                         },
                         {
@@ -3952,14 +3784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ、はいコレ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君にあげるよ！"
+                                "Okay, here you go \\kw[1]\\.. I'll give it to Taro-kun!"
                             ]
                         },
                         {
@@ -4120,7 +3945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞\\c[14]めんたい用のメンコ\\c[0]をもらった！"
+                                ">\\cI received a menko for mentai!\\c"
                             ]
                         },
                         {
@@ -4258,7 +4083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ、良いの？"
+                                "Is it okay?"
                             ]
                         },
                         {
@@ -4314,14 +4139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "元々はアジトで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "練習する用の奴なんだけど……"
+                                "Originally, it's a guy for practicing at the hideout."
                             ]
                         },
                         {
@@ -4338,14 +4156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "余ってるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君にあげるよ\\kw[1]"
+                                "I have some extra, so I'll give it to Taro-kun."
                             ]
                         },
                         {
@@ -4427,21 +4238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わあ……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あかりちゃん！"
+                                "Wow, thank you Akari-chan!"
                             ]
                         },
                         {
@@ -4477,14 +4274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どういたしまして\\kw[1]"
+                                "Hehe, you're welcome."
                             ]
                         },
                         {
@@ -4559,21 +4349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "久しぶりにあったんだし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]めんたい\\c[0]しよ？"
+                                "By the way, since it's been a while since we last met, how\nabout having some mentai?"
                             ]
                         },
                         {
@@ -4622,7 +4398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また太郎君と試合したいな\\kw[1]"
+                                "I want to have another match with Taro-kun."
                             ]
                         },
                         {
@@ -4684,14 +4460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>コウタ「\\<うっし、そうだな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<俺も久しぶりに太郎とヤりたいぜ！"
+                                "\\>Kota: Alright, sounds good! \\> I also want to have some\nfun with Taro after a long time!"
                             ]
                         },
                         {
@@ -4708,14 +4477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<いつも同じ顔ぶれでつまらないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<思ってたところだったのよね～"
+                                "\\>Shiori: \\<I was just thinking that it's always the same\npeople and it's boring~"
                             ]
                         },
                         {
@@ -4732,7 +4494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>しおり「\\<早速お手合わせ願えるかしら？"
+                                "\\>Shiori: \\<Can we have a match right away?"
                             ]
                         },
                         {
@@ -4810,14 +4572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "久しぶりだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊張するなあ……"
+                                "It's been a while, so I'm getting nervous."
                             ]
                         },
                         {
@@ -4856,14 +4611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よーし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "負けないぞ！"
+                                "Alright! I won't lose!"
                             ]
                         },
                         {
@@ -4971,14 +4719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]◆チュートリアル\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\c[14]\"めんたい\"\\c[0]の遊び方を聞きますか？"
+                                "\\c[14]◆Tutorial\\c[0] 　\\c[14]Would you like to hear how to\nplay mentai\\c[0]?"
                             ]
                         },
                         {
@@ -5170,21 +4911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞マップ上に存在するNPCを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\c[14]\"右クリック\"\\c[0]することで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　めんたいを仕掛ける事ができます"
+                                "You can set up a trap."
                             ]
                         },
                         {
@@ -5201,21 +4928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞基本的に\\c[14]誰とでも\\c[0]めんたいを遊ぶことができ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　勝利する事で\\c[14]経験値や思い出ポイント\\c[0]を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　入手することが出来ます。"
+                                "Basically, you can play mentai with anyone \\c[0] and by\nwinning, you can obtain experience points and memories\npoints \\c[0] .."
                             ]
                         },
                         {
@@ -5260,21 +4973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞勝負を申し込むとその場でめんたいバトル！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\c[14]敗北時のデメリットは無い\\c[0]ので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レベルの近い相手にどんどん勝負を申し込もう。"
+                                ">When you challenge someone, you can have a mentai battle\nright there on the spot! There are no disadvantages to\nlosing, so let's challenge opponents who are close to your\nlevel more and more."
                             ]
                         },
                         {
@@ -5319,21 +5018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞メンコはターン制で行われ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自分のターンになったら右下の\\c[14]ちんちんゲージ\\c[0]の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　上下するバーをよく見て、\\c[14]最大を狙って止めよう！"
+                                ">The mentai game is played in turns. When it's your turn,\npay close attention to the bar that moves up and down on the\nbottom right \\c[14]chinchin gauge\\c[0], and try to stop it\nat the highest point to aim for the maximum!"
                             ]
                         },
                         {
@@ -5378,21 +5063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞バーを止めるところで\\c[14]相手に与える威力が増減\\c[0]し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　バーを一番下で止めてしまうと「ミス」、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\c[14]「C」の部分で止めると「クリティカル」\\c[0]になります。"
+                                ">The power you deal to your opponent increases or decreases\ndepending on where you stop the bar. If you stop the bar at\nthe very bottom, it's a Miss, and if you stop it at the C\nsection, it's a Critical."
                             ]
                         },
                         {
@@ -5409,7 +5080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞上手く目押しして大ダメージを与えていこう！"
+                                ">Let's aim for big damage by accurately timing your moves!"
                             ]
                         },
                         {
@@ -5454,14 +5125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞また、「C」の更に上のバーの限界ギリギリを攻めると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\c[14]一撃必殺で試合を決することができます。"
+                                ">Furthermore, if you push the limits of the bar even further\nabove the C section, you can decide the match with a\n\\c[14]one-hit kill.."
                             ]
                         },
                         {
@@ -5478,14 +5142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞…が、これは\\c[14]相手とのレベル差が大きいと発動しない\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ので、狙いすぎてミスにならないよう注意しましょう。"
+                                ">..., this skill won't activate if there's a large level\ndifference with the opponent, so be careful not to aim too\nmuch and end up missing. ."
                             ]
                         },
                         {
@@ -5530,14 +5187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞初見の相手に勝つと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\c[14]アイテム報酬\\c[0]と\\c[14]各種経験値\\c[0]を獲得できます。"
+                                ">When you win against a first-time opponent, you can obtain\n\\c[14]item rewards\\c[0] and \\c[14]various experience\npoints\\c[0]."
                             ]
                         },
                         {
@@ -5554,21 +5204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞MAPに配置されるNPCは、\\c[14]日付が進むごとに変化\\c[0]するので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　新しいNPCと出会ったらめんたいを申し込み、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　経験値獲得に励みましょう！"
+                                ">The NPCs placed on the map \\cchange\\c as the date\nprogresses, so when you encounter a new NPC, challenge them\nto a mentai game and strive to gain experience points!"
                             ]
                         },
                         {
@@ -5613,21 +5249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞メンコは\\c[14]太郎君のレベルに応じて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　強化されていく\\c[0]ので、沢山経験値を溜めて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レベルを上げる事が勝利への近道です。"
+                                ">Mentai will be strengthened \\c[14]based on Taro's\nlevel\\c[0], so accumulating a lot of experience points and\nleveling up is the shortcut to victory.."
                             ]
                         },
                         {
@@ -5684,14 +5306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞\\c[14]まだ見ぬ強敵達が君を待っている！\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さあ、色んな人と対戦してみよう！"
+                                ">\\c[14]Unseen strong opponents are waiting for you! \\c[0]\nNow, let's try playing against various people!"
                             ]
                         },
                         {
@@ -5748,21 +5363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞ちなみに秘密基地のココで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　めんこの\\c[14]「改造」\\c[0]が行なえます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あとでやってみよう。"
+                                ">By the way, at this secret base, you can perform\n\\c[14]modifications\\c[0] to the mentai game. Let's try it\nlater.."
                             ]
                         },
                         {

@@ -1413,14 +1413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<あっ\\kw[1]あんっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<太郎君…っ\\kw[1]んん…っ\\kw[1]"
+                                "\\> Taro-kun ... 's \\kw[1] nn ... 's"
                             ]
                         },
                         {
@@ -1459,7 +1452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>太郎「\\<カナエさん…声抑えないと……"
+                                "\\>Taro: \\<Kanae-san, you need to control your voice ......."
                             ]
                         },
                         {
@@ -1476,14 +1469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<大丈夫よ…\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<どうせ起きないんだから……"
+                                "\\>Kanae: \\<It's okay, ...\\Taro-kun \\>　　　\\<since he won't\nwake up anyway. ......"
                             ]
                         },
                         {
@@ -1500,7 +1486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<それに……"
+                                "\\>Kanae: \\<And also ......"
                             ]
                         },
                         {
@@ -1543,7 +1529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<起きたって別に良いの…\\kw[1]"
+                                "\\>Kanae: \\<It's not like it matters if he wakes up or\nnot...\\kw[1]"
                             ]
                         },
                         {
@@ -1582,7 +1568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>太郎「\\<あ……"
+                                "Taro: Akari..."
                             ]
                         },
                         {
@@ -1599,14 +1585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<もう貴方のモノじゃないって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<見せつけるのも…\\kw[1]"
+                                "\\>Kanae: \\<I'll show you that I'm no longer yours,\n\\>　　　\\<kw[1]"
                             ]
                         },
                         {
@@ -1623,7 +1602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<悪くないわ……\\kw[1]"
+                                "\\>Kanae: \\<Not bad, ......\\kw[1]."
                             ]
                         },
                         {
@@ -1662,7 +1641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>太郎「\\<カナエさん…"
+                                "\\>Taro: \\<Kanae-san..."
                             ]
                         },
                         {
@@ -1691,7 +1670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<ふふ…っ\\kw[1]"
+                                "\\>Kanae: \\<Hehe...h\\kw[1]"
                             ]
                         },
                         {
@@ -1708,14 +1687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<ごめんね太郎君…\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<こんな私に付き合わせて……"
+                                "\\>Kanae: \\<I'm sorry, Taro-kun...\\. \\>　　　\\<for making you be\nwith someone like me......."
                             ]
                         },
                         {
@@ -1732,7 +1704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<太郎君の都合が悪くなったら…"
+                                "\\>Kanae: \\<If Taro-kun becomes inconvenient ..."
                             ]
                         },
                         {
@@ -1775,7 +1747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<いつでも私なんて切って良いんだからね…"
+                                "\\>Kanae: \\<You can cut me off anytime, so ...."
                             ]
                         },
                         {
@@ -1814,7 +1786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>太郎「\\<……！"
+                                "Taro: Kanae-san!"
                             ]
                         },
                         {
@@ -1853,7 +1825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>太郎「\\<そんなことしないよ…！"
+                                "Taro: I won't do such a thing!"
                             ]
                         },
                         {
@@ -1870,7 +1842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>太郎「\\<今日だって僕がカナエさんに会いたくて来たんだ…！"
+                                "\\>Taro: \\<I came here today because I wanted to see Kanae-\nsan! ...!"
                             ]
                         },
                         {
@@ -1909,7 +1881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>太郎「\\<カナエさんを見捨てたりなんかしない…"
+                                "\\>Taro: \\<I won't abandon Kanae-san or anything like\nthat...."
                             ]
                         },
                         {
@@ -1926,7 +1898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>太郎「\\<カナエさんとだったら僕……っ"
+                                "\\>Taro: \\<If it's with Kanae-san, then I ......"
                             ]
                         },
                         {
@@ -1965,7 +1937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<あ……"
+                                "\\>Kanae: \\<Ah, ......"
                             ]
                         },
                         {
@@ -1982,7 +1954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<太郎君……\\kw[1]"
+                                "\\>Kanae: \\<Taro-kun......\\hehe..."
                             ]
                         },
                         {
@@ -2011,14 +1983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<ふふ…っ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<嬉しい……\\kw[1]"
+                                "\\>Kanae: \\<Hehe..., \\kw[1]I'm happy......\\kw[1]."
                             ]
                         },
                         {
@@ -2064,7 +2029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<太郎君…\\kw[1]"
+                                "\\>Kanae: \\<Taro-kun...\\hehe..."
                             ]
                         },
                         {
@@ -2119,7 +2084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<私と一緒に…堕ちてくれる……？\\kw[1]"
+                                "\\>Kanae: \\<Will you fall with me ...together......? \\kw[1]"
                             ]
                         },
                         {
@@ -2158,7 +2123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>太郎「\\<もちろんだよ…"
+                                "\\>Taro: \\<Of course!..."
                             ]
                         },
                         {
@@ -2175,7 +2140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>太郎「\\<カナエさんとお付き合いするって決めた時から…"
+                                "\\>Taro: \\<Since the moment I decided to date Kanae-san, ..."
                             ]
                         },
                         {
@@ -2192,7 +2157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>太郎「\\<僕はもう……覚悟できてるから……"
+                                "\\>Taro: \\<I am already ......prepared for it, so ......"
                             ]
                         },
                         {
@@ -2231,7 +2196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<太郎君…\\kw[1]"
+                                "\\>Kanae: \\<Taro-kun...\\hehe..."
                             ]
                         },
                         {
@@ -2248,7 +2213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<……ありがとう\\kw[1]"
+                                "Kanae: Thank you."
                             ]
                         },
                         {
@@ -2291,14 +2256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<ね……？\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<もっと動いて……？\\kw[1]"
+                                "\\>Kanae: \\<Right......? \\kw[1]\\. \\>　　　\\<Move more......?\n\\kw[1]"
                             ]
                         },
                         {
@@ -2315,7 +2273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<遠慮なんかしなくて良いから…\\kw[1]"
+                                "\\>Kanae: \\<You don't have to hold back, so ...\\kw[1]"
                             ]
                         },
                         {
@@ -2332,14 +2290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<旦那が起きるかもしれない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　\\<激しいセックス……\\kw[1]"
+                                "\\>Kanae: \\<My husband might wake up... \\> \\<Intense sex...\n......\\kw[1]"
                             ]
                         },
                         {
@@ -2356,7 +2307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>カナエ「\\<私と……ね？\\kw[1]"
+                                "Kanae: \\< With me, ......, right? \\kw[1]"
                             ]
                         },
                         {
@@ -2395,7 +2346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>太郎「\\<カナエさん…！"
+                                "Taro: Kanae-san!"
                             ]
                         },
                         {

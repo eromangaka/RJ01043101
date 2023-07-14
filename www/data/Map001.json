@@ -1894,14 +1894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう……\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君ってば…\\kw[1]"
+                                "Already ......\\kw[1]\\. Taro-kun ...\\kw[1]"
                             ]
                         },
                         {
@@ -2673,7 +2666,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あaあああ"
+                                "Ahhhhh"
                             ]
                         },
                         {
@@ -2700,7 +2693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "い"
+                                "Go"
                             ]
                         },
                         {

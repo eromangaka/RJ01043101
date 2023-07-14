@@ -4624,7 +4624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は両親が迎えに来る日だ―――"
+                                "Today is the day my parents are coming to pick me up---"
                             ]
                         },
                         {
@@ -4641,14 +4641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっという間だった冬休み、\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも沢山の思い出を残すことができた気がする。"
+                                "The winter break went by in a flash, \\. but I feel like I\nwas able to make a lot of memories ."
                             ]
                         },
                         {
@@ -4719,14 +4712,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その中でも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[14]一番思い出に残った\\c[0]のは――――"
+                                "Among them, the one that left the most impression in my\nmemory is----"
                             ]
                         },
                         {
@@ -5338,7 +5324,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………"
+                                "..............."
                             ]
                         },
                         {
@@ -5407,14 +5393,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――――だけど、\\.この休みの間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[14]\"誰かと\"大きな思い出\\c[0]を作ることはできなかった。"
+                                "----But, during this break, \\. I wasn't able to make any\nsignificant memories \\c[14] with someone \\c[0]."
                             ]
                         },
                         {
@@ -5431,14 +5410,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "結衣お姉ちゃん、莉音ねえ、美雪さん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "街で出会って他の女の子たち。"
+                                "Sister Yui, Rio, Miyuki-san, and the other girls I met in\ntown."
                             ]
                         },
                         {
@@ -5455,7 +5427,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "みんなとの関係は今日で最後というわけではない。"
+                                "It's not that my relationship with everyone ends today."
                             ]
                         },
                         {
@@ -5472,14 +5444,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また次のお休みに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "遊びに来れれば良いな。"
+                                "It would be nice if I could come to play again during the\nnext break."
                             ]
                         },
                         {
@@ -5760,14 +5725,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\c[14][結衣]\\c[0]\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>学校ごっこをして、沢山の思い出を作ったよ。\\<\\^"
+                                "\\>\\c[14][Yui]\\c[0]\\< \\>We played school and made a lot of\nmemories.\\<\\^"
                             ]
                         },
                         {
@@ -5805,14 +5763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\c[14][莉音]\\c[0]\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>宿題を手伝ってもらいながら、色々な思い出を作ったよ。\\<\\^"
+                                "\\>\\c[14][Rio]\\c[0]\\< \\>While getting help with homework, we\nmade a lot of memories.\\<\\^"
                             ]
                         },
                         {
@@ -5850,14 +5801,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\c[14][美雪]\\c[0]\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>家事手伝いをしながら、内緒のエッチを楽しんだよ。\\<\\^"
+                                "\\>\\c[14][Miyuki]\\c[0]\\< \\>We enjoyed some secret naughty fun\nwhile helping with the housework.\\<\\^"
                             ]
                         },
                         {
@@ -5895,14 +5839,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\c[14][あかり]\\c[0]\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>めんたい狩りと戦って、この街の平和を守ったよ。\\<\\^"
+                                "\\>\\c[14][Akari]\\c[0]\\< \\>We fought against the Mentai hunt\nand protected the peace of this town.\\<\\^"
                             ]
                         },
                         {
@@ -5940,14 +5877,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\c[14][カガミ]\\c[0]\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>大人の玩具を使って、いっぱいエッチを楽しんだよ。\\<\\^"
+                                "\\>\\c[14][Kagami]\\c[0]\\< \\>We had a lot of fun with adult\ntoys.\\<\\^"
                             ]
                         },
                         {
@@ -5985,14 +5915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\c[14][ミズキ]\\c[0]\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>占い師として活躍するミズキさんを沢山サポートしたよ。\\<\\^"
+                                "\\>\\c[14][Mizuki]\\c[0]\\< \\>We supported Mizuki a lot in her\nrole as a fortune teller.\\<\\^"
                             ]
                         },
                         {
@@ -6030,14 +5953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\c[14][スズカ]\\c[0]\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>一緒にご飯を作って、キャンプを一緒に楽しんだよ。\\<\\^"
+                                "\\>\\c[14][Suzuka]\\c[0]\\< \\>We cooked meals together and\nenjoyed camping.\\<\\^"
                             ]
                         },
                         {
@@ -6075,14 +5991,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\c[14][シズク]\\c[0]\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>専属カメラマンとして、色々な場所で撮影会をしたよ。\\<\\^"
+                                "\\>\\c[14][Shizuku]\\c[0]\\< \\>As a dedicated photographer, we\nhad photo shoots in various places.\\<\\^"
                             ]
                         },
                         {
@@ -6120,14 +6029,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\c[14][カナエ]\\c[0]\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>浮気してる旦那さんを他所に、いっぱいエッチしたよ。\\<\\^"
+                                "\\>\\c[14][Kanae]\\c[0]\\< \\>We had a lot of intimate moments,\ndespite her husband cheating elsewhere.\\<\\^"
                             ]
                         },
                         {
@@ -6165,14 +6067,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\c[14][ヒカリ]\\c[0]\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>現役の頃の力を取り戻すため、沢山絆を深めたよ。\\<\\^"
+                                "\\>\\c[14][Hikari]\\c[0]\\< \\>In order to regain the power of my\nactive days, we deepened our bonds a lot.\\<\\^"
                             ]
                         },
                         {
@@ -6210,14 +6105,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\c[14][一ノ瀬家]\\c[0]\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>お世話になった一ノ瀬家の皆と、沢山思い出を作ったよ。\\<\\^"
+                                "\\>\\c[14][Ichinose family]\\c[0]\\< \\>We made a lot of memories\nwith everyone in the Ichinose family who took care of\nus.\\<\\^"
                             ]
                         },
                         {
@@ -10244,14 +10132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>教師と生徒の関係が、いつもと違くて新鮮だった！\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>きっと立派な先生になるんだろうな！\\<"
+                                "\\>The relationship between the teacher and the student was\ndifferent and refreshing! \\< \\>They will surely become a\ngreat teacher! \\<"
                             ]
                         },
                         {
@@ -10289,14 +10170,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>莉音ねえと沢山の場所を撮影したよ！登山に肝試し、\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>いつもと違う莉音ねえが見れて可愛かったな！\\<"
+                                "\\>I took photos at a lot of places with Rio! From mountain\nclimbing to courage tests, \\< \\>I was able to see a\ndifferent side of Rio than usual, and it was cute!\\<"
                             ]
                         },
                         {
@@ -10334,14 +10208,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>美雪さんのお手伝いで、沢山の家事をこなしたよ！\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>手伝う度に笑ってくれて、僕もなんだか嬉しかったや！\\<"
+                                "\\>With Miyuki's help, I managed to do a lot of housework!\\<\n\\>Every time I helped, she laughed, and somehow, I was also\nhappy!\\<"
                             ]
                         },
                         {
@@ -10379,14 +10246,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>あかりちゃんと一緒にこの街の危機を救ったんだ！\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>僕も将来、プロのメンタイカーになれるかな？\\<"
+                                "\\>I saved this town's crisis with Akari! \\< \\>I wonder if I\ncan become a professional Mentaiker in the future? \\<"
                             ]
                         },
                         {
@@ -10424,14 +10284,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>オナニーにハマったカガミさんが凄く可愛かった！\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>今度会う時にも大人の玩具をプレゼントしようかな！\\<"
+                                "\\>Kagami, who got hooked on masturbation, was incredibly\ncute! \\< \\>I wonder if I should give her an adult toy as a\ngift next time we meet! \\<"
                             ]
                         },
                         {
@@ -10469,14 +10322,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>ひもじい暮らしをしているミズキさんを手伝ったよ。\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>いつもと違う素直な一面が新鮮だったな！\\<"
+                                "\\>I helped Mizuki-san who is living a destitute life.\\<\n\\>Seeing a different, honest side of her was refreshing!\\<"
                             ]
                         },
                         {
@@ -10514,14 +10360,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>キャンプ飯を一緒に食べて、冬キャンを楽しんだ！\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>テントの中でのセックスは凄く興奮しちゃった！\\<"
+                                "\\>We ate camp food together and enjoyed winter camping! \\<\n\\>Sex inside the tent was incredibly exciting! \\<"
                             ]
                         },
                         {
@@ -10559,14 +10398,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>僕しか知らない駄菓子屋のお姉さんの一面に大興奮！\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>次会う時も、色々なところでエッチしたいな！\\<"
+                                "\\>I'm very excited about a side of the candy store lady that\nonly I know! \\< \\>Next time we meet, I want to make love in\nvarious places! \\<"
                             ]
                         },
                         {
@@ -10604,14 +10436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>この街で新しく知り合った人妻のカナエさん！\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>旦那さんの代わりにいっぱい僕が慰めてあげたよ！\\<"
+                                "\\>I met a new married woman in this town, Kanae-san! \\< \\>I\ncomforted her a lot in place of her husband! \\<"
                             ]
                         },
                         {
@@ -10649,14 +10474,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>元プロメンタイカーのあかりちゃんのお母さん！\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>あかりちゃんには内緒で、いっぱいエッチしちゃった。\\<"
+                                "\\>Akari-chan's mom, a former professional Mentaiker!\\< \\>I\nhad a lot of sex with her in secret from Akari-chan.\\<"
                             ]
                         },
                         {
@@ -10694,14 +10512,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>結衣お姉ちゃんに莉音ねえ、そして美雪さん！\\<"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>温泉旅行券を使って、今度遊びに行く約束をしたんだ！\\<"
+                                "\\>With Yui, Rio, and Miyuki!\\< \\>I promised to go play with\nthem next time using a hot spring trip ticket!\\<"
                             ]
                         },
                         {
@@ -10774,7 +10585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（この思い出かな…？）"
+                                "\\c[14](Is this the memory ...?)"
                             ]
                         },
                         {

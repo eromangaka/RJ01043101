@@ -1929,14 +1929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんなさいね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君"
+                                "I'm sorry, Taro."
                             ]
                         },
                         {
@@ -1953,14 +1946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "疲れを癒やすはずが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "余計に疲れちゃったかしら…"
+                                "I was supposed to be healing my fatigue, but I wonder if I\nended up getting more tired instead..."
                             ]
                         },
                         {
@@ -2009,14 +1995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ううん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことないよ！"
+                                "No, that's not true!"
                             ]
                         },
                         {
@@ -2051,14 +2030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "美雪さんでいっぱい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "癒やされたし……"
+                                "I was fully healed by Miyuki-san......"
                             ]
                         },
                         {
@@ -2075,14 +2047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おかげで今日は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐっすり眠れそうだよ！"
+                                "Thanks to that, I think I'll be able to sleep soundly today!"
                             ]
                         },
                         {
@@ -2150,14 +2115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなら良かったわ\\kw[1]"
+                                "Hehe...h\\kw[1]\\. If that's the case, I'm glad\\kw[1]"
                             ]
                         },
                         {
@@ -2174,7 +2132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -2245,7 +2203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あのね太郎君"
+                                "......You know, Taro-kun"
                             ]
                         },
                         {
@@ -2284,14 +2242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "母親の私がこんなこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言うのもおかしいのだけど…"
+                                "It's strange for me, as a mother, to say something like this\n..."
                             ]
                         },
                         {
@@ -2385,14 +2336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結衣や莉音のことも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "沢山愛してあげてね…？"
+                                "Can you also give a lot of love to Yui and Rio...?"
                             ]
                         },
                         {
@@ -2456,7 +2400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え……？"
+                                "Eh......?"
                             ]
                         },
                         {
@@ -2512,14 +2456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きっとあの娘達も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを望んでると思うし…"
+                                "I'm sure those girls also want that ..."
                             ]
                         },
                         {
@@ -2536,14 +2473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達みんな…"
+                                "Besides, all of us ..."
                             ]
                         },
                         {
@@ -2592,14 +2522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君の虜に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "されちゃったんですもの\\kw[1]"
+                                "We've all become captives of you, Taro-kun\\kw[1]"
                             ]
                         },
                         {
@@ -2663,7 +2586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "美雪さん……"
+                                "Miyuki-san......"
                             ]
                         },
                         {
@@ -2731,7 +2654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]"
+                                "Hehe...\\kw[1]"
                             ]
                         },
                         {
@@ -2793,14 +2716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞……本当はこれが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\c[14]イケナイこと\\c[0]だと分かっている。"
+                                ">......I really understand that, \\c[14]this is something\nthat shouldn't be done\\c[0]."
                             ]
                         },
                         {
@@ -2817,14 +2733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞……それでも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\c[14]一度知ってしまった感情\\c[0]を――"
+                                ">......Even so, \\c[14]the emotions that have been known\nonce\\c[0]--"
                             ]
                         },
                         {
@@ -2841,14 +2750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞\\c[14]一度生まれてしまった愛情\\c[0]を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なかったことにはできない。"
+                                ">\\c[14]The love that was born once\\c[0], can't be made as if\nit never existed."
                             ]
                         },
                         {
@@ -2887,7 +2789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞\\c[14]それほどまでに深く――"
+                                ">\\c[14]To that extent, deeply--"
                             ]
                         },
                         {
@@ -2926,14 +2828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞\\c[14]あの夏、美雪達は太郎と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　繋がってしまった。"
+                                ">\\c[14]That summer, Miyuki and the others ended up\nconnecting with Taro."
                             ]
                         },
                         {
@@ -3042,7 +2937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -3081,7 +2976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕も……"
+                                "I also ......"
                             ]
                         },
                         {
@@ -3116,14 +3011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕もみんなのことが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好き……"
+                                "I also like everyone......"
                             ]
                         },
                         {
@@ -3180,14 +3068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと皆と一緒に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思い出沢山作りたい…！"
+                                "I want to make a lot of memories with everyone more...!"
                             ]
                         },
                         {
@@ -3226,7 +3107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これから先…"
+                                "From now on..."
                             ]
                         },
                         {
@@ -3265,14 +3146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずっとずっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先まで……！"
+                                "All the way, all the way to the end ......!"
                             ]
                         },
                         {
@@ -3311,7 +3185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕……"
+                                "I......"
                             ]
                         },
                         {
@@ -3379,14 +3253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "みんなと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒にいたいよ！"
+                                "I want to be with everyone!"
                             ]
                         },
                         {
@@ -3450,7 +3317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ………"
+                                "Ah........."
                             ]
                         },
                         {
@@ -3490,14 +3357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞太郎の幼いながら紡がれた言葉に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　驚きの表情を見せる美雪。"
+                                ">Miyuki shows a surprised expression at the words spun by\nthe young Taro."
                             ]
                         },
                         {
@@ -3561,14 +3421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎君…\\kw[1]"
+                                "......\\. Taro-kun...\\kw[1]"
                             ]
                         },
                         {
@@ -3592,21 +3445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞その純粋な瞳で放たれた、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　偽り無い真っ直ぐな太郎の言葉に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　美雪は嬉しそうに笑う。"
+                                ">Miyuki smiles happily at Taro's sincere words, which were\nspoken with pure eyes and without any falsehood."
                             ]
                         },
                         {
@@ -3660,7 +3499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]\\."
+                                "Hehe\\kw[1]\\."
                             ]
                         },
                         {
@@ -3695,14 +3534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少し見ない間に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "立派に成長しちゃって…\\kw[1]"
+                                "You've grown up so well while I wasn't looking...\\kw[1]"
                             ]
                         },
                         {
@@ -3737,14 +3569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君の言葉、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっても嬉しいわ\\kw[1]"
+                                "I'm very happy with Taro-kun's words\\kw[1]"
                             ]
                         },
                         {
@@ -3768,7 +3593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ……"
+                                "Ehehe......"
                             ]
                         },
                         {
@@ -3859,14 +3684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さ、\\.そろそろ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝室に行きましょう。"
+                                "Well, \\. let's go to the bedroom soon ."
                             ]
                         },
                         {
@@ -3901,14 +3719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結衣や莉音が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "待ってるかもしれないわ\\kw[1]"
+                                "Yui and Rio might be waiting \\kw[1]"
                             ]
                         },
                         {
@@ -3932,7 +3743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -4005,14 +3816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうして美雪さんと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お風呂を楽しんだ！"
+                                ">Thus, I enjoyed a bath with Miyuki-san!"
                             ]
                         },
                         {
@@ -4029,14 +3833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞ヘトヘトの身体が美雪さんで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いっぱい癒やされたよ！"
+                                ">My exhausted body was fully healed by Miyuki-san!"
                             ]
                         },
                         {
@@ -4053,14 +3850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞さあ、\\c[14]明日はクリスマス\\c[0]！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日は早く眠らなくっちゃ！"
+                                ">Now, \\c[14]Tomorrow is Christmas\\c[0]! We have to go to\nsleep early today!"
                             ]
                         },
                         {

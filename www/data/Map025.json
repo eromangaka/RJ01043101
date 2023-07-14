@@ -1373,14 +1373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わあ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごい美味しそう！"
+                                "Wow...! It looks really delicious!"
                             ]
                         },
                         {
@@ -1397,14 +1390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "七面鳥に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリームシチュー！"
+                                "Turkey with cream stew!"
                             ]
                         },
                         {
@@ -1421,7 +1407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕、\\.大好物なんだ！"
+                                "I love \\.!"
                             ]
                         },
                         {
@@ -1518,14 +1504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリスマスといえば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり七面鳥よね～\\kw[1]"
+                                "Speaking of Christmas, it's definitely about turkey, isn't\nit~\\kw[1]"
                             ]
                         },
                         {
@@ -1597,14 +1576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "喜んでもらえて嬉しいわ"
+                                "Hehe \\kw[1] I'm glad you're happy."
                             ]
                         },
                         {
@@ -1657,7 +1629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう食べても良い？"
+                                "Can I start eating now?"
                             ]
                         },
                         {
@@ -1743,14 +1715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もお腹空いちゃった！"
+                                "Hehe\\kw[1] I'm also hungry!"
                             ]
                         },
                         {
@@ -1767,7 +1732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早く食べよう？"
+                                "Shall we eat soon?"
                             ]
                         },
                         {
@@ -1816,14 +1781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃ、\\.そろそろ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シャンパンで乾杯しようか"
+                                "Well then, \\. shall we toast with champagne soon?"
                             ]
                         },
                         {
@@ -1895,21 +1853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はいはーい\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎はこっちの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]シャンメリー\\c[0]で乾杯ね"
+                                "Yes, yes \\. Taro, let's toast with this \\c[14]Chamerry\\c[0]."
                             ]
                         },
                         {
@@ -1991,14 +1935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ…！\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにこれお酒？"
+                                "Wow...! \\. What is this, alcohol?"
                             ]
                         },
                         {
@@ -2077,7 +2014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
+                                "Hehe\\kw[1]"
                             ]
                         },
                         {
@@ -2094,14 +2031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安心して\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただのジュースだから"
+                                "Don't worry \\kw[1]\\. It's just juice."
                             ]
                         },
                         {
@@ -2161,14 +2091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私もシャンメリーだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お揃いだね\\kw[1]"
+                                "I also have Chamerry, so we match, don't we\\kw[1]"
                             ]
                         },
                         {
@@ -2224,14 +2147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ……\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんな味がするんだろう！"
+                                "Hehe......\\. I wonder what it tastes like!"
                             ]
                         },
                         {
@@ -2267,7 +2183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "楽しみだね～！"
+                                "I'm looking forward to it~!"
                             ]
                         },
                         {
@@ -2339,21 +2255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今年も楽しいクリスマスに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なりそうね\\kw[1]"
+                                "Hehe\\kw[1]\\. It seems like it's going to be a fun Christmas\nthis year too\\kw[1]"
                             ]
                         },
                         {
@@ -2413,14 +2315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあお酒も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行き渡ったことですし…"
+                                "Well then, since the drinks have been distributed..."
                             ]
                         },
                         {
@@ -2437,7 +2332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……貴方？"
+                                "......You?"
                             ]
                         },
                         {
@@ -2486,7 +2381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ"
+                                "Ahh"
                             ]
                         },
                         {
@@ -2503,7 +2398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メリークリスマス！"
+                                "Merry Christmas!"
                             ]
                         },
                         {
@@ -2558,7 +2453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "乾杯～！\\^"
+                                "Cheers~! \\^"
                             ]
                         },
                         {
@@ -2598,14 +2493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "みんな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かんぱーい！"
+                                "Everyone, Cheers!"
                             ]
                         },
                         {
@@ -2657,14 +2545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうして楽しい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クリスマスイヴの夜を過ごした。"
+                                ">Thus, we spent a fun Christmas Eve night."
                             ]
                         },
                         {
@@ -2681,14 +2562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞僕の大好物ばかりの食卓で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お腹いっぱい食べちゃった！"
+                                ">I ended up eating a lot at the table full of my favorite\nfoods!"
                             ]
                         },
                         {
@@ -2705,14 +2579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞七面鳥もクリームシチューも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どれも美味しかったなぁ…！"
+                                ">The turkey and the cream stew, everything was delicious...!"
                             ]
                         },
                         {

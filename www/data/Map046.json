@@ -1493,14 +1493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『さあ、カウントダウンの液晶が今"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　建物に映し出されました！"
+                                "Now, the countdown display has just been projected onto the\nbuilding!"
                             ]
                         },
                         {
@@ -1517,7 +1510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『盛り上がる若者たちに、街が包まれております！"
+                                "The city is enveloped by the excitement of the young people!"
                             ]
                         },
                         {
@@ -1534,7 +1527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『いや～、いよいよ年越しですね！"
+                                "Wow, it's finally New Year's Eve!"
                             ]
                         },
                         {
@@ -1551,14 +1544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『そうですねぇ～、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本当今年もあっという間でしたねぇ～"
+                                "That's right, this year really flew by, didn't it?"
                             ]
                         },
                         {
@@ -1766,7 +1752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうすぐだね～"
+                                "It's almost time, isn't it?"
                             ]
                         },
                         {
@@ -1797,7 +1783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -1871,14 +1857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神社の方でも今頃"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盛り上がってるのかな？"
+                                "I wonder if it's also getting lively around the shrine now?"
                             ]
                         },
                         {
@@ -1945,21 +1924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あのまま帰らずに神社で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "年越しも良かったかも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しれないわね\\kw[1]"
+                                "Maybe it would have been nice to not go home and spend New\nYear's at the shrine instead\\kw[1]"
                             ]
                         },
                         {
@@ -2038,21 +2003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや～…\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "屋台見に行ったのって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "19:00とかだったでしょ？"
+                                "No way~ ...\\. We went to see the stalls around 19:00, right?"
                             ]
                         },
                         {
@@ -2069,14 +2020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "流石に寒空の下、5時間"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外にいるのはちょっと…"
+                                "As expected, being outside under the cold sky for 5 hours is\na bit much..."
                             ]
                         },
                         {
@@ -2100,7 +2044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははは"
+                                "Ahahaha"
                             ]
                         },
                         {
@@ -2156,14 +2100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……おっ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろみたいだぞ"
+                                "......Oh, it seems like it's almost time."
                             ]
                         },
                         {
@@ -2291,14 +2228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『さぁ、今年も残すところ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あと１分となりました！"
+                                "Now, there's only one minute left of this year!"
                             ]
                         },
                         {
@@ -2315,14 +2245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『視聴者のみなさん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今年はどんな年でしたか？"
+                                "To all our viewers, how was your year?"
                             ]
                         },
                         {
@@ -2339,14 +2262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『楽しい１年だった人も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうでなかった人も――――"
+                                "For those who had a fun year, and those who did not----"
                             ]
                         },
                         {
@@ -2363,14 +2279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『新年を迎え、心新たに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　飛躍した年になると良いですね！"
+                                "As we welcome the New Year, it would be great if it becomes\na year of new beginnings and leaps forward!"
                             ]
                         },
                         {
@@ -2463,14 +2372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎君、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今年の感想は？"
+                                "Taro, what are your thoughts on this year?"
                             ]
                         },
                         {
@@ -2526,14 +2428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すっごく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しい１年だったよ！"
+                                "It was a really fun year!"
                             ]
                         },
                         {
@@ -2582,14 +2477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夏にも冬にも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんなと遊べて……"
+                                "Being able to play with everyone in both summer and winter\n......"
                             ]
                         },
                         {
@@ -2638,14 +2526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "来年も楽しく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんなと過ごしたいな！"
+                                "I want to have fun with everyone again next year!"
                             ]
                         },
                         {
@@ -2731,14 +2612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎ったら…\\kw[1]"
+                                "Heheh\\kw[1] Taro, you...\\kw[1]"
                             ]
                         },
                         {
@@ -2817,14 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私も太郎君と過ごせて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しかったわ\\kw[1]"
+                                "I also had fun spending time with Taro-kun\\kw[1]"
                             ]
                         },
                         {
@@ -2891,7 +2758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "来年もよろしくね、太郎君\\kw[1]"
+                                "Please take care of me next year as well, Taro-kun\\kw[1]"
                             ]
                         },
                         {
@@ -2915,7 +2782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -2976,14 +2843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『建物のスクリーンの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　映像が変わるようです！"
+                                "It seems the image on the building's screen is changing!"
                             ]
                         },
                         {
@@ -3000,14 +2860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『いよいよ新年への"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　カウントダウンが始まります！"
+                                "The countdown to the New Year is finally starting!"
                             ]
                         },
                         {
@@ -3420,7 +3273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あけましておめでと～！"
+                                "Happy New Year～!"
                             ]
                         },
                         {
@@ -3524,14 +3377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あけましておめでとう\\kw[1]"
+                                "Heheh\\kw[1]\\. Happy New Year\\kw[1]"
                             ]
                         },
                         {
@@ -3580,7 +3426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あけましておめでとう"
+                                "Happy New Year"
                             ]
                         },
                         {
@@ -3659,7 +3505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あけましておめでとう！"
+                                "Happy New Year!"
                             ]
                         },
                         {
@@ -3708,7 +3554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今年もよろしくね、太郎君\\kw[1]"
+                                "Please take care of me this year as well, Taro-kun\\kw[1]"
                             ]
                         },
                         {
@@ -3764,7 +3610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "みんな……"
+                                "Everyone......"
                             ]
                         },
                         {
@@ -3813,14 +3659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あけましておめでとう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今年もよろしくね！"
+                                "Happy New Year! Please take care of me this year as well!"
                             ]
                         },
                         {
@@ -3886,14 +3725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうして一ノ瀬家みんなと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　年越しを過ごしたよ！"
+                                ">Thus, I spent New Year's Eve with everyone in the Ichinose\nfamily!"
                             ]
                         },
                         {
@@ -3910,14 +3742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞年越しの瞬間、地球にいなかった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今年も楽しい年になると良いな！"
+                                ">I wasn't on Earth at the moment of the New Year! I hope\nthis year will be a fun one too!"
                             ]
                         },
                         {
@@ -4290,14 +4115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふ～…\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "満腹満腹……\\kw[1]"
+                                "Phew～...\\kw[1] I'm so full......\\kw[1]"
                             ]
                         },
                         {
@@ -4314,7 +4132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あとは寝るだけだにゃ～\\kw[1]"
+                                "All that's left is to sleep meow~\\kw[1]"
                             ]
                         },
                         {
@@ -4393,14 +4211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと莉音ねえ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忘れてないよね？"
+                                "Hey Rio, you haven't forgotten, have you?"
                             ]
                         },
                         {
@@ -4479,14 +4290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫だって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと起きるから\\kw[1]"
+                                "It's okay, I'll definitely wake up\\kw[1]"
                             ]
                         },
                         {
@@ -4517,7 +4321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？"
+                                "......？"
                             ]
                         },
                         {
@@ -4603,7 +4407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
+                                "Hehe\\kw[1]"
                             ]
                         },
                         {
@@ -4664,14 +4468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さ、太郎君"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後片付けしてもう寝ましょう？"
+                                "Now, Taro-kun, shall we clean up and go to sleep?"
                             ]
                         },
                         {
@@ -4720,14 +4517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜更かしして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう眠たいでしょう？"
+                                "You must be sleepy from staying up late, right?"
                             ]
                         },
                         {
@@ -4751,14 +4541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだね……"
+                                "Yeah...... That's right......"
                             ]
                         },
                         {
@@ -4814,7 +4597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はははは"
+                                "Hahaha"
                             ]
                         },
                         {
@@ -4831,14 +4614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々も寝るとするか"
+                                "Well then, shall we also go to sleep?"
                             ]
                         },
                         {
@@ -4855,14 +4631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "叔父さんもこの時間になると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう眠くて眠くてな……"
+                                "Uncle also becomes very sleepy at this time ......"
                             ]
                         },
                         {
@@ -4929,14 +4698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お父さんは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お酒飲んでるからでしょー？"
+                                "It's because dad is drinking alcohol, right?"
                             ]
                         },
                         {
@@ -5015,7 +4777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
+                                "Hehe\\kw[1]"
                             ]
                         },
                         {
@@ -5064,14 +4826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあ今日は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私と寝ましょう、太郎君\\kw[1]"
+                                "Well then, let's sleep together today, Taro-kun\\kw[1]"
                             ]
                         },
                         {
@@ -5095,7 +4850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん"
+                                "Yes"
                             ]
                         },
                         {
@@ -5181,14 +4936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ太郎君、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また明日ね\\kw[1]"
+                                "Well then Taro, see you tomorrow\\kw[1]"
                             ]
                         },
                         {
@@ -5267,14 +5015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おやすみ、太郎\\kw[1]"
+                                "Hehe\\kw[1] Goodnight, Taro\\kw[1]"
                             ]
                         },
                         {
@@ -5298,7 +5039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん……"
+                                "Yes......"
                             ]
                         },
                         {
@@ -5315,7 +5056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おやすみなさい…"
+                                "Goodnight..."
                             ]
                         },
                         {
