@@ -4316,7 +4316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No ......\\ [kw[1]]"
+                                "No ......\\kw[1]"
                             ]
                         },
                         {
@@ -9826,7 +9826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I can definitely do any vulgar thing. ...\\ [kw[1]]"
+                                "I can definitely do any vulgar thing. ...\\kw[1]"
                             ]
                         },
                         {

@@ -10148,7 +10148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I also want to eat \\n[1]-kun's cooking again. ...\\ [kw[1]]"
+                                "I also want to eat \\n[1]-kun's cooking again. ...\\kw[1]"
                             ]
                         },
                         {
@@ -15123,7 +15123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]-kun ...\\ [kw[1]]"
+                                "\\n[1]-kun ...\\kw[1]"
                             ]
                         },
                         {
