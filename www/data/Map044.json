@@ -8866,7 +8866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mmm\\kw[1]slurp\\kw[1] Mmm\\kw[2]Mmm\\kw[2]\nSlurp\\kw[4]slurp\\kw[1] Slurrrp\\kw[0]\nMmm\\kw[0]Mmm\\kw[0]Mmm\\kw[0]"
+                                "Mmm\\kw[1]slurp\\kw[1] Mmm\\kw[2]Mmm\\kw[2]\nSlurp\\kw[2]slurp\\kw[1] Slurrrp\\kw[1]\nMmm\\kw[1]Mmm\\kw[1]Mmm\\kw[1]"
                             ]
                         },
                         {
@@ -9210,7 +9210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mmm\\kw[1]slurp\\kw[1] Mmm\\kw[2]Mmm\\kw[2]\nSlurp\\kw[4]slurp\\kw[1] Slurrrp\\kw[0]\nMmm\\kw[0]Mmm\\kw[0]Mmm\\kw[0]"
+                                "Mmm\\kw[1]slurp\\kw[1] Mmm\\kw[2]Mmm\\kw[2]\nSlurp\\kw[2]slurp\\kw[1] Slurrrp\\kw[1]\nMmm\\kw[1]Mmm\\kw[1]Mmm\\kw[1]"
                             ]
                         },
                         {
