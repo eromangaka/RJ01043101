@@ -5052,7 +5052,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT MAPSkill 12"
+                                "D_TEXT MAP　Skill 12"
                             ]
                         },
                         {
@@ -5331,7 +5331,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT MAPSkill 12"
+                                "D_TEXT MAP　Skill 12"
                             ]
                         },
                         {
