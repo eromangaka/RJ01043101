@@ -2839,7 +2839,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Chu[pause] kw[1]\\. Wait for me...?\\kw[1]"
+                                "Chu[pause] \\kw[1]\\. Wait for me...?\\kw[1]"
                             ]
                         },
                         {
