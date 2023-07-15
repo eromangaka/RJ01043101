@@ -1701,7 +1701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*kiss*...\\*kw*[1]*chu*...\\*kw*[1]"
+                                "*kiss*...\\kw[1] *chu*...\\kw[1]"
                             ]
                         },
                         {
@@ -2120,7 +2120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh, hitting the right spot feels good. *kw*[1]"
+                                "Ahh, hitting the right spot feels good. \\kw[1]"
                             ]
                         },
                         {
@@ -2137,7 +2137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mmm... *kw*[1] Huh... *fu*[2] *fu*[3]"
+                                "Mmm... \\kw[1] Huh... \\kw[2] \\kw[2]"
                             ]
                         },
                         {
