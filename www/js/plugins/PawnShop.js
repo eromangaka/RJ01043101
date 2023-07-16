@@ -78,7 +78,7 @@
     Window_ShopCommand.prototype.makeCommandList = function () {
         this.addCommand(TextManager.buy, 'buy', !$gameSwitches.value(PSnobuy)); //スイッチ条件
         this.addCommand(TextManager.sell, 'sell', !this._purchaseOnly);
-        this.addCommand(TextManager.cancel, 'cancel');　//Scene_Base.prototype.popScene();の効果
+        this.addCommand(TextManager.cancel, 'cancel'); //Scene_Base.prototype.popScene();の効果
     };
 
     Scene_Shop.prototype.sellingPrice = function () {

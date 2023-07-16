@@ -1679,7 +1679,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]\\v[140]　Days　Remaining 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273] \\c[14]\\v[140] Days Remaining 15"
                             ]
                         },
                         {
@@ -1748,7 +1748,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT MAP　Skill 12"
+                                "D_TEXT MAP Skill 12"
                             ]
                         },
                         {
@@ -3319,7 +3319,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]\\v[140]　Days　Remaining 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273] \\c[14]\\v[140] Days Remaining 15"
                             ]
                         },
                         {
@@ -6688,7 +6688,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]\\v[140]　Days　Remaining 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273] \\c[14]\\v[140] Days Remaining 15"
                             ]
                         },
                         {
@@ -7928,7 +7928,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT MAP　Skill 12"
+                                "D_TEXT MAP Skill 12"
                             ]
                         },
                         {
@@ -7979,7 +7979,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT Lewd　Skill 12"
+                                "D_TEXT Lewd Skill 12"
                             ]
                         },
                         {
@@ -8030,7 +8030,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT Service　Skills 12"
+                                "D_TEXT Service Skills 12"
                             ]
                         },
                         {
@@ -8081,7 +8081,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT Pervert　skill 12"
+                                "D_TEXT Pervert skill 12"
                             ]
                         },
                         {
@@ -8132,7 +8132,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT Recovery　item 12"
+                                "D_TEXT Recovery item 12"
                             ]
                         },
                         {
@@ -8913,7 +8913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]◆Tutorial\\c[0] 　.About the basic operation of Dot H"
+                                "\\c[14]◆Tutorial\\c[0]  .About the basic operation of Dot H"
                             ]
                         },
                         {
@@ -9207,7 +9207,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT MAP　Skill 12"
+                                "D_TEXT MAP Skill 12"
                             ]
                         },
                         {
@@ -9258,7 +9258,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT Lewd　Skill 12"
+                                "D_TEXT Lewd Skill 12"
                             ]
                         },
                         {
@@ -9309,7 +9309,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT Service　Skills 12"
+                                "D_TEXT Service Skills 12"
                             ]
                         },
                         {
@@ -9360,7 +9360,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT Pervert　Skill 12"
+                                "D_TEXT Pervert Skill 12"
                             ]
                         },
                         {
@@ -9411,7 +9411,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT Recovery　item 12"
+                                "D_TEXT Recovery item 12"
                             ]
                         },
                         {
@@ -17073,7 +17073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]◆Tutorial\\c[0] 　.Operation of the intimate state\n(About movement)"
+                                "\\c[14]◆Tutorial\\c[0]  .Operation of the intimate state\n(About movement)"
                             ]
                         },
                         {
@@ -17992,7 +17992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]◆Tutorial\\c[0] 　.Operation of the intimate state\n(About the act)"
+                                "\\c[14]◆Tutorial\\c[0]  .Operation of the intimate state\n(About the act)"
                             ]
                         },
                         {
@@ -19183,7 +19183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]◆Tutorial\\c[0] 　.About Sound Leakage"
+                                "\\c[14]◆Tutorial\\c[0]  .About Sound Leakage"
                             ]
                         },
                         {
@@ -19693,7 +19693,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "ShowInfo \\I[167]I　want　to　cum　inside　you!"
+                                "ShowInfo \\I[167]I want to cum inside you!"
                             ]
                         },
                         {
@@ -33162,7 +33162,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "43　風呂場右上"
+                                "43 風呂場右上"
                             ]
                         },
                         {
@@ -33287,7 +33287,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "44　風呂場左下"
+                                "44 風呂場左下"
                             ]
                         },
                         {

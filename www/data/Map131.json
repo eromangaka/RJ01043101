@@ -1418,7 +1418,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]\\v[140]　Days　Remaining 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273] \\c[14]\\v[140] Days Remaining 15"
                             ]
                         },
                         {
@@ -12610,14 +12610,14 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo It's　getting　late　at　night!"
+                                "ShowInfo It's getting late at night!"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[160]Kanae　and　disbanded　on　the　spot!"
+                                "ShowInfo \\I[160]Kanae and disbanded on the spot!"
                             ]
                         },
                         {

@@ -2072,7 +2072,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT ◆I　can　perform　maintenance　on　the　noodles 15"
+                                "D_TEXT ◆I can perform maintenance on the noodles 15"
                             ]
                         },
                         {
@@ -2236,14 +2236,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Variable　47:\\V[47] 20"
+                                "D_TEXT Variable 47:\\V[47] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Location:　\\V[41] 20"
+                                "D_TEXT Location: \\V[41] 20"
                             ]
                         },
                         {
@@ -2264,14 +2264,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Standing　picture:　\\V[37] 20"
+                                "D_TEXT Standing picture: \\V[37] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Clothing:　\\V[602] 20"
+                                "D_TEXT Clothing: \\V[602] 20"
                             ]
                         },
                         {

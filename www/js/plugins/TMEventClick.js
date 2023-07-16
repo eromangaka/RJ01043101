@@ -2,7 +2,7 @@
 // TMPlugin - イベントクリック
 // バージョン: 0.3.1b
 // 最終更新日: 2018/10/04
-// 配布元　　: https://hikimoki.sakura.ne.jp/
+// 配布元  : https://hikimoki.sakura.ne.jp/
 //-----------------------------------------------------------------------------
 // Copyright (c) 2016 tomoaky
 // Released under the MIT license.

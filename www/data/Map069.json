@@ -1429,7 +1429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Yui: \\<It's okay, \\kw[1]\\. \\>　　　\\<All the students in our\nclass have already gone home...\\kw[1]"
+                                "\\>Yui: \\<It's okay, \\kw[1]\\. \\>   \\<All the students in our\nclass have already gone home...\\kw[1]"
                             ]
                         },
                         {
@@ -1698,7 +1698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Yui: \\<Unlimited naughty time in the classroom...\\kw[1]\\.\n\\>　　　\\<It's a secret space just for the two of us...,\nright?\\kw[1]"
+                                "\\>Yui: \\<Unlimited naughty time in the classroom...\\kw[1]\\.\n\\>   \\<It's a secret space just for the two of us...,\nright?\\kw[1]"
                             ]
                         },
                         {

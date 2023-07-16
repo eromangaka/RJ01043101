@@ -9684,7 +9684,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[169]The　lewdness　level　has　increased　by　+20\\c[0]!"
+                                "ShowInfo \\I[169]The lewdness level has increased by +20\\c[0]!"
                             ]
                         },
                         {
@@ -9778,7 +9778,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[169]The　level　of　perversion\\c[14]　has　increased　by　+10\\c[0]!"
+                                "ShowInfo \\I[169]The level of perversion\\c[14] has increased by +10\\c[0]!"
                             ]
                         },
                         {

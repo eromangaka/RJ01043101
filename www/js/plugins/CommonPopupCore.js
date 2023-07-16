@@ -43,7 +43,7 @@ Imported['CommonPopupCore'] = 1.05;
  * moveY:目標地点Y(相対座標)
  * sx:表示位置補正X
  * sy:表示位置補正Y
- * pattern:表示パターン　0がフェード、-1が横ストレッチ、-2が縦ストレッチ
+ * pattern:表示パターン 0がフェード、-1が横ストレッチ、-2が縦ストレッチ
  * back:-1:透明背景,0:背景カラーで塗りつぶし,1以上:画像インデックス
  * bx:内容の表示位置補正X
  * by:内容の表示位置補正Y
@@ -678,7 +678,7 @@ function CommonPopupManager() {
         this.terminatePopup();
     };
 
-    // 再定義　文字サイズに合わせてアイコンのサイズを調整する
+    // 再定義 文字サイズに合わせてアイコンのサイズを調整する
     Window_Base.prototype.drawIcon = function (iconIndex, x, y) {
         var bitmap = ImageManager.loadSystem('IconSet');
         var pw = Window_Base._iconWidth;

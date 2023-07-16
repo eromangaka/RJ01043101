@@ -51,114 +51,114 @@
  * https://github.com/fftfantt/RPGMakerMV/wiki/OriginalTimer.js
  *  
  * ■タイマーの設定
- * 　◆パラメータ
- * 　　引数1：タイマーの設定を行う場合の引数 [設定 or SET]
- * 　　引数2：タイマーの種類[アップ or ダウン or UP or DOWN] 
- * 　　引数3：設定時間 (1d1h1m1s1x1c のように記載)[日 or d  時間 or h  分 or m  秒 or s x(1/10秒) c(1/100秒)]
- * 　　引数4：ピクチャ番号[1～100]
- * 　　引数5：フォントサイズ
- * 　　引数6：画面Ｘ
- * 　　引数7：画面Ｙ
- * 　　引数8：表示モード[表示 or 非表示 or DISPLAY or HIDE]
- * 　　引数9：表示形式[D日 HH時MM分SS.XC秒 や HH:MM:SS:XC で自由に]
- * 　◆コマンド例
- * 　　オリジナルタイマー 設定 ダウン 2d1h30m 99 24 10 10 表示 D日 HH時MM分SS.XC秒
- * 　　ORIGINALTIMER SET DOWN 1h30m 99 24 10 10 DISPLAY HH:MM:SS:XC
- * 　　オリジナルタイマー 設定 アップ 1h30m 10 24 630 10 非表示 HH:MM:SS.XC
- * 　　ORIGINALTIMER SET UP 1h30m 10 24 630 10 HIDE HH:MM:SS.XC
+ *  ◆パラメータ
+ *   引数1：タイマーの設定を行う場合の引数 [設定 or SET]
+ *   引数2：タイマーの種類[アップ or ダウン or UP or DOWN] 
+ *   引数3：設定時間 (1d1h1m1s1x1c のように記載)[日 or d  時間 or h  分 or m  秒 or s x(1/10秒) c(1/100秒)]
+ *   引数4：ピクチャ番号[1～100]
+ *   引数5：フォントサイズ
+ *   引数6：画面Ｘ
+ *   引数7：画面Ｙ
+ *   引数8：表示モード[表示 or 非表示 or DISPLAY or HIDE]
+ *   引数9：表示形式[D日 HH時MM分SS.XC秒 や HH:MM:SS:XC で自由に]
+ *  ◆コマンド例
+ *   オリジナルタイマー 設定 ダウン 2d1h30m 99 24 10 10 表示 D日 HH時MM分SS.XC秒
+ *   ORIGINALTIMER SET DOWN 1h30m 99 24 10 10 DISPLAY HH:MM:SS:XC
+ *   オリジナルタイマー 設定 アップ 1h30m 10 24 630 10 非表示 HH:MM:SS.XC
+ *   ORIGINALTIMER SET UP 1h30m 10 24 630 10 HIDE HH:MM:SS.XC
  * 
  * ■タイマーの開始
- * 　◆パラメータ
- * 　　引数1：タイマーを開始もしくは再開する場合の引数 [開始 or 再開 or START]
- * 　◆コマンド例
- * 　　オリジナルタイマー 開始
- * 　　ORIGINALTIMER START
+ *  ◆パラメータ
+ *   引数1：タイマーを開始もしくは再開する場合の引数 [開始 or 再開 or START]
+ *  ◆コマンド例
+ *   オリジナルタイマー 開始
+ *   ORIGINALTIMER START
  * 
  * ■タイマーの停止
- * 　◆パラメータ
- * 　　引数1：タイマーを停止する場合の引数 [停止 or STOP]
- * 　◆コマンド例
- * 　　オリジナルタイマー 停止
- * 　　ORIGINALTIMER STOP
+ *  ◆パラメータ
+ *   引数1：タイマーを停止する場合の引数 [停止 or STOP]
+ *  ◆コマンド例
+ *   オリジナルタイマー 停止
+ *   ORIGINALTIMER STOP
  * 
  * ■タイマーの表示
- * 　◆パラメータ
- * 　　引数1：タイマーを表示する場合の引数 [表示 or DISPLAY]
- * 　◆コマンド例
- * 　　オリジナルタイマー 表示
- * 　　ORIGINALTIMER DISPLAY
+ *  ◆パラメータ
+ *   引数1：タイマーを表示する場合の引数 [表示 or DISPLAY]
+ *  ◆コマンド例
+ *   オリジナルタイマー 表示
+ *   ORIGINALTIMER DISPLAY
  * 
  * ■タイマーの非表示
- * 　◆パラメータ
- * 　　引数1：タイマーを非表示にする場合の引数 [非表示 or HIDE]
- * 　◆コマンド例
- * 　　オリジナルタイマー 非表示
- * 　　ORIGINALTIMER HIDE
+ *  ◆パラメータ
+ *   引数1：タイマーを非表示にする場合の引数 [非表示 or HIDE]
+ *  ◆コマンド例
+ *   オリジナルタイマー 非表示
+ *   ORIGINALTIMER HIDE
  * 
  * ■タイマーの初期化
- * 　　引数1：タイマーを初期化する場合の引数 [初期化 or INITIALIZE]
- * 　◆コマンド例
- * 　　オリジナルタイマー 初期化
- * 　　ORIGINALTIMER INITIALIZE
+ *   引数1：タイマーを初期化する場合の引数 [初期化 or INITIALIZE]
+ *  ◆コマンド例
+ *   オリジナルタイマー 初期化
+ *   ORIGINALTIMER INITIALIZE
  * 
  * ■タイマー値の取得
- * 　　引数1：タイマーに関する値を取得する場合の引数 [取得 or GET]
- * 　　引数2：取得する値の種類 [状態 or STATE or 値 or VALUE etc]
- * 　　引数3：値を格納する変数
- * 　◆コマンド例
- * 　　オリジナルタイマー 取得 状態 1
- * 　　ORIGINALTIMER GET STATE 1
- * 　　オリジナルタイマー 取得 値 1
- * 　　ORIGINALTIMER GET VALUE 1
- * 　　オリジナルタイマー 取得 日 1
- * 　　ORIGINALTIMER GET DAY 1
- * 　　オリジナルタイマー 取得 時 1
- * 　　ORIGINALTIMER GET HR 1
- * 　　オリジナルタイマー 取得 分 1
- * 　　ORIGINALTIMER GET MIN 1
- * 　　オリジナルタイマー 取得 秒 1
- * 　　ORIGINALTIMER GET SEC 1
- * 　　オリジナルタイマー 取得 コンマ秒 1
- * 　　ORIGINALTIMER GET HSEC 1
+ *   引数1：タイマーに関する値を取得する場合の引数 [取得 or GET]
+ *   引数2：取得する値の種類 [状態 or STATE or 値 or VALUE etc]
+ *   引数3：値を格納する変数
+ *  ◆コマンド例
+ *   オリジナルタイマー 取得 状態 1
+ *   ORIGINALTIMER GET STATE 1
+ *   オリジナルタイマー 取得 値 1
+ *   ORIGINALTIMER GET VALUE 1
+ *   オリジナルタイマー 取得 日 1
+ *   ORIGINALTIMER GET DAY 1
+ *   オリジナルタイマー 取得 時 1
+ *   ORIGINALTIMER GET HR 1
+ *   オリジナルタイマー 取得 分 1
+ *   ORIGINALTIMER GET MIN 1
+ *   オリジナルタイマー 取得 秒 1
+ *   ORIGINALTIMER GET SEC 1
+ *   オリジナルタイマー 取得 コンマ秒 1
+ *   ORIGINALTIMER GET HSEC 1
  * 
  * ■タイマー終了後のスイッチ操作
- * 　　引数1：タイマー終了後にスイッチを操作する場合の引数 [スイッチ or SWITCH]
- * 　　引数2：操作の種類  [オン or ON or オフ or OFF or リバース or REVERSE]
- * 　　引数3：操作するスイッチ番号
- * 　◆コマンド例
- * 　　オリジナルタイマー スイッチ オン 1
- * 　　ORIGINALTIMER SWITCH ON 1
- * 　　オリジナルタイマー スイッチ オフ 2
- * 　　ORIGINALTIMER SWITCH OFF 2
- * 　　オリジナルタイマー スイッチ リバース 3
- * 　　ORIGINALTIMER SWITCH REVERSE 3
+ *   引数1：タイマー終了後にスイッチを操作する場合の引数 [スイッチ or SWITCH]
+ *   引数2：操作の種類  [オン or ON or オフ or OFF or リバース or REVERSE]
+ *   引数3：操作するスイッチ番号
+ *  ◆コマンド例
+ *   オリジナルタイマー スイッチ オン 1
+ *   ORIGINALTIMER SWITCH ON 1
+ *   オリジナルタイマー スイッチ オフ 2
+ *   ORIGINALTIMER SWITCH OFF 2
+ *   オリジナルタイマー スイッチ リバース 3
+ *   ORIGINALTIMER SWITCH REVERSE 3
  * 
  * ■タイマーカウントのリセット
- * 　　引数1：タイマーカウントのリセットを行う場合の引数 [リセット or RESET]
- * 　◆コマンド例
- * 　　オリジナルタイマー リセット
- * 　　ORIGINALTIMER RESET
+ *   引数1：タイマーカウントのリセットを行う場合の引数 [リセット or RESET]
+ *  ◆コマンド例
+ *   オリジナルタイマー リセット
+ *   ORIGINALTIMER RESET
  * 
  *
  * ■タイマー設定時間の操作
  *    引数1：タイマー設定時間の操作を行う場合の引数 [設定時間操作 or LIMITCHANGE]
  *    引数2：設定時間の増減[増加 or 減少 or UP or DOWN] 
  *    引数3：設定時間 (1d1h1m1s1x1c のように記載)[日 or d  時間 or h  分 or m  秒 or s x(1/10秒) c(1/100秒)]
- * 　◆コマンド例
+ *  ◆コマンド例
  *     オリジナルタイマー 設定時間操作 増加 3m
  *     オリジナルタイマー 設定時間操作 減少 10s
- * 　　ORIGINALTIMER LIMITCHANGE UP 3m
- * 　　ORIGINALTIMER LIMITCHANGE DOWN 3m
+ *   ORIGINALTIMER LIMITCHANGE UP 3m
+ *   ORIGINALTIMER LIMITCHANGE DOWN 3m
  * 
  * ■タイマー実時間の操作
  *    引数1：タイマー実時間の操作を行う場合の引数 [実時間操作 or TIMECHANGE]
  *    引数2：実時間の増減[進行 or 逆行 or UP or DOWN] 
  *    引数3：設定時間 (1d1h1m1s1x1c のように記載)[日 or d  時間 or h  分 or m  秒 or s x(1/10秒) c(1/100秒)]
- * 　◆コマンド例
+ *  ◆コマンド例
  *     オリジナルタイマー 実時間操作 進行 3m
  *     オリジナルタイマー 実時間操作 逆行 10s
- * 　　ORIGINALTIMER TIMECHANGE UP 3m
- * 　　ORIGINALTIMER TIMECHANGE DOWN 3m
+ *   ORIGINALTIMER TIMECHANGE UP 3m
+ *   ORIGINALTIMER TIMECHANGE DOWN 3m
  * 
  */
 

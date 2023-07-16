@@ -1965,14 +1965,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "３　あき"
+                                "３ あき"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "４　あき"
+                                "４ あき"
                             ]
                         },
                         {
@@ -2064,28 +2064,28 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "絵日記左　　　　9"
+                                "絵日記左    9"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "絵日記左内容　　10"
+                                "絵日記左内容  10"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "絵日記右　　　　11"
+                                "絵日記右    11"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "絵日記右内容　　12"
+                                "絵日記右内容  12"
                             ]
                         },
                         {
@@ -2134,7 +2134,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]\\v[140]　Days　Remaining 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273] \\c[14]\\v[140] Days Remaining 15"
                             ]
                         },
                         {
@@ -2668,7 +2668,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT  Diary　Collection 15"
+                                "D_TEXT  Diary Collection 15"
                             ]
                         },
                         {
@@ -2753,7 +2753,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT 　\\c[14]+\\V[811]　 15"
+                                "D_TEXT  \\c[14]+\\V[811]  15"
                             ]
                         },
                         {
@@ -3603,7 +3603,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT ◆You　can　redraw　the　latest　diary\\c[0]　with　a　right　click\\c[14] 15"
+                                "D_TEXT ◆You can redraw the latest diary\\c[0] with a right click\\c[14] 15"
                             ]
                         },
                         {
@@ -3643,7 +3643,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT ◆You　can　view　the　acquired　picture　diary　(\\v[450]/10) 15"
+                                "D_TEXT ◆You can view the acquired picture diary (\\v[450]/10) 15"
                             ]
                         },
                         {
@@ -3707,7 +3707,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT ◆You　can　view　the　secret　notebook 15"
+                                "D_TEXT ◆You can view the secret notebook 15"
                             ]
                         },
                         {
