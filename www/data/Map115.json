@@ -1601,7 +1601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Come in, \\.. I'll make some tea for you."
+                                "Come in, I'll make some tea for you."
                             ]
                         },
                         {
@@ -2142,7 +2142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Your battle the other day was splendid. ......"
+                                "Your battle the other\nday was splendid. ......"
                             ]
                         },
                         {
@@ -2159,7 +2159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The power of bonds \\c[0]...... is incredibly \\.strong and\neven \\.beautiful, more so than when I was an active athlete.\n\\c[14]"
+                                "The power of bonds ...... is incredibly strong and\neven beautiful, more so than when I was an active athlete.\n"
                             ]
                         },
                         {
@@ -2208,7 +2208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I felt the level of skill that can be called the top in the\nindustry."
+                                "I felt the level of skill that can\nbe called the top in the industry."
                             ]
                         },
                         {
@@ -2346,7 +2346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Among them, you in particular were radiating a remarkable\n\\c[14]brilliance\\c[0]."
+                                "Among them, you in particular were\nradiating a remarkable \\c[14]brilliance\\c[0]."
                             ]
                         },
                         {
@@ -2578,7 +2578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems that you are Akari and Men-taikun."
+                                "It seems that you are similar\nto Akari and Men-taikun."
                             ]
                         },
                         {
@@ -2595,7 +2595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like you have also nurtured many bonds with a lot\nof people."
+                                "It seems like you have also nurtured\nmany bonds with a lot of people."
                             ]
                         },
                         {
@@ -2697,7 +2697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I retired from active duty, but the battle with mentaikari\nis not over yet."
+                                "I retired from active duty, but the\nbattle with mentaikari is not over yet."
                             ]
                         },
                         {
@@ -2714,7 +2714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To aim for Mentaikar and protect the future of children.\n......"
+                                "To aim for Mentaikar and protect\nthe future of children......."
                             ]
                         },
                         {
@@ -2763,7 +2763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And in order to protect this town, I want to become\nstronger."
+                                "And in order to protect this town,\nI want to become stronger."
                             ]
                         },
                         {
@@ -2886,7 +2886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Would you be willing to cooperate with me to nurture our\nbonds?"
+                                "Would you be willing to cooperate\nwith me to nurture our bonds?"
                             ]
                         },
                         {
@@ -2984,7 +2984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......No, \\. I want to acquire power greater than that time."
+                                "......No, I want to acquire\npower greater than that time."
                             ]
                         },
                         {
@@ -3546,7 +3546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well then, shall we start by getting to know each other?"
+                                "Well then, shall we start by\ngetting to know each other?"
                             ]
                         },
                         {
@@ -3638,7 +3638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm, well, where should we start talking from?"
+                                "Hmm, well, where should\nwe start talking from?"
                             ]
                         },
                         {
