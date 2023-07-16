@@ -1473,7 +1473,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]\\v[140]　Days　Remaining 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273] \\c[14]\\v[140] Days Remaining 15"
                             ]
                         },
                         {
@@ -2056,7 +2056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Hidekazu\\c[14] (What's wrong......? \\. \\>　　　\\<Your face\nseems unusually red...)"
+                                "\\>Hidekazu\\c[14] (What's wrong......? \\. \\>   \\<Your face\nseems unusually red...)"
                             ]
                         },
                         {
@@ -2395,7 +2395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Hidekazu\\c[14] (What's wrong......? \\. \\>　　　\\<This sense\nof discomfort......?)"
+                                "\\>Hidekazu\\c[14] (What's wrong......? \\. \\>   \\<This sense\nof discomfort......?)"
                             ]
                         },
                         {
@@ -2526,7 +2526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Hidekazu: \\<Senpai, your face looks red. \\>　　　\\<What's\nwrong?"
+                                "\\>Hidekazu: \\<Senpai, your face looks red. \\>   \\<What's\nwrong?"
                             ]
                         },
                         {
@@ -3453,7 +3453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Hidekazu\\c[14] (\\<Senpai...... \\>　　　\\<At this time...?)"
+                                "\\>Hidekazu\\c[14] (\\<Senpai...... \\>   \\<At this time...?)"
                             ]
                         },
                         {
@@ -3673,7 +3673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Hidekazu\\c[14] (Senpai, is there someone ......\n\\>　　　\\<with us...?)"
+                                "\\>Hidekazu\\c[14] (Senpai, is there someone ......\n\\>   \\<with us...?)"
                             ]
                         },
                         {
@@ -3751,7 +3751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Hidekazu\\c[14] (Is it just my imagination... that\n\\<......... \\>　　　\\<?)"
+                                "\\>Hidekazu\\c[14] (Is it just my imagination... that\n\\<......... \\>   \\<?)"
                             ]
                         },
                         {
@@ -7450,7 +7450,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo It's　getting　late　at　night!"
+                                "ShowInfo It's getting late at night!"
                             ]
                         },
                         {

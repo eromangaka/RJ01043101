@@ -28,7 +28,7 @@
  * @option ON
  * @option OFF
  * @desc ポップアップ表示のON/OFF
- * ON: 表示する　OFF: 表示しない　（default: ON）
+ * ON: 表示する OFF: 表示しない （default: ON）
  * @default ON
  *
  * @param Popup Position
@@ -89,7 +89,7 @@
  * @option ON
  * @option OFF
  * @desc タイトル画面に項目を表示するか
- * ON: 表示する　OFF: 表示しない　（default: ON）
+ * ON: 表示する OFF: 表示しない （default: ON）
  * @default ON
  *
  * @param Use Menu
@@ -97,7 +97,7 @@
  * @option ON
  * @option OFF
  * @desc メニュー画面に項目を表示するか
- * ON: 表示する　OFF: 表示しない　（default: ON）
+ * ON: 表示する OFF: 表示しない （default: ON）
  * @default ON
  *
  * @param Menu Text
@@ -135,8 +135,8 @@
  * @type select
  * @option ON
  * @option OFF
- * @desc 全セーブデータで実績を共有するか？　OFFにした場合、タイトル画面に実績メニューを置くことはできません
- * ON: する　OFF: しない　（default: ON）
+ * @desc 全セーブデータで実績を共有するか？ OFFにした場合、タイトル画面に実績メニューを置くことはできません
+ * ON: する OFF: しない （default: ON）
  * @default ON
  *
  * @help

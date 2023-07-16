@@ -1163,14 +1163,14 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Top　Left　X:\\v[2097]　Top　Left　Y:\\v[2098] 20"
+                                "D_TEXT Top Left X:\\v[2097] Top Left Y:\\v[2098] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Bottom　Right　X:\\v[2099]　Bottom　Right　Y:\\v[2100] 20"
+                                "D_TEXT Bottom Right X:\\v[2099] Bottom Right Y:\\v[2100] 20"
                             ]
                         },
                         {
