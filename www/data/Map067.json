@@ -12696,7 +12696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Chu \\kw[1]reru \\v1\\ \\v2\\ nchu\\v1\\ \\v2\\"
+                                "Chu \\kw[1]reru \\kw[1]nchu\\kw[1] \\kw[1]"
                             ]
                         },
                         {
