@@ -1413,7 +1413,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]\\v[140]　Days　Remaining 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273] \\c[14]\\v[140] Days Remaining 15"
                             ]
                         },
                         {
@@ -9953,7 +9953,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[161]\\I[166]\\c[14]We　became　a　parent-child　certified　relationship!\\c[0]"
+                                "ShowInfo \\I[161]\\I[166]\\c[14]We became a parent-child certified relationship!\\c[0]"
                             ]
                         },
                         {

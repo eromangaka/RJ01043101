@@ -1156,28 +1156,28 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■1　　マップ"
+                                "■1  マップ"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■2~5　画面左上関連"
+                                "■2~5 画面左上関連"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "□6~9　スキルホルダー関連"
+                                "□6~9 スキルホルダー関連"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "（8）　物音メーター"
+                                "（8） 物音メーター"
                             ]
                         },
                         {
@@ -1191,7 +1191,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■10~15　スキルアイコン"
+                                "■10~15 スキルアイコン"
                             ]
                         },
                         {
@@ -1205,14 +1205,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■16　　ちんちんメーター"
+                                "■16  ちんちんメーター"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■17　　バー"
+                                "■17  バー"
                             ]
                         },
                         {
@@ -1226,28 +1226,28 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■20~23　メイン＆サブヒロインのピクチャ"
+                                "■20~23 メイン＆サブヒロインのピクチャ"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■24~26　NPCピクチャ"
+                                "■24~26 NPCピクチャ"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■58~59　ヒロインの身体＆表情"
+                                "■58~59 ヒロインの身体＆表情"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■60　　 台詞ウィンドウの表示"
+                                "■60   台詞ウィンドウの表示"
                             ]
                         },
                         {
@@ -1261,7 +1261,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■30　ボク君"
+                                "■30 ボク君"
                             ]
                         },
                         {
@@ -1275,21 +1275,21 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■31~38　結衣(ヒ①),莉音(ヒ②),美雪(ヒ③),ボク"
+                                "■31~38 結衣(ヒ①),莉音(ヒ②),美雪(ヒ③),ボク"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■39~41　中心円①～③"
+                                "■39~41 中心円①～③"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■37　 　射精瞬間ピクチャ（ボク君と同じ）"
+                                "■37   射精瞬間ピクチャ（ボク君と同じ）"
                             ]
                         },
                         {
@@ -1303,21 +1303,21 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "■48　　 おっきめアニメON/OFF"
+                                "■48   おっきめアニメON/OFF"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■49　　 ボク君の服装ON/OFF"
+                                "■49   ボク君の服装ON/OFF"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■50　　 ヒロインの服装ON/OFF"
+                                "■50   ヒロインの服装ON/OFF"
                             ]
                         },
                         {
@@ -1331,21 +1331,21 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "37　　 射精時のピクチャ"
+                                "37   射精時のピクチャ"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "96　　 射精カウントダウン"
+                                "96   射精カウントダウン"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "97　　 場所入れ替え半透明青"
+                                "97   場所入れ替え半透明青"
                             ]
                         },
                         {
@@ -1359,7 +1359,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "51~55　射精残りピクチャ（変数74で管理）"
+                                "51~55 射精残りピクチャ（変数74で管理）"
                             ]
                         },
                         {
@@ -1373,7 +1373,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■51~55　射精残りピクチャ"
+                                "■51~55 射精残りピクチャ"
                             ]
                         },
                         {
@@ -1394,63 +1394,49 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "90　おおきめアニメ（場所）"
+                                "90 おおきめアニメ（場所）"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "91　おおきめアニメ（キャラ）"
+                                "91 おおきめアニメ（キャラ）"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "92　おおきめアニメ（ボク服）"
+                                "92 おおきめアニメ（ボク服）"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "93　汎用H中　擬音"
+                                "93 汎用H中 擬音"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "94　汎用H中　台詞"
+                                "94 汎用H中 台詞"
                             ]
                         },
                         {
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "95　顔射等の差分"
+                                "95 顔射等の差分"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "96　射精アニメ"
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 0,
-                            "parameters": [
-                                "-------------------------------------"
-                            ]
-                        },
-                        {
-                            "code": 408,
-                            "indent": 0,
-                            "parameters": [
-                                "■64~69　マップ移動矢印ピクチャ"
+                                "96 射精アニメ"
                             ]
                         },
                         {
@@ -1464,7 +1450,21 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "■70~100　右クリックMENUピクチャ"
+                                "■64~69 マップ移動矢印ピクチャ"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "-------------------------------------"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "■70~100 右クリックMENUピクチャ"
                             ]
                         },
                         {
@@ -1485,14 +1485,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "70　　 ジカン"
+                                "70   ジカン"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "71　　 スキルマウス追従"
+                                "71   スキルマウス追従"
                             ]
                         },
                         {
@@ -1506,21 +1506,21 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "70　　 ウィンドウ黒"
+                                "70   ウィンドウ黒"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "71　　 右上ステータス線"
+                                "71   右上ステータス線"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "72　　 キャラクターの名前"
+                                "72   キャラクターの名前"
                             ]
                         },
                         {
@@ -1534,42 +1534,42 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "70　　 ステータス黒枠（1）"
+                                "70   ステータス黒枠（1）"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "71~75　ミニキャラアイコン（5）"
+                                "71~75 ミニキャラアイコン（5）"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "80~85　ヒロインの名前（5）"
+                                "80~85 ヒロインの名前（5）"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "86~98　スキル＆アイテムのアイコン（12）"
+                                "86~98 スキル＆アイテムのアイコン（12）"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "99　　 白くなるやつ"
+                                "99   白くなるやつ"
                             ]
                         },
                         {
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "100　　マウスオン説明テキスト(1)"
+                                "100  マウスオン説明テキスト(1)"
                             ]
                         },
                         {
@@ -2201,7 +2201,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　kitchen 15"
+                                "D_TEXT To the kitchen 15"
                             ]
                         },
                         {
@@ -2411,7 +2411,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　corridor 15"
+                                "D_TEXT To the corridor 15"
                             ]
                         },
                         {
@@ -2621,7 +2621,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　entrance 15"
+                                "D_TEXT To the entrance 15"
                             ]
                         },
                         {
@@ -2967,7 +2967,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　corridor 15"
+                                "D_TEXT To the corridor 15"
                             ]
                         },
                         {
@@ -3177,7 +3177,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　living　room 15"
+                                "D_TEXT To the living room 15"
                             ]
                         },
                         {
@@ -3502,7 +3502,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　2nd　floor 15"
+                                "D_TEXT To the 2nd floor 15"
                             ]
                         },
                         {
@@ -3712,7 +3712,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　kitchen 15"
+                                "D_TEXT To the kitchen 15"
                             ]
                         },
                         {
@@ -3922,7 +3922,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　living　room 15"
+                                "D_TEXT To the living room 15"
                             ]
                         },
                         {
@@ -4132,7 +4132,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　couple's　room 15"
+                                "D_TEXT To the couple's room 15"
                             ]
                         },
                         {
@@ -4342,7 +4342,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　entrance 15"
+                                "D_TEXT To the entrance 15"
                             ]
                         },
                         {
@@ -4667,7 +4667,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　corridor 15"
+                                "D_TEXT To the corridor 15"
                             ]
                         },
                         {
@@ -4992,7 +4992,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　corridor 15"
+                                "D_TEXT To the corridor 15"
                             ]
                         },
                         {
@@ -5202,7 +5202,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　corridor 15"
+                                "D_TEXT To the corridor 15"
                             ]
                         },
                         {
@@ -5412,7 +5412,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　Japanese-style　room 15"
+                                "D_TEXT To the Japanese-style room 15"
                             ]
                         },
                         {
@@ -5622,7 +5622,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　living　room 15"
+                                "D_TEXT To the living room 15"
                             ]
                         },
                         {
@@ -5832,7 +5832,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT Going　out 15"
+                                "D_TEXT Going out 15"
                             ]
                         },
                         {
@@ -6157,7 +6157,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　entrance 15"
+                                "D_TEXT To the entrance 15"
                             ]
                         },
                         {
@@ -6367,7 +6367,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　toilet 15"
+                                "D_TEXT To the toilet 15"
                             ]
                         },
                         {
@@ -6577,7 +6577,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　changing　room 15"
+                                "D_TEXT To the changing room 15"
                             ]
                         },
                         {
@@ -6902,7 +6902,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　1st　floor 15"
+                                "D_TEXT To the 1st floor 15"
                             ]
                         },
                         {
@@ -7112,7 +7112,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　Yui's　room 15"
+                                "D_TEXT To Yui's room 15"
                             ]
                         },
                         {
@@ -7322,7 +7322,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　Rio's　room 15"
+                                "D_TEXT To Rio's room 15"
                             ]
                         },
                         {
@@ -7647,7 +7647,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　2nd　floor 15"
+                                "D_TEXT To the 2nd floor 15"
                             ]
                         },
                         {
@@ -7972,7 +7972,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　2nd　floor 15"
+                                "D_TEXT To the 2nd floor 15"
                             ]
                         },
                         {
@@ -8297,7 +8297,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　corridor 15"
+                                "D_TEXT To the corridor 15"
                             ]
                         },
                         {
@@ -8622,7 +8622,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　bathroom 15"
+                                "D_TEXT To the bathroom 15"
                             ]
                         },
                         {
@@ -8832,7 +8832,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　corridor 15"
+                                "D_TEXT To the corridor 15"
                             ]
                         },
                         {
@@ -9157,7 +9157,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　changing　room 15"
+                                "D_TEXT To the changing room 15"
                             ]
                         },
                         {
@@ -9482,7 +9482,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT To　the　entrance 15"
+                                "D_TEXT To the entrance 15"
                             ]
                         },
                         {
@@ -16289,7 +16289,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Living　room 20"
+                                "D_TEXT Living room 20"
                             ]
                         },
                         {
@@ -16319,7 +16319,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[17]　\\v[18]\\v[19] 30"
+                                "D_TEXT \\v[17] \\v[18]\\v[19] 30"
                             ]
                         },
                         {
@@ -16349,7 +16349,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 　　 Month　Day 18"
+                                "D_TEXT    Month Day 18"
                             ]
                         },
                         {
@@ -16441,7 +16441,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT MAP　Skill 12"
+                                "D_TEXT MAP Skill 12"
                             ]
                         },
                         {
@@ -16875,28 +16875,28 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog Text　test"
+                                "addLog Text test"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog Text　Test　2"
+                                "addLog Text Test 2"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog Text　Test　3"
+                                "addLog Text Test 3"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog Text　Test　4"
+                                "addLog Text Test 4"
                             ]
                         },
                         {
@@ -24056,7 +24056,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "44　左の布団"
+                                "44 左の布団"
                             ]
                         },
                         {
@@ -24181,7 +24181,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "45　右の布団"
+                                "45 右の布団"
                             ]
                         },
                         {
@@ -24306,7 +24306,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "46　左下"
+                                "46 左下"
                             ]
                         },
                         {
@@ -24431,7 +24431,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "47　右下"
+                                "47 右下"
                             ]
                         },
                         {
@@ -24598,7 +24598,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "43　風呂場右上"
+                                "43 風呂場右上"
                             ]
                         },
                         {
@@ -24723,7 +24723,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "49　風呂場左下"
+                                "49 風呂場左下"
                             ]
                         },
                         {
@@ -24890,7 +24890,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "40　風呂"
+                                "40 風呂"
                             ]
                         },
                         {
@@ -25015,7 +25015,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "41　入り口手前"
+                                "41 入り口手前"
                             ]
                         },
                         {
@@ -25157,7 +25157,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "トイレ　なし"
+                                "トイレ なし"
                             ]
                         },
                         {
@@ -25203,7 +25203,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "34　収納前"
+                                "34 収納前"
                             ]
                         },
                         {
@@ -25328,7 +25328,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "35　座椅子"
+                                "35 座椅子"
                             ]
                         },
                         {
@@ -25453,7 +25453,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "36　座布団あたり"
+                                "36 座布団あたり"
                             ]
                         },
                         {
@@ -25578,7 +25578,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "37　入り口前"
+                                "37 入り口前"
                             ]
                         },
                         {
@@ -25703,7 +25703,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "38　ベッドの上"
+                                "38 ベッドの上"
                             ]
                         },
                         {
@@ -25870,7 +25870,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "29　ヘッド"
+                                "29 ヘッド"
                             ]
                         },
                         {
@@ -25995,7 +25995,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "30　カーテン前"
+                                "30 カーテン前"
                             ]
                         },
                         {
@@ -26120,7 +26120,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "31　座布団あたり"
+                                "31 座布団あたり"
                             ]
                         },
                         {
@@ -26245,7 +26245,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "32　入り口前"
+                                "32 入り口前"
                             ]
                         },
                         {
@@ -26412,7 +26412,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "25　結衣部屋前"
+                                "25 結衣部屋前"
                             ]
                         },
                         {
@@ -26537,7 +26537,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "26　絵画前"
+                                "26 絵画前"
                             ]
                         },
                         {
@@ -26662,7 +26662,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "27　莉音部屋前"
+                                "27 莉音部屋前"
                             ]
                         },
                         {
@@ -26829,7 +26829,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "23　トイレ前"
+                                "23 トイレ前"
                             ]
                         },
                         {
@@ -26954,7 +26954,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "24　脱衣所前"
+                                "24 脱衣所前"
                             ]
                         },
                         {
@@ -27121,7 +27121,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑲　玄関前"
+                                "⑲ 玄関前"
                             ]
                         },
                         {
@@ -27246,7 +27246,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "20　マット上"
+                                "20 マット上"
                             ]
                         },
                         {
@@ -27371,7 +27371,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "21　廊下前"
+                                "21 廊下前"
                             ]
                         },
                         {
@@ -27496,7 +27496,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "22　中央"
+                                "22 中央"
                             ]
                         },
                         {
@@ -27663,7 +27663,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑭　ドアの前"
+                                "⑭ ドアの前"
                             ]
                         },
                         {
@@ -27788,7 +27788,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑮　ドアの前"
+                                "⑮ ドアの前"
                             ]
                         },
                         {
@@ -27913,7 +27913,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑯　部屋右側"
+                                "⑯ 部屋右側"
                             ]
                         },
                         {
@@ -28038,7 +28038,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑰　美雪ベドの上"
+                                "⑰ 美雪ベドの上"
                             ]
                         },
                         {
@@ -28163,7 +28163,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑱　部屋手前"
+                                "⑱ 部屋手前"
                             ]
                         },
                         {
@@ -28330,7 +28330,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　階段前"
+                                "⑩ 階段前"
                             ]
                         },
                         {
@@ -28455,7 +28455,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　キッチン扉"
+                                "⑪ キッチン扉"
                             ]
                         },
                         {
@@ -28580,7 +28580,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑫　壺前"
+                                "⑫ 壺前"
                             ]
                         },
                         {
@@ -28705,7 +28705,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑬　リビング扉"
+                                "⑬ リビング扉"
                             ]
                         },
                         {
@@ -28872,7 +28872,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑨　コンロ側"
+                                "⑨ コンロ側"
                             ]
                         },
                         {
@@ -28997,7 +28997,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　流し側"
+                                "⑩ 流し側"
                             ]
                         },
                         {
@@ -29122,7 +29122,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　レンジ側"
+                                "⑪ レンジ側"
                             ]
                         },
                         {
@@ -29289,7 +29289,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "①　こたつ右上"
+                                "① こたつ右上"
                             ]
                         },
                         {
@@ -29414,7 +29414,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "②　こたつ左上"
+                                "② こたつ左上"
                             ]
                         },
                         {
@@ -29539,7 +29539,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "③　こたつの上"
+                                "③ こたつの上"
                             ]
                         },
                         {
@@ -29664,7 +29664,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "④　こたつ右下"
+                                "④ こたつ右下"
                             ]
                         },
                         {
@@ -29789,7 +29789,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑤　こたつ左下"
+                                "⑤ こたつ左下"
                             ]
                         },
                         {
@@ -29914,7 +29914,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑥　キッチン側"
+                                "⑥ キッチン側"
                             ]
                         },
                         {
@@ -30203,7 +30203,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "44　左の布団"
+                                "44 左の布団"
                             ]
                         },
                         {
@@ -30328,7 +30328,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "45　右の布団"
+                                "45 右の布団"
                             ]
                         },
                         {
@@ -30453,7 +30453,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "46　左下"
+                                "46 左下"
                             ]
                         },
                         {
@@ -30578,7 +30578,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "47　右下"
+                                "47 右下"
                             ]
                         },
                         {
@@ -30745,7 +30745,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "43　風呂場右上"
+                                "43 風呂場右上"
                             ]
                         },
                         {
@@ -30870,7 +30870,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "49　風呂場左下"
+                                "49 風呂場左下"
                             ]
                         },
                         {
@@ -31037,7 +31037,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "40　風呂"
+                                "40 風呂"
                             ]
                         },
                         {
@@ -31162,7 +31162,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "41　入り口手前"
+                                "41 入り口手前"
                             ]
                         },
                         {
@@ -31304,7 +31304,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "トイレ　なし"
+                                "トイレ なし"
                             ]
                         },
                         {
@@ -31350,7 +31350,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "34　収納前"
+                                "34 収納前"
                             ]
                         },
                         {
@@ -31475,7 +31475,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "35　座椅子"
+                                "35 座椅子"
                             ]
                         },
                         {
@@ -31600,7 +31600,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "36　座布団あたり"
+                                "36 座布団あたり"
                             ]
                         },
                         {
@@ -31725,7 +31725,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "37　入り口前"
+                                "37 入り口前"
                             ]
                         },
                         {
@@ -31850,7 +31850,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "38　ベッドの上"
+                                "38 ベッドの上"
                             ]
                         },
                         {
@@ -32017,7 +32017,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "29　ヘッド"
+                                "29 ヘッド"
                             ]
                         },
                         {
@@ -32142,7 +32142,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "30　カーテン前"
+                                "30 カーテン前"
                             ]
                         },
                         {
@@ -32267,7 +32267,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "31　座布団あたり"
+                                "31 座布団あたり"
                             ]
                         },
                         {
@@ -32392,7 +32392,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "32　入り口前"
+                                "32 入り口前"
                             ]
                         },
                         {
@@ -32559,7 +32559,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "25　結衣部屋前"
+                                "25 結衣部屋前"
                             ]
                         },
                         {
@@ -32684,7 +32684,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "26　絵画前"
+                                "26 絵画前"
                             ]
                         },
                         {
@@ -32809,7 +32809,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "27　莉音部屋前"
+                                "27 莉音部屋前"
                             ]
                         },
                         {
@@ -32976,7 +32976,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "23　トイレ前"
+                                "23 トイレ前"
                             ]
                         },
                         {
@@ -33101,7 +33101,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "24　脱衣所前"
+                                "24 脱衣所前"
                             ]
                         },
                         {
@@ -33268,7 +33268,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑲　玄関前"
+                                "⑲ 玄関前"
                             ]
                         },
                         {
@@ -33393,7 +33393,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "20　マット上"
+                                "20 マット上"
                             ]
                         },
                         {
@@ -33518,7 +33518,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "21　廊下前"
+                                "21 廊下前"
                             ]
                         },
                         {
@@ -33643,7 +33643,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "22　中央"
+                                "22 中央"
                             ]
                         },
                         {
@@ -33810,7 +33810,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑭　ドアの前"
+                                "⑭ ドアの前"
                             ]
                         },
                         {
@@ -33935,7 +33935,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑮　ドアの前"
+                                "⑮ ドアの前"
                             ]
                         },
                         {
@@ -34060,7 +34060,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑯　部屋右側"
+                                "⑯ 部屋右側"
                             ]
                         },
                         {
@@ -34185,7 +34185,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑰　美雪ベドの上"
+                                "⑰ 美雪ベドの上"
                             ]
                         },
                         {
@@ -34310,7 +34310,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑱　部屋手前"
+                                "⑱ 部屋手前"
                             ]
                         },
                         {
@@ -34477,7 +34477,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　階段前"
+                                "⑩ 階段前"
                             ]
                         },
                         {
@@ -34593,7 +34593,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　キッチン扉"
+                                "⑪ キッチン扉"
                             ]
                         },
                         {
@@ -34709,7 +34709,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑫　壺前"
+                                "⑫ 壺前"
                             ]
                         },
                         {
@@ -34825,7 +34825,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑬　リビング扉"
+                                "⑬ リビング扉"
                             ]
                         },
                         {
@@ -34983,7 +34983,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑨　コンロ側"
+                                "⑨ コンロ側"
                             ]
                         },
                         {
@@ -35108,7 +35108,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　流し側"
+                                "⑩ 流し側"
                             ]
                         },
                         {
@@ -35233,7 +35233,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　レンジ側"
+                                "⑪ レンジ側"
                             ]
                         },
                         {
@@ -35400,7 +35400,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "①　こたつ右上"
+                                "① こたつ右上"
                             ]
                         },
                         {
@@ -35525,7 +35525,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "②　こたつ左上"
+                                "② こたつ左上"
                             ]
                         },
                         {
@@ -35650,7 +35650,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "③　こたつの上"
+                                "③ こたつの上"
                             ]
                         },
                         {
@@ -35775,7 +35775,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "④　こたつ右下"
+                                "④ こたつ右下"
                             ]
                         },
                         {
@@ -35900,7 +35900,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑤　こたつ左下"
+                                "⑤ こたつ左下"
                             ]
                         },
                         {
@@ -36025,7 +36025,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑥　キッチン側"
+                                "⑥ キッチン側"
                             ]
                         },
                         {
@@ -36314,7 +36314,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "44　左の布団"
+                                "44 左の布団"
                             ]
                         },
                         {
@@ -36439,7 +36439,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "45　右の布団"
+                                "45 右の布団"
                             ]
                         },
                         {
@@ -36564,7 +36564,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "46　左下"
+                                "46 左下"
                             ]
                         },
                         {
@@ -36689,7 +36689,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "47　右下"
+                                "47 右下"
                             ]
                         },
                         {
@@ -36856,7 +36856,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "43　風呂場右上"
+                                "43 風呂場右上"
                             ]
                         },
                         {
@@ -36981,7 +36981,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "49　風呂場左下"
+                                "49 風呂場左下"
                             ]
                         },
                         {
@@ -37148,7 +37148,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "40　風呂"
+                                "40 風呂"
                             ]
                         },
                         {
@@ -37273,7 +37273,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "41　入り口手前"
+                                "41 入り口手前"
                             ]
                         },
                         {
@@ -37415,7 +37415,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "トイレ　なし"
+                                "トイレ なし"
                             ]
                         },
                         {
@@ -37461,7 +37461,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "34　収納前"
+                                "34 収納前"
                             ]
                         },
                         {
@@ -37586,7 +37586,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "35　座椅子"
+                                "35 座椅子"
                             ]
                         },
                         {
@@ -37711,7 +37711,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "36　座布団あたり"
+                                "36 座布団あたり"
                             ]
                         },
                         {
@@ -37836,7 +37836,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "37　入り口前"
+                                "37 入り口前"
                             ]
                         },
                         {
@@ -37961,7 +37961,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "38　ベッドの上"
+                                "38 ベッドの上"
                             ]
                         },
                         {
@@ -38128,7 +38128,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "29　ヘッド"
+                                "29 ヘッド"
                             ]
                         },
                         {
@@ -38253,7 +38253,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "30　カーテン前"
+                                "30 カーテン前"
                             ]
                         },
                         {
@@ -38378,7 +38378,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "31　座布団あたり"
+                                "31 座布団あたり"
                             ]
                         },
                         {
@@ -38503,7 +38503,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "32　入り口前"
+                                "32 入り口前"
                             ]
                         },
                         {
@@ -38670,7 +38670,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "25　結衣部屋前"
+                                "25 結衣部屋前"
                             ]
                         },
                         {
@@ -38795,7 +38795,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "26　絵画前"
+                                "26 絵画前"
                             ]
                         },
                         {
@@ -38920,7 +38920,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "27　莉音部屋前"
+                                "27 莉音部屋前"
                             ]
                         },
                         {
@@ -39087,7 +39087,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "23　トイレ前"
+                                "23 トイレ前"
                             ]
                         },
                         {
@@ -39212,7 +39212,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "24　脱衣所前"
+                                "24 脱衣所前"
                             ]
                         },
                         {
@@ -39379,7 +39379,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑲　玄関前"
+                                "⑲ 玄関前"
                             ]
                         },
                         {
@@ -39504,7 +39504,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "20　マット上"
+                                "20 マット上"
                             ]
                         },
                         {
@@ -39629,7 +39629,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "21　廊下前"
+                                "21 廊下前"
                             ]
                         },
                         {
@@ -39754,7 +39754,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "22　中央"
+                                "22 中央"
                             ]
                         },
                         {
@@ -39921,7 +39921,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑭　ドアの前"
+                                "⑭ ドアの前"
                             ]
                         },
                         {
@@ -40046,7 +40046,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑮　ドアの前"
+                                "⑮ ドアの前"
                             ]
                         },
                         {
@@ -40171,7 +40171,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑯　部屋右側"
+                                "⑯ 部屋右側"
                             ]
                         },
                         {
@@ -40296,7 +40296,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑰　美雪ベドの上"
+                                "⑰ 美雪ベドの上"
                             ]
                         },
                         {
@@ -40421,7 +40421,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑱　部屋手前"
+                                "⑱ 部屋手前"
                             ]
                         },
                         {
@@ -40588,7 +40588,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　階段前"
+                                "⑩ 階段前"
                             ]
                         },
                         {
@@ -40704,7 +40704,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　キッチン扉"
+                                "⑪ キッチン扉"
                             ]
                         },
                         {
@@ -40820,7 +40820,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑫　壺前"
+                                "⑫ 壺前"
                             ]
                         },
                         {
@@ -40936,7 +40936,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑬　リビング扉"
+                                "⑬ リビング扉"
                             ]
                         },
                         {
@@ -41094,7 +41094,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑨　コンロ側"
+                                "⑨ コンロ側"
                             ]
                         },
                         {
@@ -41219,7 +41219,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　流し側"
+                                "⑩ 流し側"
                             ]
                         },
                         {
@@ -41344,7 +41344,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　レンジ側"
+                                "⑪ レンジ側"
                             ]
                         },
                         {
@@ -41511,7 +41511,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "①　こたつ右上"
+                                "① こたつ右上"
                             ]
                         },
                         {
@@ -41636,7 +41636,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "②　こたつ左上"
+                                "② こたつ左上"
                             ]
                         },
                         {
@@ -41761,7 +41761,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "③　こたつの上"
+                                "③ こたつの上"
                             ]
                         },
                         {
@@ -41886,7 +41886,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "④　こたつ右下"
+                                "④ こたつ右下"
                             ]
                         },
                         {
@@ -42011,7 +42011,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑤　こたつ左下"
+                                "⑤ こたつ左下"
                             ]
                         },
                         {
@@ -42136,7 +42136,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑥　キッチン側"
+                                "⑥ キッチン側"
                             ]
                         },
                         {
@@ -42425,7 +42425,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "44　左の布団"
+                                "44 左の布団"
                             ]
                         },
                         {
@@ -42550,7 +42550,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "45　右の布団"
+                                "45 右の布団"
                             ]
                         },
                         {
@@ -42675,7 +42675,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "46　左下"
+                                "46 左下"
                             ]
                         },
                         {
@@ -42800,7 +42800,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "47　右下"
+                                "47 右下"
                             ]
                         },
                         {
@@ -42967,7 +42967,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "43　風呂場右上"
+                                "43 風呂場右上"
                             ]
                         },
                         {
@@ -43092,7 +43092,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "49　風呂場左下"
+                                "49 風呂場左下"
                             ]
                         },
                         {
@@ -43259,7 +43259,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "40　風呂"
+                                "40 風呂"
                             ]
                         },
                         {
@@ -43384,7 +43384,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "41　入り口手前"
+                                "41 入り口手前"
                             ]
                         },
                         {
@@ -43526,7 +43526,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "トイレ　なし"
+                                "トイレ なし"
                             ]
                         },
                         {
@@ -43572,7 +43572,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "34　収納前"
+                                "34 収納前"
                             ]
                         },
                         {
@@ -43697,7 +43697,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "35　座椅子"
+                                "35 座椅子"
                             ]
                         },
                         {
@@ -43822,7 +43822,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "36　座布団あたり"
+                                "36 座布団あたり"
                             ]
                         },
                         {
@@ -43947,7 +43947,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "37　入り口前"
+                                "37 入り口前"
                             ]
                         },
                         {
@@ -44072,7 +44072,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "38　ベッドの上"
+                                "38 ベッドの上"
                             ]
                         },
                         {
@@ -44239,7 +44239,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "29　ヘッド"
+                                "29 ヘッド"
                             ]
                         },
                         {
@@ -44364,7 +44364,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "30　カーテン前"
+                                "30 カーテン前"
                             ]
                         },
                         {
@@ -44489,7 +44489,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "31　座布団あたり"
+                                "31 座布団あたり"
                             ]
                         },
                         {
@@ -44656,7 +44656,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "25　結衣部屋前"
+                                "25 結衣部屋前"
                             ]
                         },
                         {
@@ -44781,7 +44781,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "26　絵画前"
+                                "26 絵画前"
                             ]
                         },
                         {
@@ -44906,7 +44906,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "27　莉音部屋前"
+                                "27 莉音部屋前"
                             ]
                         },
                         {
@@ -45073,7 +45073,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "23　トイレ前"
+                                "23 トイレ前"
                             ]
                         },
                         {
@@ -45198,7 +45198,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "24　脱衣所前"
+                                "24 脱衣所前"
                             ]
                         },
                         {
@@ -45365,7 +45365,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑲　玄関前"
+                                "⑲ 玄関前"
                             ]
                         },
                         {
@@ -45490,7 +45490,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "20　マット上"
+                                "20 マット上"
                             ]
                         },
                         {
@@ -45615,7 +45615,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "21　廊下前"
+                                "21 廊下前"
                             ]
                         },
                         {
@@ -45740,7 +45740,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "22　中央"
+                                "22 中央"
                             ]
                         },
                         {
@@ -45907,7 +45907,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑭　ドアの前"
+                                "⑭ ドアの前"
                             ]
                         },
                         {
@@ -46032,7 +46032,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑮　ドアの前"
+                                "⑮ ドアの前"
                             ]
                         },
                         {
@@ -46157,7 +46157,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑯　部屋右側"
+                                "⑯ 部屋右側"
                             ]
                         },
                         {
@@ -46282,7 +46282,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑰　美雪ベドの上"
+                                "⑰ 美雪ベドの上"
                             ]
                         },
                         {
@@ -46407,7 +46407,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑱　部屋手前"
+                                "⑱ 部屋手前"
                             ]
                         },
                         {
@@ -46574,7 +46574,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　階段前"
+                                "⑩ 階段前"
                             ]
                         },
                         {
@@ -46690,7 +46690,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　キッチン扉"
+                                "⑪ キッチン扉"
                             ]
                         },
                         {
@@ -46806,7 +46806,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑬　リビング扉"
+                                "⑬ リビング扉"
                             ]
                         },
                         {
@@ -46964,7 +46964,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑨　コンロ側"
+                                "⑨ コンロ側"
                             ]
                         },
                         {
@@ -47089,7 +47089,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　流し側"
+                                "⑩ 流し側"
                             ]
                         },
                         {
@@ -47214,7 +47214,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　レンジ側"
+                                "⑪ レンジ側"
                             ]
                         },
                         {
@@ -47381,7 +47381,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "①　こたつ右上"
+                                "① こたつ右上"
                             ]
                         },
                         {
@@ -47506,7 +47506,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "②　こたつ左上"
+                                "② こたつ左上"
                             ]
                         },
                         {
@@ -47631,7 +47631,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "３　こたつの上"
+                                "３ こたつの上"
                             ]
                         },
                         {
@@ -47756,7 +47756,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "④　こたつ右下"
+                                "④ こたつ右下"
                             ]
                         },
                         {
@@ -47881,7 +47881,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "５　こたつ左下"
+                                "５ こたつ左下"
                             ]
                         },
                         {
@@ -48006,7 +48006,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑥　キッチン側"
+                                "⑥ キッチン側"
                             ]
                         },
                         {
@@ -48295,7 +48295,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "44　左の布団"
+                                "44 左の布団"
                             ]
                         },
                         {
@@ -48420,7 +48420,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "45　右の布団"
+                                "45 右の布団"
                             ]
                         },
                         {
@@ -48545,7 +48545,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "46　左下"
+                                "46 左下"
                             ]
                         },
                         {
@@ -48670,7 +48670,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "47　右下"
+                                "47 右下"
                             ]
                         },
                         {
@@ -48837,7 +48837,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "42　風呂の中"
+                                "42 風呂の中"
                             ]
                         },
                         {
@@ -48962,7 +48962,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "43　風呂場右上"
+                                "43 風呂場右上"
                             ]
                         },
                         {
@@ -49087,7 +49087,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "49　風呂場左下"
+                                "49 風呂場左下"
                             ]
                         },
                         {
@@ -49254,7 +49254,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "40　風呂"
+                                "40 風呂"
                             ]
                         },
                         {
@@ -49379,7 +49379,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "41　入り口手前"
+                                "41 入り口手前"
                             ]
                         },
                         {
@@ -49521,7 +49521,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "トイレ　なし"
+                                "トイレ なし"
                             ]
                         },
                         {
@@ -49567,7 +49567,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "34　収納前"
+                                "34 収納前"
                             ]
                         },
                         {
@@ -49692,7 +49692,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "35　座椅子"
+                                "35 座椅子"
                             ]
                         },
                         {
@@ -49817,7 +49817,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "37　入り口前"
+                                "37 入り口前"
                             ]
                         },
                         {
@@ -49942,7 +49942,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "38　ベッドの上"
+                                "38 ベッドの上"
                             ]
                         },
                         {
@@ -50109,7 +50109,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "28　タンス前"
+                                "28 タンス前"
                             ]
                         },
                         {
@@ -50234,7 +50234,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "29　ヘッド"
+                                "29 ヘッド"
                             ]
                         },
                         {
@@ -50359,7 +50359,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "30　カーテン前"
+                                "30 カーテン前"
                             ]
                         },
                         {
@@ -50484,7 +50484,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "31　座布団あたり"
+                                "31 座布団あたり"
                             ]
                         },
                         {
@@ -50609,7 +50609,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "32　入り口前"
+                                "32 入り口前"
                             ]
                         },
                         {
@@ -50734,7 +50734,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "33　机前"
+                                "33 机前"
                             ]
                         },
                         {
@@ -50901,7 +50901,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "25　結衣部屋前"
+                                "25 結衣部屋前"
                             ]
                         },
                         {
@@ -51026,7 +51026,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "26　絵画前"
+                                "26 絵画前"
                             ]
                         },
                         {
@@ -51151,7 +51151,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "27　莉音部屋前"
+                                "27 莉音部屋前"
                             ]
                         },
                         {
@@ -51318,7 +51318,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "23　トイレ前"
+                                "23 トイレ前"
                             ]
                         },
                         {
@@ -51443,7 +51443,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "24　脱衣所前"
+                                "24 脱衣所前"
                             ]
                         },
                         {
@@ -51610,7 +51610,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑲　玄関前"
+                                "⑲ 玄関前"
                             ]
                         },
                         {
@@ -51735,7 +51735,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "20　マット上"
+                                "20 マット上"
                             ]
                         },
                         {
@@ -51860,7 +51860,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "21　廊下前"
+                                "21 廊下前"
                             ]
                         },
                         {
@@ -51985,7 +51985,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "22　中央"
+                                "22 中央"
                             ]
                         },
                         {
@@ -52152,7 +52152,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑭　ドアの前"
+                                "⑭ ドアの前"
                             ]
                         },
                         {
@@ -52277,7 +52277,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑯　部屋右側"
+                                "⑯ 部屋右側"
                             ]
                         },
                         {
@@ -52402,7 +52402,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑰　美雪ベドの上"
+                                "⑰ 美雪ベドの上"
                             ]
                         },
                         {
@@ -52569,7 +52569,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　階段前"
+                                "⑩ 階段前"
                             ]
                         },
                         {
@@ -52685,7 +52685,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　キッチン扉"
+                                "⑪ キッチン扉"
                             ]
                         },
                         {
@@ -52801,7 +52801,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑫　壺前"
+                                "⑫ 壺前"
                             ]
                         },
                         {
@@ -52917,7 +52917,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑬　リビング扉"
+                                "⑬ リビング扉"
                             ]
                         },
                         {
@@ -53075,7 +53075,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑨　コンロ側"
+                                "⑨ コンロ側"
                             ]
                         },
                         {
@@ -53200,7 +53200,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　流し側"
+                                "⑩ 流し側"
                             ]
                         },
                         {
@@ -53325,7 +53325,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　レンジ側"
+                                "⑪ レンジ側"
                             ]
                         },
                         {
@@ -53492,7 +53492,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "１　こたつ右上"
+                                "１ こたつ右上"
                             ]
                         },
                         {
@@ -53617,7 +53617,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "２　こたつ左上"
+                                "２ こたつ左上"
                             ]
                         },
                         {
@@ -53742,7 +53742,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "３　こたつの上"
+                                "３ こたつの上"
                             ]
                         },
                         {
@@ -53867,7 +53867,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "④　こたつ右下"
+                                "④ こたつ右下"
                             ]
                         },
                         {
@@ -53992,7 +53992,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "５　こたつ左下"
+                                "５ こたつ左下"
                             ]
                         },
                         {
@@ -54117,7 +54117,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑥　キッチン側"
+                                "⑥ キッチン側"
                             ]
                         },
                         {
@@ -54406,7 +54406,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "44　左の布団"
+                                "44 左の布団"
                             ]
                         },
                         {
@@ -54531,7 +54531,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "48　ダンボール上"
+                                "48 ダンボール上"
                             ]
                         },
                         {
@@ -54698,7 +54698,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "42　風呂の中"
+                                "42 風呂の中"
                             ]
                         },
                         {
@@ -54823,7 +54823,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "43　風呂場右上"
+                                "43 風呂場右上"
                             ]
                         },
                         {
@@ -54948,7 +54948,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "49　風呂場左下"
+                                "49 風呂場左下"
                             ]
                         },
                         {
@@ -55115,7 +55115,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "41　入り口手前"
+                                "41 入り口手前"
                             ]
                         },
                         {
@@ -55257,7 +55257,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "トイレ　なし"
+                                "トイレ なし"
                             ]
                         },
                         {
@@ -55303,7 +55303,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "35　座椅子"
+                                "35 座椅子"
                             ]
                         },
                         {
@@ -55428,7 +55428,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "36　机手前"
+                                "36 机手前"
                             ]
                         },
                         {
@@ -55553,7 +55553,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "37　入り口前"
+                                "37 入り口前"
                             ]
                         },
                         {
@@ -55720,7 +55720,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "31　座布団あたり"
+                                "31 座布団あたり"
                             ]
                         },
                         {
@@ -55845,7 +55845,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "33　机前"
+                                "33 机前"
                             ]
                         },
                         {
@@ -55987,7 +55987,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "２階　　なし"
+                                "２階  なし"
                             ]
                         },
                         {
@@ -56008,7 +56008,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "浴室側廊下　　　なし"
+                                "浴室側廊下   なし"
                             ]
                         },
                         {
@@ -56054,7 +56054,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑲　玄関前"
+                                "⑲ 玄関前"
                             ]
                         },
                         {
@@ -56221,7 +56221,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑭　ドアの前"
+                                "⑭ ドアの前"
                             ]
                         },
                         {
@@ -56346,7 +56346,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑮　ベッド間"
+                                "⑮ ベッド間"
                             ]
                         },
                         {
@@ -56471,7 +56471,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑯　部屋右側"
+                                "⑯ 部屋右側"
                             ]
                         },
                         {
@@ -56596,7 +56596,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑱　部屋手前"
+                                "⑱ 部屋手前"
                             ]
                         },
                         {
@@ -56763,7 +56763,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　階段前"
+                                "⑩ 階段前"
                             ]
                         },
                         {
@@ -56879,7 +56879,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑫　壺前"
+                                "⑫ 壺前"
                             ]
                         },
                         {
@@ -57037,7 +57037,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑨　コンロ側"
+                                "⑨ コンロ側"
                             ]
                         },
                         {
@@ -57162,7 +57162,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　流し側"
+                                "⑩ 流し側"
                             ]
                         },
                         {
@@ -57287,7 +57287,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　レンジ側"
+                                "⑪ レンジ側"
                             ]
                         },
                         {
@@ -57454,7 +57454,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "２　こたつ左上"
+                                "２ こたつ左上"
                             ]
                         },
                         {
@@ -57579,7 +57579,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "④　こたつ右下"
+                                "④ こたつ右下"
                             ]
                         },
                         {
@@ -57704,7 +57704,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "５　こたつ左下"
+                                "５ こたつ左下"
                             ]
                         },
                         {
@@ -57993,7 +57993,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "44　左の布団"
+                                "44 左の布団"
                             ]
                         },
                         {
@@ -58118,7 +58118,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "45　右の布団"
+                                "45 右の布団"
                             ]
                         },
                         {
@@ -58243,7 +58243,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "46　左下"
+                                "46 左下"
                             ]
                         },
                         {
@@ -58368,7 +58368,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "47　右下"
+                                "47 右下"
                             ]
                         },
                         {
@@ -58535,7 +58535,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "43　風呂場右上"
+                                "43 風呂場右上"
                             ]
                         },
                         {
@@ -58660,7 +58660,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "49　風呂場左下"
+                                "49 風呂場左下"
                             ]
                         },
                         {
@@ -58827,7 +58827,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "40　風呂"
+                                "40 風呂"
                             ]
                         },
                         {
@@ -58952,7 +58952,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "41　入り口手前"
+                                "41 入り口手前"
                             ]
                         },
                         {
@@ -59094,7 +59094,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "トイレ　なし"
+                                "トイレ なし"
                             ]
                         },
                         {
@@ -59140,7 +59140,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "34　収納前"
+                                "34 収納前"
                             ]
                         },
                         {
@@ -59265,7 +59265,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "35　座椅子"
+                                "35 座椅子"
                             ]
                         },
                         {
@@ -59390,7 +59390,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "36　座布団あたり"
+                                "36 座布団あたり"
                             ]
                         },
                         {
@@ -59515,7 +59515,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "37　入り口前"
+                                "37 入り口前"
                             ]
                         },
                         {
@@ -59640,7 +59640,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "38　ベッドの上"
+                                "38 ベッドの上"
                             ]
                         },
                         {
@@ -59807,7 +59807,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "29　ヘッド"
+                                "29 ヘッド"
                             ]
                         },
                         {
@@ -59932,7 +59932,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "30　カーテン前"
+                                "30 カーテン前"
                             ]
                         },
                         {
@@ -60057,7 +60057,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "31　座布団あたり"
+                                "31 座布団あたり"
                             ]
                         },
                         {
@@ -60182,7 +60182,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "32　入り口前"
+                                "32 入り口前"
                             ]
                         },
                         {
@@ -60349,7 +60349,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "25　結衣部屋前"
+                                "25 結衣部屋前"
                             ]
                         },
                         {
@@ -60474,7 +60474,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "26　絵画前"
+                                "26 絵画前"
                             ]
                         },
                         {
@@ -60599,7 +60599,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "27　莉音部屋前"
+                                "27 莉音部屋前"
                             ]
                         },
                         {
@@ -60766,7 +60766,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "23　トイレ前"
+                                "23 トイレ前"
                             ]
                         },
                         {
@@ -60891,7 +60891,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "24　脱衣所前"
+                                "24 脱衣所前"
                             ]
                         },
                         {
@@ -61058,7 +61058,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑲　玄関前"
+                                "⑲ 玄関前"
                             ]
                         },
                         {
@@ -61183,7 +61183,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "20　マット上"
+                                "20 マット上"
                             ]
                         },
                         {
@@ -61308,7 +61308,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "21　廊下前"
+                                "21 廊下前"
                             ]
                         },
                         {
@@ -61433,7 +61433,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "22　中央"
+                                "22 中央"
                             ]
                         },
                         {
@@ -61600,7 +61600,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑭　ドアの前"
+                                "⑭ ドアの前"
                             ]
                         },
                         {
@@ -61725,7 +61725,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑮　ドアの前"
+                                "⑮ ドアの前"
                             ]
                         },
                         {
@@ -61850,7 +61850,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑯　部屋右側"
+                                "⑯ 部屋右側"
                             ]
                         },
                         {
@@ -61975,7 +61975,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑰　美雪ベドの上"
+                                "⑰ 美雪ベドの上"
                             ]
                         },
                         {
@@ -62100,7 +62100,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑱　部屋手前"
+                                "⑱ 部屋手前"
                             ]
                         },
                         {
@@ -62267,7 +62267,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　階段前"
+                                "⑩ 階段前"
                             ]
                         },
                         {
@@ -62383,7 +62383,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　キッチン扉"
+                                "⑪ キッチン扉"
                             ]
                         },
                         {
@@ -62499,7 +62499,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑫　壺前"
+                                "⑫ 壺前"
                             ]
                         },
                         {
@@ -62615,7 +62615,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑬　リビング扉"
+                                "⑬ リビング扉"
                             ]
                         },
                         {
@@ -62773,7 +62773,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑨　コンロ側"
+                                "⑨ コンロ側"
                             ]
                         },
                         {
@@ -62898,7 +62898,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　流し側"
+                                "⑩ 流し側"
                             ]
                         },
                         {
@@ -63023,7 +63023,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　レンジ側"
+                                "⑪ レンジ側"
                             ]
                         },
                         {
@@ -63190,7 +63190,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "１　こたつ右上"
+                                "１ こたつ右上"
                             ]
                         },
                         {
@@ -63315,7 +63315,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "２　こたつ左上"
+                                "２ こたつ左上"
                             ]
                         },
                         {
@@ -63440,7 +63440,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "３　こたつの上"
+                                "３ こたつの上"
                             ]
                         },
                         {
@@ -63565,7 +63565,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "④　こたつ右下"
+                                "④ こたつ右下"
                             ]
                         },
                         {
@@ -63690,7 +63690,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "５　こたつ左下"
+                                "５ こたつ左下"
                             ]
                         },
                         {
@@ -63815,7 +63815,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑥　キッチン側"
+                                "⑥ キッチン側"
                             ]
                         },
                         {
@@ -64104,7 +64104,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "44　左の布団"
+                                "44 左の布団"
                             ]
                         },
                         {
@@ -64229,7 +64229,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "45　右の布団"
+                                "45 右の布団"
                             ]
                         },
                         {
@@ -64354,7 +64354,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "46　左下"
+                                "46 左下"
                             ]
                         },
                         {
@@ -64479,7 +64479,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "47　右下"
+                                "47 右下"
                             ]
                         },
                         {
@@ -64646,7 +64646,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "43　風呂場右上"
+                                "43 風呂場右上"
                             ]
                         },
                         {
@@ -64771,7 +64771,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "49　風呂場左下"
+                                "49 風呂場左下"
                             ]
                         },
                         {
@@ -64938,7 +64938,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "40　風呂"
+                                "40 風呂"
                             ]
                         },
                         {
@@ -65063,7 +65063,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "41　入り口手前"
+                                "41 入り口手前"
                             ]
                         },
                         {
@@ -65205,7 +65205,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "トイレ　なし"
+                                "トイレ なし"
                             ]
                         },
                         {
@@ -65251,7 +65251,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "34　収納前"
+                                "34 収納前"
                             ]
                         },
                         {
@@ -65376,7 +65376,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "35　座椅子"
+                                "35 座椅子"
                             ]
                         },
                         {
@@ -65501,7 +65501,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "36　座布団あたり"
+                                "36 座布団あたり"
                             ]
                         },
                         {
@@ -65626,7 +65626,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "37　入り口前"
+                                "37 入り口前"
                             ]
                         },
                         {
@@ -65751,7 +65751,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "38　ベッドの上"
+                                "38 ベッドの上"
                             ]
                         },
                         {
@@ -65918,7 +65918,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "29　ヘッド"
+                                "29 ヘッド"
                             ]
                         },
                         {
@@ -66043,7 +66043,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "30　カーテン前"
+                                "30 カーテン前"
                             ]
                         },
                         {
@@ -66168,7 +66168,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "31　座布団あたり"
+                                "31 座布団あたり"
                             ]
                         },
                         {
@@ -66293,7 +66293,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "32　入り口前"
+                                "32 入り口前"
                             ]
                         },
                         {
@@ -66460,7 +66460,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "25　結衣部屋前"
+                                "25 結衣部屋前"
                             ]
                         },
                         {
@@ -66585,7 +66585,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "26　絵画前"
+                                "26 絵画前"
                             ]
                         },
                         {
@@ -66710,7 +66710,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "27　莉音部屋前"
+                                "27 莉音部屋前"
                             ]
                         },
                         {
@@ -66877,7 +66877,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "23　トイレ前"
+                                "23 トイレ前"
                             ]
                         },
                         {
@@ -67002,7 +67002,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "24　脱衣所前"
+                                "24 脱衣所前"
                             ]
                         },
                         {
@@ -67169,7 +67169,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑲　玄関前"
+                                "⑲ 玄関前"
                             ]
                         },
                         {
@@ -67294,7 +67294,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "20　マット上"
+                                "20 マット上"
                             ]
                         },
                         {
@@ -67419,7 +67419,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "21　廊下前"
+                                "21 廊下前"
                             ]
                         },
                         {
@@ -67544,7 +67544,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "22　中央"
+                                "22 中央"
                             ]
                         },
                         {
@@ -67711,7 +67711,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑭　ドアの前"
+                                "⑭ ドアの前"
                             ]
                         },
                         {
@@ -67836,7 +67836,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑯　部屋右側"
+                                "⑯ 部屋右側"
                             ]
                         },
                         {
@@ -67961,7 +67961,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑰　美雪ベドの上"
+                                "⑰ 美雪ベドの上"
                             ]
                         },
                         {
@@ -68128,7 +68128,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　階段前"
+                                "⑩ 階段前"
                             ]
                         },
                         {
@@ -68244,7 +68244,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　キッチン扉"
+                                "⑪ キッチン扉"
                             ]
                         },
                         {
@@ -68360,7 +68360,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑫　壺前"
+                                "⑫ 壺前"
                             ]
                         },
                         {
@@ -68476,7 +68476,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑬　リビング扉"
+                                "⑬ リビング扉"
                             ]
                         },
                         {
@@ -68634,7 +68634,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑨　コンロ側"
+                                "⑨ コンロ側"
                             ]
                         },
                         {
@@ -68759,7 +68759,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　流し側"
+                                "⑩ 流し側"
                             ]
                         },
                         {
@@ -68884,7 +68884,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　レンジ側"
+                                "⑪ レンジ側"
                             ]
                         },
                         {
@@ -69051,7 +69051,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "１　こたつ右上"
+                                "１ こたつ右上"
                             ]
                         },
                         {
@@ -69176,7 +69176,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "２　こたつ左上"
+                                "２ こたつ左上"
                             ]
                         },
                         {
@@ -69301,7 +69301,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "３　こたつの上"
+                                "３ こたつの上"
                             ]
                         },
                         {
@@ -69426,7 +69426,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "④　こたつ右下"
+                                "④ こたつ右下"
                             ]
                         },
                         {
@@ -69551,7 +69551,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "５　こたつ左下"
+                                "５ こたつ左下"
                             ]
                         },
                         {
@@ -69676,7 +69676,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑥　キッチン側"
+                                "⑥ キッチン側"
                             ]
                         },
                         {
@@ -69965,7 +69965,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "44　左の布団"
+                                "44 左の布団"
                             ]
                         },
                         {
@@ -70090,7 +70090,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "45　右の布団"
+                                "45 右の布団"
                             ]
                         },
                         {
@@ -70215,7 +70215,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "46　左下"
+                                "46 左下"
                             ]
                         },
                         {
@@ -70382,7 +70382,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "42　風呂の中"
+                                "42 風呂の中"
                             ]
                         },
                         {
@@ -70507,7 +70507,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "43　風呂場右上"
+                                "43 風呂場右上"
                             ]
                         },
                         {
@@ -70674,7 +70674,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "40　風呂"
+                                "40 風呂"
                             ]
                         },
                         {
@@ -70799,7 +70799,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "41　入り口手前"
+                                "41 入り口手前"
                             ]
                         },
                         {
@@ -70941,7 +70941,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "トイレ　なし"
+                                "トイレ なし"
                             ]
                         },
                         {
@@ -70987,7 +70987,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "34　収納前"
+                                "34 収納前"
                             ]
                         },
                         {
@@ -71112,7 +71112,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "37　入り口前"
+                                "37 入り口前"
                             ]
                         },
                         {
@@ -71279,7 +71279,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "28　タンス前"
+                                "28 タンス前"
                             ]
                         },
                         {
@@ -71404,7 +71404,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "29　ヘッド"
+                                "29 ヘッド"
                             ]
                         },
                         {
@@ -71529,7 +71529,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "30　カーテン前"
+                                "30 カーテン前"
                             ]
                         },
                         {
@@ -71696,7 +71696,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "25　結衣部屋前"
+                                "25 結衣部屋前"
                             ]
                         },
                         {
@@ -71821,7 +71821,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "26　絵画前"
+                                "26 絵画前"
                             ]
                         },
                         {
@@ -71946,7 +71946,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "27　莉音部屋前"
+                                "27 莉音部屋前"
                             ]
                         },
                         {
@@ -72113,7 +72113,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "23　トイレ前"
+                                "23 トイレ前"
                             ]
                         },
                         {
@@ -72238,7 +72238,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "24　脱衣所前"
+                                "24 脱衣所前"
                             ]
                         },
                         {
@@ -72405,7 +72405,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑲　玄関前"
+                                "⑲ 玄関前"
                             ]
                         },
                         {
@@ -72530,7 +72530,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "20　マット上"
+                                "20 マット上"
                             ]
                         },
                         {
@@ -72655,7 +72655,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "21　廊下前"
+                                "21 廊下前"
                             ]
                         },
                         {
@@ -72822,7 +72822,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑭　ドアの前"
+                                "⑭ ドアの前"
                             ]
                         },
                         {
@@ -72947,7 +72947,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑰　美雪ベドの上"
+                                "⑰ 美雪ベドの上"
                             ]
                         },
                         {
@@ -73072,7 +73072,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑱　部屋手前"
+                                "⑱ 部屋手前"
                             ]
                         },
                         {
@@ -73239,7 +73239,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　階段前"
+                                "⑩ 階段前"
                             ]
                         },
                         {
@@ -73355,7 +73355,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　キッチン扉"
+                                "⑪ キッチン扉"
                             ]
                         },
                         {
@@ -73471,7 +73471,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑫　壺前"
+                                "⑫ 壺前"
                             ]
                         },
                         {
@@ -73587,7 +73587,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑬　リビング扉"
+                                "⑬ リビング扉"
                             ]
                         },
                         {
@@ -73745,7 +73745,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑨　コンロ側"
+                                "⑨ コンロ側"
                             ]
                         },
                         {
@@ -73870,7 +73870,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　流し側"
+                                "⑩ 流し側"
                             ]
                         },
                         {
@@ -73995,7 +73995,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　レンジ側"
+                                "⑪ レンジ側"
                             ]
                         },
                         {
@@ -74162,7 +74162,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "１　こたつ右上"
+                                "１ こたつ右上"
                             ]
                         },
                         {
@@ -74287,7 +74287,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "２　こたつ左上"
+                                "２ こたつ左上"
                             ]
                         },
                         {
@@ -74412,7 +74412,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑥　キッチン側"
+                                "⑥ キッチン側"
                             ]
                         },
                         {
@@ -74701,7 +74701,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "44　左の布団"
+                                "44 左の布団"
                             ]
                         },
                         {
@@ -74826,7 +74826,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "45　右の布団"
+                                "45 右の布団"
                             ]
                         },
                         {
@@ -74951,7 +74951,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "46　左下"
+                                "46 左下"
                             ]
                         },
                         {
@@ -75076,7 +75076,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "47　右下"
+                                "47 右下"
                             ]
                         },
                         {
@@ -75243,7 +75243,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "43　風呂場右上"
+                                "43 風呂場右上"
                             ]
                         },
                         {
@@ -75368,7 +75368,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "49　風呂場左下"
+                                "49 風呂場左下"
                             ]
                         },
                         {
@@ -75535,7 +75535,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "40　風呂"
+                                "40 風呂"
                             ]
                         },
                         {
@@ -75660,7 +75660,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "41　入り口手前"
+                                "41 入り口手前"
                             ]
                         },
                         {
@@ -75802,7 +75802,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "トイレ　なし"
+                                "トイレ なし"
                             ]
                         },
                         {
@@ -75848,7 +75848,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "34　収納前"
+                                "34 収納前"
                             ]
                         },
                         {
@@ -75973,7 +75973,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "35　座椅子"
+                                "35 座椅子"
                             ]
                         },
                         {
@@ -76098,7 +76098,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "36　座布団あたり"
+                                "36 座布団あたり"
                             ]
                         },
                         {
@@ -76223,7 +76223,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "37　入り口前"
+                                "37 入り口前"
                             ]
                         },
                         {
@@ -76348,7 +76348,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "38　ベッドの上"
+                                "38 ベッドの上"
                             ]
                         },
                         {
@@ -76515,7 +76515,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "29　ヘッド"
+                                "29 ヘッド"
                             ]
                         },
                         {
@@ -76640,7 +76640,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "30　カーテン前"
+                                "30 カーテン前"
                             ]
                         },
                         {
@@ -76765,7 +76765,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "31　座布団あたり"
+                                "31 座布団あたり"
                             ]
                         },
                         {
@@ -76890,7 +76890,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "32　入り口前"
+                                "32 入り口前"
                             ]
                         },
                         {
@@ -77057,7 +77057,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "25　結衣部屋前"
+                                "25 結衣部屋前"
                             ]
                         },
                         {
@@ -77182,7 +77182,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "26　絵画前"
+                                "26 絵画前"
                             ]
                         },
                         {
@@ -77307,7 +77307,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "27　莉音部屋前"
+                                "27 莉音部屋前"
                             ]
                         },
                         {
@@ -77474,7 +77474,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "23　トイレ前"
+                                "23 トイレ前"
                             ]
                         },
                         {
@@ -77599,7 +77599,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "24　脱衣所前"
+                                "24 脱衣所前"
                             ]
                         },
                         {
@@ -77766,7 +77766,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑲　玄関前"
+                                "⑲ 玄関前"
                             ]
                         },
                         {
@@ -77891,7 +77891,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "20　マット上"
+                                "20 マット上"
                             ]
                         },
                         {
@@ -78016,7 +78016,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "21　廊下前"
+                                "21 廊下前"
                             ]
                         },
                         {
@@ -78141,7 +78141,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "22　中央"
+                                "22 中央"
                             ]
                         },
                         {
@@ -78308,7 +78308,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑭　ドアの前"
+                                "⑭ ドアの前"
                             ]
                         },
                         {
@@ -78433,7 +78433,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑯　部屋右側"
+                                "⑯ 部屋右側"
                             ]
                         },
                         {
@@ -78558,7 +78558,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑰　美雪ベドの上"
+                                "⑰ 美雪ベドの上"
                             ]
                         },
                         {
@@ -78725,7 +78725,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　キッチン扉"
+                                "⑪ キッチン扉"
                             ]
                         },
                         {
@@ -78841,7 +78841,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑫　壺前"
+                                "⑫ 壺前"
                             ]
                         },
                         {
@@ -78957,7 +78957,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑬　リビング扉"
+                                "⑬ リビング扉"
                             ]
                         },
                         {
@@ -79115,7 +79115,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑨　コンロ側"
+                                "⑨ コンロ側"
                             ]
                         },
                         {
@@ -79240,7 +79240,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　流し側"
+                                "⑩ 流し側"
                             ]
                         },
                         {
@@ -79365,7 +79365,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　レンジ側"
+                                "⑪ レンジ側"
                             ]
                         },
                         {
@@ -79532,7 +79532,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "１　こたつ右上"
+                                "１ こたつ右上"
                             ]
                         },
                         {
@@ -79657,7 +79657,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "２　こたつ左上"
+                                "２ こたつ左上"
                             ]
                         },
                         {
@@ -79782,7 +79782,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "３　こたつの上"
+                                "３ こたつの上"
                             ]
                         },
                         {
@@ -79907,7 +79907,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "④　こたつ右下"
+                                "④ こたつ右下"
                             ]
                         },
                         {
@@ -80032,7 +80032,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "５　こたつ左下"
+                                "５ こたつ左下"
                             ]
                         },
                         {
@@ -80157,7 +80157,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑥　キッチン側"
+                                "⑥ キッチン側"
                             ]
                         },
                         {
@@ -80446,7 +80446,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "48　右下"
+                                "48 右下"
                             ]
                         },
                         {
@@ -80613,7 +80613,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "42　風呂の中"
+                                "42 風呂の中"
                             ]
                         },
                         {
@@ -80738,7 +80738,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "43　風呂場右上"
+                                "43 風呂場右上"
                             ]
                         },
                         {
@@ -80863,7 +80863,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "49　風呂場左下"
+                                "49 風呂場左下"
                             ]
                         },
                         {
@@ -81030,7 +81030,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "41　入り口手前"
+                                "41 入り口手前"
                             ]
                         },
                         {
@@ -81172,7 +81172,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "トイレ　なし"
+                                "トイレ なし"
                             ]
                         },
                         {
@@ -81218,7 +81218,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "35　座椅子"
+                                "35 座椅子"
                             ]
                         },
                         {
@@ -81343,7 +81343,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "36　座布団あたり"
+                                "36 座布団あたり"
                             ]
                         },
                         {
@@ -81510,7 +81510,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "31　座布団あたり"
+                                "31 座布団あたり"
                             ]
                         },
                         {
@@ -81635,7 +81635,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "33　机前"
+                                "33 机前"
                             ]
                         },
                         {
@@ -81802,7 +81802,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "25　結衣部屋前"
+                                "25 結衣部屋前"
                             ]
                         },
                         {
@@ -81927,7 +81927,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "26　絵画前"
+                                "26 絵画前"
                             ]
                         },
                         {
@@ -82052,7 +82052,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "27　莉音部屋前"
+                                "27 莉音部屋前"
                             ]
                         },
                         {
@@ -82194,7 +82194,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "浴室側廊下　　　なし"
+                                "浴室側廊下   なし"
                             ]
                         },
                         {
@@ -82240,7 +82240,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑭　ドアの前"
+                                "⑭ ドアの前"
                             ]
                         },
                         {
@@ -82365,7 +82365,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑮　ベッドの間"
+                                "⑮ ベッドの間"
                             ]
                         },
                         {
@@ -82490,7 +82490,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑯　部屋右側"
+                                "⑯ 部屋右側"
                             ]
                         },
                         {
@@ -82615,7 +82615,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑱　部屋手前"
+                                "⑱ 部屋手前"
                             ]
                         },
                         {
@@ -82782,7 +82782,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　階段前"
+                                "⑩ 階段前"
                             ]
                         },
                         {
@@ -82940,7 +82940,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑨　コンロ側"
+                                "⑨ コンロ側"
                             ]
                         },
                         {
@@ -83065,7 +83065,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　流し側"
+                                "⑩ 流し側"
                             ]
                         },
                         {
@@ -83190,7 +83190,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　レンジ側"
+                                "⑪ レンジ側"
                             ]
                         },
                         {
@@ -83357,7 +83357,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "①　レンジ側"
+                                "① レンジ側"
                             ]
                         },
                         {
@@ -83482,7 +83482,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "②　流し側"
+                                "② 流し側"
                             ]
                         },
                         {
@@ -83607,7 +83607,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "③　コンロ側"
+                                "③ コンロ側"
                             ]
                         },
                         {
@@ -83774,7 +83774,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "２　こたつ左上"
+                                "２ こたつ左上"
                             ]
                         },
                         {
@@ -83899,7 +83899,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "④　こたつ右下"
+                                "④ こたつ右下"
                             ]
                         },
                         {
@@ -84024,7 +84024,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "５　こたつ左下"
+                                "５ こたつ左下"
                             ]
                         },
                         {
@@ -84313,7 +84313,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "44　左の布団"
+                                "44 左の布団"
                             ]
                         },
                         {
@@ -84438,7 +84438,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "45　右の布団"
+                                "45 右の布団"
                             ]
                         },
                         {
@@ -84563,7 +84563,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "46　左下"
+                                "46 左下"
                             ]
                         },
                         {
@@ -84688,7 +84688,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "47　右下"
+                                "47 右下"
                             ]
                         },
                         {
@@ -84855,7 +84855,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "43　風呂場右上"
+                                "43 風呂場右上"
                             ]
                         },
                         {
@@ -84980,7 +84980,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "49　風呂場左下"
+                                "49 風呂場左下"
                             ]
                         },
                         {
@@ -85147,7 +85147,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "40　風呂"
+                                "40 風呂"
                             ]
                         },
                         {
@@ -85272,7 +85272,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "41　入り口手前"
+                                "41 入り口手前"
                             ]
                         },
                         {
@@ -85414,7 +85414,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "トイレ　なし"
+                                "トイレ なし"
                             ]
                         },
                         {
@@ -85460,7 +85460,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "34　収納前"
+                                "34 収納前"
                             ]
                         },
                         {
@@ -85585,7 +85585,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "35　座椅子"
+                                "35 座椅子"
                             ]
                         },
                         {
@@ -85710,7 +85710,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "36　座布団あたり"
+                                "36 座布団あたり"
                             ]
                         },
                         {
@@ -85835,7 +85835,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "37　入り口前"
+                                "37 入り口前"
                             ]
                         },
                         {
@@ -85960,7 +85960,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "38　ベッドの上"
+                                "38 ベッドの上"
                             ]
                         },
                         {
@@ -86127,7 +86127,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "29　ヘッド"
+                                "29 ヘッド"
                             ]
                         },
                         {
@@ -86252,7 +86252,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "30　カーテン前"
+                                "30 カーテン前"
                             ]
                         },
                         {
@@ -86377,7 +86377,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "31　座布団あたり"
+                                "31 座布団あたり"
                             ]
                         },
                         {
@@ -86502,7 +86502,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "32　入り口前"
+                                "32 入り口前"
                             ]
                         },
                         {
@@ -86669,7 +86669,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "23　トイレ前"
+                                "23 トイレ前"
                             ]
                         },
                         {
@@ -86794,7 +86794,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "24　脱衣所前"
+                                "24 脱衣所前"
                             ]
                         },
                         {
@@ -86961,7 +86961,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑲　玄関前"
+                                "⑲ 玄関前"
                             ]
                         },
                         {
@@ -87086,7 +87086,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "20　マット上"
+                                "20 マット上"
                             ]
                         },
                         {
@@ -87211,7 +87211,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "21　廊下前"
+                                "21 廊下前"
                             ]
                         },
                         {
@@ -87336,7 +87336,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "22　中央"
+                                "22 中央"
                             ]
                         },
                         {
@@ -87503,7 +87503,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑭　ドアの前"
+                                "⑭ ドアの前"
                             ]
                         },
                         {
@@ -87628,7 +87628,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑮　ドアの前"
+                                "⑮ ドアの前"
                             ]
                         },
                         {
@@ -87753,7 +87753,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑯　部屋右側"
+                                "⑯ 部屋右側"
                             ]
                         },
                         {
@@ -87878,7 +87878,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑰　美雪ベドの上"
+                                "⑰ 美雪ベドの上"
                             ]
                         },
                         {
@@ -88003,7 +88003,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑱　部屋手前"
+                                "⑱ 部屋手前"
                             ]
                         },
                         {
@@ -88170,7 +88170,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　階段前"
+                                "⑩ 階段前"
                             ]
                         },
                         {
@@ -88286,7 +88286,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　キッチン扉"
+                                "⑪ キッチン扉"
                             ]
                         },
                         {
@@ -88402,7 +88402,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑫　壺前"
+                                "⑫ 壺前"
                             ]
                         },
                         {
@@ -88518,7 +88518,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑬　リビング扉"
+                                "⑬ リビング扉"
                             ]
                         },
                         {
@@ -88676,7 +88676,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑨　コンロ側"
+                                "⑨ コンロ側"
                             ]
                         },
                         {
@@ -88801,7 +88801,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑩　流し側"
+                                "⑩ 流し側"
                             ]
                         },
                         {
@@ -88926,7 +88926,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑪　レンジ側"
+                                "⑪ レンジ側"
                             ]
                         },
                         {
@@ -89093,7 +89093,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "１　こたつ右上"
+                                "１ こたつ右上"
                             ]
                         },
                         {
@@ -89218,7 +89218,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "２　こたつ左上"
+                                "２ こたつ左上"
                             ]
                         },
                         {
@@ -89343,7 +89343,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "３　こたつの上"
+                                "３ こたつの上"
                             ]
                         },
                         {
@@ -89468,7 +89468,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "④　こたつ右下"
+                                "④ こたつ右下"
                             ]
                         },
                         {
@@ -89593,7 +89593,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "５　こたつ左下"
+                                "５ こたつ左下"
                             ]
                         },
                         {
@@ -89718,7 +89718,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "⑥　キッチン側"
+                                "⑥ キッチン側"
                             ]
                         },
                         {
