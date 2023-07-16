@@ -1334,7 +1334,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "ShowInfo ◆？？？ \\c[14]<+1>"
+                                "ShowInfo ◆？？？　\\c[14]<+1>"
                             ]
                         },
                         {
@@ -2488,35 +2488,35 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT  Raise the bar to the maximum 14"
+                                "D_TEXT  Raise　the　bar　to　the　maximum 14"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT  Let's do a lot of pull-ups! 14"
+                                "D_TEXT  Let's　do　a　lot　of　pull-ups! 14"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT  The more pull-ups you do 14"
+                                "D_TEXT  The　more　pull-ups　you　do 14"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT  You can earn a lot of experience points! 14"
+                                "D_TEXT  You　can　earn　a　lot　of　experience　points! 14"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT  \\c[14]Right-click: Exit 14"
+                                "D_TEXT  \\c[14]Right-click:　Exit 14"
                             ]
                         },
                         {
@@ -3829,7 +3829,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]30 minutes have passed\\c[0]!"
+                                "ShowInfo \\I[167]\\c[14]30　minutes　have　passed\\c[0]!"
                             ]
                         },
                         {
@@ -5345,7 +5345,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[1]I'm running out of energy"
+                                "ShowInfo \\I[1]I'm　running　out　of　energy"
                             ]
                         },
                         {

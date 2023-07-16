@@ -1146,7 +1146,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Variable 47: \\V[47] 20"
+                                "D_TEXT Variable　47:　\\V[47] 20"
                             ]
                         },
                         {
@@ -1160,21 +1160,21 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Score: \\V[1820] 20"
+                                "D_TEXT Score:　\\V[1820] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Displayed number: \\V[1813] 20"
+                                "D_TEXT Displayed　number:　\\V[1813] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Maximum display count: \\V[1814] 20"
+                                "D_TEXT Maximum　display　count:　\\V[1814] 20"
                             ]
                         },
                         {
@@ -1188,28 +1188,28 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT At-bats: \\V[1822] 20"
+                                "D_TEXT At-bats:　\\V[1822] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT In the middle: \\V[1821] 20"
+                                "D_TEXT In　the　middle:　\\V[1821] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Combo: \\V[1825] 20"
+                                "D_TEXT Combo:　\\V[1825] 20"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Maximum combo count: \\V[1826] 20"
+                                "D_TEXT Maximum　combo　count:　\\V[1826] 20"
                             ]
                         },
                         {
@@ -2244,7 +2244,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -4248,7 +4248,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -5008,7 +5008,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "的が閉じるアニメーション 金"
+                                "的が閉じるアニメーション　金"
                             ]
                         },
                         {
@@ -6245,7 +6245,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -8242,7 +8242,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -10401,7 +10401,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "ShowInfo ◆？？？ \\c[14]<+1>"
+                                "ShowInfo ◆？？？　\\c[14]<+1>"
                             ]
                         },
                         {
@@ -11125,7 +11125,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "40 景品表示"
+                                "40　景品表示"
                             ]
                         },
                         {
@@ -11455,7 +11455,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT HITNumber: 0 25"
+                                "D_TEXT HITNumber:　0 25"
                             ]
                         },
                         {
@@ -11485,7 +11485,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Score: 0 25"
+                                "D_TEXT Score:　0 25"
                             ]
                         },
                         {
@@ -12148,7 +12148,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -14432,7 +14432,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【RESULT】\\< \\> HIT ： \\C[14]\\V[1821]\\C[0]\\< \\>MISS ：\n\\C[14]\\V[1823]\\C[0]\\<"
+                                "\\>【RESULT】\\< \\> HIT ： \\C[14]\\V[1821]\\C[0]\\<　\\>MISS ：\n\\C[14]\\V[1823]\\C[0]\\<"
                             ]
                         },
                         {
@@ -14505,7 +14505,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【RESULT】\\< \\>\\c[14] PERFECT BONUS!! +100000pt\\<"
+                                "\\>【RESULT】\\< \\>\\c[14] PERFECT BONUS!!　+100000pt\\<"
                             ]
                         },
                         {
@@ -14780,7 +14780,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                " 背景"
+                                "　背景"
                             ]
                         },
                         {
@@ -14794,7 +14794,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                " 的"
+                                "　的"
                             ]
                         },
                         {
@@ -14871,7 +14871,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                " 照準"
+                                "　照準"
                             ]
                         },
                         {
@@ -15470,7 +15470,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -17467,7 +17467,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -19464,7 +19464,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -21461,7 +21461,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -23458,7 +23458,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -25737,7 +25737,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -25993,7 +25993,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -26216,7 +26216,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -26428,7 +26428,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -26946,7 +26946,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -27215,7 +27215,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -28479,7 +28479,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -28695,7 +28695,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -28983,7 +28983,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -29494,7 +29494,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -29633,7 +29633,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "的が閉じるアニメーション 金"
+                                "的が閉じるアニメーション　金"
                             ]
                         },
                         {
@@ -29770,7 +29770,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -31034,7 +31034,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -31250,7 +31250,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -31538,7 +31538,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -32049,7 +32049,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -32325,7 +32325,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -33589,7 +33589,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -33805,7 +33805,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -34093,7 +34093,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -34604,7 +34604,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -34880,7 +34880,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -36137,7 +36137,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -36353,7 +36353,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -36641,7 +36641,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -37152,7 +37152,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -37428,7 +37428,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -38992,7 +38992,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "加算アニメを表示 ピクチャ31 32 33を使用する"
+                                "加算アニメを表示　ピクチャ31 32 33を使用する"
                             ]
                         },
                         {
@@ -39516,7 +39516,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "加算アニメを表示 ピクチャ31 32 33を使用する"
+                                "加算アニメを表示　ピクチャ31 32 33を使用する"
                             ]
                         },
                         {
@@ -40040,7 +40040,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "加算アニメを表示 ピクチャ31 32 33を使用する"
+                                "加算アニメを表示　ピクチャ31 32 33を使用する"
                             ]
                         },
                         {
@@ -40593,7 +40593,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT HITNumber: \\V[1821] 25"
+                                "D_TEXT HITNumber:　\\V[1821] 25"
                             ]
                         },
                         {
@@ -40623,7 +40623,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Score: \\V[1820] 25"
+                                "D_TEXT Score:　\\V[1820] 25"
                             ]
                         },
                         {
@@ -40766,7 +40766,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -40982,7 +40982,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -41270,7 +41270,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -41788,7 +41788,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -42071,7 +42071,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -43342,7 +43342,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -43558,7 +43558,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -43777,7 +43777,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -44295,7 +44295,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -44578,7 +44578,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -45849,7 +45849,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -46065,7 +46065,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -46360,7 +46360,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -46878,7 +46878,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -47161,7 +47161,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -48432,7 +48432,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -48648,7 +48648,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -48943,7 +48943,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -49461,7 +49461,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -49744,7 +49744,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -51015,7 +51015,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "クリック TouchInput.isTriggered();"
+                                "クリック　TouchInput.isTriggered();"
                             ]
                         },
                         {
@@ -51231,7 +51231,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -51526,7 +51526,7 @@
                             "code": 108,
                             "indent": 7,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -52044,7 +52044,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -52327,7 +52327,7 @@
                             "code": 108,
                             "indent": 8,
                             "parameters": [
-                                "取得点数を計算 コンボ数を乗算する"
+                                "取得点数を計算　コンボ数を乗算する"
                             ]
                         },
                         {
@@ -66968,7 +66968,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "加算アニメを表示 ピクチャ31 32 33を使用する"
+                                "加算アニメを表示　ピクチャ31 32 33を使用する"
                             ]
                         },
                         {
@@ -66993,7 +66993,7 @@
                             "code": 108,
                             "indent": 2,
                             "parameters": [
-                                "加算アニメを表示 ピクチャ31が使われていない場合"
+                                "加算アニメを表示　ピクチャ31が使われていない場合"
                             ]
                         },
                         {
@@ -67709,7 +67709,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "加算アニメを表示 ピクチャ31 32 33を使用する"
+                                "加算アニメを表示　ピクチャ31 32 33を使用する"
                             ]
                         },
                         {
@@ -67734,7 +67734,7 @@
                             "code": 108,
                             "indent": 2,
                             "parameters": [
-                                "加算アニメを表示 ピクチャ31が使われていない場合"
+                                "加算アニメを表示　ピクチャ31が使われていない場合"
                             ]
                         },
                         {
@@ -68492,7 +68492,7 @@
                             "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "加算アニメを表示 ピクチャ31 32 33を使用する"
+                                "加算アニメを表示　ピクチャ31 32 33を使用する"
                             ]
                         },
                         {
@@ -68517,7 +68517,7 @@
                             "code": 108,
                             "indent": 2,
                             "parameters": [
-                                "加算アニメを表示 ピクチャ31が使われていない場合"
+                                "加算アニメを表示　ピクチャ31が使われていない場合"
                             ]
                         },
                         {

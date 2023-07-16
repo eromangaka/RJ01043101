@@ -45,13 +45,13 @@
  *   {3}：発射角度
  * 
  * 実際の発射方向と角度の関係性は下記の通りとなっています。
- *   0： 上
+ *   0：　上
  *  45：右上
- *  90： 右
+ *  90：　右
  * 135：右下
- * 180： 下
+ * 180：　下
  * 225：左下
- * 270： 左
+ * 270：　左
  * 315：左上
  * 
  * 
@@ -127,7 +127,7 @@
  *   fileNameにA、collisionTargetsにBを設定した場合は、
  *   別途fileNameにB、collisionTargetsにAなどと設定する必要はありません。
  *   そのようにした場合、AとBの当たり判定は二重に行われてしまいます。
- *   
+ * 　　
  * 2.めりこみ量算出処理について
  *   めりこみ量の算出は、移動方向によって取得内容が異なります。
  *   X軸のめりこみ量は、左右に移動している時に当たった場合に取得できます。
@@ -499,7 +499,7 @@
 	};
 
 	// --------------------------------------------------
-	// プラグインコマンド追加    
+	// プラグインコマンド追加　　　　
 	// --------------------------------------------------
 	var _Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
 	Game_Interpreter.prototype.pluginCommand = function (command, args) {
@@ -732,11 +732,11 @@
 	//
 	// 引数
 	// ・value：
-	//   基準値
+	// 　　基準値
 	// ・min：
-	//   乱数最小値
+	// 　　乱数最小値
 	// ・max：
-	//   乱数最大値
+	// 　　乱数最大値
 	//-----------------------------------------------------------------------------
 	RandomRange.prototype.initialize = function (value, min, max) {
 		if (!isFinite(value)) {
@@ -776,13 +776,13 @@
 	//
 	// 引数
 	// ・isFixation：
-	//   補正無効フラグ（true：補正無効 false：補正有効）
+	// 　　補正無効フラグ（true：補正無効 false：補正有効）
 	// ・rrX：
-	//   乱数補正X座標（RandomRangeクラスで管理されていることを前提とします。）
+	// 　　乱数補正X座標（RandomRangeクラスで管理されていることを前提とします。）
 	// ・rrY：
-	//   乱数補正Y座標（RandomRangeクラスで管理されていることを前提とします。）
+	// 　　乱数補正Y座標（RandomRangeクラスで管理されていることを前提とします。）
 	// ・radius：
-	//   発射角度に対する座標までの半径
+	// 　　発射角度に対する座標までの半径
 	//-----------------------------------------------------------------------------
 	Point_Corrected.prototype.initialize = function (isFixation, rrX, rrY, radius) {
 		this._isFixation = isFixation;
@@ -803,8 +803,8 @@
 	// isFixationがtrueの場合は補正値を考慮しません。
 	//
 	// 引数
-	//  ・correct：
-	//   発射座標 補正値
+	// 　・correct：
+	// 　　発射座標 補正値
 	//-----------------------------------------------------------------------------
 	Point_Corrected.prototype.x = function (correct) {
 		var result = this._rrX.get();
@@ -819,8 +819,8 @@
 	// isFixationがtrueの場合は補正値を考慮しません。
 	//
 	// 引数
-	//  ・correct：
-	//   発射座標 補正値
+	// 　・correct：
+	// 　　発射座標 補正値
 	//-----------------------------------------------------------------------------
 	Point_Corrected.prototype.y = function (correct) {
 		var result = this._rrY.get();
@@ -836,12 +836,12 @@
 	// { x, y }
 	//
 	// 引数
-	//  ・x：
-	//   発射X座標
-	//  ・y：
-	//   発射Y座標
-	//  ・degree：
-	//   発射角度
+	// 　・x：
+	// 　　発射X座標
+	// 　・y：
+	// 　　発射Y座標
+	// 　・degree：
+	// 　　発射角度
 	//-----------------------------------------------------------------------------
 	Point_Corrected.prototype.rotatedPoint = function (x, y, degree) {
 		var r = this._radius;
@@ -868,10 +868,10 @@
 	// 指定された乱数範囲でDegree_Correctedインスタンスを初期化します。
 	//
 	// 引数
-	//  ・isFixation：
-	//   補正無効フラグ（true：補正無効 false：補正有効）
-	//  ・rrD：
-	//   乱数補正角度
+	// 　・isFixation：
+	// 　　補正無効フラグ（true：補正無効 false：補正有効）
+	// 　・rrD：
+	// 　　乱数補正角度
 	//-----------------------------------------------------------------------------
 	Degree_Corrected.prototype.initialize = function (isFixation, rrD) {
 		this._isFixation = isFixation;
@@ -890,8 +890,8 @@
 	// isFixationがtrueの場合は補正値を考慮しません。
 	//
 	// 引数
-	//  ・correct：
-	//   発射角度 補正値
+	// 　・correct：
+	// 　　発射角度 補正値
 	//-----------------------------------------------------------------------------
 	Degree_Corrected.prototype.get = function (correct) {
 		var result = this._rrD.get();
@@ -932,13 +932,13 @@
 	//
 	// 引数
 	// ・bulletId：
-	//   弾ID
+	// 　　弾ID
 	// ・frame：
-	//   発射までのフレーム数
+	// 　　発射までのフレーム数
 	// ・point：
-	//   発射座標（Point_Correctedクラスで管理されていることを前提とします。）
+	// 　　発射座標（Point_Correctedクラスで管理されていることを前提とします。）
 	// ・degree：
-	//   発射座標（Degree_Correctedクラスで管理されていることを前提とします。）
+	// 　　発射座標（Degree_Correctedクラスで管理されていることを前提とします。）
 	//-----------------------------------------------------------------------------
 	SubShoot.prototype.initialize = function (bulletId, frame, point, degree) {
 		this.bulletId = bulletId;
@@ -951,8 +951,8 @@
 	// サブ弾発射X座標を取得します。
 	//
 	// 引数
-	//  ・correct：
-	//   発射座標 補正値
+	// 　・correct：
+	// 　　発射座標 補正値
 	//-----------------------------------------------------------------------------
 	SubShoot.prototype.x = function (correct) {
 		return this._point.x.get(correct);
@@ -962,8 +962,8 @@
 	// サブ弾発射Y座標を取得します。
 	//
 	// 引数
-	//  ・correct：
-	//   発射座標 補正値
+	// 　・correct：
+	// 　　発射座標 補正値
 	//-----------------------------------------------------------------------------
 	SubShoot.prototype.y = function (correct) {
 		return this._point.y.get(correct);
@@ -973,8 +973,8 @@
 	// サブ弾発射角度を取得します。
 	//
 	// 引数
-	//  ・correct：
-	//   発射角度 補正値
+	// 　・correct：
+	// 　　発射角度 補正値
 	//-----------------------------------------------------------------------------
 	SubShoot.prototype.degree = function (correct) {
 		return this._degree.get(correct);
@@ -984,14 +984,14 @@
 	// サブ弾の発射判定を行い、可能ならば発射を行います。
 	//
 	// 引数
-	//  ・frame：
-	//   親の現在フレーム数
-	//  ・x：
-	//   親のX座標
-	//  ・y：
-	//   親のY座標
-	//  ・degree：
-	//   親の角度
+	// 　・frame：
+	// 　　親の現在フレーム数
+	// 　・x：
+	// 　　親のX座標
+	// 　・y：
+	// 　　親のY座標
+	// 　・degree：
+	// 　　親の角度
 	//-----------------------------------------------------------------------------
 	SubShoot.prototype.shoot = function (frame, x, y, degree) {
 		if (frame != this.frame) {
@@ -1018,14 +1018,14 @@
 	// 指定された加速度データでAccelerationインスタンスを初期化します。
 	//
 	// 引数
-	//  ・value：
-	//   加速度
-	//  ・degree：
-	//   発射角度（Degree_Correctedクラスで管理されていることを前提とします。）
-	//  ・startFrame：
-	//   加速開始フレーム数
-	//  ・endFrame：
-	//   加速終了フレーム数
+	// 　・value：
+	// 　　加速度
+	// 　・degree：
+	// 　　発射角度（Degree_Correctedクラスで管理されていることを前提とします。）
+	// 　・startFrame：
+	// 　　加速開始フレーム数
+	// 　・endFrame：
+	// 　　加速終了フレーム数
 	//-----------------------------------------------------------------------------
 	Acceleration.prototype.initialize = function (value, degree, startFrame, endFrame) {
 		this.value = value;
@@ -1038,8 +1038,8 @@
 	// 指定した角度にをもとに、X方向に対する加速値を取得します。
 	//
 	// 引数
-	//  ・correct：
-	//   発射角度 補正値
+	// 　・correct：
+	// 　　発射角度 補正値
 	//-----------------------------------------------------------------------------
 	Acceleration.prototype.increaseX = function (correct) {
 		var xDegree = this.degree.get(correct);
@@ -1050,8 +1050,8 @@
 	// 指定した角度にをもとに、Y方向に対する加速値を取得します。
 	//
 	// 引数
-	//  ・correct：
-	//   発射角度 補正値
+	// 　・correct：
+	// 　　発射角度 補正値
 	//-----------------------------------------------------------------------------
 	Acceleration.prototype.increaseY = function (correct) {
 		var yDegree = this.degree.get(correct) - 90;
@@ -1062,8 +1062,8 @@
 	// 指定されたフレーム時点で現在の加速度情報が有効か否かを判定します。
 	//
 	// 引数
-	//  ・frame：
-	//   現在のフレーム数
+	// 　・frame：
+	// 　　現在のフレーム数
 	//-----------------------------------------------------------------------------
 	Acceleration.prototype.isEnable = function (frame) {
 		return (this.startFrame <= frame) && (frame <= this.endFrame);
@@ -1131,13 +1131,13 @@
 	//
 	// 引数
 	// ・name：
-	//   音声ファイル名
+	// 　　音声ファイル名
 	// ・volume：
-	//   音量
+	// 　　音量
 	// ・pitch：
-	//   ピッチ
+	// 　　ピッチ
 	// ・pan：
-	//   位相
+	// 　　位相
 	//-----------------------------------------------------------------------------
 	AudioFile.prototype.initialize = function (name, volume, pitch, pan) {
 		this.name = name;
@@ -1162,13 +1162,13 @@
 	//
 	// 引数
 	// ・isEnable：
-	//   アニメーションフラグ
+	// 　　アニメーションフラグ
 	// ・frameRate：
-	//   フレームレート
+	// 　　フレームレート
 	// ・frameWidth：
-	//   弾画像スプライトシートの1フレームの横幅
+	// 　　弾画像スプライトシートの1フレームの横幅
 	// ・frameHeight：
-	//   弾画像スプライトシートの1フレームの縦幅
+	// 　　弾画像スプライトシートの1フレームの縦幅
 	//-----------------------------------------------------------------------------
 	Animation.prototype.initialize = function (isEnable, frameRate, frameWidth, frameHeight) {
 		this.isEnable = isEnable;
@@ -1194,14 +1194,14 @@
 	// 指定された弾情報でSprite_Bulletインスタンスを初期化します。
 	//
 	// 引数
-	//  ・bulletId：
-	//   弾ID
-	//  ・x：
-	//   発射座標X
-	//  ・y：
-	//   発射座標Y
-	//  ・degree：
-	//   発射角度
+	// 　・bulletId：
+	// 　　弾ID
+	// 　・x：
+	// 　　発射座標X
+	// 　・y：
+	// 　　発射座標Y
+	// 　・degree：
+	// 　　発射角度
 	//-----------------------------------------------------------------------------
 	Sprite_Bullet.prototype.initialize = function (bulletId, x, y, degree) {
 		Sprite.prototype.initialize.call(this);
@@ -1329,7 +1329,7 @@
 	// 弾スプライトの加速度を更新します。
 	//-----------------------------------------------------------------------------
 	Sprite_Bullet.prototype.updateAcceleration = function () {
-		// 初期化状態または終了状態のときも処理しない
+		//　初期化状態または終了状態のときも処理しない
 		if (!this.isInitialized() || this.isEnd()) {
 			return;
 		}
@@ -1361,7 +1361,7 @@
 		if (!this._bullet.isAnimation) {
 			return;
 		}
-		// 初期化状態または終了状態のときも処理しない
+		//　初期化状態または終了状態のときも処理しない
 		if (this._doneFrame >= this._bullet.aliveTime) {
 			return;
 		}
@@ -1405,7 +1405,7 @@
 	// 弾スプライトからの弾発射情報を更新します。
 	//-----------------------------------------------------------------------------
 	Sprite_Bullet.prototype.updateSubShoot = function () {
-		// 初期化状態または終了状態のときも処理しない
+		//　初期化状態または終了状態のときも処理しない
 		if (!this.isInitialized() || this.isEnd()) {
 			return;
 		}
@@ -1717,36 +1717,36 @@
 	// Sprite_Bulletから参照されることを想定してツクられています。
 	//
 	// 引数
-	//  ・bulletId：
-	//   弾ID
-	//  ・fileName：
-	//   弾画像ファイル名
-	//  ・aliveTime：
-	//   弾の有効時間
-	//  ・speed：
-	//   速度
-	//  ・enlargeSpeed：
-	//   拡大速度
-	//  ・rotationSpeed：
-	//   回転速度
-	//  ・subShootList：
-	//   サブ発射情報一覧
-	//  ・point：
-	//   発射座標（Point_Correctedクラスで管理されていることを前提とします。）
-	//  ・degree：
-	//   発射角度（Degree_Correctedクラスで管理されていることを前提とします。）
-	//  ・sound：
-	//   発射音声（AudioFileクラスで管理されていることを前提とします。）
-	//  ・isLowerPicture：
-	//   ピクチャの下側に弾を表示するか否かのフラグ
-	//  ・isAnimation：
-	//   アニメーションするか否かのフラグ
-	//  ・animationFrameRate：
-	//   アニメーションする際のフレームレート
-	//  ・isLinear：
-	//   線状フラグ
-	//  ・isLay：
-	//   レーザーフラグ
+	// 　・bulletId：
+	// 　　弾ID
+	// 　・fileName：
+	// 　　弾画像ファイル名
+	// 　・aliveTime：
+	// 　　弾の有効時間
+	// 　・speed：
+	// 　　速度
+	// 　・enlargeSpeed：
+	// 　　拡大速度
+	// 　・rotationSpeed：
+	// 　　回転速度
+	// 　・subShootList：
+	// 　　サブ発射情報一覧
+	// 　・point：
+	// 　　発射座標（Point_Correctedクラスで管理されていることを前提とします。）
+	// 　・degree：
+	// 　　発射角度（Degree_Correctedクラスで管理されていることを前提とします。）
+	// 　・sound：
+	// 　　発射音声（AudioFileクラスで管理されていることを前提とします。）
+	// 　・isLowerPicture：
+	// 　　ピクチャの下側に弾を表示するか否かのフラグ
+	// 　・isAnimation：
+	// 　　アニメーションするか否かのフラグ
+	// 　・animationFrameRate：
+	// 　　アニメーションする際のフレームレート
+	// 　・isLinear：
+	// 　　線状フラグ
+	// 　・isLay：
+	// 　　レーザーフラグ
 	//-----------------------------------------------------------------------------
 	function Data_Bullet(bulletId, fileName, aliveTime, speed, enlargeSpeed, rotationSpeed, subShootList, point, degree, sound, isLowerPicture, animation, isLinear, isLay) {
 		this.bulletId = bulletId;
@@ -1893,8 +1893,8 @@
 	// point.isFixationがtrueの場合は補正値を考慮しません。
 	//
 	// 引数
-	//  ・correct：
-	//   発射座標 補正値
+	// 　・correct：
+	// 　　発射座標 補正値
 	//-----------------------------------------------------------------------------
 	Data_Bullet.prototype.x = function (correct) {
 		return this.point.x(correct);
@@ -1905,8 +1905,8 @@
 	// point.isFixationがtrueの場合は補正値を考慮しません。
 	//
 	// 引数
-	//  ・correct：
-	//   発射座標 補正値
+	// 　・correct：
+	// 　　発射座標 補正値
 	//-----------------------------------------------------------------------------
 	Data_Bullet.prototype.y = function (correct) {
 		return this.point.y(correct);
@@ -1961,8 +1961,8 @@
 	// 指定した弾画像ファイル名に対応する弾画像ビットマップデータを取得します。
 	//
 	// 引数
-	//  ・fileName：
-	//   弾画像ファイル名
+	// 　・fileName：
+	// 　　弾画像ファイル名
 	//-----------------------------------------------------------------------------
 	ImageManager.getBulletImage = function (fileName) {
 		var cache = this.bulletCache();
@@ -1972,8 +1972,8 @@
 	// 指定した弾画像ファイル名をキーとして、ピクチャとして読み込んだ弾ビットマップデータをキャッシュに設定します。
 	//
 	// 引数
-	//  ・fileName：
-	//   弾画像ファイル名
+	// 　・fileName：
+	// 　　弾画像ファイル名
 	//-----------------------------------------------------------------------------
 	ImageManager.setBulletImageByPicture = function (fileName) {
 		this.setBulletImageByBitmap(fileName, ImageManager.loadPicture(fileName));
@@ -1982,10 +1982,10 @@
 	// 指定した弾画像ファイル名をキーとして、指定した弾ビットマップデータをキャッシュに設定します。
 	//
 	// 引数
-	//  ・fileName：
-	//   弾画像ファイル名
-	//  ・bitmap：
-	//   弾ビットマップデータ
+	// 　・fileName：
+	// 　　弾画像ファイル名
+	// 　・bitmap：
+	// 　　弾ビットマップデータ
 	//-----------------------------------------------------------------------------
 	ImageManager.setBulletImageByBitmap = function (fileName, bitmap) {
 		var cache = this.bulletCache();

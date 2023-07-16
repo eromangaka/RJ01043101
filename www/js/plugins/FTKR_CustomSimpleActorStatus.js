@@ -2627,7 +2627,7 @@ FTKR.CSS = FTKR.CSS || {};
     x           :描画エリアのx座標
     y           :描画エリアのy座標
     width       :描画エリアの幅
-    status     :描画する表示コード
+    status    　:描画する表示コード
     lss         :簡易ステータスオブジェクト
     -------------------------------------------------------------*/
     Window_Base.prototype.drawCssActorStatusBase = function (index, actor, x, y, width, status, lss) {

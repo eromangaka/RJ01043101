@@ -184,42 +184,42 @@ if (!Imported.CommonPopupCore) {
  * 
  * @param Get Item Text
  * @desc アイテムの増加で表示されるテキストです。
- * _icon:アイコン _name:名前 _desc1:解説1行目 _desc2:解説2行目
+ * _icon:アイコン _name:名前　_desc1:解説1行目 _desc2:解説2行目
  * @default 「\I[_icon]_name」 を\C[24]手に入れた！\n\C[6]_desc1
  * 
  * @param Lost Item Text
  * @desc アイテムの減少で表示されるテキストです。
- * _icon:アイコン _name:名前 _desc1:解説1行目 _desc2:解説2行目
+ * _icon:アイコン _name:名前　_desc1:解説1行目 _desc2:解説2行目
  * @default 「\I[_icon]_name」 を\C[2]失った・・・\n\C[6]_desc1
  * 
  * @param Get Item Text Num
  * @desc アイテム増加。2個以上。_icon:アイコン
- * _name:名前 _num:個数 _desc1:解説1行目 _desc2:解説2行目
+ * _name:名前　_num:個数 _desc1:解説1行目 _desc2:解説2行目
  * @default 「\I[_icon]_name」 を\C[14]_num個\C[24]手に入れた！\n\C[6]_desc1
  * 
  * @param Lost Item Text Num
  * @desc アイテム減少。2個以上。_icon:アイコン
- * _name:名前 _num:個数 _desc1:解説1行目 _desc2:解説2行目
+ * _name:名前　_num:個数 _desc1:解説1行目 _desc2:解説2行目
  * @default 「\I[_icon]_name」を\C[14]_num個\C[2]失った・・・\n\C[6]_desc1
  * 
  * @param Get Skill Text
  * @desc スキルの習得で表示されるテキストです。_actor:アクター名
- * _icon:アイコン _name:名前 _desc1:解説1行目 _desc2:解説2行目
+ * _icon:アイコン _name:名前　_desc1:解説1行目 _desc2:解説2行目
  * @default _actorは「\I[_icon]_name」 を\C[24]覚えた！\n\C[6]_desc1
  * 
  * @param Lost Skill Text
  * @desc スキルの忘却で表示されるテキストです。_actor:アクター名
- * _icon:アイコン _name:名前 _desc1:解説1行目 _desc2:解説2行目
+ * _icon:アイコン _name:名前　_desc1:解説1行目 _desc2:解説2行目
  * @default _actorは「\I[_icon]_name」を \C[2]忘れてしまった・・・\n\C[6]_desc1
  * 
  * @param Exp Up Text
  * @desc 経験値の増加で表示されるテキストです。
- * _actor:アクター名  _name:経験値の名前 _num:経験値 
+ * _actor:アクター名  _name:経験値の名前 _num:経験値　
  * @default _actorは\C[14]_numポイント\C[0]の\C[4]_name\C[0]を\C[24]得た！
  * 
  * @param Exp Down Text
  * @desc 経験値の減少で表示されるテキストです。
- * _actor:アクター名  _name:経験値の名前 _num:経験値
+ * _actor:アクター名  _name:経験値の名前　_num:経験値
  * @default _actorは\C[14]_numポイント\C[0]の\C[4]_name\C[0]を\C[2]失った・・・
  * 
  * @param Lv Up Text
@@ -229,7 +229,7 @@ if (!Imported.CommonPopupCore) {
  * 
  * @param Lv Down Text
  * @desc レベルの減少で表示されるテキストです。
- * _actor:アクター名  _name:レベルの名前 _num:下がったレベル
+ * _actor:アクター名  _name:レベルの名前　_num:下がったレベル
  * @default _actorは\C[4]_name\C[0]が\C[14]_numポイント\C[2]下がった・・・
  * 
  * @param Param Up Text
@@ -239,17 +239,17 @@ if (!Imported.CommonPopupCore) {
  * 
  * @param Param Down Text
  * @desc 能力値の減少で表示されるテキストです。
- * _actor:アクター名  _name:能力値の名前 _num:下がったレベル
+ * _actor:アクター名  _name:能力値の名前　_num:下がったレベル
  * @default _actorは\C[4]_name\C[0]が\C[14]_numポイント\C[2]下がった・・・
  *
  * @param Abp Up Text
  * @desc クラス経験値の増加で表示されるテキストです。
- * _actor:アクター名  _name:経験値の名前 _num:経験値 
+ * _actor:アクター名  _name:経験値の名前 _num:経験値　
  * @default _actorは\C[14]_numポイント\C[0]の\C[4]_name\C[0]を\C[24]得た！
  * 
  * @param Abp Down Text
  * @desc クラス経験値の減少で表示されるテキストです。
- * _actor:アクター名  _name:経験値の名前 _num:経験値
+ * _actor:アクター名  _name:経験値の名前　_num:経験値
  * @default _actorは\C[14]_numポイント\C[0]の\C[4]_name\C[0]を\C[2]失った・・・
  * 
  * @param Class Lv Up Text
@@ -259,12 +259,12 @@ if (!Imported.CommonPopupCore) {
  * 
  * @param Class Lv Down Text
  * @desc クラスレベルの減少で表示されるテキストです。 _class:クラス名
- * _actor:アクター名  _name:レベルの名前 _num:下がったレベル
+ * _actor:アクター名  _name:レベルの名前　_num:下がったレベル
  * @default _actorは\C[4]_classの_name\C[0]が\C[14]_numポイント\C[2]下がった・・・
  *
  * @param Formation Lv Up Text
  * @desc 陣形レベルの増加で表示されるテキストです。
- * _name:陣形の名前 _num:上がったレベル
+ * _name:陣形の名前　_num:上がったレベル
  * @default \C[4]_nameの熟練度\C[0]が\C[14]_numポイント\C[24]上がった！
  *
  * @param Formation Lv Max Text

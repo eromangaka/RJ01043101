@@ -2276,7 +2276,7 @@
                                 804,
                                 0,
                                 4,
-                                "' '"
+                                "'　'"
                             ]
                         },
                         {
@@ -3621,7 +3621,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273] \\c[14]\\v[140] Days Remaining 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]\\v[140]　Days　Remaining 15"
                             ]
                         },
                         {
@@ -7181,7 +7181,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273] \\c[14]\\v[140] Days Remaining 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]\\v[140]　Days　Remaining 15"
                             ]
                         },
                         {
@@ -8453,7 +8453,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273] \\c[14]\\v[140] Days Remaining 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]\\v[140]　Days　Remaining 15"
                             ]
                         },
                         {
@@ -9559,7 +9559,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>Miyuki: \\<Oh, really......\\kw[1] \\>   \\<It's been a while\nsince I last came to see it, but......"
+                                "\\>Miyuki: \\<Oh, really......\\kw[1] \\>　　　\\<It's been a while\nsince I last came to see it, but......"
                             ]
                         },
                         {
@@ -9608,7 +9608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>Uncle: \\<Ah, ... \\>   \\<it was worth coming to see it."
+                                "\\>Uncle: \\<Ah, ... \\>　　　\\<it was worth coming to see it."
                             ]
                         },
                         {
@@ -10843,7 +10843,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Next Day 25"
+                                "D_TEXT Next　Day 25"
                             ]
                         },
                         {

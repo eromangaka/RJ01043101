@@ -1327,7 +1327,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273] \\c[14]\\v[140] Days Remaining 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]\\v[140]　Days　Remaining 15"
                             ]
                         },
                         {
@@ -1825,7 +1825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kouta: \\<If you don't level up, you won't be able to\nwithstand \\c[14]the opponent's attacks\\c[0], and\n\\>   \\<\\c[14]the power of the mentai and HP will remain\nlow\\c[0]."
+                                "\\>Kouta: \\<If you don't level up, you won't be able to\nwithstand \\c[14]the opponent's attacks\\c[0], and\n\\>　　　\\<\\c[14]the power of the mentai and HP will remain\nlow\\c[0]."
                             ]
                         },
                         {
@@ -1842,7 +1842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: \\<That's right,...... if there's a level\ndifference between \\>   \\<you and your opponent,......"
+                                "\\>Shiori: \\<That's right,...... if there's a level\ndifference between \\>　　　\\<you and your opponent,......"
                             ]
                         },
                         {
@@ -2393,7 +2393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kouta: \\<Oh, that sounds great! \\>   \\<It seems\ninteresting!"
+                                "\\>Kouta: \\<Oh, that sounds great! \\>　　　\\<It seems\ninteresting!"
                             ]
                         },
                         {
@@ -2663,7 +2663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kouta: \\<Ah, that's right! \\>   \\<Let's level up and have\nanother battle with everyone!"
+                                "\\>Kouta: \\<Ah, that's right! \\>　　　\\<Let's level up and have\nanother battle with everyone!"
                             ]
                         },
                         {
@@ -2702,7 +2702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: \\<I agree~! \\>   \\<Next time, I won't lose, \\n[1]!"
+                                "\\>Shiori: \\<I agree~! \\>　　　\\<Next time, I won't lose, \\n[1]!"
                             ]
                         },
                         {
@@ -2999,7 +2999,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]10 minutes have passed\\c[0]!"
+                                "ShowInfo \\I[167]\\c[14]10　minutes　have　passed\\c[0]!"
                             ]
                         },
                         {

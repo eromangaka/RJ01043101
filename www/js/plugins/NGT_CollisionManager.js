@@ -81,7 +81,7 @@
  *   fileNameにA、collisionTargetsにBを設定した場合は、
  *   別途fileNameにB、collisionTargetsにAなどと設定する必要はありません。
  *   そのようにした場合、AとBの当たり判定は二重に行われてしまいます。
- *   
+ * 　　
  * 2.めりこみ量算出処理について
  *   めりこみ量の算出は、移動方向によって取得内容が異なります。
  *   X軸のめりこみ量は、左右に移動している時に当たった場合に取得できます。
@@ -287,7 +287,7 @@
     };
 
     // --------------------------------------------------
-    // プラグインコマンド追加    
+    // プラグインコマンド追加　　　　
     // --------------------------------------------------
     var _Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
     Game_Interpreter.prototype.pluginCommand = function (command, args) {
@@ -414,7 +414,7 @@
     // 指定されたスプライトリストを当たり判定チェック対象に追加します。
     // 引数
     // ・sprites
-    //   スプライトリスト
+    // 　　スプライトリスト
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.addCheckTargets = function (sprites) {
         this._checkTargets.push(sprites);
@@ -424,7 +424,7 @@
     // 指定された判定対象スプライトファイル名に対応する当たり判定データを取得します。
     // 引数
     // fileName
-    //   判定対象スプライトファイル名
+    // 　　判定対象スプライトファイル名
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.getCollisionData = function (fileName) {
         if (!this._collisionDataAccessor[fileName]) {
@@ -479,11 +479,11 @@
     // 指定した衝突スプライトに対する無敵判定を管理対象として追加します。
     // 引数
     // ・targetIndex
-    //   対象オブジェクト インデックス値
+    // 　　対象オブジェクト インデックス値
     // ・outsiderIndex
-    //   衝突オブジェクト インデックス値
+    // 　　衝突オブジェクト インデックス値
     // ・frame：
-    //   無敵フレーム数
+    // 　　無敵フレーム数
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.addInvincible = function (targetIndex, outsiderIndex, frame) {
         this._invincibleList.push(new Collision_Invincible(targetIndex, outsiderIndex, frame));
@@ -507,7 +507,7 @@
     // 指定したスプライトが判定スプライトが否かを判定します。
     // 引数
     // ・sprite：
-    //   判定スプライト
+    // 　　判定スプライト
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.isTarget = function (sprite) {
         return this._collisionDatas.some(function (cd) {
@@ -519,7 +519,7 @@
     // 指定したスプライトが衝突スプライトが否かを判定します。
     // 引数
     // ・sprite：
-    //   衝突スプライト
+    // 　　衝突スプライト
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.isOutsider = function (sprite) {
         return this._collisionDatas.some(function (cd) {
@@ -537,9 +537,9 @@
     // ・判定対象スプライトに対する衝突スプライトに含まれていない
     // 引数
     // ・target：
-    //   判定スプライト
+    // 　　判定スプライト
     // ・outsider：
-    //   衝突スプライト
+    // 　　衝突スプライト
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.isTargetOutsiderPair = function (target, outsider) {
         if (target == outsider) {
@@ -560,9 +560,9 @@
     // 指定した判定対象スプライトと衝突スプライトが無敵状態か否かを判定します。
     // 引数
     // ・target：
-    //   判定スプライト
+    // 　　判定スプライト
     // ・outsider：
-    //   衝突スプライト
+    // 　　衝突スプライト
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.isInvincible = function (target, outsider) {
         return this._invincibleList.some(function (invincible) {
@@ -574,7 +574,7 @@
     // 指定したスプライトを対象にエリア更新を行う。
     // 引数
     // ・target：
-    //   判定スプライト
+    // 　　判定スプライト
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.setupSpriteCollision = function (target) {
         // 左上と右下の空間番号を取得する
@@ -613,13 +613,13 @@
     // 指定された空間番号に対応する空間所属スプライト配列を全て取得します。
     // 引数
     // ・targetAreaIndex：
-    //   空間番号
+    // 　　空間番号
     // ・areaLv：
-    //   空間レベル（再起呼び出し時に指定されます）
+    // 　　空間レベル（再起呼び出し時に指定されます）
     // ・isUp：
-    //   上位レベル検索フラグ（再起呼び出し時に指定されます）
+    // 　　上位レベル検索フラグ（再起呼び出し時に指定されます）
     // ・isDown：
-    //   下位レベル検索フラグ（再起呼び出し時に指定されます）
+    // 　　下位レベル検索フラグ（再起呼び出し時に指定されます）
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.getCollisionAreas = function (targetAreaIndex, areaLv, isUp, isDown) {
         // 再帰的な空間番号チェック終了チェック
@@ -735,9 +735,9 @@
     // }
     // 引数
     // ・target：
-    //   判定スプライト
+    // 　　判定スプライト
     // ・outsider：
-    //   衝突スプライト
+    // 　　衝突スプライト
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.getInsidePoint = function (target, outsider) {
         var targetCollisionData = this.getCollisionData(target.collisionKey());
@@ -782,9 +782,9 @@
     // }
     // 引数
     // ・target：
-    //   判定スプライト
+    // 　　判定スプライト
     // ・outsider：
-    //   衝突スプライト
+    // 　　衝突スプライト
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.getCrossedPoint = function (target, outsider) {
         var targetCollisionData = this.getCollisionData(target.collisionKey());
@@ -827,9 +827,9 @@
     // }
     // 引数
     // ・target：
-    //   判定スプライト
+    // 　　判定スプライト
     // ・outsider：
-    //   衝突スプライト
+    // 　　衝突スプライト
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.getSinkingLength = function (target, outsider) {
         var result = {
@@ -871,15 +871,15 @@
     // 衝突オブジェクトの移動により生成されたベクトルが交差しているか否かを判定する際の
     // チェックする順番の先頭インデックスを取得します。
     // 順番
-    //  0：左上
-    //  1：右上
-    //  2：右下
-    //  3：左下
+    // 　0：左上
+    // 　1：右上
+    // 　2：右下
+    // 　3：左下
     // 引数
     // ・target：
-    //   判定スプライト
+    // 　　判定スプライト
     // ・outsider：
-    //   衝突スプライト
+    // 　　衝突スプライト
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.getCheckOrder = function (target, outsider) {
         var tgX = target.x;
@@ -902,13 +902,13 @@
     // 指定されたベクトル同士が交差しているか否かを判定します。
     // 引数
     // ・ax, ay：
-    //   ベクトルABの始点
+    // 　　ベクトルABの始点
     // ・bx, by：
-    //   ベクトルABの終点
+    // 　　ベクトルABの終点
     // ・cx, cy：
-    //   ベクトルCDの始点
+    // 　　ベクトルCDの始点
     // ・dx, dy：
-    //   ベクトルCDの終点
+    // 　　ベクトルCDの終点
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.isInside = function (cornerPoints, targetPoint) {
         var minusCount = 0;
@@ -934,13 +934,13 @@
     // 指定されたベクトル同士が交差しているか否かを判定します。
     // 引数
     // ・ax, ay：
-    //   ベクトルABの始点
+    // 　　ベクトルABの始点
     // ・bx, by：
-    //   ベクトルABの終点
+    // 　　ベクトルABの終点
     // ・cx, cy：
-    //   ベクトルCDの始点
+    // 　　ベクトルCDの始点
     // ・dx, dy：
-    //   ベクトルCDの終点
+    // 　　ベクトルCDの終点
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.isCrossed = function (ax, ay, bx, by, cx, cy, dx, dy) {
         if ((ax - ay) * (bx - by) * (cx - cy) * (dx - dy) == 0) {
@@ -961,13 +961,13 @@
     // 指定されたベクトル同士が交差しているか否かを判定します。
     // 引数
     // ・ax, ay：
-    //   ベクトルABの始点
+    // 　　ベクトルABの始点
     // ・bx, by：
-    //   ベクトルABの終点
+    // 　　ベクトルABの終点
     // ・cx, cy：
-    //   ベクトルCDの始点
+    // 　　ベクトルCDの始点
     // ・dx, dy：
-    //   ベクトルCDの終点
+    // 　　ベクトルCDの終点
     //-----------------------------------------------------------------------------
     CollisionManager.prototype.getCrossedPointByVector = function (ax, ay, bx, by, cx, cy, dx, dy) {
         var d = (bx - ax) * (dy - cy) - (by - ay) * (dx - cx);

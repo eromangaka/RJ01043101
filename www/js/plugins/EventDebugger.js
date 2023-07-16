@@ -1218,7 +1218,7 @@ function DebugManager() {
         if (this._commonEventId) {
             return $dataCommonEvents[this._commonEventId].name;
         } else if (this._battlePageIndex) {
-            return `バトルイベント スパン : ${Game_Interpreter.battleSpanNames[this._battleSpan]}`;
+            return `バトルイベント　スパン : ${Game_Interpreter.battleSpanNames[this._battleSpan]}`;
         } else if (DataManager.isEventTest()) {
             return 'イベントテスト';
         } else {

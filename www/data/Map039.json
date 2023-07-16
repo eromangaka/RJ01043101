@@ -1487,7 +1487,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273] \\c[14]\\v[140] Days Remaining 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]\\v[140]　Days　Remaining 15"
                             ]
                         },
                         {
@@ -5052,7 +5052,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT MAP Skill 12"
+                                "D_TEXT MAP　Skill 12"
                             ]
                         },
                         {
@@ -5331,7 +5331,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT MAP Skill 12"
+                                "D_TEXT MAP　Skill 12"
                             ]
                         },
                         {
@@ -5382,7 +5382,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT Lewd Skill 12"
+                                "D_TEXT Lewd　Skill 12"
                             ]
                         },
                         {
@@ -5433,7 +5433,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT Service Skills 12"
+                                "D_TEXT Service　Skills 12"
                             ]
                         },
                         {
@@ -5484,7 +5484,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT Pervert skill 12"
+                                "D_TEXT Pervert　skill 12"
                             ]
                         },
                         {
@@ -5535,7 +5535,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT Recovery item 12"
+                                "D_TEXT Recovery　item 12"
                             ]
                         },
                         {

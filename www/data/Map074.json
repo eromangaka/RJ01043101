@@ -2043,7 +2043,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273] \\c[14]\\v[140] Days Remaining 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]\\v[140]　Days　Remaining 15"
                             ]
                         },
                         {
@@ -7136,7 +7136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Masakazu: \\<Goo......\\. \\>   \\<...Goo......‥"
+                                "\\>Masakazu: \\<Goo......\\. \\>　　　\\<...Goo......‥"
                             ]
                         },
                         {
@@ -7863,7 +7863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Masakazu: \\<Hmm... ......\\. \\>   \\<Munya munya......"
+                                "\\>Masakazu: \\<Hmm... ......\\. \\>　　　\\<Munya munya......"
                             ]
                         },
                         {
@@ -10257,7 +10257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Masakazu: \\<Good... ......\\.   \\<...Good... ........."
+                                "\\>Masakazu: \\<Good... ......\\.　　　\\<...Good... ........."
                             ]
                         },
                         {
@@ -12637,7 +12637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Masakazu: \\<Good ......\\.... \\>   \\<... good .........."
+                                "\\>Masakazu: \\<Good ......\\.... \\>　　　\\<... good .........."
                             ]
                         },
                         {
@@ -14299,7 +14299,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]30 minutes have passed\\c[0]!"
+                                "ShowInfo \\I[167]\\c[14]30　minutes　have　passed\\c[0]!"
                             ]
                         },
                         {
