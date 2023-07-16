@@ -149,7 +149,7 @@
  *
  * @param Gold TEXT
  * @desc 所持金の名称です、制御文字が使えます。
- * @default 所持金　：
+ * @default 所持金 ：
   *
  * @param Gold TEXT X
  * @desc 所持金の名称表示位置Xです。
@@ -225,7 +225,7 @@
  *	
  * @help このプラグインには、プラグインコマンドはありません。
  *
- * 制作者：sairi　[Twitter＠sairi55]
+ * 制作者：sairi [Twitter＠sairi55]
  * SPECIALTHANKS
  * 翠様、尾角つの様、剣崎宗二様
  * ツクマテお呼びTwitterで何時も構ってくれるツクラーの皆様
@@ -300,7 +300,7 @@
     sai.achievetext_y = Number(parameters['achieve TEXT Y'] || 220);
     sai.achieve_x = Number(parameters['achieve X'] || 0);
     sai.achieve_y = Number(parameters['achieve Y'] || 215);
-    sai.gold_text = (parameters['Gold TEXT'] || '所持金　：');
+    sai.gold_text = (parameters['Gold TEXT'] || '所持金 ：');
     sai.goldtext_x = Number(parameters['Gold TEXT X'] || 0);
     sai.goldtext_y = Number(parameters['Gold TEXT Y'] || 245);
     sai.gold_x = Number(parameters['Gold X'] || 0);
@@ -414,7 +414,7 @@
         return Number(sai.help_fontsize);
     };
     SceneManager.snapForBackground = function () {
-        this._backgroundBitmap = this.snap();　//モーションブラーを取り外す
+        this._backgroundBitmap = this.snap(); //モーションブラーを取り外す
 
     };
     //----------------------------------------------------------------------------------
@@ -529,7 +529,7 @@
         if (info.level) {
             this.drawText(TextManager.levelA + " " + info.level, Number(sai.level_x), Number(sai.level_y), 60);
         }
-        if (typeof info.gold === 'number') {　//値が数字の時に通る
+        if (typeof info.gold === 'number') { //値が数字の時に通る
             this.drawText(info.gold + " " + TextManager.currencyUnit, (sai.gold_x), Number(sai.gold_y), 200);
         }
 
@@ -568,8 +568,8 @@
         Decrypter.hasEncryptedImages = DH;    //フラグを戻す 
         var dh = 0;
         var dw = 0;
-        var dx = rect.x + Number(sai.ss_x);　//表示位置X
-        var dy = rect.y + Number(sai.ss_y);　　//表示位置Y
+        var dx = rect.x + Number(sai.ss_x); //表示位置X
+        var dy = rect.y + Number(sai.ss_y);  //表示位置Y
 
         this.changePaintOpacity(true);
         this.contents.blt(bitmap, 0, 0, bitmap.width, bitmap.height, dx, dy, dw, dh);

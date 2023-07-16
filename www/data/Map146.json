@@ -1177,42 +1177,42 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　common save　のプラグインコマンドを実行すると"
+                                " common save のプラグインコマンドを実行すると"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　スクリプトを実行していないにも関わらず変数2020の"
+                                " スクリプトを実行していないにも関わらず変数2020の"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　アイテム保存状況を上書きしてしまうので、"
+                                " アイテム保存状況を上書きしてしまうので、"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　↑のスクリプトでアイテム保存状況を引き継いでおかないと"
+                                " ↑のスクリプトでアイテム保存状況を引き継いでおかないと"
                             ]
                         },
                         {
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "　中身が空っぽになってしまうっぽいのです。"
+                                " 中身が空っぽになってしまうっぽいのです。"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "　気づくかそんなこと～！！！"
+                                " 気づくかそんなこと～！！！"
                             ]
                         },
                         {
@@ -2515,14 +2515,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "３　あき"
+                                "３ あき"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "４　あき"
+                                "４ あき"
                             ]
                         },
                         {
@@ -2582,28 +2582,28 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "絵日記左　　　　9"
+                                "絵日記左    9"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "絵日記左内容　　10"
+                                "絵日記左内容  10"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "絵日記右　　　　11"
+                                "絵日記右    11"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "絵日記右内容　　12"
+                                "絵日記右内容  12"
                             ]
                         },
                         {
@@ -2860,7 +2860,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "ShowInfo \\i[167]\\c[14]I　completed　all　the　picture　diaries!\\c[0]"
+                                "ShowInfo \\i[167]\\c[14]I completed all the picture diaries!\\c[0]"
                             ]
                         },
                         {
@@ -2912,7 +2912,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT  Diary　Collection 15"
+                                "D_TEXT  Diary Collection 15"
                             ]
                         },
                         {
@@ -2966,7 +2966,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT  Diary　Collection 15"
+                                "D_TEXT  Diary Collection 15"
                             ]
                         },
                         {
@@ -3522,7 +3522,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT ◆You　can　view　the　acquired　picture　diary　(\\v[450]/70) 15"
+                                "D_TEXT ◆You can view the acquired picture diary (\\v[450]/70) 15"
                             ]
                         },
                         {
@@ -3576,7 +3576,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT ◆You　can　view　the　secret　notebook 15"
+                                "D_TEXT ◆You can view the secret notebook 15"
                             ]
                         },
                         {

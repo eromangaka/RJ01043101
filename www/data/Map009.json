@@ -1389,7 +1389,7 @@
                                 804,
                                 0,
                                 4,
-                                "'　'"
+                                "' '"
                             ]
                         },
                         {
@@ -2701,7 +2701,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT Next　Day 25"
+                                "D_TEXT Next Day 25"
                             ]
                         },
                         {
@@ -2934,7 +2934,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]I　was　able　to　sleep　soundly　with　an　eye　mask!\\c[0]"
+                                "ShowInfo \\I[167]\\c[14]I was able to sleep soundly with an eye mask!\\c[0]"
                             ]
                         },
                         {
@@ -3279,7 +3279,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]Divine　favor\\c[0]　activated!"
+                                "ShowInfo \\I[167]\\c[14]Divine favor\\c[0] activated!"
                             ]
                         },
                         {
@@ -3309,7 +3309,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]Great　Luck　Boy\\c[0]　has　been　bestowed!"
+                                "ShowInfo \\I[167]\\c[14]Great Luck Boy\\c[0] has been bestowed!"
                             ]
                         },
                         {
@@ -3359,7 +3359,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]Experience　points　have　become　\\c[14]MAX\\c[0]!"
+                                "ShowInfo \\I[167]Experience points have become \\c[14]MAX\\c[0]!"
                             ]
                         },
                         {
@@ -3430,7 +3430,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]The　maximum　values　of　physical　strength　and　sexual　desire　have　increased　by　\\c[14]30\\c[0]!"
+                                "ShowInfo \\I[167]The maximum values of physical strength and sexual desire have increased by \\c[14]30\\c[0]!"
                             ]
                         },
                         {
@@ -3488,7 +3488,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]I　received　\\c[14]2000\\c[0]　yen　as　pocket　money!"
+                                "ShowInfo \\I[167]I received \\c[14]2000\\c[0] yen as pocket money!"
                             ]
                         },
                         {
@@ -3587,7 +3587,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]The　ordered　item\\c[0]　has　arrived　in　large　quantities!"
+                                "ShowInfo \\I[167]\\c[14]The ordered item\\c[0] has arrived in large quantities!"
                             ]
                         },
                         {
@@ -3651,7 +3651,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[168]My　uncle\\c[14]　went　out　for　work\\c[0]"
+                                "ShowInfo \\I[168]My uncle\\c[14] went out for work\\c[0]"
                             ]
                         },
                         {
@@ -4866,7 +4866,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]I　wonder　who　it　was?"
+                                "ShowInfo \\I[167]I wonder who it was?"
                             ]
                         },
                         {
@@ -4908,7 +4908,7 @@
                             "code": 408,
                             "indent": 1,
                             "parameters": [
-                                "　下着を1に"
+                                " 下着を1に"
                             ]
                         },
                         {
