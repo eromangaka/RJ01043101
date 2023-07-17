@@ -1228,7 +1228,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT  Correct　Answer:　\\v[835]　Incorrect　Answer:　\\v[836] 14"
+                                "D_TEXT  Correct Answer: \\v[835] Incorrect Answer: \\v[836] 14"
                             ]
                         },
                         {
@@ -1410,7 +1410,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT  Correct　Answer:　\\v[835]　Incorrect　Answer:　\\v[836] 14"
+                                "D_TEXT  Correct Answer: \\v[835] Incorrect Answer: \\v[836] 14"
                             ]
                         },
                         {
@@ -1946,7 +1946,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[170]\\c[14]Yui's　task\\c[0]　is　finished!"
+                                "ShowInfo \\I[170]\\c[14]Yui's task\\c[0] is finished!"
                             ]
                         },
                         {
@@ -2082,7 +2082,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]30　minutes　have　passed\\c[0]!"
+                                "ShowInfo \\I[167]\\c[14]30 minutes have passed\\c[0]!"
                             ]
                         },
                         {
@@ -3772,7 +3772,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "ShowInfo ◆？？？　\\c[14]<+1>"
+                                "ShowInfo ◆？？？ \\c[14]<+1>"
                             ]
                         },
                         {
@@ -4129,7 +4129,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT  Correct　Answer:　\\v[835]　Incorrect　Answer:　\\v[836] 14"
+                                "D_TEXT  Correct Answer: \\v[835] Incorrect Answer: \\v[836] 14"
                             ]
                         },
                         {
@@ -5772,7 +5772,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]Time's　up!"
+                                "ShowInfo \\I[167]Time's up!"
                             ]
                         },
                         {
@@ -6050,7 +6050,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]This　is　the　final　question!"
+                                "ShowInfo \\I[167]This is the final question!"
                             ]
                         },
                         {
@@ -6751,7 +6751,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]I　made　a　mistake!"
+                                "ShowInfo \\I[167]I made a mistake!"
                             ]
                         },
                         {

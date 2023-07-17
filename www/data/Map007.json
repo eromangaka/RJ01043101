@@ -1313,7 +1313,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "ShowInfo ◆？？？　\\c[14]<+1>"
+                                "ShowInfo ◆？？？ \\c[14]<+1>"
                             ]
                         },
                         {
@@ -1740,7 +1740,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]\\v[140]　Days　Remaining 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273] \\c[14]\\v[140] Days Remaining 15"
                             ]
                         },
                         {
@@ -2977,21 +2977,21 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "はね　X505　で離すと最高"
+                                "はね X505 で離すと最高"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "とめ　X510　で離すと最高"
+                                "とめ X510 で離すと最高"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "はらい　X569　で離すと最高"
+                                "はらい X569 で離すと最高"
                             ]
                         },
                         {
@@ -3012,14 +3012,14 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "ふで限界　520"
+                                "ふで限界 520"
                             ]
                         },
                         {
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "墨汁限界　80"
+                                "墨汁限界 80"
                             ]
                         },
                         {
@@ -12024,28 +12024,28 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "4 5　とめ"
+                                "4 5 とめ"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "6 7　はね"
+                                "6 7 はね"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "8 9　はらい"
+                                "8 9 はらい"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "10 11　合計"
+                                "10 11 合計"
                             ]
                         },
                         {
@@ -14264,7 +14264,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "ShowInfo \\I[169]The　level　of　lewdness　has　\\c[14]3\\c[0]increased!"
+                                "ShowInfo \\I[169]The level of lewdness has \\c[14]3\\c[0]increased!"
                             ]
                         },
                         {
@@ -14303,7 +14303,7 @@
                             "code": 356,
                             "indent": 5,
                             "parameters": [
-                                "ShowInfo \\I[169]Service　level　has　increased　by　\\c[14]3\\c[0]!"
+                                "ShowInfo \\I[169]Service level has increased by \\c[14]3\\c[0]!"
                             ]
                         },
                         {
@@ -14342,7 +14342,7 @@
                             "code": 356,
                             "indent": 6,
                             "parameters": [
-                                "ShowInfo \\I[169]The　level　of　perversion\\c[14]3\\c[0]　has　increased!"
+                                "ShowInfo \\I[169]The level of perversion\\c[14]3\\c[0] has increased!"
                             ]
                         },
                         {
@@ -14924,7 +14924,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]30　minutes　have　passed\\c[0]!"
+                                "ShowInfo \\I[167]\\c[14]30 minutes have passed\\c[0]!"
                             ]
                         },
                         {
@@ -14988,7 +14988,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[168]The　alert　level　has　\\c[14]20\\c[0]decreased!"
+                                "ShowInfo \\I[168]The alert level has \\c[14]20\\c[0]decreased!"
                             ]
                         },
                         {
@@ -15286,7 +15286,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "ShowInfo \\I[170]\\c[14]EV:\\c[0]Skillful　brushwork　of　a　fishing　rod\\kw[1]"
+                                "ShowInfo \\I[170]\\c[14]EV:\\c[0]Skillful brushwork of a fishing rod\\kw[1]"
                             ]
                         },
                         {
