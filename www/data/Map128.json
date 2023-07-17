@@ -1494,7 +1494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm glad to be able to talk to you. \\kw[1]"
+                                "I'm glad to be able\nto talk to you. \\kw[1]"
                             ]
                         },
                         {
@@ -1718,7 +1718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Winter vacation is short, so if we don't play now, it will\nbe over in no time, right?"
+                                "Winter vacation is short, so\nif you don't play now, it will\nbe over in no time, right?"
                             ]
                         },
                         {
@@ -1759,7 +1759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But it's also fun to chat with Kanae-san. Is it okay like\nthis?"
+                                "But it's also fun to chat with\nKanae-san. Is it okay like this?"
                             ]
                         },
                         {
@@ -2024,7 +2024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm happy to hear you say that, too, Auntie."
+                                "Auntie is happy to hear\nyou say that, too."
                             ]
                         },
                         {
@@ -2107,7 +2107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've mentioned it before, but I don't have any neighborhood\nrelationships, you know?"
+                                "I've mentioned it before, but\nI don't have any neighborhood\nrelationships, you know?"
                             ]
                         },
                         {
@@ -2156,7 +2156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "When my husband is away for work, I often end up being alone\nfor a long time. ..."
+                                "When my husband is away for\nwork, I often end up being\nalone for a long time. ..."
                             ]
                         },
                         {
@@ -2205,7 +2205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So that's why \\n[1]-kun is willing to be my conversation\npartner."
+                                "So that's why if \\n[1]-kun is willing\nto be my conversation partner..."
                             ]
                         },
                         {
@@ -2497,7 +2497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wish you would just forget about it already."
+                                "I wish you would just\nforget about it already."
                             ]
                         },
                         {
@@ -3064,7 +3064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If it's okay, would you like to come over to my house now?"
+                                "If it's okay, would you like to\ncome over to my house now?"
                             ]
                         },
                         {
@@ -3193,7 +3193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As a thank you for always being there to talk, I'll treat\nyou to some warm tea."
+                                "As a thank you for always being\nthere to talk, I'll treat you\nto some warm tea."
                             ]
                         },
                         {
@@ -3339,7 +3339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe, then let's go before it gets cold."
+                                "Hehe, then let's go\nbefore it gets cold."
                             ]
                         },
                         {
@@ -3356,7 +3356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Auntie, you're quite good at making tea, you know."
+                                "Auntie is quite good at\nmaking tea, you know."
                             ]
                         },
                         {
@@ -3612,7 +3612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just sit and wait, okay? I'm making tea now."
+                                "Just sit and wait, okay?\nI'm making tea now."
                             ]
                         },
                         {
@@ -3910,7 +3910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's always someone at your sister's house, right?"
+                                "There's always someone at my onee-chan's house, right?"
                             ]
                         },
                         {
@@ -3966,7 +3966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I always think that my husband and I live alone, and I'm\nalways alone when he's at work."
+                                "Considering that she lives alone with her husband,\nand she's always alone when he's at work."
                             ]
                         },
                         {
@@ -4090,7 +4090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What's wrong? \\. Did something interesting happen?"
+                                "What's wrong?\\. Did something\ninteresting happen?"
                             ]
                         },
                         {
@@ -4373,7 +4373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But having a spacious house is quite tough, isn't it?"
+                                "But having a spacious house\nis quite tough, isn't it?"
                             ]
                         },
                         {
@@ -4422,7 +4422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cleaning needs to be done every day, and I forget where I\nput things. ......"
+                                "Cleaning needs to be done every day,\nand I forget where I put things. ......"
                             ]
                         },
                         {
@@ -4471,7 +4471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even though we live together, it feels like we have too much\nspace in the house, and when my husband isn't home, it feels\neven emptier."
+                                "Even though we live together, it feels like\nwe have too much space in the house, and when\nmy husband isn't home, it feels even emptier."
                             ]
                         },
                         {
@@ -4777,7 +4777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I-I'm sorry. I just ended up complaining, didn't I?"
+                                "I-I'm sorry. I just ended\nup complaining, didn't I?"
                             ]
                         },
                         {
@@ -4848,7 +4848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, \\n[1]-kun, is it different? I was sighing because...\nthat."
+                                "So, \\n[1]-kun, is it different?\nI was sighing because... that."
                             ]
                         },
                         {
@@ -5128,7 +5128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I-I'm sorry? It's not really a fun story, so..."
+                                "I-I'm sorry? It's not\nreally a fun story, so..."
                             ]
                         },
                         {
@@ -5145,7 +5145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "W-would it make you happy if you forgot about it? Ahahaha"
+                                "W-would it make you happy if\nyou forgot about it? Ahahaha"
                             ]
                         },
                         {
@@ -5319,7 +5319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14](It seems like you're troubled about something after\nall....)"
+                                "\\c[14](It seems like you're troubled\nabout something after all....)"
                             ]
                         },
                         {
