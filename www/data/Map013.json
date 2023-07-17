@@ -5995,7 +5995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. It's warm with the two of us, isn't it?\\kw[1]"
+                                "Hehe\\kw[1]\\. It's warm with the\ntwo of us, isn't it?\\kw[1]"
                             ]
                         },
                         {
