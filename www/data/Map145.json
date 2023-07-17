@@ -1465,7 +1465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm really worried about my older sister driving."
+                                "I'm really worried about\nmy older sister driving."
                             ]
                         },
                         {
@@ -1560,7 +1560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've been traveling around quite a bit with an acquaintance\nfrom school before, you know."
+                                "I've been traveling around quite\na bit with an acquaintance from\nschool before, you know."
                             ]
                         },
                         {
@@ -1623,7 +1623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wish my mom's driving was good."
+                                "I wish my mom's\ndriving was good."
                             ]
                         },
                         {
@@ -1666,7 +1666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, hey, don't say things like that."
+                                "Hey, hey, don't say\nthings like that."
                             ]
                         },
                         {
@@ -1714,7 +1714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No need to worry, Yui-oneechan!"
+                                "No need to worry,\nYui-oneechan!"
                             ]
                         },
                         {
@@ -1731,7 +1731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rio, you know, I'm really good at car games!"
+                                "Rio, you know, I'm\nreally good at car games!"
                             ]
                         },
                         {
@@ -1809,7 +1809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey hey, it's \\n[1]'s seal of approval, you know?"
+                                "Hey hey, it's \\n[1]'s\nseal of approval, you know?"
                             ]
                         },
                         {
@@ -1940,7 +1940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, yes. Yui is quite a worrier, huh? ..."
+                                "Yes, yes. Yui is quite\na worrier, huh? ..."
                             ]
                         },
                         {
@@ -1957,7 +1957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The road to the inn continues to be flat, so it's nothing\nmajor, you know."
+                                "The road to the inn continues\nto be flat, so it's nothing\nmajor, you know."
                             ]
                         },
                         {
@@ -2017,7 +2017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "By the way, it's been a while since I've been to a hot\nspring."
+                                "By the way, it's been\na while since I've been\nto a hot spring."
                             ]
                         },
                         {
@@ -2034,7 +2034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm looking forward to the arrival, \\n[1]-kun"
+                                "I'm looking forward to\nthe arrival, \\n[1]-kun"
                             ]
                         },
                         {
@@ -2241,7 +2241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is this the right way, here?"
+                                "Is this the\nright way, here?"
                             ]
                         },
                         {
@@ -2284,7 +2284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Look, the road earlier was indeed to the left."
+                                "Look, the road earlier\nwas indeed to the left."
                             ]
                         },
                         {
@@ -2365,7 +2365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, no, the navigation said to go right!"
+                                "No, no, the navigation\nsaid to go right!"
                             ]
                         },
                         {
@@ -2439,7 +2439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Did Rio-chan make a wrong turn?"
+                                "Did Rio-chan make\na wrong turn?"
                             ]
                         },
                         {
@@ -2487,7 +2487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As I thought, Mom's driving was better."
+                                "As I thought, Mom's\ndriving was better."
                             ]
                         },
                         {
@@ -2540,7 +2540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ugh, it's noisy! Please be quiet!"
+                                "Ugh, it's noisy!\nPlease be quiet!"
                             ]
                         },
                         {
@@ -2604,7 +2604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Um, well, let's just turn somewhere for now."
+                                "Um, well, let's just\nturn somewhere for now."
                             ]
                         },
                         {
@@ -2654,7 +2654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, can we turn at that corner?"
+                                "Oh, can we turn\nat that corner?"
                             ]
                         },
                         {
@@ -2725,7 +2725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wow~ ...... Why did they make such a narrow road? ..."
+                                "Wow~ ...... Why did they\nmake such a narrow road? ..."
                             ]
                         },
                         {
@@ -2809,7 +2809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh my, oh my... I wonder if everything is alright?"
+                                "Oh my, oh my... I wonder\nif everything is alright?"
                             ]
                         },
                         {
@@ -2869,7 +2869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If we arrive on time, that would be good. ......"
+                                "If we arrive on time,\nthat would be good. ......"
                             ]
                         },
                         {
@@ -3190,7 +3190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's delicious... slurp... gulp."
+                                "It's delicious...\\kw[1]\nslurp... gulp."
                             ]
                         },
                         {
@@ -3289,7 +3289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Started sucking a penis ......"
+                                "Started sucking\na penis ......"
                             ]
                         },
                         {
@@ -3371,7 +3371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's a promise for after we arrive, right?"
+                                "That's a promise for\nafter we arrive, right?"
                             ]
                         },
                         {
@@ -3402,7 +3402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rattle... ngh..."
+                                "Rattle... ngh...\\kw[1]"
                             ]
                         },
                         {
@@ -3419,7 +3419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I can't wait anymore. Chururu..."
+                                "I can't wait anymore.\nChururu...\\kw[1]"
                             ]
                         },
                         {
@@ -3547,7 +3547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "See, \\n[1]-kun is saying this, right?"
+                                "See, \\n[1]-kun is\nsaying this, right?"
                             ]
                         },
                         {
@@ -3564,7 +3564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Chururu... jupo... ngh... jupupu..."
+                                "Chururu... jupo...\\kw[1]\nngh... jupupu...\\kw[1]"
                             ]
                         },
                         {
@@ -3717,7 +3717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Y-Yeah, moms are amazing, right?"
+                                "Y-Yeah, moms are\namazing, right?"
                             ]
                         },
                         {
@@ -3734,7 +3734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, she's taking it in like that. ..."
+                                "Ah, she's taking it\nin like that. ..."
                             ]
                         },
                         {
@@ -4386,7 +4386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The car is shaking and it's difficult to drive, you know?"
+                                "The car is shaking and\nit's difficult to drive,\n you know?"
                             ]
                         },
                         {
@@ -4456,7 +4456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "More, more... more, more..."
+                                "More, more...\\kw[1]\nmore, more...\\kw[1]"
                             ]
                         },
                         {
@@ -4574,7 +4574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, I'm coming... I'm coming again... Ah... Ah..."
+                                "Ah, I'm coming... I'm coming again...\nAh...\\kw[1] Ah...\\kw[1]"
                             ]
                         },
                         {
@@ -4591,7 +4591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm coming, vagina."
+                                "I'm coming, my vagina.\\kw[1]"
                             ]
                         },
                         {
@@ -5290,7 +5290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Who was it that said Drive safely again? ...?"
+                                "Who was it that said\ndrive safely again? ...?"
                             ]
                         },
                         {
@@ -5333,7 +5333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh my, Yui, what's the matter? ...\\kw[1]"
+                                "Oh my, Yui, what's\nthe matter? ...\\kw[1]"
                             ]
                         },
                         {
@@ -5350,7 +5350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Moaning so much like that ...\\kw[1]"
+                                "Moaning so much\nlike that ...\\kw[1]"
                             ]
                         },
                         {
@@ -5403,7 +5403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Penis feels good. Thrust more, \\n[1]-kun."
+                                "Penis feels good. Thrust\nmore, \\n[1]-kun.\\kw[1]"
                             ]
                         },
                         {
@@ -5556,7 +5556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Remember it when we arrive at the inn, okay?"
+                                "Remember it when we\narrive at the inn, okay?"
                             ]
                         },
                         {
@@ -5911,7 +5911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ohh, \\n[1]-kun! \\n[1]-kun!"
+                                "Ohh, \\n[1]-kun!\\kw[1] \\n[1]-kun!\\kw[1]"
                             ]
                         },
                         {
@@ -5981,7 +5981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mo...! Deru......!"
+                                "I'm...! Cumming......!"
                             ]
                         },
                         {
@@ -6331,7 +6331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ohhh!"
+                                "Ohhh!\\kw[1]"
                             ]
                         },
                         {
@@ -6374,7 +6374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh my, kw"
+                                "Oh my, \\kw[1]"
                             ]
                         },
                         {
@@ -6420,7 +6420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]-kun's ejaculation ...\\kw[1] is really amazing...\n...\\kw[1]"
+                                "\\n[1]-kun's ejaculation ...\\kw[1]\nis really amazing......\\kw[1]"
                             ]
                         },
                         {
@@ -6480,7 +6480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "First, let's prioritize ventilating the car and deodorizing\nthe luggage, okay?"
+                                "First, let's prioritize\nventilating the car and\ndeodorizing the luggage, okay?"
                             ]
                         },
                         {
@@ -6556,7 +6556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a relief to have reliable Rio around."
+                                "It's a relief to have\nreliable Rio around."
                             ]
                         },
                         {
@@ -6627,7 +6627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I would like my mother to do that role, though~"
+                                "I would like my mother\nto do that role, though~"
                             ]
                         },
                         {

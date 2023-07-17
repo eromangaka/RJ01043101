@@ -5995,7 +5995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. It's warm with the two of us, isn't it?\\kw[1]"
+                                "Hehe\\kw[1]\\. It's warm with the\ntwo of us, isn't it?\\kw[1]"
                             ]
                         },
                         {
@@ -15317,7 +15317,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "They seemed really happy in their sleep, didn't they?\\kw[1]"
+                                "You seemed really happy in\nyour sleep, you know?\\kw[1]"
                             ]
                         },
                         {
@@ -15489,7 +15489,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yeah\\kw[1]\\. Did they see a good dream or something?"
+                                "Yeah\\kw[1]\\. Did you have a good\ndream or something?"
                             ]
                         },
                         {
@@ -15729,7 +15729,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe\\kw[1]\\. You tend to forget dreams once you wake up,\ndon't you?"
+                                "Hehe\\kw[1]\\. You tend to forget\ndreams once you wake\nup, don't you?"
                             ]
                         },
                         {
@@ -15848,7 +15848,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah, that's right\\kw[1]\\.. \\n[1], do you know?"
+                                "Ah, that's right\\kw[1]\\..\n\\n[1], do you know?"
                             ]
                         },
                         {
@@ -15865,7 +15865,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]The first dream seen on January 1st\\c[0] is rumored\n\\c[14]to often come true\\c[0]\\kw[1]"
+                                "\\c[14]The first dream seen on\nJanuary 1st\\c[0] is rumored \\c[14]to\noften come true\\c[0]\\kw[1]"
                             ]
                         },
                         {
@@ -15983,7 +15983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "We can be together until the end of the year this time......"
+                                "We can be together until the\nend of the year this time...."
                             ]
                         },
                         {
@@ -16102,7 +16102,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It would be nice if we could see good dreams again at that\ntime\\kw[1]"
+                                "It would be nice if we\ncould see good dreams\nagain at that time\\kw[1]"
                             ]
                         },
                         {
@@ -16308,7 +16308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well, \\. should we get up soon?"
+                                "Well,\\. should we get up soon?"
                             ]
                         },
                         {
@@ -16401,7 +16401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Today is \\c[14]Christmas\\c[0], isn't it~?\\kw[1]"
+                                "Today is \\c[14]Christmas\\c[0],\nisn't it~?\\kw[1]"
                             ]
                         },
                         {
