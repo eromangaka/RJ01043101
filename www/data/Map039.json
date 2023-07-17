@@ -2363,7 +2363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]-kun, you've been a good boy, haven't you?\\kw[1]"
+                                "\\n[1]-kun, you've been a\ngood boy, haven't you?\\kw[1]"
                             ]
                         },
                         {
@@ -2728,7 +2728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]-kun, I thought it wouldn't come because the address was\nwrong \\.."
+                                "\\n[1]-kun, I thought it wouldn't come\nbecause the address was wrong \\.."
                             ]
                         },
                         {
@@ -2948,7 +2948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(I'm glad I prepared properly, it was the right decision,\nYui)"
+                                "(I'm glad I prepared properly, it\nwas the right decision, Yui)"
                             ]
                         },
                         {
@@ -3090,7 +3090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(But, the important part starts from here, onee-chan...!)"
+                                "(But, the important part starts\nfrom here, onee-chan...!)"
                             ]
                         },
                         {
@@ -3325,7 +3325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shall we have breakfast after the present?\\kw[1]"
+                                "Shall we have breakfast\nafter the present?\\kw[1]"
                             ]
                         },
                         {
@@ -3407,7 +3407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, \\. I'm excited to see what's inside, aren't you?"
+                                "Hey,\\. I'm excited to see\nwhat's inside, aren't you?"
                             ]
                         },
                         {
@@ -4190,7 +4190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. That's great, isn't it \\n[1]-kun\\kw[1]"
+                                "Hehe\\kw[1]\\. That's great,\nisn't it \\n[1]-kun\\kw[1]"
                             ]
                         },
                         {
@@ -4374,7 +4374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(I can't believe ......, \\. \\c[14]I really want a\ncamera\\c[0] just like that...)"
+                                "(I can't believe ......\\. I really want a\n\\c[14]camera\\c[0] just like that...)"
                             ]
                         },
                         {
@@ -4489,7 +4489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(That \\c[14]fortune telling\\c[0] was really true...!)"
+                                "(That \\c[14]fortune telling\\c[0]\nwas really true...!)"
                             ]
                         },
                         {
@@ -4561,7 +4561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(Well, it was worth buying it for them...)"
+                                "(Well, it was worth\nbuying it for him...)"
                             ]
                         },
                         {
@@ -4650,7 +4650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(But it was mom who bought it, you know......)"
+                                "(But it was mom who bought\nit, you know......)"
                             ]
                         },
                         {
@@ -7306,7 +7306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...... By the way, where are \\. Yui and Rio?"
+                                "...... By the way, where are\\.\nYui and Rio's presents?"
                             ]
                         },
                         {
@@ -7496,7 +7496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah- ...\\. We are, um, ..."
+                                "Ah- ...\\. Ours are, um, ..."
                             ]
                         },
                         {
@@ -7589,7 +7589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, it's certainly strange that our share is missing!"
+                                "No, it's certainly strange\nthat our share is missing!"
                             ]
                         },
                         {
@@ -7661,7 +7661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a bit of a letdown not having presents on such a\nspecial Christmas, isn't it~......"
+                                "It's a bit of a letdown not having presents\non such a special Christmas, isn't it~...."
                             ]
                         },
                         {
@@ -7943,7 +7943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Really!? \\. What will you buy for me?"
+                                "Really!?\\. What will you buy for me?"
                             ]
                         },
                         {
@@ -8234,7 +8234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's ......\\. the thing for New Year's preparations, isn't\nit ...?"
+                                "That's ......\\. the thing for New\nYear's preparations, isn't it ...?"
                             ]
                         },
                         {
