@@ -1923,7 +1923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Will you talk to me again today, ......\\.?"
+                                "Will you talk to me\nagain today, ......\\kw[1]?"
                             ]
                         },
                         {
@@ -2135,7 +2135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Come on in, I'll make you a delicious cup of tea."
+                                "Come on in, I'll make you\na delicious cup of tea."
                             ]
                         },
                         {
@@ -2423,7 +2423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehehe \\kw[1]\\. That was surprising, wasn't it... \\kw[1]"
+                                "Hehehe \\kw[1]\\. That was\nsurprising, wasn't it... \\kw[1]"
                             ]
                         },
                         {
@@ -2583,7 +2583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, ......\\. something fell out of your pocket, ...?"
+                                "Oh, ......\\. something just\nfell out of your pocket ...?"
                             ]
                         },
                         {
@@ -2938,7 +2938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wow! Look at this photo!"
+                                ".... ! This photo!"
                             ]
                         },
                         {
@@ -2955,7 +2955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That person's ......"
+                                "That person is ......"
                             ]
                         },
                         {
@@ -3033,7 +3033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kanae-san ......"
+                                "K-Kanae-san ......"
                             ]
                         },
                         {
@@ -3400,7 +3400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Why is \\n[1] apologizing?"
+                                "W-why is \\n[1] apologizing?"
                             ]
                         },
                         {
@@ -3478,7 +3478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Because he seemed difficult to talk to."
+                                "Because you were having a\nhard time talking about it."
                             ]
                         },
                         {
@@ -3495,7 +3495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like they forcibly exposed ...."
+                                "I felt like I was forcing you to tell me ...."
                             ]
                         },
                         {
@@ -3565,7 +3565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I want to know the reason why Kanae-san looks lonely."
+                                "I wanted to know why Kanae-san looks so lonely..."
                             ]
                         },
                         {
@@ -3614,7 +3614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I thought maybe, and in the late night of that day ......"
+                                "I thought maybe, so I went there late at night ......"
                             ]
                         },
                         {
@@ -3780,7 +3780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The reason for coming home late at night ......\\.. It turns\nout, it was an affair after all ......."
+                                "The reason for coming home late\nat night ......\\.. It turns out\nit was an affair after all ......."
                             ]
                         },
                         {
@@ -3953,7 +3953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, I actually had a vague idea about it."
+                                "No, I actually had a\nvague idea about it."
                             ]
                         },
                         {
@@ -4002,7 +4002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That person coming home late and the constant phone calls to\ncheck what I'm doing ......"
+                                "That person coming home late\nand the constant phone calls\nto check what I'm doing ......"
                             ]
                         },
                         {
@@ -4077,7 +4077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Perhaps, \\. you know..."
+                                "Perhaps, \\.you know..."
                             ]
                         },
                         {
@@ -4201,7 +4201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I didn't have any evidence, so I was feeling confused all\nalong. ......"
+                                "I didn't have any evidence, so I\nwas feeling confused for a while. ...."
                             ]
                         },
                         {
@@ -4354,7 +4354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thanks to \\n[1]-kun, I feel refreshed now."
+                                "Thanks to \\n[1]-kun,\nI feel much better now.\\kw[1]"
                             ]
                         },
                         {
@@ -4555,7 +4555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]-kun, right?"
+                                "Hey... \\n[1]-kun ..."
                             ]
                         },
                         {
@@ -4649,7 +4649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Would you stay with me until tonight?"
+                                "Would you...\\. stay with\nme until tonight...?"
                             ]
                         },
                         {
@@ -4783,7 +4783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Of course, until that person comes back, right?"
+                                "Of course, until that\nperson comes home, right?"
                             ]
                         },
                         {
@@ -4952,7 +4952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I feel like I want to be with \\n[1]-kun ..."
+                                "I feel like being with you, \\n[1]-kun ..."
                             ]
                         },
                         {
@@ -4998,7 +4998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah"
+                                "Ah..."
                             ]
                         },
                         {
@@ -5199,7 +5199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14](I'll be alone again until my husband comes home...)"
+                                "\\c[14](You're all alone until your husband comes home...)"
                             ]
                         },
                         {
@@ -5216,7 +5216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14](How should I wait for my husband who cheated on me?\n......)"
+                                "\\c[14](How would I feel about waiting for my husband who\ncheats on me....)"
                             ]
                         },
                         {
@@ -5233,7 +5233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14](Kanae-san, I'm sure you don't understand)..."
+                                "\\c[14](Kanae-san, I am sure I don't understand....)"
                             ]
                         },
                         {
@@ -5344,7 +5344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......Yes! \\. If it's okay with me!"
+                                "......Yes! \\. If it's okay with you!"
                             ]
                         },
                         {
@@ -5608,7 +5608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thank you, \\n[1]-kun. ...\\"
+                                "Thank you, \\n[1]-kun...\\kw[1]"
                             ]
                         },
                         {
@@ -5721,7 +5721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm sorry, I became a little gloomy."
+                                "... I'm sorry. I became\na little gloomy."
                             ]
                         },
                         {
@@ -5845,7 +5845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's right!"
+                                "...That's right!"
                             ]
                         },
                         {
@@ -5862,7 +5862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Can you continue the story from earlier? Can you tell me?"
+                                "Can you continue the story\nfrom earlier? Can you tell me?"
                             ]
                         },
                         {
@@ -5879,7 +5879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "After a loud noise, I can't help but be curious about the\nlady. \\kw[1]"
+                                "I can't help but wonder about\nthe lady after the loud noise.\\kw[1]"
                             ]
                         },
                         {
@@ -6191,7 +6191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ohhh"
+                                "Ohh\\kw[1] Ooohhh\\kw[1]"
                             ]
                         },
                         {
@@ -6208,7 +6208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]-kun, ohhh"
+                                "\\n[1]-kun\\kw[1] ohh\\kw[1]\nooooohhhhh\\kw[1]"
                             ]
                         },
                         {
@@ -6362,7 +6362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1] was comforting Kanade in the bedroom where they used to\nspend time with her husband."
+                                "In the bedroom where she and her husband used to have\nsex, \\n[1] was comforting Kanade."
                             ]
                         },
                         {
@@ -6379,7 +6379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sex in a rough doggy-style position, as if planting\npleasure, to make her forget about her husband."
+                                "Sex to make her forget about her husband, in a rough\ndoggy-style position, as if to instill pleasure."
                             ]
                         },
                         {
@@ -6396,7 +6396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "He firmly grasped her waist and fixed Kanade's buttocks,\nrepeatedly thrusting deep into her vagina."
+                                "He firmly grasped her waist, holds Kanade's ass in place,\n and repeatedly thrusts deep into her vagina."
                             ]
                         },
                         {
@@ -6442,7 +6442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, \\n[1]-kun, \\n[1]-kun!"
+                                "Ahh\\kw[1] Nnn\\kw[1] Mmm\\kw[2]\n\\n[1]-kun\\kw[1], \\n[1]-kun!\\kw[2]"
                             ]
                         },
                         {
@@ -6459,7 +6459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thrust more ... \\kw[1] \\. Aunt's pussy ... \\kw[2]"
+                                "Thrust more ... \\kw[1] \\.\nInto Aunties's pussy ... \\kw[2]"
                             ]
                         },
                         {
@@ -6476,7 +6476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Make me feel even better"
+                                "Make me feel even better\\kw[1]"
                             ]
                         },
                         {
@@ -6594,7 +6594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh, it feels good there, it feels so good."
+                                "Ahh\\kw[1] it feels\\kw[2]good there, it feels\\kw[1]so good.\\kw[1]"
                             ]
                         },
                         {
@@ -6643,7 +6643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]-kun, oh"
+                                "\\n[1]-kun\\kw[1], oh\\kw[1]"
                             ]
                         },
                         {
@@ -6660,7 +6660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You can be rougher ..., ah \\kw[2] ah \\kw[2] ah \\kw[2]"
+                                "You can fuck me rougher...\\kw[2] ah\\kw[2] ah\\kw[2]"
                             ]
                         },
                         {
@@ -6677,7 +6677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please treat me roughly, Auntie."
+                                "Auntie wants you to mess her up\\kw[2]"
                             ]
                         },
                         {
@@ -6812,7 +6812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The sound of buttocks colliding and the obscene sound of\nlove juices and pre-cum mixing together, intertwining with\neach other, filling the room with a lewd atmosphere."
+                                "The sound of buttocks slapping and the obscene sound of\nlove juices and pre-cum mixing together, intertwining with\neach other, filling the room with a lewd atmosphere."
                             ]
                         },
                         {
@@ -6921,7 +6921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh, release it! \\n[1]-kun, release it!"
+                                "Ahh\\kw[1] Ahhhhh\\kw[2]\n\\n[1]-kun, let it out!"
                             ]
                         },
                         {
@@ -6955,7 +6955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh, creampie me harder"
+                                "Ahh\\kw[1], Ahh\\kw[2]\\.\nCum...\\kw[1] Inside me...\\kw[2]"
                             ]
                         },
                         {
@@ -7110,7 +7110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh... ah... nnn..."
+                                "Oh..\\kw[2] ah...\\kw[1]\nNnnnnnnnn...\\kw[2]"
                             ]
                         },
                         {
@@ -7308,7 +7308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nn... Ohh..."
+                                "Nn...\\kw[1] Ohh...\\kw[2]"
                             ]
                         },
                         {
@@ -7431,7 +7431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thrust harder, please!"
+                                "I'll thrust my penis more!"
                             ]
                         },
                         {
@@ -7489,7 +7489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah"
+                                "Ah...\\kw[1]"
                             ]
                         },
                         {
@@ -7678,7 +7678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh!"
+                                "Aah!\\kw[2]"
                             ]
                         },
                         {
@@ -7759,7 +7759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, oh, \\n[1]-kun, \\n[1]-kun."
+                                "Ah\\kw[1] Aahhhh\\kw[1]\n\\n[1]-kun\\kw[2] \\n[1]-kun\\kw[2]"
                             ]
                         },
                         {
@@ -7917,7 +7917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, ah, I'm happy!"
+                                "Ah\\kw[1] ah\\kw[1]\nI'm so happy!\\kw[2]"
                             ]
                         },
                         {
@@ -7934,7 +7934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]-kun's penis feels good."
+                                "\\n[1]-kun's penis\\kw[1] feels so good\\kw[2]"
                             ]
                         },
                         {
@@ -7951,7 +7951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thrust more! Ah! Oh! Oh!"
+                                "Thrust more!\\kw[1] Ah\\kw[2]\nOoohhh\\kw[1] Ohh\\kw[2]"
                             ]
                         },
                         {
@@ -8103,7 +8103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, oh, it feels good."
+                                "Ah\\kw[1] oh\\kw[1]\\. it feels good\\kw[2]"
                             ]
                         },
                         {
@@ -8120,7 +8120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]-kun ..., \\n[1]-kun \\kw[1] \\., \\n[1]-kun \\kw[2]."
+                                "\\n[1]-kun\\kw[1] \\. \\n[1]-kun\\kw[2]"
                             ]
                         },
                         {
@@ -8317,7 +8317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh, I'm happy! Ohh"
+                                "Ahh\\kw[1] I'm so happy!\\kw[1] Ohh\\kw[2]"
                             ]
                         },
                         {
@@ -8334,7 +8334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please make me feel even better."
+                                "Make me feel even better\\kw[1]"
                             ]
                         },
                         {
@@ -8351,7 +8351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Aunt's vagina, pound it hard."
+                                "Auntie's vagina\\kw[1] pound it hard\\kw[2]"
                             ]
                         },
                         {
@@ -8493,7 +8493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, \\n[1]-kun, \\n[1]-kun!"
+                                "Ohh\\kw[1] Aaahhhh\\kw[1]\n\\n[1]-kun\\kw[1] \\n[1]-kun\\kw[2]!"
                             ]
                         },
                         {
@@ -8628,7 +8628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh, it feels good, ahh"
+                                "Ahh\\kw[1] Ahh\\kw[2]\nit feels good\\kw[2] Aaahhh\\kw[1]"
                             ]
                         },
                         {
@@ -8645,7 +8645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My penis is getting hard."
+                                "Your penis is getting harder\\kw[1]"
                             ]
                         },
                         {
@@ -8662,7 +8662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Are you about to cum? Is your semen about to come out?"
+                                "Are you about to cum?\\kw[1]\nIs your semen about to come out?\\kw[2]"
                             ]
                         },
                         {
@@ -8757,7 +8757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's about time! Let's go again!"
+                                "It's almost time again!"
                             ]
                         },
                         {
@@ -8803,7 +8803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh, ahh, cum inside, \\n[1]-kun."
+                                "Ahh\\kw[1] Ahh\\kw[1]\nCum inside, \\n[1]-kun\\kw[2]!"
                             ]
                         },
                         {
@@ -8820,7 +8820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Again, fill my pussy with lots of cum."
+                                "Again...\\kw[1] fill my\npussy with cum\\kw[1]"
                             ]
                         },
                         {
@@ -8837,7 +8837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh, ohh, oohh"
+                                "Ahh\\kw[1] Ohh\\kw[2] Ooohhh\\kw[2]"
                             ]
                         },
                         {
@@ -8932,7 +8932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cum inside my pussy! Ah! I'm cumming!"
+                                "Cum inside your pussy! Ah! I'm cumming!"
                             ]
                         },
                         {
@@ -9031,7 +9031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ohh \\kw[2] Mmm \\kw[1]"
+                                "Ohh \\kw[2] Nnnnnnn \\kw[1]"
                             ]
                         },
                         {
@@ -9190,7 +9190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Haa... Haa..."
+                                "Haa...\\.\\kw[1] aaa...\\kw[1]"
                             ]
                         },
                         {
@@ -9260,7 +9260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nn"
+                                "Nn...\\kw[1]"
                             ]
                         },
                         {
@@ -9277,7 +9277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thank you, \\n[1]-kun. ......\\"
+                                "Thank you, \\n[1]-kun ......\\kw[1]"
                             ]
                         },
                         {
@@ -9294,7 +9294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please move your hips a lot for me, Auntie."
+                                "For your Auntie....\nShake your hips a lot...\\kw[1]"
                             ]
                         },
                         {
@@ -9453,7 +9453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kanade-san forgets about her husband ...."
+                                "So that Kanade-san forgets about her husband ...."
                             ]
                         },
                         {
@@ -9470,7 +9470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We need to have more intense sex, ...!"
+                                "We need to have more intense sex ...!"
                             ]
                         },
                         {
@@ -9516,7 +9516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah"
+                                "Ah...."
                             ]
                         },
                         {
@@ -9703,7 +9703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh..."
+                                "Ooohhh...\\kw[2]"
                             ]
                         },
                         {
@@ -9821,7 +9821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, no!"
+                                "Aahh\\kw[1] Stop!\\kw[1]"
                             ]
                         },
                         {
@@ -9838,7 +9838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I just came, so..."
+                                "Auntie just came, so...\\kw[2]"
                             ]
                         },
                         {
@@ -9855,7 +9855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, I'm going to... I'm going to... again!"
+                                "OOhh\\kw[1] Ooohhh\\kw[2]\nCumming\\kw[1] Cumming again...!\\kw[2]"
                             ]
                         },
                         {
@@ -10274,7 +10274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nn... haa... ahh..."
+                                "Nn...\\kw[1] Haa...\\kw[1] Ahh...\\kw[1]"
                             ]
                         },
                         {
@@ -10308,7 +10308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Too much..., you know...!"
+                                "Too much... you know...!\\kw[1]"
                             ]
                         },
                         {
@@ -10444,7 +10444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]-kun, you're already..."
+                                "Oh...\\kw[1] \\n[1]-kun...\\kw[1]"
                             ]
                         },
                         {
@@ -10709,7 +10709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nn..."
+                                "Nn...\\kw[1]"
                             ]
                         },
                         {
@@ -10818,7 +10818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, I'm fine."
+                                "....\\kw[1] Yeah....\\kw[2]"
                             ]
                         },
                         {
@@ -10935,7 +10935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Very young and manly."
+                                "Very young and manly...\\kw[1]"
                             ]
                         },
                         {
@@ -10984,7 +10984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Intercourse with a very hard penis."
+                                "Sex with a very hard penis...\\kw[1]"
                             ]
                         },
                         {
@@ -11059,7 +11059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It was a very adult-like sex. ......\\"
+                                "It was a very adult-like sex. ......\\kw[1]"
                             ]
                         },
                         {
@@ -11193,7 +11193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, \\n[1]-kun"
+                                "Hey, \\n[1]-kun...\\kw[1]"
                             ]
                         },
                         {
@@ -11259,7 +11259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nn...chu...re...chu..."
+                                "Nn...\\kw[1]chu...\\kw[1]re...\\kw[2]"
                             ]
                         },
                         {
@@ -11337,7 +11337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah"
+                                "Ah..."
                             ]
                         },
                         {
@@ -11504,7 +11504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe...!"
+                                "Hehe...!\\kw[1]"
                             ]
                         },
                         {
@@ -11553,7 +11553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thank you for listening to Auntie's request."
+                                "Thank you for listening\nto Auntie's request...\\kw[1]"
                             ]
                         },
                         {
@@ -11570,7 +11570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sex with \\n[1]-kun was really good."
+                                "Sex with \\n[1]-kun...\\kw[1]\nit was really good...\\kw[1]"
                             ]
                         },
                         {
@@ -11791,7 +11791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Can I ask for a favor again?"
+                                "Can I ask for a favor again? \\kw[1]"
                             ]
                         },
                         {
@@ -11952,7 +11952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Like today, ......\\kw[1] again."
+                                "Like today ......\\kw[1] again."
                             ]
                         },
                         {
@@ -11969,7 +11969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I want you to insert your penis ...\\kw[1]"
+                                "I want you to insert\nyour penis ...\\kw[1]"
                             ]
                         },
                         {
@@ -12343,7 +12343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah"
+                                "Ah..."
                             ]
                         },
                         {
@@ -12392,7 +12392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]-kun ......\\"
+                                "\\n[1]-kun ......\\kw[1]"
                             ]
                         },
                         {
@@ -12631,7 +12631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Do you want a more intense kiss?"
+                                "Do you want a more intense kiss...? \\kw[1]"
                             ]
                         },
                         {
@@ -12648,7 +12648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Can I make you forget about that person?"
+                                "Can I make you forget about that person? \\kw[1]"
                             ]
                         },
                         {
@@ -13052,7 +13052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14](My husband came home!)...!"
+                                "\\c[14](Her husband came home!)...!"
                             ]
                         },
                         {
@@ -13130,7 +13130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]-kun is hiding here!"
+                                "\\n[1]-kun, stay\nhere and hide!"
                             ]
                         },
                         {
@@ -13147,7 +13147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I will handle it. ..."
+                                "I will handle it ..."
                             ]
                         },
                         {
@@ -13453,7 +13453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "U-Um, earlier a police officer came by and talked about how\nthings have been dangerous lately..."
+                                "U-Um, earlier a police officer\ncame by and talked about how things\nhave been dangerous lately..."
                             ]
                         },
                         {
@@ -13502,7 +13502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm sorry, I usually don't lock the door. ..."
+                                "I'm sorry, I usually\ndon't lock the door ..."
                             ]
                         },
                         {
@@ -13649,7 +13649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, I'm sorry. It's not ready yet. ......"
+                                "Oh, I'm sorry. It's\nnot ready yet ......"
                             ]
                         },
                         {
@@ -14067,7 +14067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, now is the time."
+                                "Yes, for now....."
                             ]
                         },
                         {
@@ -14201,7 +14201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Already"
+                                "Oh...."
                             ]
                         },
                         {
@@ -14250,7 +14250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm fine."
+                                "I'll be okay..."
                             ]
                         },
                         {
@@ -14325,7 +14325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "More importantly, the promise"
+                                "More importantly,\nthe promise.... \\lw[1]"
                             ]
                         },
                         {
@@ -14669,7 +14669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe, I'm glad..."
+                                "Hehe \\kw[1] I'm glad... \\kw[1]"
                             ]
                         },
                         {
@@ -14912,7 +14912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Promise, \\n[1]-kun"
+                                "Promise, \\n[1]-kun...\\kw[1]"
                             ]
                         },
                         {
