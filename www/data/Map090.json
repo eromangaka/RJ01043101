@@ -1770,7 +1770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: Mentaiko Hunter is"
+                                "Kouta: Mentaiko hunting is"
                             ]
                         },
                         {
@@ -1828,7 +1828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kouta: \\<\\Mentaiko Hunter\\c[0] has appeared in this town!"
+                                "\\>Kouta: \\<\\Mentaiko hunting\\c[0] has appeared in this town!"
                             ]
                         },
                         {
@@ -1975,7 +1975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mentaiko Hunter?"
+                                "Mentaiko hunting?"
                             ]
                         },
                         {
@@ -5305,7 +5305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Our goal is \\c[14]Mentaiko Hunter\\c[0]!"
+                                "Our goal is \\c[14]Mentaiko Hunting\\c[0]!"
                             ]
                         },
                         {
@@ -5344,7 +5344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let's all defeat the \\c[14]Mentaiko Hunter\\c[0] in this\ntown together!"
+                                "Let's all defeat the \\c[14]Mentaiko Hunting\\c[0] in this\ntown together!"
                             ]
                         },
                         {
@@ -5650,7 +5650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We will defeat \\c[14]Mentaiko Hunter\\c[0]!"
+                                "We will defeat \\c[14]Mentaiko Hunting\\c[0]!"
                             ]
                         },
                         {
@@ -5726,7 +5726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mentaiko Hunter has appeared in this town!\n\\c[14]Right-click\\c[0] on suspicious people to challenge them!"
+                                ">Mentaiko hunting that is said to be occurring in this town!\nRight-click on suspicious people and try to engage them in\nconversation. Let's set up a trap for the Mentaiko!"
                             ]
                         },
                         {

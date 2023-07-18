@@ -1424,7 +1424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: Aargh, I lose again! You're so strong \\n[1]!"
+                                "\\> \\n[1] is really strong, huh~!"
                             ]
                         },
                         {
@@ -1441,7 +1441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shiori: Your growth is really something, \\n[1]"
+                                "\\>Shiori: \\n[1] is really amazing, huh? He's growing so\nquickly, isn't he?"
                             ]
                         },
                         {
@@ -1472,7 +1472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe, really?"
+                                "Ehehe, is that so? ..."
                             ]
                         },
                         {
@@ -1602,14 +1602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Really! I do think \\n[1]-kun"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "has a talent for mentai!"
+                                "Yes! I still think \\n[1]-kun has a talent for mentai!"
                             ]
                         },
                         {
@@ -1626,14 +1619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Why don't you try aiming to become"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "a \\c[14]professional mentai player?\\c[0]"
+                                "\\c[14]Why don't you try aiming to become a professional\nmentai player?\\c[0]"
                             ]
                         },
                         {
@@ -1711,7 +1697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh?! Me?!"
+                                "Huh?! Me!?"
                             ]
                         },
                         {
@@ -1751,7 +1737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: Yeah, he has such potential"
+                                "\\>Kouta: \\<Certainly, he has that kind of ability."
                             ]
                         },
                         {
@@ -1768,7 +1754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: Even you were on par with Mentai-kun last summer"
+                                "\\>Kouta: \\<Even half a year ago, it felt like a fifty-fifty\nmatch between Mentai- kun and \\< \\<."
                             ]
                         },
                         {
@@ -1785,7 +1771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shiori: Right, maybe you should get a \\c[14]professional license\\c[0]?"
+                                "Shiori: That's right, huh? \\<... \\< Why don't you try aiming\nfor a professional license?"
                             ]
                         },
                         {
@@ -1802,7 +1788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shiori: Right, Akari?"
+                                "Shiori: Hey, Akari?"
                             ]
                         },
                         {
@@ -1858,7 +1844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'd love to see that \\kw[1]"
+                                "Yeah, I think that's a good idea."
                             ]
                         },
                         {
@@ -1875,14 +1861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If \\n[1]-kun decides to pursue this path,"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "I'd be happy too \\kw[1]"
+                                "If \\n[1]-kun decides to pursue this path, I would be happy\ntoo."
                             ]
                         },
                         {
@@ -1944,7 +1923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: Oh, maybe we should decide on \\c[14]Mentai Name\\c[0] too!"
+                                "\\>Kouta: \\<......Oh! If that happens, we should come up with\na \\<\\c[14]mentai name\\c[0]!"
                             ]
                         },
                         {
@@ -2066,7 +2045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shiori: Think of it like a pen name or stage name"
+                                "\\>Shiori: \\<\\About the \\c[0]c[14]activity name when you\nbecome a professional."
                             ]
                         },
                         {
@@ -2083,14 +2062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: Mentai-kun and Akari-chan are registered using"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "their real names"
+                                "\\>Kouta: \\<Mentai-kun and Akari-chan are registered as\nplayers with their real names \\>   \\<as they are, but ......"
                             ]
                         },
                         {
@@ -2107,14 +2079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: But you're allowed to choose your own"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]Mentai Name\\c[0] if you wish so"
+                                "\\>Kouta: \\<It's okay to have a more flashy, \\>\\<cool name."
                             ]
                         },
                         {
@@ -2157,14 +2122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: If I were to become a professional, I plan to"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "register with flashy name such as \\c[14]Dangerous Kouta\\c[0]!"
+                                "\\>Kouta: \\<If I were to become a professional, I plan to\nregister as \\> \\<\\c[14]Dangerous Kouta\\c[0]!"
                             ]
                         },
                         {
@@ -2203,14 +2161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shiori: It'd be better if come up with a good name"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "so you won't embarrass yourself in the future..."
+                                "\\>Shiori: I think it would be better to come up with a\nbetter name so that \\> \\<we won't be embarrassed when we\nbecome adults...."
                             ]
                         },
                         {
@@ -2314,7 +2265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahaha..."
+                                "Ahahaha ......"
                             ]
                         },
                         {
@@ -2464,7 +2415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: Still, talent, huh...?"
+                                "\\>Kouta: \\<However, \\c[14]talent\\c[0]......\n\\>   \\<\\c[14]talent\\c[0], huh?......"
                             ]
                         },
                         {
@@ -2587,7 +2538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What's wrong, Kouta-kun?"
+                                "What's wrong? \\. Kouta-kun, suddenly ......."
                             ]
                         },
                         {
@@ -2649,7 +2600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: Not really, it's just..."
+                                "\\>Kouta: \\<No way ......"
                             ]
                         },
                         {
@@ -2688,14 +2639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: I know some players gave up on pros"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "because of their lack of talent"
+                                "\\>Kouta: \\<\\I know about the \\c[0]players who quit being\nprofessionals due to their lack of \\<talent, you know......."
                             ]
                         },
                         {
@@ -2712,14 +2656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: Whenever I see \\n[1] and Akari-chan's growth,"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "I get some doubts about myself"
+                                "\\>Kouta: \\<When I see the growth of \\n[1] and Akari-chan,\nsometimes I wonder about myself, you know..."
                             ]
                         },
                         {
@@ -2878,7 +2815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shiori: You're right..."
+                                "\\>Shiori: \\<That's right........."
                             ]
                         },
                         {
@@ -2895,14 +2832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shiori: Even though I'm the same age as Akari-chan"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "I feel like I have so much to catch up with her"
+                                "\\>Shiori: \\<Even though I'm the same age as Akari-chan,\n\\>   \\<I feel like I'm still stuck in one place."
                             ]
                         },
                         {
@@ -2919,7 +2849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shiori: Sometimes I really wonder if I could become a pro"
+                                "\\>Shiori: I sometimes get worried about whether I can really\nbecome a professional \\<..."
                             ]
                         },
                         {
@@ -2965,7 +2895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh..."
+                                "Everyone ......"
                             ]
                         },
                         {
@@ -3062,7 +2992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Stop it, you two!"
+                                "What are you two even saying anymore, ......!"
                             ]
                         },
                         {
@@ -3079,14 +3009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's not about talent that"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "blooms early or late!"
+                                "It's not about whether talent blooms early or late!"
                             ]
                         },
                         {
@@ -3157,14 +3080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Many professionals who reach such"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "level are adults too, you know?"
+                                "There are also people who become professional mentors after\nbecoming adults, you know. ......"
                             ]
                         },
                         {
@@ -3301,7 +3217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: Akari-chan..."
+                                "\\>Kouta: \\<Akari-chan, ........."
                             ]
                         },
                         {
@@ -3340,7 +3256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: ......"
+                                "Kouta: \\<............"
                             ]
                         },
                         {
@@ -3409,7 +3325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: Y-Yeah, I got this!"
+                                "Kouta: Y-Yeah, that's right!"
                             ]
                         },
                         {
@@ -3452,7 +3368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: Sorry, I got a little pessimistic"
+                                "\\>Kouta: \\<Sorry, I got a little sentimental!"
                             ]
                         },
                         {
@@ -3469,7 +3385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shiori: Uh, yeah..."
+                                "\\>Shiori: \\<Yes, that's right. ......"
                             ]
                         },
                         {
@@ -3486,14 +3402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shiori: Each to their own growth I think,"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "so we shouldn't compare each other"
+                                "\\>Shiori: \\<I am who I am, so there's no point in comparing\nmyself to others!"
                             ]
                         },
                         {
@@ -3537,14 +3446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: ...Alright! If that's the case,"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "then I still have a lot of training to do!"
+                                "\\>Kouta: \\<......Alright! \\>If that's the case, I still have\na lot of training to do!"
                             ]
                         },
                         {
@@ -3561,7 +3463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: \\n[1], please play with me for a few more matches!"
+                                "\\>Kouta: \\<\\n[1], \\>please accompany me for a few more\nbattles!"
                             ]
                         },
                         {
@@ -3617,7 +3519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sure!"
+                                "Yes!"
                             ]
                         },
                         {
@@ -3704,7 +3606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I spent time with everyone from mentaiko group!"
+                                ">I spent time with everyone from the mentaiko group like\nthis!"
                             ]
                         },
                         {
@@ -3721,14 +3623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I was able to have a grip on my own strength"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "from today's match! Let's keep improving!"
+                                ">I was able to feel my own strength in today's match! From\nnow on, let's continue to accumulate experiences and level\nup together!"
                             ]
                         },
                         {
