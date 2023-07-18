@@ -1485,7 +1485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like your skills haven't declined!"
+                                "Wow! You're still skilled as ever!"
                             ]
                         },
                         {
@@ -1548,7 +1548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe, do you think so?"
+                                "You think so?"
                             ]
                         },
                         {
@@ -1565,7 +1565,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I was able to play with Akari-chan after a long time ..."
+                                "I haven't played with Akari-chan"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "for so long"
                             ]
                         },
                         {
@@ -1582,7 +1589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I got a little carried away."
+                                "So I might overdid it"
                             ]
                         },
                         {
@@ -1618,7 +1625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe, I can't afford to lose either."
+                                "It's okay, I gave my all too \\kw[1]"
                             ]
                         },
                         {
@@ -1693,7 +1700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "After winning the mentai, \\c[14] right-click to check the\nexperience points \\c[0] and ......."
+                                "You'll \\c[14]gain experience\\c[0] by winning"
                             ]
                         },
                         {
@@ -1742,7 +1749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Don't forget to level up properly, okay?"
+                                "So keep leveling up, okay? \\kw[1]"
                             ]
                         },
                         {
@@ -1808,7 +1815,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kouta: \\<That's right! \\cIf you don't level up, you won't\nbe able to win against strong opponents, you know? \\> \\<"
+                                "Kouta: That's right! You can't win against \\c[14]strong opponents\\c[0]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "if you don't level up, you know?"
                             ]
                         },
                         {
@@ -1825,7 +1839,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kouta: \\<If you don't level up, you won't be able to\nwithstand \\c[14]the opponent's attacks\\c[0], and\n\\>   \\<\\c[14]the power of the mentai and HP will remain\nlow\\c[0]."
+                                "Kouta: Since your \\c[14]HP and ATK willbe too low\\c[0]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "to keep up against them"
                             ]
                         },
                         {
@@ -1842,7 +1863,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: \\<That's right,...... if there's a level\ndifference between \\>   \\<you and your opponent,......"
+                                "Shiori: Also keep in mind, if there's a big level"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "difference between you and your opponent..."
                             ]
                         },
                         {
@@ -1885,7 +1913,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: \\<\\I've also heard that there are times when the\n\\c[0]One-Hit Kill skill doesn't activate even when you stop\nthe bar at its maximum \\<power."
+                                "Shiori: Your chance to \\c[14]trigger one-hit kill at maximum bar\\c[0]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "will be disabled"
                             ]
                         },
                         {
@@ -1931,7 +1966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14](I didn't know there was such an element...)"
+                                "\\c[14](I never knew that...)\\c[0]"
                             ]
                         },
                         {
@@ -1955,7 +1990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The mentai rules are evolving day by day, you know. \\kw[1]"
+                                "Mentai's ruling keeps evolving, you know \\kw[1]"
                             ]
                         },
                         {
@@ -2065,7 +2100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, that's right."
+                                "Oh, that's right"
                             ]
                         },
                         {
@@ -2114,7 +2149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "How about trying to fight with people other than us?"
+                                "How about trying to challenge other people?"
                             ]
                         },
                         {
@@ -2192,7 +2227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With people other than us in the mentai game?"
+                                "Other than us?"
                             ]
                         },
                         {
@@ -2265,7 +2300,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A while ago, Kouta also mentioned it, but now it's an era\nwhere even adults play mentai."
+                                "As Kouta-kun mentioned, \\c[14]adults\\c[0] here are"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "also enjoying mentai now"
                             ]
                         },
                         {
@@ -2282,7 +2324,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "At least I think most people in this town are playing\nmentai, ......"
+                                "At least most people in"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "this town play mentai"
                             ]
                         },
                         {
@@ -2331,7 +2380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "How about challenging various people and trying to level up?"
+                                "Maybe we should challenge them to level up?"
                             ]
                         },
                         {
@@ -2393,7 +2442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kouta: \\<Oh, that sounds great! \\>   \\<It seems\ninteresting!"
+                                "Kouta: Oh, that sounds great!"
                             ]
                         },
                         {
@@ -2410,7 +2459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: \\<That's true. ......We were getting tired of the\nsame faces, ..."
+                                "Shiori: We've only been playing in this hideout"
                             ]
                         },
                         {
@@ -2427,7 +2476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shiori: Challenging various people in town and training\nwouldn't be a bad idea."
+                                "Shiori: Maybe playing with other people from the town"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "wouldn't be a bad idea."
                             ]
                         },
                         {
@@ -2505,7 +2561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...That's right."
+                                "You're right"
                             ]
                         },
                         {
@@ -2548,7 +2604,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It might be a good experience to battle against different\npeople!"
+                                "We can improve our skill"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "better that way"
                             ]
                         },
                         {
@@ -2584,7 +2647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe, I'm glad you're getting motivated \\kw[1]\\."
+                                "Glad to see you get motivated \\kw[1]"
                             ]
                         },
                         {
@@ -2601,7 +2664,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well then, let's disband for today and gather again next\ntime!"
+                                "It's time, let's disband for today"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "and gather again another time!"
                             ]
                         },
                         {
@@ -2663,7 +2733,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kouta: \\<Ah, that's right! \\>   \\<Let's level up and have\nanother battle with everyone!"
+                                "Kouta: Huh, it's time already?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Alright, you keep leveling up, okay!"
                             ]
                         },
                         {
@@ -2702,7 +2779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: \\<I agree~! \\>   \\<Next time, I won't lose, \\n[1]!"
+                                "Shiori: Yup! I won't lose next time, \\n[1]!"
                             ]
                         },
                         {
@@ -2726,7 +2803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehehe ......"
+                                "Okay!"
                             ]
                         },
                         {
@@ -2743,7 +2820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Alright! \\. I'll do my best too!"
+                                "Alright!\\. Let's keep leveling up!"
                             ]
                         },
                         {
@@ -2830,7 +2907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I spent time with these children!"
+                                "I spent time playing with them"
                             ]
                         },
                         {
@@ -2847,7 +2924,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like now even adults are playing Mentai! \\. I have\nto battle with people other than Mentai players and improve\nmy skills even more!"
+                                "Since adults in this town are playing mentai,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "let's gain plenty of \\c[14]experience\\c[0] by challenge them!"
                             ]
                         },
                         {
