@@ -1497,7 +1497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You've become quite handsome, \\n[1]-kun."
+                                "You've become quite a man \\n[1]-kun \\kw[1]"
                             ]
                         },
                         {
@@ -1560,7 +1560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, really?"
+                                "R-Really?"
                             ]
                         },
                         {
@@ -1600,7 +1600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: So, \\n[1]-kun has also been training, huh? \\kw[1]"
+                                "Shiori: I see \\n[1]-kun has been training diligently \\kw[1]"
                             ]
                         },
                         {
@@ -1639,7 +1639,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kouta: \\<Let's try mentaiko right away, \\n[1]!"
+                                "Kouta: Hey \\n[1], let's have a match and"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "show me the result of your training!"
                             ]
                         },
                         {
@@ -1656,7 +1663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kouta: \\<I'll show you the power I've gained from my\ntraining!"
+                                "Kouta: I'll show you the result of my training!"
                             ]
                         },
                         {
@@ -1763,7 +1770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14](Kouta-kun also seems to have become a little more\ncourageous......)"
+                                "\\c[14](Kouta-kun seems very confident)\\c[0]"
                             ]
                         },
                         {
@@ -1834,7 +1841,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14](Everyone has become stronger through training!...!)"
+                                "\\c[14](Must be because they've"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "been training hard)\\c[0]"
                             ]
                         },
                         {
@@ -1919,7 +1933,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well then, shall we have a match like we did the other day?"
+                                "Then, shall we have a match"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "just like before?"
                             ]
                         },
                         {
@@ -1968,7 +1989,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll show you the skills of the leveled-up \\n[1]-kun!"
+                                "Please show us the result of"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "your training \\n[1]-kun \\kw[1]"
                             ]
                         },
                         {
@@ -2101,7 +2129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">I spent time with the mentaiko gang like this!"
+                                "I spent time with the mentaiko group!"
                             ]
                         },
                         {
@@ -2118,7 +2146,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">A rematch with everyone who has gained strength! I have\nleveled up my skills, so I want everyone to see them!"
+                                "A rematch against everyone here who has leveled up"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "surely will be fun!"
                             ]
                         },
                         {
