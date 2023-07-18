@@ -1390,7 +1390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, ...\\. it's about time this year came to an end, huh\n..."
+                                "Well, ...\\. it's about time this\nyear came to an end, huh ..."
                             ]
                         },
                         {
@@ -1450,7 +1450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Really, a year goes by in the blink of an eye, doesn't\nit......"
+                                "Really, a year goes by in the blink\nof an eye, doesn't it......"
                             ]
                         },
                         {
@@ -1510,7 +1510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Every time I get older, I'm troubled by how quickly time\nflies......"
+                                "Every time I get older, I'm troubled\nby how quickly time flies......"
                             ]
                         },
                         {
@@ -1654,7 +1654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Already ......\\. having such an old-fashioned conversation\nfrom the morning ......"
+                                "Already ......\\. having such an old-fashioned\nconversation from the morning ......"
                             ]
                         },
                         {
@@ -1752,7 +1752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm looking forward to \\c[14]New Year's Eve\\c[0] though."
+                                "I'm looking forward to\n\\c[14]New Year's Eve\\c[0] though."
                             ]
                         },
                         {
@@ -2031,7 +2031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Stalls \\c[14]set up\\c[0] on the approach to that shrine on\nNew Year's Eve\\kw[1]."
+                                "Stalls \\c[14]set up\\c[0] on the approach to\nthat shrine on New Year's Eve\\kw[1]."
                             ]
                         },
                         {
@@ -2252,7 +2252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Umm...\\. I wonder if you call it a festival...huh?"
+                                "Umm...\\. I wonder if you\ncall it a festival...huh?"
                             ]
                         },
                         {
@@ -2312,7 +2312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, it's like a festival on the eve of the first shrine\nvisit of the New Year, isn't that also a festival?"
+                                "Well, it's like a festival on the\neve of the first shrine visit of the\nNew Year, isn't that also a festival?"
                             ]
                         },
                         {
@@ -2384,7 +2384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]Shooting game\\c[0] and \\c[14]Ring toss\\c[0] are there\ntoo\\kw[1]"
+                                "\\c[14]Shooting game\\c[0] and\n\\c[14]Ring toss\\c[0] are there too\\kw[1]"
                             ]
                         },
                         {
@@ -2656,7 +2656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, \\n[1] is so dazzling that I can't look at him\ndirectly......"
+                                "Well, \\n[1] is so dazzling that I\ncan't look at him directly......"
                             ]
                         },
                         {
@@ -2728,7 +2728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. When I look at \\n[1], I feel energized\\kw[1]"
+                                "Hehe\\kw[1]\\. When I look at\n\\n[1], I feel energized\\kw[1]"
                             ]
                         },
                         {
@@ -2777,7 +2777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then, shall we go out and play as a family on New Year's\nEve?"
+                                "Then, shall we go out and play\nas a family on New Year's Eve?"
                             ]
                         },
                         {
@@ -2794,7 +2794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uncle has also started wanting to show off his shooting game\nskills after a long time."
+                                "Uncle has also started wanting to show off\nhis shooting game skills after a long time."
                             ]
                         },
                         {
@@ -2966,7 +2966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Back in my youth, I was known by the nickname of Masakazu,\nthe game stall master."
+                                "Back in my youth, I was known by the nickname\nof Masakazu, the game stall master."
                             ]
                         },
                         {
@@ -3139,7 +3139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then, shall we spend the night of the 31st at the shrine?\n\\kw[1] \\c [14] \\c [0]"
+                                "Then, shall we spend the night of\nthe \\c[14]31st\\c[0] at the shrine?\\kw[1]"
                             ]
                         },
                         {
@@ -3199,7 +3199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder if we should eat some candy apples from the stall,\nit's been a while\\kw[1]"
+                                "I wonder if we should eat some candy apples\nfrom the stall, it's been a while\\kw[1]"
                             ]
                         },
                         {
@@ -3297,7 +3297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh~ That sounds good~ \\. Please take care of my portion too\n\\kw[1]"
+                                "Oh~ That sounds good~ \\. Please\ntake care of my portion too\\kw[1]"
                             ]
                         },
                         {
@@ -3369,7 +3369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1] I'm looking forward to it, \\n[1]-kun."
+                                "Hehe\\kw[1] I'm looking\nforward to it, \\n[1]-kun."
                             ]
                         },
                         {
