@@ -49,7 +49,7 @@
             }
         ],
         "gold": 0,
-        "name": "【24~26】MPは推奨レベル、経験値は種類",
+        "name": "【24~26】MP is the recommended level, experience is the type",
         "note": "",
         "params": [
             100,
@@ -118,7 +118,7 @@
             }
         ],
         "gold": 0,
-        "name": "山登りおじさん",
+        "name": "Mountain Climbing Uncle",
         "note": "",
         "params": [
             300,
@@ -187,7 +187,7 @@
             }
         ],
         "gold": 0,
-        "name": "走り回る女",
+        "name": "Running Woman",
         "note": "",
         "params": [
             300,
@@ -256,7 +256,7 @@
             }
         ],
         "gold": 0,
-        "name": "引きこもりの女",
+        "name": "Reclusive Woman",
         "note": "",
         "params": [
             290,
@@ -325,7 +325,7 @@
             }
         ],
         "gold": 0,
-        "name": "お兄ちゃん",
+        "name": "Big Brother",
         "note": "",
         "params": [
             280,
@@ -394,7 +394,7 @@
             }
         ],
         "gold": 0,
-        "name": "妹ちゃん",
+        "name": "Little Sister",
         "note": "",
         "params": [
             270,
@@ -463,7 +463,7 @@
             }
         ],
         "gold": 0,
-        "name": "一人になりたい男",
+        "name": "Man Who Wants to Be Alone",
         "note": "",
         "params": [
             350,
@@ -532,7 +532,7 @@
             }
         ],
         "gold": 0,
-        "name": "１年短いおじさん",
+        "name": "One-Year Short Uncle",
         "note": "",
         "params": [
             150,
@@ -601,7 +601,7 @@
             }
         ],
         "gold": 0,
-        "name": "ならない女",
+        "name": "Unyielding Woman",
         "note": "",
         "params": [
             150,
@@ -670,7 +670,7 @@
             }
         ],
         "gold": 0,
-        "name": "努力の女",
+        "name": "Woman of Effort",
         "note": "",
         "params": [
             250,
@@ -739,7 +739,7 @@
             }
         ],
         "gold": 0,
-        "name": "いつか罰が下る男",
+        "name": "Man Who Will Be Punished Someday",
         "note": "",
         "params": [
             260,
@@ -808,7 +808,7 @@
             }
         ],
         "gold": 0,
-        "name": "来年もできない女",
+        "name": "Woman Who Can't Do It Next Year",
         "note": "",
         "params": [
             200,
@@ -877,7 +877,7 @@
             }
         ],
         "gold": 0,
-        "name": "今年は駄目だった男",
+        "name": "The Man Who Failed This Year",
         "note": "",
         "params": [
             260,
@@ -946,7 +946,7 @@
             }
         ],
         "gold": 0,
-        "name": "信仰深い男",
+        "name": "Devout Man",
         "note": "",
         "params": [
             150,
@@ -1015,7 +1015,7 @@
             }
         ],
         "gold": 0,
-        "name": "おみくじ女児",
+        "name": "Fortune Telling Girl",
         "note": "",
         "params": [
             150,
@@ -1084,7 +1084,7 @@
             }
         ],
         "gold": 0,
-        "name": "可愛そうな女",
+        "name": "Pitiful Woman",
         "note": "",
         "params": [
             240,
@@ -1153,7 +1153,7 @@
             }
         ],
         "gold": 0,
-        "name": "ちんちんが小さい男",
+        "name": "Man with a small penis",
         "note": "",
         "params": [
             270,
@@ -1222,7 +1222,7 @@
             }
         ],
         "gold": 0,
-        "name": "気になる女児",
+        "name": "Curious Little Girl",
         "note": "",
         "params": [
             230,
@@ -1291,7 +1291,7 @@
             }
         ],
         "gold": 0,
-        "name": "釣りおじ",
+        "name": "Fishing Uncle",
         "note": "",
         "params": [
             200,
@@ -1360,7 +1360,7 @@
             }
         ],
         "gold": 0,
-        "name": "ドローン",
+        "name": "Drone",
         "note": "",
         "params": [
             100,
@@ -1429,7 +1429,7 @@
             }
         ],
         "gold": 0,
-        "name": "子連れの女",
+        "name": "Woman with Child",
         "note": "",
         "params": [
             200,
@@ -1498,7 +1498,7 @@
             }
         ],
         "gold": 0,
-        "name": "機械に詳しそうな男",
+        "name": "Man who seems knowledgeable about machines",
         "note": "",
         "params": [
             200,
@@ -1567,7 +1567,7 @@
             }
         ],
         "gold": 0,
-        "name": "跳躍力が凄い男児",
+        "name": "Boy with Incredible Jumping Power",
         "note": "",
         "params": [
             200,
@@ -1636,7 +1636,7 @@
             }
         ],
         "gold": 0,
-        "name": "褒める女児",
+        "name": "Praising Girl",
         "note": "",
         "params": [
             210,
@@ -1705,7 +1705,7 @@
             }
         ],
         "gold": 0,
-        "name": "もう帰りたい母",
+        "name": "I Want to Go Home, Mom",
         "note": "",
         "params": [
             210,
@@ -1774,7 +1774,7 @@
             }
         ],
         "gold": 0,
-        "name": "釣りおじ",
+        "name": "Fishing Uncle",
         "note": "",
         "params": [
             300,
@@ -1843,7 +1843,7 @@
             }
         ],
         "gold": 0,
-        "name": "ゆっくりしてる人",
+        "name": "Relaxed Person",
         "note": "",
         "params": [
             500,
@@ -1912,7 +1912,7 @@
             }
         ],
         "gold": 0,
-        "name": "年末予定無し男",
+        "name": "Man With No Year-End Plans",
         "note": "",
         "params": [
             450,
@@ -1981,7 +1981,7 @@
             }
         ],
         "gold": 0,
-        "name": "夕方には閉まる女",
+        "name": "The Woman Who Closes at Dusk",
         "note": "",
         "params": [
             450,
@@ -2050,7 +2050,7 @@
             }
         ],
         "gold": 0,
-        "name": "厄年の男",
+        "name": "Unlucky Year Man",
         "note": "",
         "params": [
             490,
@@ -2119,7 +2119,7 @@
             }
         ],
         "gold": 0,
-        "name": "と言いつつやってる女",
+        "name": "The woman who says it but does it anyway",
         "note": "",
         "params": [
             470,
@@ -2188,7 +2188,7 @@
             }
         ],
         "gold": 0,
-        "name": "帰路につく男児",
+        "name": "Boy on the Way Home",
         "note": "",
         "params": [
             450,
@@ -2257,7 +2257,7 @@
             }
         ],
         "gold": 0,
-        "name": "あったかい女",
+        "name": "Warm Woman",
         "note": "",
         "params": [
             460,
@@ -2326,7 +2326,7 @@
             }
         ],
         "gold": 0,
-        "name": "パンツが見たい男",
+        "name": "Man Who Wants to See Panties",
         "note": "",
         "params": [
             450,
@@ -2395,7 +2395,7 @@
             }
         ],
         "gold": 0,
-        "name": "鼻歌の女",
+        "name": "Humming Woman",
         "note": "",
         "params": [
             450,
@@ -2464,7 +2464,7 @@
             }
         ],
         "gold": 0,
-        "name": "染み渡る男",
+        "name": "Pervasive Man",
         "note": "",
         "params": [
             700,
@@ -2533,7 +2533,7 @@
             }
         ],
         "gold": 0,
-        "name": "正論な男",
+        "name": "Rational Man",
         "note": "",
         "params": [
             670,
@@ -2602,7 +2602,7 @@
             }
         ],
         "gold": 0,
-        "name": "師走の女",
+        "name": "Woman of December",
         "note": "",
         "params": [
             660,
@@ -2671,7 +2671,7 @@
             }
         ],
         "gold": 0,
-        "name": "102とは…？の男",
+        "name": "The man called 102...?",
         "note": "",
         "params": [
             1100,
@@ -2740,7 +2740,7 @@
             }
         ],
         "gold": 0,
-        "name": "ムラムラする男",
+        "name": "Horny Man",
         "note": "",
         "params": [
             100,
@@ -2809,7 +2809,7 @@
             }
         ],
         "gold": 0,
-        "name": "ダイエットの女",
+        "name": "Dieting Woman",
         "note": "",
         "params": [
             100,
@@ -2878,7 +2878,7 @@
             }
         ],
         "gold": 0,
-        "name": "腰が重い男",
+        "name": "Lazy Man",
         "note": "",
         "params": [
             100,
@@ -2947,7 +2947,7 @@
             }
         ],
         "gold": 0,
-        "name": "と言いつつ自分も好きな男",
+        "name": "Saying that while also liking a man",
         "note": "",
         "params": [
             120,
@@ -3016,7 +3016,7 @@
             }
         ],
         "gold": 0,
-        "name": "秘密基地捜索隊隊長",
+        "name": "Captain of the Secret Base Search Team",
         "note": "",
         "params": [
             150,
@@ -3085,7 +3085,7 @@
             }
         ],
         "gold": 0,
-        "name": "お小遣いを持つ男",
+        "name": "Man with Pocket Money",
         "note": "",
         "params": [
             125,
@@ -3154,7 +3154,7 @@
             }
         ],
         "gold": 0,
-        "name": "おねだり女児",
+        "name": "Begging Little Girl",
         "note": "",
         "params": [
             100,
@@ -3223,7 +3223,7 @@
             }
         ],
         "gold": 0,
-        "name": "もう大人な女",
+        "name": "Grown-up Woman",
         "note": "",
         "params": [
             100,
@@ -3292,7 +3292,7 @@
             }
         ],
         "gold": 0,
-        "name": "将来不安男",
+        "name": "Future Anxiety Man",
         "note": "",
         "params": [
             160,
@@ -3361,7 +3361,7 @@
             }
         ],
         "gold": 0,
-        "name": "就活中の男",
+        "name": "Job Hunting Man",
         "note": "",
         "params": [
             125,
@@ -3430,7 +3430,7 @@
             }
         ],
         "gold": 0,
-        "name": "たくましい女児",
+        "name": "Sturdy Girl",
         "note": "",
         "params": [
             200,
@@ -3499,7 +3499,7 @@
             }
         ],
         "gold": 0,
-        "name": "博識な男",
+        "name": "Knowledgeable Man",
         "note": "",
         "params": [
             125,
@@ -3568,7 +3568,7 @@
             }
         ],
         "gold": 0,
-        "name": "注意喚起の男",
+        "name": "Alerting Man",
         "note": "",
         "params": [
             150,
@@ -3637,7 +3637,7 @@
             }
         ],
         "gold": 0,
-        "name": "買い出しの女",
+        "name": "Shopping Woman",
         "note": "",
         "params": [
             120,
@@ -3706,7 +3706,7 @@
             }
         ],
         "gold": 0,
-        "name": "怪しい男",
+        "name": "Suspicious Man",
         "note": "",
         "params": [
             160,
@@ -3775,7 +3775,7 @@
             }
         ],
         "gold": 0,
-        "name": "吹き出しが下の男",
+        "name": "Man with the speech bubble below",
         "note": "",
         "params": [
             140,
@@ -3844,7 +3844,7 @@
             }
         ],
         "gold": 0,
-        "name": "釣りを勧める女",
+        "name": "Woman Who Recommends Fishing",
         "note": "",
         "params": [
             150,
@@ -3913,7 +3913,7 @@
             }
         ],
         "gold": 0,
-        "name": "吹き出しが下の女",
+        "name": "Woman with a speech bubble below",
         "note": "",
         "params": [
             160,
@@ -3982,7 +3982,7 @@
             }
         ],
         "gold": 0,
-        "name": "たまにはな男",
+        "name": "Occasionally a Man",
         "note": "",
         "params": [
             140,
@@ -4051,7 +4051,7 @@
             }
         ],
         "gold": 0,
-        "name": "仕事やめたい男",
+        "name": "Man Who Wants to Quit His Job",
         "note": "",
         "params": [
             250,
@@ -4120,7 +4120,7 @@
             }
         ],
         "gold": 0,
-        "name": "話を合わせる女",
+        "name": "Woman Who Matches the Story",
         "note": "",
         "params": [
             150,
@@ -4258,7 +4258,7 @@
             }
         ],
         "gold": 0,
-        "name": "登り終えた女",
+        "name": "The Woman Who Finished Climbing",
         "note": "",
         "params": [
             280,
@@ -4327,7 +4327,7 @@
             }
         ],
         "gold": 0,
-        "name": "貧弱な男",
+        "name": "Weak Man",
         "note": "",
         "params": [
             190,
@@ -4396,7 +4396,7 @@
             }
         ],
         "gold": 0,
-        "name": "足腰強い女",
+        "name": "Strong-legged Woman",
         "note": "",
         "params": [
             350,
@@ -4465,7 +4465,7 @@
             }
         ],
         "gold": 0,
-        "name": "観光案内の男",
+        "name": "Tourist Guide Man",
         "note": "",
         "params": [
             250,
@@ -4534,7 +4534,7 @@
             }
         ],
         "gold": 0,
-        "name": "穴に興味がある男児",
+        "name": "Boy Interested in Holes",
         "note": "",
         "params": [
             400,
@@ -4603,7 +4603,7 @@
             }
         ],
         "gold": 0,
-        "name": "一人になりたい女",
+        "name": "Woman Who Wants to Be Alone",
         "note": "",
         "params": [
             350,
@@ -4672,7 +4672,7 @@
             }
         ],
         "gold": 0,
-        "name": "納税する女",
+        "name": "Tax Paying Woman",
         "note": "",
         "params": [
             150,
@@ -4741,7 +4741,7 @@
             }
         ],
         "gold": 0,
-        "name": "独り身が楽な男",
+        "name": "Single and Happy Man",
         "note": "",
         "params": [
             250,
@@ -4810,7 +4810,7 @@
             }
         ],
         "gold": 0,
-        "name": "年頃女児を持つ男",
+        "name": "Man with a Daughter of Age",
         "note": "",
         "params": [
             240,
@@ -4879,7 +4879,7 @@
             }
         ],
         "gold": 0,
-        "name": "お年玉楽しみマン",
+        "name": "New Year's Gift Excitement Man",
         "note": "",
         "params": [
             280,
@@ -4948,7 +4948,7 @@
             }
         ],
         "gold": 0,
-        "name": "神社の回し者",
+        "name": "Shrine's Insider",
         "note": "",
         "params": [
             210,
@@ -5017,7 +5017,7 @@
             }
         ],
         "gold": 0,
-        "name": "意味を問う男児",
+        "name": "Boy Who Questions Meaning",
         "note": "",
         "params": [
             110,
@@ -5086,7 +5086,7 @@
             }
         ],
         "gold": 0,
-        "name": "わからんおじさん",
+        "name": "Uncle I Don't Know",
         "note": "",
         "params": [
             150,
@@ -5155,7 +5155,7 @@
             }
         ],
         "gold": 0,
-        "name": "飛躍したい女",
+        "name": "Woman Who Wants to Leap",
         "note": "",
         "params": [
             230,
@@ -5224,7 +5224,7 @@
             }
         ],
         "gold": 0,
-        "name": "釣りおじ",
+        "name": "Fishing Uncle",
         "note": "",
         "params": [
             220,
@@ -5293,7 +5293,7 @@
             }
         ],
         "gold": 0,
-        "name": "悪戯小僧",
+        "name": "Mischievous Boy",
         "note": "",
         "params": [
             220,
@@ -5362,7 +5362,7 @@
             }
         ],
         "gold": 0,
-        "name": "ドローン",
+        "name": "Drone",
         "note": "",
         "params": [
             100,
@@ -5431,7 +5431,7 @@
             }
         ],
         "gold": 0,
-        "name": "濡れ濡れの女",
+        "name": "Soaked Woman",
         "note": "",
         "params": [
             200,
@@ -5500,7 +5500,7 @@
             }
         ],
         "gold": 0,
-        "name": "献立考えるウーマン",
+        "name": "Menu Planning Woman",
         "note": "",
         "params": [
             440,
@@ -5569,7 +5569,7 @@
             }
         ],
         "gold": 0,
-        "name": "川を眺める女",
+        "name": "Woman Gazing at the River",
         "note": "",
         "params": [
             430,
@@ -5638,7 +5638,7 @@
             }
         ],
         "gold": 0,
-        "name": "アホ",
+        "name": "Idiot",
         "note": "",
         "params": [
             420,
@@ -5707,7 +5707,7 @@
             }
         ],
         "gold": 0,
-        "name": "アホを見る女",
+        "name": "Woman Watching a Fool",
         "note": "",
         "params": [
             410,
@@ -5776,7 +5776,7 @@
             }
         ],
         "gold": 0,
-        "name": "ステーキ食べたマン",
+        "name": "Steak Eating Man",
         "note": "",
         "params": [
             400,
@@ -5845,7 +5845,7 @@
             }
         ],
         "gold": 0,
-        "name": "貧乏マン",
+        "name": "Poor Man",
         "note": "",
         "params": [
             390,
@@ -5914,7 +5914,7 @@
             }
         ],
         "gold": 0,
-        "name": "エロスを感じる男",
+        "name": "Man Who Feels Eros",
         "note": "",
         "params": [
             600,
@@ -5983,7 +5983,7 @@
             }
         ],
         "gold": 0,
-        "name": "ED彼氏の彼女",
+        "name": "ED Boyfriend's Girlfriend",
         "note": "",
         "params": [
             1000,
@@ -6052,7 +6052,7 @@
             }
         ],
         "gold": 0,
-        "name": "勃たない男",
+        "name": "Man Who Can't Get It Up",
         "note": "",
         "params": [
             1200,
@@ -6121,7 +6121,7 @@
             }
         ],
         "gold": 0,
-        "name": "やばい大人",
+        "name": "Dangerous Adult",
         "note": "",
         "params": [
             50,
@@ -6190,7 +6190,7 @@
             }
         ],
         "gold": 0,
-        "name": "可愛そうな目で人を見る女",
+        "name": "Woman Who Looks at People with Pitiful Eyes",
         "note": "",
         "params": [
             100,
@@ -6259,7 +6259,7 @@
             }
         ],
         "gold": 0,
-        "name": "時の流れを憂う女",
+        "name": "The Woman Who Laments the Passage of Time",
         "note": "",
         "params": [
             140,
@@ -6328,7 +6328,7 @@
             }
         ],
         "gold": 0,
-        "name": "大変そうな大人",
+        "name": "Troubled Adult",
         "note": "",
         "params": [
             100,
@@ -6397,7 +6397,7 @@
             }
         ],
         "gold": 0,
-        "name": "不健康男子",
+        "name": "Unhealthy Boy",
         "note": "",
         "params": [
             80,
@@ -6466,7 +6466,7 @@
             }
         ],
         "gold": 0,
-        "name": "兄想いの妹",
+        "name": "Sister Who Adores Her Brother",
         "note": "",
         "params": [
             100,
@@ -6535,7 +6535,7 @@
             }
         ],
         "gold": 0,
-        "name": "憂う男児",
+        "name": "Worried Boy",
         "note": "",
         "params": [
             145,
@@ -6604,7 +6604,7 @@
             }
         ],
         "gold": 0,
-        "name": "頭が良い男",
+        "name": "Smart Man",
         "note": "",
         "params": [
             150,
@@ -6673,7 +6673,7 @@
             }
         ],
         "gold": 0,
-        "name": "ドローン",
+        "name": "Drone",
         "note": "",
         "params": [
             50,
@@ -6742,7 +6742,7 @@
             }
         ],
         "gold": 0,
-        "name": "目覚めし男",
+        "name": "The Awakened Man",
         "note": "",
         "params": [
             140,
@@ -6811,7 +6811,7 @@
             }
         ],
         "gold": 0,
-        "name": "おしっこが近い女",
+        "name": "Woman Who Needs to Pee",
         "note": "",
         "params": [
             150,
@@ -6880,7 +6880,7 @@
             }
         ],
         "gold": 0,
-        "name": "ぽかぽかな男",
+        "name": "Warm Man",
         "note": "",
         "params": [
             120,
@@ -6949,7 +6949,7 @@
             }
         ],
         "gold": 0,
-        "name": "健康ウーマン",
+        "name": "Healthy Woman",
         "note": "",
         "params": [
             120,
@@ -7018,7 +7018,7 @@
             }
         ],
         "gold": 0,
-        "name": "噂好きの男",
+        "name": "Gossip-loving Man",
         "note": "",
         "params": [
             120,
@@ -7087,7 +7087,7 @@
             }
         ],
         "gold": 0,
-        "name": "冷え性な男",
+        "name": "Cold-Natured Man",
         "note": "",
         "params": [
             120,
@@ -7156,7 +7156,7 @@
             }
         ],
         "gold": 0,
-        "name": "お尻冷たそうな男",
+        "name": "Man with a Cold Butt",
         "note": "",
         "params": [
             130,
@@ -7225,7 +7225,7 @@
             }
         ],
         "gold": 0,
-        "name": "何もしなかった男",
+        "name": "The Man Who Did Nothing",
         "note": "",
         "params": [
             170,
@@ -7294,7 +7294,7 @@
             }
         ],
         "gold": 0,
-        "name": "何もしなかった女",
+        "name": "The Woman Who Did Nothing",
         "note": "",
         "params": [
             140,
@@ -7432,7 +7432,7 @@
             }
         ],
         "gold": 0,
-        "name": "可愛そうな大人",
+        "name": "Pitiful Adult",
         "note": "",
         "params": [
             252,
@@ -7501,7 +7501,7 @@
             }
         ],
         "gold": 0,
-        "name": "近視の男",
+        "name": "Near-sighted Man",
         "note": "",
         "params": [
             210,
@@ -7570,7 +7570,7 @@
             }
         ],
         "gold": 0,
-        "name": "御来光見たいウーマン",
+        "name": "Woman Who Wants to See the First Light of Day",
         "note": "",
         "params": [
             330,
@@ -7639,7 +7639,7 @@
             }
         ],
         "gold": 0,
-        "name": "求婚する男",
+        "name": "Man Proposing",
         "note": "",
         "params": [
             360,
@@ -7708,7 +7708,7 @@
             }
         ],
         "gold": 0,
-        "name": "おっぱいがでかい女",
+        "name": "Woman with Large Breasts",
         "note": "",
         "params": [
             450,
@@ -7777,7 +7777,7 @@
             }
         ],
         "gold": 0,
-        "name": "優しいおじさん",
+        "name": "Kind Uncle",
         "note": "",
         "params": [
             210,
@@ -7846,7 +7846,7 @@
             }
         ],
         "gold": 0,
-        "name": "屋台楽しみ女児",
+        "name": "Stall Enjoying Girl",
         "note": "",
         "params": [
             150,
@@ -7915,7 +7915,7 @@
             }
         ],
         "gold": 0,
-        "name": "屋台楽しみママ",
+        "name": "Stall Enjoyment Mama",
         "note": "",
         "params": [
             150,
@@ -7984,7 +7984,7 @@
             }
         ],
         "gold": 0,
-        "name": "頑張ってほしい人",
+        "name": "Person I Want to Do Their Best",
         "note": "",
         "params": [
             290,
@@ -8053,7 +8053,7 @@
             }
         ],
         "gold": 0,
-        "name": "雷神",
+        "name": "Thunder God",
         "note": "",
         "params": [
             100,
@@ -8122,7 +8122,7 @@
             }
         ],
         "gold": 0,
-        "name": "風神",
+        "name": "Wind God",
         "note": "",
         "params": [
             200,
@@ -8191,7 +8191,7 @@
             }
         ],
         "gold": 0,
-        "name": "甘党な女",
+        "name": "Sweet-toothed Woman",
         "note": "",
         "params": [
             250,
@@ -8260,7 +8260,7 @@
             }
         ],
         "gold": 0,
-        "name": "賢い大人",
+        "name": "Wise Adult",
         "note": "",
         "params": [
             140,
@@ -8329,7 +8329,7 @@
             }
         ],
         "gold": 0,
-        "name": "賢い男児",
+        "name": "Wise Boy",
         "note": "",
         "params": [
             140,
@@ -8398,7 +8398,7 @@
             }
         ],
         "gold": 0,
-        "name": "ソシャゲ脳な女",
+        "name": "Social Game Addicted Woman",
         "note": "",
         "params": [
             280,
@@ -8467,7 +8467,7 @@
             }
         ],
         "gold": 0,
-        "name": "振られた男",
+        "name": "Dumped Man",
         "note": "",
         "params": [
             230,
@@ -8536,7 +8536,7 @@
             }
         ],
         "gold": 0,
-        "name": "振る女",
+        "name": "Waving Woman",
         "note": "",
         "params": [
             200,
@@ -8605,7 +8605,7 @@
             }
         ],
         "gold": 0,
-        "name": "金玉を望む大人",
+        "name": "Adult Desiring Gold Balls",
         "note": "",
         "params": [
             380,
@@ -8674,7 +8674,7 @@
             }
         ],
         "gold": 0,
-        "name": "恥ずかしい女児",
+        "name": "Embarrassed Little Girl",
         "note": "",
         "params": [
             370,
@@ -8743,7 +8743,7 @@
             }
         ],
         "gold": 0,
-        "name": "いくらが良いのかな",
+        "name": "I wonder how much would be good",
         "note": "",
         "params": [
             450,
@@ -8812,7 +8812,7 @@
             }
         ],
         "gold": 0,
-        "name": "娘に金をねだる男",
+        "name": "Man Begging Daughter for Money",
         "note": "",
         "params": [
             360,
@@ -8881,7 +8881,7 @@
             }
         ],
         "gold": 0,
-        "name": "恥ずかしい女児",
+        "name": "Embarrassed Little Girl",
         "note": "",
         "params": [
             370,
@@ -8950,7 +8950,7 @@
             }
         ],
         "gold": 0,
-        "name": "来年に期待する男",
+        "name": "Man Looking Forward to Next Year",
         "note": "",
         "params": [
             650,
@@ -9019,7 +9019,7 @@
             }
         ],
         "gold": 0,
-        "name": "来年も頑張る女",
+        "name": "Woman Who Will Work Hard Next Year",
         "note": "",
         "params": [
             990,
@@ -9088,7 +9088,7 @@
             }
         ],
         "gold": 0,
-        "name": "お盛んな男児",
+        "name": "Vigorous Young Man",
         "note": "",
         "params": [
             600,
@@ -9157,7 +9157,7 @@
             }
         ],
         "gold": 0,
-        "name": "将来を誓う女",
+        "name": "Woman Swearing the Future",
         "note": "",
         "params": [
             780,
@@ -9226,7 +9226,7 @@
             }
         ],
         "gold": 0,
-        "name": "来年もできない男",
+        "name": "The Man Who Can't Do It Next Year",
         "note": "",
         "params": [
             790,
@@ -9295,7 +9295,7 @@
             }
         ],
         "gold": 0,
-        "name": "今を生きている女",
+        "name": "The Woman Living in the Present",
         "note": "",
         "params": [
             100,
@@ -9364,7 +9364,7 @@
             }
         ],
         "gold": 0,
-        "name": "仕事に就きたい男",
+        "name": "Man Who Wants to Work",
         "note": "",
         "params": [
             230,
@@ -9433,7 +9433,7 @@
             }
         ],
         "gold": 0,
-        "name": "めんたいに詳しい男",
+        "name": "Man Knowledgeable About Mentaiko",
         "note": "",
         "params": [
             300,
@@ -9502,7 +9502,7 @@
             }
         ],
         "gold": 0,
-        "name": "元旦に備える女",
+        "name": "Woman Preparing for New Year's Day",
         "note": "",
         "params": [
             130,
@@ -9571,7 +9571,7 @@
             }
         ],
         "gold": 0,
-        "name": "輪投げがしたい男",
+        "name": "Man Who Wants to Play Ring Toss",
         "note": "",
         "params": [
             150,
@@ -9640,7 +9640,7 @@
             }
         ],
         "gold": 0,
-        "name": "射的が上手い男",
+        "name": "Man Good at Archery",
         "note": "",
         "params": [
             145,
@@ -9709,7 +9709,7 @@
             }
         ],
         "gold": 0,
-        "name": "りんご飴食べたいウーマン",
+        "name": "Woman Who Wants to Eat Candy Apples",
         "note": "",
         "params": [
             150,
@@ -9778,7 +9778,7 @@
             }
         ],
         "gold": 0,
-        "name": "余裕のある女",
+        "name": "Composed Woman",
         "note": "",
         "params": [
             120,
@@ -9847,7 +9847,7 @@
             }
         ],
         "gold": 0,
-        "name": "パンツが見たい男",
+        "name": "Man Who Wants to See Panties",
         "note": "",
         "params": [
             100,
@@ -9916,7 +9916,7 @@
             }
         ],
         "gold": 0,
-        "name": "屋台楽しみウーマン",
+        "name": "Stall Enjoyment Woman",
         "note": "",
         "params": [
             160,
@@ -9985,7 +9985,7 @@
             }
         ],
         "gold": 0,
-        "name": "屋台楽しみ女児",
+        "name": "Stall Enjoyment Girl",
         "note": "",
         "params": [
             200,
@@ -10054,7 +10054,7 @@
             }
         ],
         "gold": 0,
-        "name": "人気者になりたいマン",
+        "name": "Man Who Wants to Become Popular",
         "note": "",
         "params": [
             170,
@@ -10123,7 +10123,7 @@
             }
         ],
         "gold": 0,
-        "name": "ドローン",
+        "name": "Drone",
         "note": "",
         "params": [
             50,
@@ -10192,7 +10192,7 @@
             }
         ],
         "gold": 0,
-        "name": "屋台行こうかな女",
+        "name": "Stall-going Woman",
         "note": "",
         "params": [
             180,
@@ -10261,7 +10261,7 @@
             }
         ],
         "gold": 0,
-        "name": "謎の発言をする男",
+        "name": "Man Making Mysterious Remarks",
         "note": "",
         "params": [
             220,
@@ -10399,7 +10399,7 @@
             }
         ],
         "gold": 0,
-        "name": "ランニングマン",
+        "name": "Running Man",
         "note": "",
         "params": [
             350,
@@ -10468,7 +10468,7 @@
             }
         ],
         "gold": 0,
-        "name": "足腰を鍛える男",
+        "name": "Man Who Strengthens His Legs and Hips",
         "note": "",
         "params": [
             450,
@@ -10537,7 +10537,7 @@
             }
         ],
         "gold": 0,
-        "name": "知らない女の人",
+        "name": "Unknown Woman",
         "note": "",
         "params": [
             280,
@@ -10606,7 +10606,7 @@
             }
         ],
         "gold": 0,
-        "name": "また御来光見たいマン",
+        "name": "Again, I Want to See the Sunrise Man",
         "note": "",
         "params": [
             270,
@@ -10675,7 +10675,7 @@
             }
         ],
         "gold": 0,
-        "name": "珈琲好き好きマン",
+        "name": "Coffee Lover Man",
         "note": "",
         "params": [
             340,
@@ -10744,7 +10744,7 @@
             }
         ],
         "gold": 0,
-        "name": "射的に夢中になる男",
+        "name": "Man Obsessed with Archery",
         "note": "",
         "params": [
             140,
@@ -10813,7 +10813,7 @@
             }
         ],
         "gold": 0,
-        "name": "お金に余裕がない女",
+        "name": "Woman with No Extra Money",
         "note": "",
         "params": [
             150,
@@ -10882,7 +10882,7 @@
             }
         ],
         "gold": 0,
-        "name": "待ちきれない女児",
+        "name": "Impatient Little Girl",
         "note": "",
         "params": [
             120,
@@ -10951,7 +10951,7 @@
             }
         ],
         "gold": 0,
-        "name": "景品ほしいマン",
+        "name": "Prize Wanting Man",
         "note": "",
         "params": [
             120,
@@ -11020,7 +11020,7 @@
             }
         ],
         "gold": 0,
-        "name": "青春を送る成人男性",
+        "name": "Adult Male Spending His Youth",
         "note": "",
         "params": [
             260,
@@ -11089,7 +11089,7 @@
             }
         ],
         "gold": 0,
-        "name": "射的がバリ強い男",
+        "name": "Man Who is Very Good at Shooting",
         "note": "",
         "params": [
             240,
@@ -11158,7 +11158,7 @@
             }
         ],
         "gold": 0,
-        "name": "輪投げガール",
+        "name": "Ring Toss Girl",
         "note": "",
         "params": [
             270,
@@ -11227,7 +11227,7 @@
             }
         ],
         "gold": 0,
-        "name": "良いお母さん",
+        "name": "Good Mother",
         "note": "",
         "params": [
             210,
@@ -11296,7 +11296,7 @@
             }
         ],
         "gold": 0,
-        "name": "ハイスコアを狙う男",
+        "name": "Man Aiming for High Score",
         "note": "",
         "params": [
             250,
@@ -11365,7 +11365,7 @@
             }
         ],
         "gold": 0,
-        "name": "難しいな～と悩む男",
+        "name": "A Man Troubled by Difficulty",
         "note": "",
         "params": [
             250,
@@ -11434,7 +11434,7 @@
             }
         ],
         "gold": 0,
-        "name": "帰宅を急ぐ女",
+        "name": "Woman Hurrying Home",
         "note": "",
         "params": [
             230,
@@ -11503,7 +11503,7 @@
             }
         ],
         "gold": 0,
-        "name": "童心に帰る女",
+        "name": "Woman Returning to Childhood",
         "note": "",
         "params": [
             260,
@@ -11572,7 +11572,7 @@
             }
         ],
         "gold": 0,
-        "name": "めちゃ射的してた男",
+        "name": "Man Who Was Doing a Lot of Target Practice",
         "note": "",
         "params": [
             220,
@@ -11641,7 +11641,7 @@
             }
         ],
         "gold": 0,
-        "name": "遊び疲れた女",
+        "name": "Tired Playing Woman",
         "note": "",
         "params": [
             250,
@@ -11710,7 +11710,7 @@
             }
         ],
         "gold": 0,
-        "name": "限定商品ほしい人",
+        "name": "People who want limited edition products",
         "note": "",
         "params": [
             120,
@@ -11779,7 +11779,7 @@
             }
         ],
         "gold": 0,
-        "name": "久しぶりに舐める女",
+        "name": "The Woman Who Looks Down on Others After a Long Time",
         "note": "",
         "params": [
             170,
@@ -11848,7 +11848,7 @@
             }
         ],
         "gold": 0,
-        "name": "2つも買う女児",
+        "name": "The girl who buys two",
         "note": "",
         "params": [
             150,
@@ -11917,7 +11917,7 @@
             }
         ],
         "gold": 0,
-        "name": "無事生還した男",
+        "name": "The Man Who Returned Safely",
         "note": "",
         "params": [
             200,
@@ -11986,7 +11986,7 @@
             }
         ],
         "gold": 0,
-        "name": "参拝の力を信じる男",
+        "name": "Man Who Believes in the Power of Worship",
         "note": "",
         "params": [
             230,
@@ -12055,7 +12055,7 @@
             }
         ],
         "gold": 0,
-        "name": "2個しか種類がないのに悩む女",
+        "name": "A woman who is troubled despite there only being two types",
         "note": "",
         "params": [
             230,
@@ -12124,7 +12124,7 @@
             }
         ],
         "gold": 0,
-        "name": "屋台慣れしてる男",
+        "name": "Street Stall Familiar Man",
         "note": "",
         "params": [
             210,
@@ -12193,7 +12193,7 @@
             }
         ],
         "gold": 0,
-        "name": "大人舌な男",
+        "name": "Mature-tongued Man",
         "note": "",
         "params": [
             210,
@@ -12262,7 +12262,7 @@
             }
         ],
         "gold": 0,
-        "name": "リピーターの女",
+        "name": "Repeater Woman",
         "note": "",
         "params": [
             240,
@@ -12331,7 +12331,7 @@
             }
         ],
         "gold": 0,
-        "name": "静かを楽しむ男",
+        "name": "Man Enjoying the Silence",
         "note": "",
         "params": [
             250,
@@ -12400,7 +12400,7 @@
             }
         ],
         "gold": 0,
-        "name": "忙しない女",
+        "name": "Non-busy Woman",
         "note": "",
         "params": [
             250,
@@ -12469,7 +12469,7 @@
             }
         ],
         "gold": 0,
-        "name": "(敵ID無し)",
+        "name": "(No Enemy ID)",
         "note": "",
         "params": [
             100,
@@ -12538,7 +12538,7 @@
             }
         ],
         "gold": 0,
-        "name": "(敵ID無し)",
+        "name": "(No Enemy ID)",
         "note": "",
         "params": [
             100,
@@ -12607,7 +12607,7 @@
             }
         ],
         "gold": 0,
-        "name": "(敵ID無し)",
+        "name": "(No Enemy ID)",
         "note": "",
         "params": [
             100,
@@ -12676,7 +12676,7 @@
             }
         ],
         "gold": 0,
-        "name": "今年もできない男",
+        "name": "The Man Who Can't Do Anything This Year",
         "note": "",
         "params": [
             260,
@@ -12745,7 +12745,7 @@
             }
         ],
         "gold": 0,
-        "name": "ノルマ達成した女",
+        "name": "Woman Who Achieved the Norm",
         "note": "",
         "params": [
             240,
@@ -12814,7 +12814,7 @@
             }
         ],
         "gold": 0,
-        "name": "釣りおじ",
+        "name": "Fishing Uncle",
         "note": "",
         "params": [
             230,
@@ -12883,7 +12883,7 @@
             }
         ],
         "gold": 0,
-        "name": "5000円の男児",
+        "name": "5000 Yen Boy",
         "note": "",
         "params": [
             300,
@@ -12952,7 +12952,7 @@
             }
         ],
         "gold": 0,
-        "name": "百万円の女",
+        "name": "Million Yen Woman",
         "note": "",
         "params": [
             230,
@@ -13021,7 +13021,7 @@
             }
         ],
         "gold": 0,
-        "name": "当たり前の男",
+        "name": "Ordinary Man",
         "note": "",
         "params": [
             260,
@@ -13090,7 +13090,7 @@
             }
         ],
         "gold": 0,
-        "name": "ドキドキする男",
+        "name": "Exciting Man",
         "note": "",
         "params": [
             380,
@@ -13159,7 +13159,7 @@
             }
         ],
         "gold": 0,
-        "name": "ワクワクする女",
+        "name": "Exciting Woman",
         "note": "",
         "params": [
             390,
@@ -13228,7 +13228,7 @@
             }
         ],
         "gold": 0,
-        "name": "と言いつつ自分も結構楽しみな女",
+        "name": "A woman who, while saying so, is also quite looking forward to it",
         "note": "",
         "params": [
             450,
@@ -13297,7 +13297,7 @@
             }
         ],
         "gold": 0,
-        "name": "屋台行きたいウーマン",
+        "name": "Woman Who Wants to Go to the Stall",
         "note": "",
         "params": [
             480,
@@ -13366,7 +13366,7 @@
             }
         ],
         "gold": 0,
-        "name": "お年玉全額つっこみガール",
+        "name": "All-New-Year's-Gift-Investment Girl",
         "note": "",
         "params": [
             400,
@@ -13435,7 +13435,7 @@
             }
         ],
         "gold": 0,
-        "name": "ガンマン",
+        "name": "Gunman",
         "note": "",
         "params": [
             400,
@@ -13504,7 +13504,7 @@
             }
         ],
         "gold": 0,
-        "name": "子供ガンマン",
+        "name": "Child Gunman",
         "note": "",
         "params": [
             400,
@@ -13573,7 +13573,7 @@
             }
         ],
         "gold": 0,
-        "name": "路地裏が怖い男",
+        "name": "Scary Man in the Alley",
         "note": "",
         "params": [
             420,
@@ -13642,7 +13642,7 @@
             }
         ],
         "gold": 0,
-        "name": "早々走り回る女",
+        "name": "The Woman Who Runs Around Early",
         "note": "",
         "params": [
             490,
@@ -13711,7 +13711,7 @@
             }
         ],
         "gold": 0,
-        "name": "体力に不安のある男",
+        "name": "Man with Health Concerns",
         "note": "",
         "params": [
             430,
@@ -13780,7 +13780,7 @@
             }
         ],
         "gold": 0,
-        "name": "スロースターター",
+        "name": "Slow Starter",
         "note": "",
         "params": [
             440,
@@ -13849,7 +13849,7 @@
             }
         ],
         "gold": 0,
-        "name": "分かり手の男",
+        "name": "Understanding Man",
         "note": "",
         "params": [
             350,
@@ -13918,7 +13918,7 @@
             }
         ],
         "gold": 0,
-        "name": "スロースターター",
+        "name": "Slow Starter",
         "note": "",
         "params": [
             440,
@@ -13987,7 +13987,7 @@
             }
         ],
         "gold": 0,
-        "name": "分かり手の男",
+        "name": "Understanding Man",
         "note": "",
         "params": [
             350,
@@ -14056,7 +14056,7 @@
             }
         ],
         "gold": 0,
-        "name": "ちょっと進んでる子",
+        "name": "A Kid Who's a Bit Ahead",
         "note": "",
         "params": [
             750,
@@ -14125,7 +14125,7 @@
             }
         ],
         "gold": 0,
-        "name": "呼ばれたセクシー女",
+        "name": "Called Sexy Woman",
         "note": "",
         "params": [
             890,
@@ -14194,7 +14194,7 @@
             }
         ],
         "gold": 0,
-        "name": "ヤリすぎた男",
+        "name": "Overdoing Man",
         "note": "",
         "params": [
             1000,
@@ -14263,7 +14263,7 @@
             }
         ],
         "gold": 0,
-        "name": "重すぎた女",
+        "name": "Overweight Woman",
         "note": "",
         "params": [
             1100,
@@ -14332,7 +14332,7 @@
             }
         ],
         "gold": 0,
-        "name": "昔の人",
+        "name": "Person from the Past",
         "note": "",
         "params": [
             100,
@@ -14401,7 +14401,7 @@
             }
         ],
         "gold": 0,
-        "name": "ハイテンションな男",
+        "name": "High-Tension Man",
         "note": "",
         "params": [
             150,
@@ -14470,7 +14470,7 @@
             }
         ],
         "gold": 0,
-        "name": "ドローン",
+        "name": "Drone",
         "note": "",
         "params": [
             50,
@@ -14539,7 +14539,7 @@
             }
         ],
         "gold": 0,
-        "name": "お母さん",
+        "name": "Mom",
         "note": "",
         "params": [
             120,
@@ -14608,7 +14608,7 @@
             }
         ],
         "gold": 0,
-        "name": "羨ましい男性",
+        "name": "Envious Male",
         "note": "",
         "params": [
             100,
@@ -14677,7 +14677,7 @@
             }
         ],
         "gold": 0,
-        "name": "必死に止める女",
+        "name": "Desperate Woman to Stop",
         "note": "",
         "params": [
             100,
@@ -14746,7 +14746,7 @@
             }
         ],
         "gold": 0,
-        "name": "全ツッパの男",
+        "name": "All-In Man",
         "note": "",
         "params": [
             50,
@@ -14815,7 +14815,7 @@
             }
         ],
         "gold": 0,
-        "name": "分かり手の男",
+        "name": "Understanding Man",
         "note": "",
         "params": [
             120,
@@ -14884,7 +14884,7 @@
             }
         ],
         "gold": 0,
-        "name": "学校行きたくないウーマン",
+        "name": "Don't Want to Go to School Woman",
         "note": "",
         "params": [
             170,
@@ -14953,7 +14953,7 @@
             }
         ],
         "gold": 0,
-        "name": "一息つく女",
+        "name": "Resting Woman",
         "note": "",
         "params": [
             100,
@@ -15022,7 +15022,7 @@
             }
         ],
         "gold": 0,
-        "name": "年明けおしっこマン",
+        "name": "New Year's Pee Man",
         "note": "",
         "params": [
             160,
@@ -15091,7 +15091,7 @@
             }
         ],
         "gold": 0,
-        "name": "不安になる男",
+        "name": "Man Who Becomes Anxious",
         "note": "",
         "params": [
             160,
@@ -15160,7 +15160,7 @@
             }
         ],
         "gold": 0,
-        "name": "りんご飴好き好きガール",
+        "name": "Candy Apple Loving Girl",
         "note": "",
         "params": [
             130,
@@ -15229,7 +15229,7 @@
             }
         ],
         "gold": 0,
-        "name": "屋台大好きボーイ",
+        "name": "Street Stall Loving Boy",
         "note": "",
         "params": [
             130,
@@ -15298,7 +15298,7 @@
             }
         ],
         "gold": 0,
-        "name": "信仰深い女",
+        "name": "Devout Woman",
         "note": "",
         "params": [
             130,
@@ -15367,7 +15367,7 @@
             }
         ],
         "gold": 0,
-        "name": "ちんちんサイズ気になるマン",
+        "name": "Man Who's Concerned About Penis Size",
         "note": "",
         "params": [
             140,
@@ -15436,7 +15436,7 @@
             }
         ],
         "gold": 0,
-        "name": "風にそよぐ女",
+        "name": "Woman Swaying in the Wind",
         "note": "",
         "params": [
             170,
@@ -15505,7 +15505,7 @@
             }
         ],
         "gold": 0,
-        "name": "人混み嫌いマン",
+        "name": "Crowd-Hating Man",
         "note": "",
         "params": [
             140,
@@ -15574,7 +15574,7 @@
             }
         ],
         "gold": 0,
-        "name": "感動した女",
+        "name": "Touched Woman",
         "note": "",
         "params": [
             210,
@@ -15643,7 +15643,7 @@
             }
         ],
         "gold": 0,
-        "name": "感動した男",
+        "name": "The Man Who Was Moved",
         "note": "",
         "params": [
             220,
@@ -15712,7 +15712,7 @@
             }
         ],
         "gold": 0,
-        "name": "屋台チャンス伺うーマン",
+        "name": "Stall Chance Asking Man",
         "note": "",
         "params": [
             210,
@@ -15850,7 +15850,7 @@
             }
         ],
         "gold": 0,
-        "name": "山登りオススメパパ",
+        "name": "Mountain Climbing Recommended Papa",
         "note": "",
         "params": [
             290,
@@ -15919,7 +15919,7 @@
             }
         ],
         "gold": 0,
-        "name": "怪訝女児",
+        "name": "Bewildered Girl",
         "note": "",
         "params": [
             260,
@@ -15988,7 +15988,7 @@
             }
         ],
         "gold": 0,
-        "name": "後悔パパ",
+        "name": "Regret Papa",
         "note": "",
         "params": [
             240,
@@ -16057,7 +16057,7 @@
             }
         ],
         "gold": 0,
-        "name": "山登り余裕だったガール",
+        "name": "Mountain Climbing Was a Breeze Girl",
         "note": "",
         "params": [
             250,
@@ -16126,7 +16126,7 @@
             }
         ],
         "gold": 0,
-        "name": "終わりたくない女",
+        "name": "Woman Who Doesn't Want to End",
         "note": "",
         "params": [
             320,
@@ -16195,7 +16195,7 @@
             }
         ],
         "gold": 0,
-        "name": "失って初めて分かる女",
+        "name": "The Woman Who Understands Only After Losing",
         "note": "",
         "params": [
             140,
@@ -16264,7 +16264,7 @@
             }
         ],
         "gold": 0,
-        "name": "射的キチ",
+        "name": "Shooting Maniac",
         "note": "",
         "params": [
             150,
@@ -16333,7 +16333,7 @@
             }
         ],
         "gold": 0,
-        "name": "学校行きたくない男",
+        "name": "Man Who Doesn't Want to Go to School",
         "note": "",
         "params": [
             280,
@@ -16402,7 +16402,7 @@
             }
         ],
         "gold": 0,
-        "name": "終わった男",
+        "name": "Finished Man",
         "note": "",
         "params": [
             250,
@@ -16471,7 +16471,7 @@
             }
         ],
         "gold": 0,
-        "name": "ベンチの男",
+        "name": "Man on the Bench",
         "note": "",
         "params": [
             110,
@@ -16540,7 +16540,7 @@
             }
         ],
         "gold": 0,
-        "name": "お年玉で買ったけど早々に飽きた男",
+        "name": "Man who quickly got bored of what he bought with New Year's money",
         "note": "",
         "params": [
             280,
@@ -16609,7 +16609,7 @@
             }
         ],
         "gold": 0,
-        "name": "ドローン",
+        "name": "Drone",
         "note": "",
         "params": [
             210,
@@ -16678,7 +16678,7 @@
             }
         ],
         "gold": 0,
-        "name": "システムを解説する男",
+        "name": "Man Explaining the System",
         "note": "",
         "params": [
             260,
@@ -16747,7 +16747,7 @@
             }
         ],
         "gold": 0,
-        "name": "お年玉残ってないマン",
+        "name": "Man with No New Year's Money Left",
         "note": "",
         "params": [
             250,
@@ -16816,7 +16816,7 @@
             }
         ],
         "gold": 0,
-        "name": "釣りおじ",
+        "name": "Fishing Uncle",
         "note": "",
         "params": [
             280,
@@ -16885,7 +16885,7 @@
             }
         ],
         "gold": 0,
-        "name": "正直者の女",
+        "name": "Honest Woman",
         "note": "",
         "params": [
             290,
@@ -16954,7 +16954,7 @@
             }
         ],
         "gold": 0,
-        "name": "止めさせる女",
+        "name": "Woman Who Stops",
         "note": "",
         "params": [
             350,
@@ -17023,7 +17023,7 @@
             }
         ],
         "gold": 0,
-        "name": "おっぱい目撃ボーイ",
+        "name": "Breast Witnessing Boy",
         "note": "",
         "params": [
             230,
@@ -17092,7 +17092,7 @@
             }
         ],
         "gold": 0,
-        "name": "驚愕する男",
+        "name": "Astonished Man",
         "note": "",
         "params": [
             240,
@@ -17161,7 +17161,7 @@
             }
         ],
         "gold": 0,
-        "name": "酔っ払いの男",
+        "name": "Drunk Man",
         "note": "",
         "params": [
             460,
@@ -17230,7 +17230,7 @@
             }
         ],
         "gold": 0,
-        "name": "外食久しぶりウーマン",
+        "name": "Dining Out Long Time No See Woman",
         "note": "",
         "params": [
             340,
@@ -17299,7 +17299,7 @@
             }
         ],
         "gold": 0,
-        "name": "ナンパする男児",
+        "name": "Flirting Boy",
         "note": "",
         "params": [
             600,
@@ -17368,7 +17368,7 @@
             }
         ],
         "gold": 0,
-        "name": "困惑する大人のお姉さん",
+        "name": "Confused Adult Sister",
         "note": "",
         "params": [
             540,
@@ -17437,7 +17437,7 @@
             }
         ],
         "gold": 0,
-        "name": "膝にきてる男",
+        "name": "Man with a Knee Problem",
         "note": "",
         "params": [
             500,
@@ -17506,7 +17506,7 @@
             }
         ],
         "gold": 0,
-        "name": "体幹の良い女児",
+        "name": "Girl with Good Core Strength",
         "note": "",
         "params": [
             600,
@@ -17575,7 +17575,7 @@
             }
         ],
         "gold": 0,
-        "name": "徒歩の男",
+        "name": "Walking Man",
         "note": "",
         "params": [
             850,
@@ -17644,7 +17644,7 @@
             }
         ],
         "gold": 0,
-        "name": "気持ちよかった男",
+        "name": "Man Who Felt Good",
         "note": "",
         "params": [
             1000,
@@ -17713,7 +17713,7 @@
             }
         ],
         "gold": 0,
-        "name": "気持ちよかった女",
+        "name": "Pleasant Woman",
         "note": "",
         "params": [
             1000,
@@ -17782,7 +17782,7 @@
             }
         ],
         "gold": 0,
-        "name": "機を伺う男",
+        "name": "Man Biding His Time",
         "note": "",
         "params": [
             170,
@@ -17851,7 +17851,7 @@
             }
         ],
         "gold": 0,
-        "name": "SZRINのファン",
+        "name": "Fan of SZRIN",
         "note": "",
         "params": [
             100,
@@ -17920,7 +17920,7 @@
             }
         ],
         "gold": 0,
-        "name": "デリカシーのない男児",
+        "name": "Boy Without Tact",
         "note": "",
         "params": [
             200,
@@ -17989,7 +17989,7 @@
             }
         ],
         "gold": 0,
-        "name": "静かに怒るタイプの女",
+        "name": "The Type of Woman Who Gets Angry Quietly",
         "note": "",
         "params": [
             300,
@@ -18058,7 +18058,7 @@
             }
         ],
         "gold": 0,
-        "name": "不平不満を言う男",
+        "name": "Man Complaining of Dissatisfaction",
         "note": "",
         "params": [
             100,
@@ -18127,7 +18127,7 @@
             }
         ],
         "gold": 0,
-        "name": "早く大人になりたい女",
+        "name": "Girl Who Wants to Grow Up Quickly",
         "note": "",
         "params": [
             120,
@@ -18196,7 +18196,7 @@
             }
         ],
         "gold": 0,
-        "name": "人生迷走中",
+        "name": "Lost in Life",
         "note": "",
         "params": [
             120,
@@ -18265,7 +18265,7 @@
             }
         ],
         "gold": 0,
-        "name": "計画的な女",
+        "name": "Strategic Woman",
         "note": "",
         "params": [
             130,
@@ -18334,7 +18334,7 @@
             }
         ],
         "gold": 0,
-        "name": "不思議体験を語る男",
+        "name": "Man Who Tells of Mysterious Experiences",
         "note": "",
         "params": [
             130,
@@ -18403,7 +18403,7 @@
             }
         ],
         "gold": 0,
-        "name": "反応に困る女",
+        "name": "Woman Who Struggles to Respond",
         "note": "",
         "params": [
             130,
@@ -18472,7 +18472,7 @@
             }
         ],
         "gold": 0,
-        "name": "宝探しの男",
+        "name": "Treasure Hunting Man",
         "note": "",
         "params": [
             170,
@@ -18541,7 +18541,7 @@
             }
         ],
         "gold": 0,
-        "name": "やばい奴",
+        "name": "Dangerous Guy",
         "note": "",
         "params": [
             150,
@@ -18610,7 +18610,7 @@
             }
         ],
         "gold": 0,
-        "name": "意識してしまう男",
+        "name": "The Man Who Becomes Self-Conscious",
         "note": "",
         "params": [
             230,
@@ -18679,7 +18679,7 @@
             }
         ],
         "gold": 0,
-        "name": "被害妄想の女",
+        "name": "Paranoid Woman",
         "note": "",
         "params": [
             250,
@@ -18817,7 +18817,7 @@
             }
         ],
         "gold": 0,
-        "name": "年中ダイエット女",
+        "name": "Year-round Dieting Woman",
         "note": "",
         "params": [
             300,
@@ -18886,7 +18886,7 @@
             }
         ],
         "gold": 0,
-        "name": "やってみようかな男児",
+        "name": "Let's Try It, Boy",
         "note": "",
         "params": [
             280,
@@ -18955,7 +18955,7 @@
             }
         ],
         "gold": 0,
-        "name": "相撲女児",
+        "name": "Sumo Girl",
         "note": "",
         "params": [
             400,
@@ -19024,7 +19024,7 @@
             }
         ],
         "gold": 0,
-        "name": "現実を受け止められない女",
+        "name": "Woman Who Can't Accept Reality",
         "note": "",
         "params": [
             200,
@@ -19093,7 +19093,7 @@
             }
         ],
         "gold": 0,
-        "name": "社会の歯車",
+        "name": "Gears of Society",
         "note": "",
         "params": [
             400,
@@ -19162,7 +19162,7 @@
             }
         ],
         "gold": 0,
-        "name": "仕組みに不満がある男",
+        "name": "Man Dissatisfied with the System",
         "note": "",
         "params": [
             120,
@@ -19231,7 +19231,7 @@
             }
         ],
         "gold": 0,
-        "name": "ツッコミ女",
+        "name": "Straight Man Woman",
         "note": "",
         "params": [
             130,
@@ -19300,7 +19300,7 @@
             }
         ],
         "gold": 0,
-        "name": "子宮回帰したい男",
+        "name": "Man Who Wants to Return to the Womb",
         "note": "",
         "params": [
             220,
@@ -19369,7 +19369,7 @@
             }
         ],
         "gold": 0,
-        "name": "正気に戻って欲しい娘",
+        "name": "Daughter I Want to Return to Sanity",
         "note": "",
         "params": [
             250,
@@ -19438,7 +19438,7 @@
             }
         ],
         "gold": 0,
-        "name": "りんご飴食べれなかった人",
+        "name": "Person Who Couldn't Eat Candy Apple",
         "note": "",
         "params": [
             200,
@@ -19507,7 +19507,7 @@
             }
         ],
         "gold": 0,
-        "name": "大袈裟だと思ってる人",
+        "name": "People who think it's exaggerated",
         "note": "",
         "params": [
             260,
@@ -19576,7 +19576,7 @@
             }
         ],
         "gold": 0,
-        "name": "ご褒美がある事を主張する男児",
+        "name": "The Boy Insisting on a Reward",
         "note": "",
         "params": [
             140,
@@ -19645,7 +19645,7 @@
             }
         ],
         "gold": 0,
-        "name": "あまり信じてない母親",
+        "name": "Unbelieving Mother",
         "note": "",
         "params": [
             150,
@@ -19714,7 +19714,7 @@
             }
         ],
         "gold": 0,
-        "name": "大凶マン",
+        "name": "Great Evil Man",
         "note": "",
         "params": [
             260,
@@ -19783,7 +19783,7 @@
             }
         ],
         "gold": 0,
-        "name": "神の寵愛を授かりし者",
+        "name": "The One Blessed by Divine Favor",
         "note": "",
         "params": [
             230,
@@ -19852,7 +19852,7 @@
             }
         ],
         "gold": 0,
-        "name": "釣りおじ",
+        "name": "Fishing Uncle",
         "note": "結構強い",
         "params": [
             500,
@@ -19921,7 +19921,7 @@
             }
         ],
         "gold": 0,
-        "name": "めんこ男児",
+        "name": "Marble-playing Boy",
         "note": "",
         "params": [
             300,
@@ -19990,7 +19990,7 @@
             }
         ],
         "gold": 0,
-        "name": "センチメンタルウーマン",
+        "name": "Sentimental Woman",
         "note": "",
         "params": [
             200,
@@ -20059,7 +20059,7 @@
             }
         ],
         "gold": 0,
-        "name": "金玉に抵抗のない女",
+        "name": "Woman with no resistance to testicles",
         "note": "",
         "params": [
             600,
@@ -20128,7 +20128,7 @@
             }
         ],
         "gold": 0,
-        "name": "娘の将来が不安な父",
+        "name": "Father Worried About His Daughter's Future",
         "note": "",
         "params": [
             390,
@@ -20197,7 +20197,7 @@
             }
         ],
         "gold": 0,
-        "name": "浮き沈みが激しい女",
+        "name": "A woman with drastic ups and downs",
         "note": "",
         "params": [
             500,
@@ -20266,7 +20266,7 @@
             }
         ],
         "gold": 0,
-        "name": "オムライス美味しかったマン",
+        "name": "The Omurice was delicious, man",
         "note": "",
         "params": [
             430,
@@ -20335,7 +20335,7 @@
             }
         ],
         "gold": 0,
-        "name": "また食べたい女",
+        "name": "The Woman Who Wants to Eat Again",
         "note": "",
         "params": [
             420,
@@ -20404,7 +20404,7 @@
             }
         ],
         "gold": 0,
-        "name": "現実逃避する女",
+        "name": "Woman Escaping Reality",
         "note": "",
         "params": [
             400,
@@ -20473,7 +20473,7 @@
             }
         ],
         "gold": 0,
-        "name": "目撃した女",
+        "name": "Woman Witnessed",
         "note": "",
         "params": [
             500,
@@ -20542,7 +20542,7 @@
             }
         ],
         "gold": 0,
-        "name": "謎の情報屋",
+        "name": "Mysterious Informant",
         "note": "",
         "params": [
             1100,
@@ -20611,7 +20611,7 @@
             }
         ],
         "gold": 0,
-        "name": "SZRINファン1号",
+        "name": "SZRIN Fan Number 1",
         "note": "",
         "params": [
             150,
@@ -20680,7 +20680,7 @@
             }
         ],
         "gold": 0,
-        "name": "SZRINファン2号",
+        "name": "SZRIN Fan No. 2",
         "note": "",
         "params": [
             120,
@@ -20749,7 +20749,7 @@
             }
         ],
         "gold": 0,
-        "name": "信じられないという顔をしている女",
+        "name": "A woman with a disbelieving look on her face",
         "note": "",
         "params": [
             125,
@@ -20818,7 +20818,7 @@
             }
         ],
         "gold": 0,
-        "name": "たまに飲むと美味しい男",
+        "name": "The Man Who Tastes Good When Occasionally Drunk",
         "note": "",
         "params": [
             110,
@@ -20887,7 +20887,7 @@
             }
         ],
         "gold": 0,
-        "name": "終わりし者",
+        "name": "The Ended One",
         "note": "",
         "params": [
             150,
@@ -20956,7 +20956,7 @@
             }
         ],
         "gold": 0,
-        "name": "偉い女児",
+        "name": "Great Girl",
         "note": "",
         "params": [
             200,
@@ -21025,7 +21025,7 @@
             }
         ],
         "gold": 0,
-        "name": "後悔をしたくない男",
+        "name": "Man Who Doesn't Want to Regret",
         "note": "",
         "params": [
             150,
@@ -21094,7 +21094,7 @@
             }
         ],
         "gold": 0,
-        "name": "おしっこに詳しい男",
+        "name": "Man Knowledgeable About Urination",
         "note": "",
         "params": [
             150,
@@ -21163,7 +21163,7 @@
             }
         ],
         "gold": 0,
-        "name": "まだまだ頑張る女",
+        "name": "Still Going Strong Woman",
         "note": "",
         "params": [
             190,
@@ -21232,7 +21232,7 @@
             }
         ],
         "gold": 0,
-        "name": "将来が終わりし者",
+        "name": "The One Whose Future Has Ended",
         "note": "",
         "params": [
             300,
@@ -21301,7 +21301,7 @@
             }
         ],
         "gold": 0,
-        "name": "がんばってください",
+        "name": "Please do your best",
         "note": "",
         "params": [
             290,
@@ -21439,7 +21439,7 @@
             }
         ],
         "gold": 0,
-        "name": "はぐれモブおじさん",
+        "name": "Stray Mob Uncle",
         "note": "",
         "params": [
             100,
@@ -21501,7 +21501,7 @@
             }
         ],
         "gold": 0,
-        "name": "八百屋店主",
+        "name": "Greengrocer Shopkeeper",
         "note": "",
         "params": [
             450,
@@ -21563,7 +21563,7 @@
             }
         ],
         "gold": 0,
-        "name": "福引マン",
+        "name": "Lucky Draw Man",
         "note": "",
         "params": [
             390,
@@ -21625,7 +21625,7 @@
             }
         ],
         "gold": 0,
-        "name": "-【あかりイベント】-",
+        "name": "-[Akari Event]-",
         "note": "",
         "params": [
             100,
@@ -21687,7 +21687,7 @@
             }
         ],
         "gold": 0,
-        "name": "あかり",
+        "name": "Akari",
         "note": "【あかりイベント】\n初戦のあかり\n\n初戦のコウタ、しおりより\n設定は強くしてください\n【メモ】\n必殺は発動しない",
         "params": [
             150,
@@ -21749,7 +21749,7 @@
             }
         ],
         "gold": 0,
-        "name": "コウタ",
+        "name": "Kota",
         "note": "【あかりイベント】\n初戦のコウタ\n\nしおりより若干弱く設定してください",
         "params": [
             100,
@@ -21811,7 +21811,7 @@
             }
         ],
         "gold": 0,
-        "name": "しおり",
+        "name": "Shiori",
         "note": "【あかりイベント】\n初戦のしおり\n\nコウタより強く設定してください",
         "params": [
             125,
@@ -21873,7 +21873,7 @@
             }
         ],
         "gold": 0,
-        "name": "あかり",
+        "name": "Akari",
         "note": "【あかりイベント】\n２回戦目のあかり\n\n２回戦目のコウタ、しおりより\n設定は強くしてください\n【メモ】\n必殺は発動しない",
         "params": [
             300,
@@ -21935,7 +21935,7 @@
             }
         ],
         "gold": 0,
-        "name": "コウタ",
+        "name": "Kota",
         "note": "【あかりイベント】\n２回戦目のコウタ\n\nしおりより弱く設定してください",
         "params": [
             150,
@@ -21997,7 +21997,7 @@
             }
         ],
         "gold": 0,
-        "name": "しおり",
+        "name": "Shiori",
         "note": "【あかりイベント】\n２回戦目のしおり\n\nコウタより強く設定してください",
         "params": [
             175,
@@ -22059,7 +22059,7 @@
             }
         ],
         "gold": 0,
-        "name": "あかり",
+        "name": "Akari",
         "note": "【あかりイベント】\n３回戦目のあかり\n\n３回戦目のコウタ、しおりより\n設定は強くしてください",
         "params": [
             450,
@@ -22121,7 +22121,7 @@
             }
         ],
         "gold": 0,
-        "name": "コウタ",
+        "name": "Kota",
         "note": "【あかりイベント】\n３回戦目のコウタ\n\nしおりより弱く設定してください",
         "params": [
             300,
@@ -22183,7 +22183,7 @@
             }
         ],
         "gold": 0,
-        "name": "しおり",
+        "name": "Shiori",
         "note": "【あかりイベント】\n３回戦目のしおり\n\nコウタより強く設定してください",
         "params": [
             400,
@@ -22245,7 +22245,7 @@
             }
         ],
         "gold": 0,
-        "name": "めんたい狩り(強い)",
+        "name": "Mentaiko Hunt (Strong)",
         "note": "あかりイベント\nヒカリを助ける時に戦う\n\n家元・真田・神田より強く設定",
         "params": [
             500,
@@ -22307,7 +22307,7 @@
             }
         ],
         "gold": 0,
-        "name": "めんたい狩りの家元",
+        "name": "Head of Mentaiko Hunting",
         "note": "防御力が高いけど非力\nミスしなければ倒せる",
         "params": [
             300,
@@ -22369,7 +22369,7 @@
             }
         ],
         "gold": 0,
-        "name": "めんたい狩りの真田",
+        "name": "Sanada of Mentaiko Hunting",
         "note": "攻撃力が高いけど紙\nミスしなければ倒せる",
         "params": [
             350,
@@ -22431,7 +22431,7 @@
             }
         ],
         "gold": 0,
-        "name": "めんたい狩りの神田",
+        "name": "God of Mentaiko Hunting Kanda",
         "note": "能力値が高いけど体力が低い",
         "params": [
             250,
@@ -22493,7 +22493,7 @@
             }
         ],
         "gold": 0,
-        "name": "めんたいBOSS",
+        "name": "Mentaiko BOSS",
         "note": "一撃必殺できない。\n\n僕が調整しました。",
         "params": [
             3000,
@@ -22555,7 +22555,7 @@
             }
         ],
         "gold": 0,
-        "name": "↓【クリア後要素】↓",
+        "name": "↓【After Clear Elements】↓",
         "note": "あかりちゃんのめんたいシナリオクリア後、\n各ヒロイン攻略後に各キャラとめんたいできる。\n\nそのくらいの時の難易度調整をお願いします。\n",
         "params": [
             100,
@@ -22617,7 +22617,7 @@
             }
         ],
         "gold": 0,
-        "name": "めん太",
+        "name": "Menta",
         "note": "一撃必殺できない。\n反転攻勢が通用せず、「反転攻勢返し」をしてくる。\n「反転攻勢返し」に合わせて反転攻勢すると、\n「反転攻勢返し返し」ができて大ダメージ。\n\n",
         "params": [
             3500,
@@ -22741,7 +22741,7 @@
             }
         ],
         "gold": 0,
-        "name": "結衣",
+        "name": "Yui",
         "note": "",
         "params": [
             1500,
@@ -22803,7 +22803,7 @@
             }
         ],
         "gold": 0,
-        "name": "莉音",
+        "name": "Rio",
         "note": "",
         "params": [
             1100,
@@ -22865,7 +22865,7 @@
             }
         ],
         "gold": 0,
-        "name": "美雪",
+        "name": "Miyuki",
         "note": "",
         "params": [
             720,
@@ -22927,7 +22927,7 @@
             }
         ],
         "gold": 0,
-        "name": "叔父",
+        "name": "Uncle",
         "note": "弱くて良い。",
         "params": [
             150,
@@ -22989,7 +22989,7 @@
             }
         ],
         "gold": 0,
-        "name": "あかり",
+        "name": "Akari",
         "note": "",
         "params": [
             2900,
@@ -23051,7 +23051,7 @@
             }
         ],
         "gold": 0,
-        "name": "カガミ",
+        "name": "Kagami",
         "note": "",
         "params": [
             2000,
@@ -23113,7 +23113,7 @@
             }
         ],
         "gold": 0,
-        "name": "ミズキ",
+        "name": "Mizuki",
         "note": "",
         "params": [
             1100,
@@ -23175,7 +23175,7 @@
             }
         ],
         "gold": 0,
-        "name": "スズカ",
+        "name": "Suzuka",
         "note": "",
         "params": [
             1500,
@@ -23237,7 +23237,7 @@
             }
         ],
         "gold": 0,
-        "name": "シズク",
+        "name": "Shizuku",
         "note": "",
         "params": [
             1000,
@@ -23299,7 +23299,7 @@
             }
         ],
         "gold": 0,
-        "name": "カナエ",
+        "name": "Kanae",
         "note": "",
         "params": [
             840,
@@ -23361,7 +23361,7 @@
             }
         ],
         "gold": 0,
-        "name": "ヒカリ",
+        "name": "Hikari",
         "note": "一撃必殺できない。\n\n結構強く設定してください。\nめん太君くらい。",
         "params": [
             3600,
@@ -23423,7 +23423,7 @@
             }
         ],
         "gold": 0,
-        "name": "【▼使わないデータ▼】",
+        "name": "【▼Unused Data▼】",
         "note": "",
         "params": [
             100,
@@ -23485,7 +23485,7 @@
             }
         ],
         "gold": 0,
-        "name": "漁師マン",
+        "name": "Fisherman Man",
         "note": "編集しなくていいです。",
         "params": [
             100,
@@ -23547,7 +23547,7 @@
             }
         ],
         "gold": 0,
-        "name": "山菜マン",
+        "name": "Mountain Vegetable Man",
         "note": "編集しなくていいです。",
         "params": [
             100,
@@ -23609,7 +23609,7 @@
             }
         ],
         "gold": 0,
-        "name": "ウェイター",
+        "name": "Waiter",
         "note": "編集しなくていいです。",
         "params": [
             100,
@@ -23671,7 +23671,7 @@
             }
         ],
         "gold": 0,
-        "name": "浮気マン",
+        "name": "Cheating Man",
         "note": "4/30追加",
         "params": [
             100,
@@ -23733,7 +23733,7 @@
             }
         ],
         "gold": 0,
-        "name": "ミ）悩める社長",
+        "name": "(Mi) Troubled President",
         "note": "神社にいる男性\n\n※屋台が出ている間は出現不可",
         "params": [
             100,
@@ -23795,7 +23795,7 @@
             }
         ],
         "gold": 0,
-        "name": "ミ）悩める女児",
+        "name": "(Mi) Troubled Young Girl",
         "note": "駄菓子屋にいる女児",
         "params": [
             100,
@@ -23857,7 +23857,7 @@
             }
         ],
         "gold": 0,
-        "name": "ミ）悩める女",
+        "name": "Troubled Woman",
         "note": "山にいるダイエット女",
         "params": [
             100,
@@ -23919,7 +23919,7 @@
             }
         ],
         "gold": 0,
-        "name": "ミ）悩める男",
+        "name": "(Mi) Troubled Man",
         "note": "トイレ前に座ってる男",
         "params": [
             100,
@@ -23981,7 +23981,7 @@
             }
         ],
         "gold": 0,
-        "name": "ミ）帽子",
+        "name": "Hat",
         "note": "帽子っす",
         "params": [
             100,
@@ -24043,7 +24043,7 @@
             }
         ],
         "gold": 0,
-        "name": "【ダミーID】",
+        "name": "【Dummy ID】",
         "note": "",
         "params": [
             100,
@@ -24105,7 +24105,7 @@
             }
         ],
         "gold": 0,
-        "name": "めんたい狩り(強い)",
+        "name": "Mentaiko Hunt (Strong)",
         "note": "あかりイベント\nヒカリを助ける時に戦う\n\n家元・真田・神田より強く設定",
         "params": [
             500,
@@ -24167,7 +24167,7 @@
             }
         ],
         "gold": 0,
-        "name": "ミ）人混み前の男",
+        "name": "Man in Front of the Crowd",
         "note": "人混み前の男",
         "params": [
             100,
