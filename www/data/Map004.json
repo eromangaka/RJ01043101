@@ -2170,7 +2170,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]月\\v[138]\\v[139]日\\v[273]　\\c[14]残り\\v[140]日 15"
+                                "D_TEXT \\v[136]\\v[137]th of the month, \\v[138]\\v[139] day, \\v[273] \\c[14] remaining \\v[140] days 15"
                             ]
                         },
                         {
@@ -2579,7 +2579,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT 　\\C[14]+\\V[996]ポイントGET!! 15"
+                                "D_TEXT 　\\C[14]+\\V[996] Points GET!! 15"
                             ]
                         },
                         {
@@ -2909,7 +2909,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT  絵日記収集度 15"
+                                "D_TEXT  Picture Diary  15"
                             ]
                         },
                         {
@@ -3175,14 +3175,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[14]◆チュートリアル\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　絵日記画面の説明を聞きますか？"
+                                "\\c[14]◆Tutorial\\c[0] Would you like to hear an explanation\nof the picture diary screen?"
                             ]
                         },
                         {
@@ -3190,8 +3183,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3402,14 +3395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この画面では１日の終わりの処理を行うことができ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "主に\\c[14]スキルの習得\\c[0]や\\c[14]絵日記を描く\\c[0]等ができます。"
+                                "In this screen, you can perform end-of-day tasks, mainly\nsuch as \\c[14]learning skills\\c[0] and \\c[14]drawing in the\ndiary\\c[0], etc.."
                             ]
                         },
                         {
@@ -3454,21 +3440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲーム本編中、イベントをこなしたり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エッチをすることで左下の\\c[14]「思い出ゲージ」\\c[0]が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "徐々に溜まっていきます。"
+                                "During the main game, by completing events or engaging in\nH-scenes, the Memory Gauge \\c[14] at the bottom left\ngradually fills up \\c[0]. ."
                             ]
                         },
                         {
@@ -3485,14 +3457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "溜まった\\c[14]「思い出ゲージ」\\c[0]は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この画面で\\c[14]「スキルポイント」\\c[0]に変換され……"
+                                "The accumulated \\c[14] Memory Gauge \\c[0] is converted\ninto \\c[14] Skill Points \\c[0] on this screen ......."
                             ]
                         },
                         {
@@ -3537,14 +3502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "画面下部の\\c[14]「スキル」\\c[0]から、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]様々なスキルを習得することが出来ます。"
+                                "From the Skills \\c[14] at the bottom of the screen \\c[0],\nyou can learn various skills .."
                             ]
                         },
                         {
@@ -3561,14 +3519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]ドットHの遊びの幅を増やすもの\\c[0]や、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]マップ上で使うスキル\\c[0]等、獲得できるものは様々です。"
+                                "\\c[14]There are a variety of things you can acquire, such as\nthose that increase the range of pixel H play\\c[0], or\n\\c[14]skills used on the map\\c[0], and so on.."
                             ]
                         },
                         {
@@ -3585,14 +3536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "沢山の思い出を作ってスキルを習得し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この冬をより充実した休みとして満喫しましょう。"
+                                "Let's create lots of memories, learn skills, and fully enjoy\nthis winter as a more fulfilling vacation."
                             ]
                         },
                         {
@@ -3637,14 +3581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また今作から、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]絵日記を書き直す\\c[0]事ができるようになりました。"
+                                "Also, starting from this work, you can now \\c[14]rewrite the\ndiary\\c[0]. ."
                             ]
                         },
                         {
@@ -3661,14 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]最新分のページを開いて右クリック\\c[0]することで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[14]出来事を振り返る\\c[0]ように\\c[14]何度でも書き直しが可能\\c[0]です。"
+                                "\\c[14]By right-clicking when you open the most recent\npage\\c[0], you can \\c[14]reflect on past events\\c[0] and\n\\c[14]rewrite it as many times as you want\\c[0].."
                             ]
                         },
                         {
@@ -3685,21 +3615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]その日に起こした行動が絵日記のフラグ\\c[0]となっており、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "起こしていないイベントは描写することはできません。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "沢山のイベントを探してみましょう！"
+                                "\\c[14]The actions you took during the day become flags in\nthe diary\\c[0], and you cannot depict events that did not\noccur.\\! Let's go find a lot of events!"
                             ]
                         },
                         {
@@ -3746,14 +3662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以上でチュートリアルは終了です。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは良いあまえんぼライフを(⌒▽⌒)丿"
+                                "That concludes the tutorial.\\! Now, enjoy your sweet and\npampered life (⌒▽⌒)丿"
                             ]
                         },
                         {
@@ -3935,7 +3844,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT ◆右クリックで\\c[14]最新分の絵日記\\c[0]を描き直せます 15"
+                                "D_TEXT ◆You can redraw the \\c[14]latest diary\\c[0] by right-clicking 15"
                             ]
                         },
                         {
@@ -3975,7 +3884,7 @@
                             "code": 356,
                             "indent": 3,
                             "parameters": [
-                                "D_TEXT ◆獲得した絵日記を閲覧できます(\\v[450]/10) 15"
+                                "D_TEXT ◆You can view the acquired picture diary (\\v[450]/10) 15"
                             ]
                         },
                         {
@@ -4039,7 +3948,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "D_TEXT ◆秘密ノートを閲覧できます 15"
+                                "D_TEXT ◆You can view the secret notebook 15"
                             ]
                         },
                         {
@@ -6938,7 +6847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's the end of the tutorial.\\! Now, enjoy your pampered\nlife (⌒▽⌒)丿"
+                                "That's the end of the tutorial.\\! Now, enjoy your indulgent\nlife (⌒▽⌒)丿"
                             ]
                         },
                         {
