@@ -11,7 +11,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Energy drink that resonates with\nthe core of the body!\nStamina +10, Desire +5\nAlso usable from the Recovery Items quickmenu.",
+        "description": "Energy drink that resonates with\nthe core of the body!\n• Stamina +10\n• Desire +5\n--------------------------------\nAlso usable from the Recovery Items quickmenu.",
         "effects": [
             {
                 "code": 44,
@@ -44,7 +44,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It seems to be a gum made from\nsoftshell turtle.\nDesire +30\nAlso usable from the Recovery Items quickmenu.",
+        "description": "It seems to be a gum made from\nsoftshell turtle.\n• Desire +30\n--------------------------------\nAlso usable from the Recovery Items quickmenu.",
         "effects": [
             {
                 "code": 44,
@@ -77,7 +77,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Now I'm a muscular macho!\nStamina +50%\nAlso usable from the Recovery Items quickmenu.",
+        "description": "Now I'm a muscular macho!\n• Stamina +50%\n--------------------------------\nAlso usable from the Recovery Items quickmenu.",
         "effects": [
             {
                 "code": 44,
@@ -110,7 +110,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Seems to get you incredibly erect.\nDesire +50%\nAlso usable from the Recovery Items quickmenu.",
+        "description": "Seems to get you incredibly erect.\n• Desire +50%\n--------------------------------\nAlso usable from the Recovery Items quickmenu.",
         "effects": [
             {
                 "code": 44,
@@ -143,7 +143,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's a drink that tastes like chemicals.\nStamina +30, Desire +30, Memories +10\nAlso usable from the Recovery Items quickmenu.",
+        "description": "It's a drink that tastes like chemicals.\n• Stamina +30\n• Desire +30\n• Memories +10\n--------------------------------\nAlso usable from the Recovery Items quickmenu.",
         "effects": [
             {
                 "code": 44,
@@ -176,7 +176,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This is some kind of dangerous candy...\nDesire +15, Memories +15.\nWhen given as a gift, Mood +30",
+        "description": "This is some kind of dangerous candy...\n• Desire +15\n• Memories +15\n--------------------------------\nWhen given as a gift:\n • Mood +30",
         "effects": [
             {
                 "code": 44,
@@ -209,7 +209,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It seems that muscle strengthening\neffects can be expected...\nMentai Attack Power +5\nUsable at the secret base.",
+        "description": "It seems that muscle strengthening\neffects can be expected...\n• Mentai Attack Power +5\n--------------------------------\nUsable at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 220,
@@ -235,7 +235,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It seems that the resistance to\nbeing hit increases...\nMentai Defense Power +5\nUsable at the secret base.",
+        "description": "It seems that the resistance to\nbeing hit increases...\n• Mentai Defense Power +5\n--------------------------------\nUsable at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 236,
@@ -469,12 +469,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This is a book that makes you\nfeel very erotic. \\kw[1] \\n\\n\\n-\n--------------------------------\n-\\n◆Gift item\\n◆The heroine's\n\\c[14] lewdness value increases\n\\c[0]",
+        "description": "This is a book that makes you\nfeel very erotic \\kw[1]\n--------------------------------\n◆ Gift item:\nIncreases heroine's \\c[14]Lewdness +15\\c[0]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 186,
         "itypeId": 1,
-        "name": "Erotic Book (Lewd)",
+        "name": "Erotic Book (Lewdness)",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -495,12 +495,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This is a book that makes you\nfeel very erotic. \\kw[1] \\n\\n\\n-\n--------------------------------\n-\\n◆Gift item\\n◆The heroine's\n\\c[14] service value increases\n\\c[0]",
+        "description": "This is a book that makes you\nfeel very erotic \\kw[1]\n--------------------------------\n◆ Gift item:\nIncreases heroine's \\c[14]Service +15\\c[0]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 186,
         "itypeId": 1,
-        "name": "Erotic Book (Dedication)",
+        "name": "Erotic Book (Service)",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -521,12 +521,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This is a book that makes you\nfeel very erotic. \\kw[1] \\n\\n\\n-\n--------------------------------\n-\\n◆Gift item\\n◆The heroine's\n\\c[14] perversion value\nincreases \\c[0]",
+        "description": "This is a book that makes you\nfeel very erotic \\kw[1]\n--------------------------------\n◆ Gift item:\nIncreases heroine's \\c[14]Pervert +15\\c[0]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 186,
         "itypeId": 1,
-        "name": "Erotic Book (Issue)",
+        "name": "Erotic Book (Pervert)",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -781,7 +781,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This is a wonderful gift for the\nheroine. -----------------------\n----------- Gift Item: Increases\nthe heroine's favorability by\n+20.",
+        "description": "This is a wonderful gift for the\nheroines.\n--------------------------------\n◆ Gift item:\nIncreases heroine's \\c[14]Favorability +20\\c[0]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 191,
@@ -833,7 +833,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An excellent item that allows\nyou to fall asleep immediately.\nIt's a friend to those with\ninsomnia! ----------------------\n------------ Gift Item. The\ntarget will fall asleep.",
+        "description": "An excellent item that allows\none to fall asleep immediately.\nIt's a friend to those with insomnia!\n--------------------------------\n◆ Gift item:\nThe target will fall asleep.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 156,
@@ -1119,7 +1119,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★☆☆☆ It seems to be one\nof Japan's national foods.\nStamina +20, Libido +20 --------\n-------------------------- ◆No\nspecial effects",
+        "description": "Rarity: ★☆☆☆\nIt seems to be one of Japan's national foods.\n• Stamina +20\n• Desire +20\n--------------------------------\n◆ No special effects",
         "effects": [
             {
                 "code": 44,
@@ -1152,7 +1152,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★☆☆☆ A special white\nrice cooked in a lunch box.\nHealth +15 Memory +10 ----------\n------------------------ ◆No\nspecial effects.",
+        "description": "Rarity: ★☆☆☆\nA special white rice cooked in a lunch box.\n• Stamina +15\n• Memories +10\n--------------------------------\n◆ No special effects",
         "effects": [
             {
                 "code": 44,
@@ -1185,7 +1185,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★☆☆☆ The best baked\nsweet potato, baked to\nperfection. Libido +15, Memories\n+10. No special effects.",
+        "description": "Rarity: ★☆☆☆\nThe best baked sweet potato,\nbaked to perfection.\n• Desire +15\n• Memories +10\n--------------------------------\n◆ No special effects",
         "effects": [
             {
                 "code": 44,
@@ -1218,7 +1218,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★☆☆ When it comes to\ncamp food, this is it! Attack\npower +5, Memories +10 ---------\n-------------------------\n◆Mentai status increase",
+        "description": "Rarity: ★★☆☆\nWhen it comes to camp food, this is it!\n• Memories +10\n--------------------------------\n◆ Mentai Attack Power +5",
         "effects": [
             {
                 "code": 44,
@@ -1251,7 +1251,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★☆☆ The best grilled\nfoil. Nice smell. Defense +5\nMemory +10 ---------------------\n------------- ◆Mentai status\nincrease",
+        "description": "Rarity: ★★☆☆\nThe best foil grilled.\nIt smell nice!\n• Memories +10\n--------------------------------\n◆ Mentai Defense Power +5",
         "effects": [
             {
                 "code": 44,
@@ -1284,7 +1284,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★☆☆ Perfectly salted\nand great for snacking. Attack\n+5 Defense +5 ------------------\n---------------- ◆Mentaiko\nStatus Increase◆ ◆Mountain\nClimbing Effect Increase\nProvided◆",
+        "description": "Rarity: ★★☆☆\nPerfectly salted and great for snacking.\n--------------------------------\n◆ Mentai Attack Power +5\n◆ Mentai Defense Power +5\n◆ Mountain Climbing Effect Increase",
         "effects": [
             {
                 "code": 44,
@@ -1317,7 +1317,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★☆ Tempura made by\ncrisply frying smelt. Maximum\nhealth +15. No special effects.",
+        "description": "Rarity: ★★★☆\nTempura made by crisply frying smelt.\n• Maximum Stamina +15\n--------------------------------\n◆ No special effects",
         "effects": [
             {
                 "code": 44,
@@ -1350,7 +1350,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★☆ A hearty pot filled\nwith plenty of mushrooms and\nwild vegetables. Maximum libido\n+15. No special effects.",
+        "description": "Rarity: ★★★☆\nA hearty pot filled with plenty of mushrooms\nand wild vegetables.\n• Maximum Desire +15\n--------------------------------\n◆ No special effects",
         "effects": [
             {
                 "code": 44,
@@ -1383,7 +1383,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★☆ Delicious light-\ntasting meat! Attack +10 Defense\n+10 ----------------------------\n------ ◆Mentaiko Status\nIncrease◆ ◆Mountain Climbing\nEffect Increase Provided◆",
+        "description": "Rarity: ★★★☆\nDelicious light-tasting meat!\n--------------------------------\n◆ Mentai Attack Power +10\n◆ Mentai Defense Power +10\n◆ Mountain Climbing Effect Increase",
         "effects": [
             {
                 "code": 44,
@@ -1416,7 +1416,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★★ A whole rainbow\ntrout was used. It's\nextravagant. Health +100 Lust\n+100 ---------------------------\n------- ◆ \"Great Luck Boy\"\ngranted.",
+        "description": "Rarity: ★★★★\nA whole rainbow trout was used.\nIt's quite extravagant!\n• Stamina +100\n• Desire +100\n--------------------------------\n◆ Grants \"Great Luck Boy\"",
         "effects": [
             {
                 "code": 44,
@@ -1428,7 +1428,7 @@
         "hitType": 0,
         "iconIndex": 172,
         "itypeId": 1,
-        "name": "4 Star Aqua Piazza",
+        "name": "★4 Star Aqua Piazza",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1449,7 +1449,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★★ This is a very\nluxurious cooked rice. Attack\npower +15 Defense power +15 ----\n------------------------------\n◆Mentai status increase\n◆Mountain climbing effect\nincrease",
+        "description": "Rarity: ★★★★\nThis is a very luxurious cooked rice.\n--------------------------------\n◆ Mentai Attack Power +15\n◆ Mentai Defense Power +15\n◆ Mountain Climbing Effect Increase",
         "effects": [
             {
                 "code": 44,
@@ -1482,7 +1482,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★★ Kaiseki cuisine\nusing high-quality fish and wild\nvegetables. Maximum physical\nstrength +30 Maximum sexual\ndesire +30 ---------------------\n------------- ◆ Increased\nmountaineering effect ◆ \"Great\nLuck Boy\" granted",
+        "description": "Rarity: ★★★★\nKaiseki cuisine using high-quality\nfish and wild vegetables.\n• Maximum Stamina +30\n• Maximum Desire +30\n--------------------------------\n◆ Mountain Climbing Effect Increase\n◆ Grants \"Great Luck Boy\"",
         "effects": [
             {
                 "code": 44,
@@ -2023,7 +2023,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Apple candy bought at the stall!\n\\c[14] Stamina+50 Memories+10 \\c\n[0]\\n\\n\\n-----------------------\n-----------\\n◆No special effects",
+        "description": "Apple candy bought at the stall!\n• Stamina +50\n• Memories +10\n--------------------------------\n◆ No special effects",
         "effects": [
             {
                 "code": 44,
@@ -2056,7 +2056,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Limited! Super Candy Apple!\nExperience +50 Memories +30  ---\n-------------------------------\nNo special effects.",
+        "description": "Limited! Super Candy Apple!\n• Experience +50\n• Memories +30\n--------------------------------\n◆ No special effects",
         "effects": [
             {
                 "code": 44,
