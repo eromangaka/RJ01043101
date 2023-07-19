@@ -1380,7 +1380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. Today is New Year's Eve, isn't it, \\n[1]-\nkun\\kw[1]"
+                                "Hehe\\kw[1]\\. Today is New Year's Eve,\nisn't it, \\n[1]- kun\\kw[1]"
                             ]
                         },
                         {
@@ -1507,7 +1507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1], you really love festivals, don't you\\kw[1]"
+                                "\\n[1], you really love\nfestivals, don't you\\kw[1]"
                             ]
                         },
                         {
@@ -1728,7 +1728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, I see\\.. It's dangerous because it's dark at night,\nisn't it?"
+                                "Ah, I see\\.. It's dangerous because\nit's dark at night, isn't it?"
                             ]
                         },
                         {
@@ -1863,7 +1863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Speaking of which, you didn't go to any festivals during the\nsummer vacation, did you?"
+                                "Speaking of which, you didn't\ngo to any festivals during the\nsummer vacation, did you?"
                             ]
                         },
                         {
@@ -1935,7 +1935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. I hope you can have a lot of fun today\\kw[1]"
+                                "Hehe\\kw[1]\\. I hope you can\nhave a lot of fun today\\kw[1]"
                             ]
                         },
                         {
@@ -2113,7 +2113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well then \\n[1]-kun, it's a bit early but ......"
+                                "Well then \\n[1]-kun, it's\na bit early but ......"
                             ]
                         },
                         {
@@ -2277,7 +2277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Since it's a special festival, \\. you have to enjoy it to\nthe fullest, right? \\kw[1]"
+                                "Since it's a special festival,\\.\nyou have to enjoy it to the\nfullest, right? \\kw[1]"
                             ]
                         },
                         {
@@ -2419,7 +2419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Teacher! \\. I also want to fully enjoy New Year's Eve!"
+                                "Teacher! \\. I also want to\nfully enjoy New Year's Eve!"
                             ]
                         },
                         {
@@ -2491,7 +2491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Already, you're like an onee-chan ......\\. ......"
+                                "Already, you're like\nan onee-chan ......\\. ......\\kw[1]"
                             ]
                         },
                         {
