@@ -781,7 +781,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This is a wonderful gift for the\nheroines.\n--------------------------------\n◆ Gift item:\nIncreases heroine's \\c[14]Favorability +20\\c[0]",
+        "description": "This is a wonderful gift for the\nheroines.\n--------------------------------\n◆ Gift item:\nIncreases heroine's \\c[14]Affection +20\\c[0]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 191,
