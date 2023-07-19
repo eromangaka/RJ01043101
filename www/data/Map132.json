@@ -8809,7 +8809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah... Oh... \\n[1]-kun... \\n[1]-kun..."
+                                "Ah...\\kw[1] Oh...\\kw[1]\n\\n[1]-kun... \\n[1]-kun...\\kw[1]"
                             ]
                         },
                         {
