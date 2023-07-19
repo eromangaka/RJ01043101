@@ -11,7 +11,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Energy drink that resonates with\nthe core of the body! Stamina\n+10, Libido +5. It will be\nstocked in the holder.",
+        "description": "Energy drink that resonates with\nthe core of the body!\nStamina +10, Desire +5\nAlso usable from the Recovery Items quickmenu.",
         "effects": [
             {
                 "code": 44,
@@ -44,7 +44,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It seems to be a gum made from\nsoftshell turtle. Sexual desire\n+30. It will be stocked in the\nholder.",
+        "description": "It seems to be a gum made from\nsoftshell turtle.\nDesire +30\nAlso usable from the Recovery Items quickmenu.",
         "effects": [
             {
                 "code": 44,
@@ -77,7 +77,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Now I'm a muscular macho!\nStamina +50% Stocked in the\nholder.",
+        "description": "Now I'm a muscular macho!\nStamina +50%\nAlso usable from the Recovery Items quickmenu.",
         "effects": [
             {
                 "code": 44,
@@ -110,7 +110,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Seems like it can get incredibly\nerect. Sexual desire +50%.\nStocked in the holder.",
+        "description": "Seems to get you incredibly erect.\nDesire +50%\nAlso usable from the Recovery Items quickmenu.",
         "effects": [
             {
                 "code": 44,
@@ -143,7 +143,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's a drink that tastes like\nchemicals. It increases physical\nstrength by 30, sexual desire by\n30, and memories by 10. It is\nstocked in the holder.",
+        "description": "It's a drink that tastes like chemicals.\nStamina +30, Desire +30, Memories +10\nAlso usable from the Recovery Items quickmenu.",
         "effects": [
             {
                 "code": 44,
@@ -176,7 +176,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This is some kind of dangerous\ncandy... Memory +15, Lust +15.\nWhen given as a gift, Mood +30.",
+        "description": "This is some kind of dangerous candy...\nDesire +15, Memories +15.\nWhen given as a gift, Mood +30",
         "effects": [
             {
                 "code": 44,
@@ -209,7 +209,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It seems that muscle strength\neffects can be expected...\nAttack power +5 at the time of\nMentai... Doping possible at the\nsecret base.",
+        "description": "It seems that muscle strengthening\neffects can be expected...\nMentai Attack Power +5\nUsable at the secret base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 220,
@@ -235,7 +235,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It seems that the resistance to\nbeing hit increases... Defense\npower +5 during Mentai time.\nIt's possible to dope at the\nsecret base.",
+        "description": "It seems that the resistance to\nbeing hit increases...\nMentai Defense Power +5\nUsable at the secret base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 236,
