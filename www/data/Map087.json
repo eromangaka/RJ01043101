@@ -1602,7 +1602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes! I still think \\n[1]-kun has a talent for mentai!"
+                                "Yes! I still think \\n[1]-kun has a talent for Mentai!"
                             ]
                         },
                         {
@@ -1619,7 +1619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]Why don't you try aiming to become a professional\nmentai player?\\c[0]"
+                                "Why don't you try aiming to become \\c[14]a professional\nMentai\\c[0] player?"
                             ]
                         },
                         {
@@ -3606,7 +3606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">I spent time with everyone from the mentaiko group like\nthis!"
+                                "I spent time with everyone from Mentai group!"
                             ]
                         },
                         {

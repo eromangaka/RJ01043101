@@ -1770,7 +1770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kouta: Mentaiko hunting is"
+                                "Kouta: Mentai Hunter is"
                             ]
                         },
                         {
@@ -1828,7 +1828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kouta: \\<\\Mentaiko hunting\\c[0] has appeared in this town!"
+                                "\\>Kouta: \\<\\Mentai Hunter\\c[0] has appeared in this town!"
                             ]
                         },
                         {
@@ -1975,7 +1975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mentaiko hunting?"
+                                "Mentai Hunter?"
                             ]
                         },
                         {
@@ -2817,7 +2817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kouta: \\<\\The \\c[0]mentai hunting\\> has reached \\<this\ntown...!"
+                                "\\>Kouta: \\<\\The \\c[0]Mentai hunting\\> has reached \\<this\ntown...!"
                             ]
                         },
                         {
@@ -3234,7 +3234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kouta: \\<They're planning to gather menko from mentaikars\nall over the place and destroy the industry."
+                                "\\>Kouta: \\<They're planning to gather menko from Mentaikars\nall over the place and destroy the industry."
                             ]
                         },
                         {
@@ -3392,7 +3392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like there are also more children who are drifting\naway from mentaiko ......"
+                                "It seems like there are also more children who are drifting\naway from Mentai ......"
                             ]
                         },
                         {
@@ -3652,7 +3652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kouta: \\<\\The future \\c[0]of mentaikars ......is in\ndanger."
+                                "\\>Kouta: \\<\\The future \\c[0]of Mentaikars ......is in\ndanger."
                             ]
                         },
                         {
@@ -4179,7 +4179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]I wonder if we can defeat the mentaikari?\\c[0]"
+                                "\\c[14]I wonder if we can defeat the Mentaikari?\\c[0]"
                             ]
                         },
                         {
@@ -4241,7 +4241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kouta: \\<I see! ......! \\>Let's go mentaikari hunting\ntogether!"
+                                "\\>Kouta: \\<I see! ......! \\>Let's go Mentaikari hunting\ntogether!"
                             ]
                         },
                         {
@@ -5230,7 +5230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Alright! \\. \\c[14]Team Mentaiko\\c[0] It's been a while since\nwe reformed!"
+                                "Alright! \\. \\c[14]Team Mentai\\c[0] It's been a while since\nwe reformed!"
                             ]
                         },
                         {
@@ -5305,7 +5305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Our goal is \\c[14]Mentaiko Hunting\\c[0]!"
+                                "Our goal is \\c[14]Mentai Hunter\\c[0]!"
                             ]
                         },
                         {
@@ -5344,7 +5344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let's all defeat the \\c[14]Mentaiko Hunting\\c[0] in this\ntown together!"
+                                "Let's all defeat the \\c[14]Mentai Hunter\\c[0] in this\ntown together!"
                             ]
                         },
                         {
@@ -5575,7 +5575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To protect the future of Mentaiko ..."
+                                "To protect the future of Mentai ..."
                             ]
                         },
                         {
@@ -5650,7 +5650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We will defeat \\c[14]Mentaiko Hunting\\c[0]!"
+                                "We will defeat \\c[14]Mentai Hunter\\c[0]!"
                             ]
                         },
                         {
@@ -5709,7 +5709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">And thus, Team Mentaiko has been reformed!"
+                                ">And thus, Team Mentai has been reformed!"
                             ]
                         },
                         {
@@ -5726,7 +5726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">Mentaiko hunting that is said to be occurring in this town!\nRight-click on suspicious people and try to engage them in\nconversation. Let's set up a trap for the Mentaiko!"
+                                "Mentai Hunter has appeared in this town!\n\\c[14]Right-click\\c[0] on suspicious people to challenge them!"
                             ]
                         },
                         {

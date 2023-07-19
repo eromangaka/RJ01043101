@@ -989,12 +989,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For you who missed the shot. \\n\\\nn\\n-----------------------------\n-----\\n◆\\c[14]Registration of\nMentaiko hunting \\c[0] photos\\n◆\nAfter obtaining, this item will\n\\c[14]disappear\\c[0]",
+        "description": "For you who missed the shot. \\n\\\nn\\n-----------------------------\n-----\\n◆\\c[14]Registration of\nMentai Hunter \\c[0] photos\\n◆\nAfter obtaining, this item will\n\\c[14]disappear\\c[0]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
         "itypeId": 2,
-        "name": "★ Photo of Mentaiko Hunting",
+        "name": "★ Photo of Mentai Hunter",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1284,7 +1284,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★☆☆ Perfectly salted\nand great for snacking. Attack\n+5 Defense +5 ------------------\n---------------- ◆Mentaiko\nStatus Increase◆ ◆Mountain\nClimbing Effect Increase\nProvided◆",
+        "description": "Rarity: ★★☆☆ Perfectly salted\nand great for snacking. Attack\n+5 Defense +5 ------------------\n---------------- ◆Mentai\nStatus Increase◆ ◆Mountain\nClimbing Effect Increase\nProvided◆",
         "effects": [
             {
                 "code": 44,
@@ -1383,7 +1383,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★☆ Delicious light-\ntasting meat! Attack +10 Defense\n+10 ----------------------------\n------ ◆Mentaiko Status\nIncrease◆ ◆Mountain Climbing\nEffect Increase Provided◆",
+        "description": "Rarity: ★★★☆ Delicious light-\ntasting meat! Attack +10 Defense\n+10 ----------------------------\n------ ◆Mentai Status\nIncrease◆ ◆Mountain Climbing\nEffect Increase Provided◆",
         "effects": [
             {
                 "code": 44,
@@ -3629,7 +3629,7 @@
         "iconIndex": 132,
         "itypeId": 4,
         "name": "Akari",
-        "note": "<SGカテゴリ:◆ Girl Photos>\n<SGピクチャ:E_写真_4> \n<SG説明: A picture of Akari- chan. She's\na professional Mentaiko car\nracer who's very popular on TV.\nIt's said that many children\naspire to be Mentaiko car racers\nbecause they look up to Akari-\nchan!>\n<SG種別:1> ",
+        "note": "<SGカテゴリ:◆ Girl Photos>\n<SGピクチャ:E_写真_4> \n<SG説明: A picture of Akari- chan. She's\na professional Mentai car\nracer who's very popular on TV.\nIt's said that many children\naspire to be Mentai car racers\nbecause they look up to Akari-\nchan!>\n<SG種別:1> ",
         "occasion": 0,
         "price": 0,
         "repeats": 1,
@@ -3785,7 +3785,7 @@
         "iconIndex": 132,
         "itypeId": 4,
         "name": "Light",
-        "note": "<SGカテゴリ:◆ Girl Photos>\n<SGピクチャ:E_写真_10> \n<SG説明: A photo of Ms. Hikari. She's\nAkari-chan's mother and the one\nwho sparked the Mentaiko boom!\nThey say she still has the power\nto be active in her field!>\n<SG種別:1> ",
+        "note": "<SGカテゴリ:◆ Girl Photos>\n<SGピクチャ:E_写真_10> \n<SG説明: A photo of Ms. Hikari. She's\nAkari-chan's mother and the one\nwho sparked the Mentai boom!\nThey say she still has the power\nto be active in her field!>\n<SG種別:1> ",
         "occasion": 0,
         "price": 0,
         "repeats": 1,
@@ -4746,8 +4746,8 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 4,
-        "name": "Mentaiko Hunting",
-        "note": "<SGカテゴリ:◆ MOB Photo>\n<SGピクチャ:M_写真_11> \n<SG説明: \"Mentaiko Hunt\" \"Photo\". Let's\ncrush it as soon as we find it!>\n<SG種別:1> ",
+        "name": "Mentai Hunter",
+        "note": "<SGカテゴリ:◆ MOB Photo>\n<SGピクチャ:M_写真_11> \n<SG説明: \"Mentai Hunt\" \"Photo\". Let's\ncrush it as soon as we find it!>\n<SG種別:1> ",
         "occasion": 0,
         "price": 0,
         "repeats": 1,
@@ -13379,7 +13379,7 @@
         "iconIndex": 187,
         "itypeId": 4,
         "name": "Secret Base",
-        "note": "<SGカテゴリ:◆ MAP Photo>\n<SGピクチャ:写真_0175> \n<SG説明: It's the secret place where\neveryone, including Akari-chan\nand Mentaiko, always gather!>\n<SG種別:1> ",
+        "note": "<SGカテゴリ:◆ MAP Photo>\n<SGピクチャ:写真_0175> \n<SG説明: It's the secret place where\neveryone, including Akari-chan\nand Mentai, always gather!>\n<SG種別:1> ",
         "occasion": 0,
         "price": 0,
         "repeats": 1,

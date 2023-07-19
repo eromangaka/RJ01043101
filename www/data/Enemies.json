@@ -9433,7 +9433,7 @@
             }
         ],
         "gold": 0,
-        "name": "Man Knowledgeable About Mentaiko",
+        "name": "Man Knowledgeable About Mentai",
         "note": "",
         "params": [
             300,
@@ -22245,7 +22245,7 @@
             }
         ],
         "gold": 0,
-        "name": "Mentaiko Hunt (Strong)",
+        "name": "Mentai Hunt (Strong)",
         "note": "あかりイベント\nヒカリを助ける時に戦う\n\n家元・真田・神田より強く設定",
         "params": [
             500,
@@ -22307,7 +22307,7 @@
             }
         ],
         "gold": 0,
-        "name": "Head of Mentaiko Hunting",
+        "name": "Head of Mentai Hunting",
         "note": "防御力が高いけど非力\nミスしなければ倒せる",
         "params": [
             300,
@@ -22369,7 +22369,7 @@
             }
         ],
         "gold": 0,
-        "name": "Sanada of Mentaiko Hunting",
+        "name": "Sanada of Mentai Hunting",
         "note": "攻撃力が高いけど紙\nミスしなければ倒せる",
         "params": [
             350,
@@ -22431,7 +22431,7 @@
             }
         ],
         "gold": 0,
-        "name": "God of Mentaiko Hunting Kanda",
+        "name": "God of Mentai Hunting Kanda",
         "note": "能力値が高いけど体力が低い",
         "params": [
             250,
@@ -22493,7 +22493,7 @@
             }
         ],
         "gold": 0,
-        "name": "Mentaiko BOSS",
+        "name": "Mentai BOSS",
         "note": "一撃必殺できない。\n\n僕が調整しました。",
         "params": [
             3000,
@@ -24105,7 +24105,7 @@
             }
         ],
         "gold": 0,
-        "name": "Mentaiko Hunt (Strong)",
+        "name": "Mentai Hunt (Strong)",
         "note": "あかりイベント\nヒカリを助ける時に戦う\n\n家元・真田・神田より強く設定",
         "params": [
             500,
