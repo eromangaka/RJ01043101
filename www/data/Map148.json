@@ -13618,7 +13618,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe, you're really a pervert, aren't you? \\kw[1]"
+                                "Hehe, you're really a\npervert, aren't you? \\kw[1]"
                             ]
                         },
                         {
