@@ -11,7 +11,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Energy drink that resonates with\nthe core of the body! Stamina\n+10, Libido +5. It will be\nstocked in the holder.",
+        "description": "Energy drink that resonates with\nthe core of the body!\nStamina +10, Desire +5\nAlso usable from the Recovery Items quickmenu.",
         "effects": [
             {
                 "code": 44,
@@ -44,7 +44,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It seems to be a gum made from\nsoftshell turtle. Sexual desire\n+30. It will be stocked in the\nholder.",
+        "description": "It seems to be a gum made from\nsoftshell turtle.\nDesire +30\nAlso usable from the Recovery Items quickmenu.",
         "effects": [
             {
                 "code": 44,
@@ -77,7 +77,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Now I'm a muscular macho!\nStamina +50% Stocked in the\nholder.",
+        "description": "Now I'm a muscular macho!\nStamina +50%\nAlso usable from the Recovery Items quickmenu.",
         "effects": [
             {
                 "code": 44,
@@ -110,7 +110,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Seems like it can get incredibly\nerect. Sexual desire +50%.\nStocked in the holder.",
+        "description": "Seems to get you incredibly erect.\nDesire +50%\nAlso usable from the Recovery Items quickmenu.",
         "effects": [
             {
                 "code": 44,
@@ -143,7 +143,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's a drink that tastes like\nchemicals. It increases physical\nstrength by 30, sexual desire by\n30, and memories by 10. It is\nstocked in the holder.",
+        "description": "It's a drink that tastes like chemicals.\nStamina +30, Desire +30, Memories +10\nAlso usable from the Recovery Items quickmenu.",
         "effects": [
             {
                 "code": 44,
@@ -176,7 +176,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This is some kind of dangerous\ncandy... Memory +15, Lust +15.\nWhen given as a gift, Mood +30.",
+        "description": "This is some kind of dangerous candy...\nDesire +15, Memories +15.\nWhen given as a gift, Mood +30",
         "effects": [
             {
                 "code": 44,
@@ -209,7 +209,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It seems that muscle strength\neffects can be expected...\nAttack power +5 at the time of\nMentai... Doping possible at the\nsecret base.",
+        "description": "It seems that muscle strengthening\neffects can be expected...\nMentai Attack Power +5\nUsable at the secret base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 220,
@@ -235,7 +235,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It seems that the resistance to\nbeing hit increases... Defense\npower +5 during Mentai time.\nIt's possible to dope at the\nsecret base.",
+        "description": "It seems that the resistance to\nbeing hit increases...\nMentai Defense Power +5\nUsable at the secret base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 236,
@@ -989,12 +989,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For you who missed the shot. \\n\\\nn\\n-----------------------------\n-----\\n◆\\c[14]Registration of\nMentaiko Hunter \\c[0] photos\\n◆\nAfter obtaining, this item will\n\\c[14]disappear\\c[0]",
+        "description": "For you who missed the shot. \\n\\\nn\\n-----------------------------\n-----\\n◆\\c[14]Registration of\nMentai Hunter \\c[0] photos\\n◆\nAfter obtaining, this item will\n\\c[14]disappear\\c[0]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
         "itypeId": 2,
-        "name": "★ Photo of Mentaiko Hunter",
+        "name": "★ Photo of Mentai Hunter",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1284,7 +1284,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★☆☆ Perfectly salted\nand great for snacking. Attack\n+5 Defense +5 ------------------\n---------------- ◆Mentaiko\nStatus Increase◆ ◆Mountain\nClimbing Effect Increase\nProvided◆",
+        "description": "Rarity: ★★☆☆ Perfectly salted\nand great for snacking. Attack\n+5 Defense +5 ------------------\n---------------- ◆Mentai\nStatus Increase◆ ◆Mountain\nClimbing Effect Increase\nProvided◆",
         "effects": [
             {
                 "code": 44,
@@ -1383,7 +1383,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★☆ Delicious light-\ntasting meat! Attack +10 Defense\n+10 ----------------------------\n------ ◆Mentaiko Status\nIncrease◆ ◆Mountain Climbing\nEffect Increase Provided◆",
+        "description": "Rarity: ★★★☆ Delicious light-\ntasting meat! Attack +10 Defense\n+10 ----------------------------\n------ ◆Mentai Status\nIncrease◆ ◆Mountain Climbing\nEffect Increase Provided◆",
         "effects": [
             {
                 "code": 44,
@@ -3629,7 +3629,7 @@
         "iconIndex": 132,
         "itypeId": 4,
         "name": "Akari",
-        "note": "<SGカテゴリ:◆ Girl Photos>\n<SGピクチャ:E_写真_4> \n<SG説明: A picture of Akari- chan. She's\na professional Mentaiko car\nracer who's very popular on TV.\nIt's said that many children\naspire to be Mentaiko car racers\nbecause they look up to Akari-\nchan!>\n<SG種別:1> ",
+        "note": "<SGカテゴリ:◆ Girl Photos>\n<SGピクチャ:E_写真_4> \n<SG説明: A picture of Akari- chan. She's\na professional Mentai car\nracer who's very popular on TV.\nIt's said that many children\naspire to be Mentai car racers\nbecause they look up to Akari-\nchan!>\n<SG種別:1> ",
         "occasion": 0,
         "price": 0,
         "repeats": 1,
@@ -3785,7 +3785,7 @@
         "iconIndex": 132,
         "itypeId": 4,
         "name": "Light",
-        "note": "<SGカテゴリ:◆ Girl Photos>\n<SGピクチャ:E_写真_10> \n<SG説明: A photo of Ms. Hikari. She's\nAkari-chan's mother and the one\nwho sparked the Mentaiko boom!\nThey say she still has the power\nto be active in her field!>\n<SG種別:1> ",
+        "note": "<SGカテゴリ:◆ Girl Photos>\n<SGピクチャ:E_写真_10> \n<SG説明: A photo of Ms. Hikari. She's\nAkari-chan's mother and the one\nwho sparked the Mentai boom!\nThey say she still has the power\nto be active in her field!>\n<SG種別:1> ",
         "occasion": 0,
         "price": 0,
         "repeats": 1,
@@ -4746,8 +4746,8 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 4,
-        "name": "Mentaiko Hunter",
-        "note": "<SGカテゴリ:◆ MOB Photo>\n<SGピクチャ:M_写真_11> \n<SG説明: \"Mentaiko Hunt\" \"Photo\". Let's\ncrush it as soon as we find it!>\n<SG種別:1> ",
+        "name": "Mentai Hunter",
+        "note": "<SGカテゴリ:◆ MOB Photo>\n<SGピクチャ:M_写真_11> \n<SG説明: \"Mentai Hunt\" \"Photo\". Let's\ncrush it as soon as we find it!>\n<SG種別:1> ",
         "occasion": 0,
         "price": 0,
         "repeats": 1,
@@ -13379,7 +13379,7 @@
         "iconIndex": 187,
         "itypeId": 4,
         "name": "Secret Base",
-        "note": "<SGカテゴリ:◆ MAP Photo>\n<SGピクチャ:写真_0175> \n<SG説明: It's the secret place where\neveryone, including Akari-chan\nand Mentaiko, always gather!>\n<SG種別:1> ",
+        "note": "<SGカテゴリ:◆ MAP Photo>\n<SGピクチャ:写真_0175> \n<SG説明: It's the secret place where\neveryone, including Akari-chan\nand Mentai, always gather!>\n<SG種別:1> ",
         "occasion": 0,
         "price": 0,
         "repeats": 1,
