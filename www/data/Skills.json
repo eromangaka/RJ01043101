@@ -40,7 +40,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will thrust the penis from the\nfront. It affects the lewd\nstatus. It affects the level of\nsexual excitement",
+        "description": "Thrust the penis from the front. \nAffects Lewdness. \nAffects Desire",
         "effects": [],
         "hitType": 0,
         "iconIndex": 288,
@@ -70,7 +70,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will thrust my penis from\nbehind. It affects the lewd\nstatus and the level of sexual\nexcitement",
+        "description": "Thrust my penis from behind.\nAffects the Lewdness.\nAffects Desire",
         "effects": [],
         "hitType": 0,
         "iconIndex": 289,
@@ -100,7 +100,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You will straddle the penis and\nhave it thrust into you. It\naffects the lewd status and the\nlevel of sexual excitement",
+        "description": "Straddles my penis. \nAffects lewdness and desire.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 290,
@@ -130,7 +130,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will pound you with my penis\nwhile you're sitting down. It\naffects the lewd status and the\nlevel of sexual excitement",
+        "description": "Pound you with my penis\nwhile you're sitting down. Affects lewdness and desire",
         "effects": [],
         "hitType": 0,
         "iconIndex": 137,
@@ -220,7 +220,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You will get a hand job. It\naffects the service status and\nthe level of dedication",
+        "description": "Get a handjob. Affects service and affection",
         "effects": [],
         "hitType": 0,
         "iconIndex": 293,
@@ -250,7 +250,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will receive a blowjob. It\naffects the service status and\nthe level of dedication",
+        "description": "Receive a blowjob. \nAffects service and affection",
         "effects": [],
         "hitType": 0,
         "iconIndex": 294,
@@ -280,7 +280,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will have my penis sandwiched\nbetween breasts. It affects the\nservice status and the level of\ndedication",
+        "description": "Penis is sandwiched between breasts. \nAffects service and affection.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 295,
@@ -310,7 +310,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will have a footjob. It\naffects the service status. It\naffects the level of dedication",
+        "description": "Get a footjob. \nAffects service and affection",
         "effects": [],
         "hitType": 0,
         "iconIndex": 296,
@@ -400,7 +400,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will bang you from behind with\nmy penis. It affects the pervert\nstatus and excitement level",
+        "description": "Bang from behind. \nAffects perversion and lewdness",
         "effects": [],
         "hitType": 0,
         "iconIndex": 304,
@@ -430,7 +430,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Covering and pounding the pussy.\nIt affects the pervert status\nand excitement level",
+        "description": "Cover and pound the pussy.\nAffects perversion and lewdness",
         "effects": [],
         "hitType": 0,
         "iconIndex": 305,
@@ -460,14 +460,14 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will pound your butt hole with\nmy penis. This will affect your\npervert status and excitement\nlevel",
+        "description": "Pound butthole with my penis. Affects perversion and lewdness.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 307,
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "Analyst",
+        "name": "Anal",
         "note": "",
         "occasion": 0,
         "repeats": 1,
@@ -490,7 +490,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will pee from the hole in my\nbutt. It affects the pervert\nstatus and excitement level",
+        "description": "Pee in Butthole. \nAffects perversion and lewdness",
         "effects": [],
         "hitType": 0,
         "iconIndex": 308,
@@ -580,7 +580,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You will be spaced out on the\nspot. Time elapsed: 30 minutes.\nStamina recovery: +3",
+        "description": "Space out.\nTime elapsed: 30 minutes.\nStamina recovery: +3",
         "effects": [],
         "hitType": 0,
         "iconIndex": 92,
@@ -610,7 +610,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will clean the dirt. ◆Time\nelapsed: -10 minutes ◆Energy\nconsumption: -10",
+        "description": "Clean dirtiness.\n◆Time elapsed: -10 minutes.\n◆Stamina: -10",
         "effects": [],
         "hitType": 0,
         "iconIndex": 157,
@@ -640,7 +640,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will take various shots with\nthe camera. It becomes possible\nto take photos",
+        "description": "Take photos",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -670,7 +670,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You will intuitively know the\nshutter chance. When aligned\nwith the subject, the icon\nlights up in red",
+        "description": "When aligned with the subject,\nthe icon lights up in red",
         "effects": [],
         "hitType": 0,
         "iconIndex": 35,
@@ -790,14 +790,14 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Unlock the door and enter\ninside. It becomes possible to\nunlock the room",
+        "description": "Picklock the door and enter\ninside. It becomes possible to\nunlock rooms",
         "effects": [],
         "hitType": 0,
         "iconIndex": 93,
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "Picking",
+        "name": "Lock Picking",
         "note": "",
         "occasion": 0,
         "repeats": 1,
@@ -850,7 +850,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I become good at praising. The\nmood value during conversation\nincreases significantly",
+        "description": "You become good at praising. The\nmood value during conversation\nincreases significantly",
         "effects": [],
         "hitType": 0,
         "iconIndex": 85,
@@ -880,7 +880,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You'll become good at flattery.\nThe mood increase during\nconversation becomes even larger",
+        "description": "You become good at flattery.\nThe mood increase during\nconversation becomes even larger",
         "effects": [],
         "hitType": 0,
         "iconIndex": 86,
@@ -970,7 +970,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will show her masturbation. It\ncan only be activated when the\nheroine's underwear is in\npossession during the\nconversation",
+        "description": "I will show her masturbation. Activated when the\nheroine's underwear is in\npossession during the\nconversation",
         "effects": [],
         "hitType": 0,
         "iconIndex": 60,
@@ -1030,7 +1030,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Become a master of fishing. The\nmovement of the fish becomes\nslower. Byproduct acquisition:\nMedium probability",
+        "description": "Become a master of fishing.\nThe movement of the fish becomes slower. \nBonus: Medium probability",
         "effects": [],
         "hitType": 0,
         "iconIndex": 58,
@@ -1060,7 +1060,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Become a fishing pro. The fish's\nstamina decreases. Byproduct\nacquisition: High probability",
+        "description": "Become a fishing pro. \nThe fish's stamina decreases. \nBonus: High probability",
         "effects": [],
         "hitType": 0,
         "iconIndex": 106,
@@ -1120,14 +1120,14 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will time leap (can be learned\nonly once) while retaining my\nexperience, going back until\nJanuary 01",
+        "description": "Time leap (can be learned only once).\nRetain EXP and go back to JAN 01.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 63,
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "Time Reaper",
+        "name": "Time Leap",
         "note": "<Set Sts Data>\ncost sp: 100\nshow: s[1040]\n</Set Sts Data>",
         "occasion": 0,
         "repeats": 1,
@@ -1150,7 +1150,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will transform my body. The\nexperience points will become\nMAX",
+        "description": "Transform my body.\nExperience MAX.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 159,
@@ -1330,7 +1330,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Take 50 photos.  *It's possible\nto take photos of the heroine's\nunderwear",
+        "description": "Take 50 photos. *It's possible\nto take photos of the heroine's\nunderwear",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
@@ -1390,7 +1390,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Play all mini-games once *All\nmini- games will be skipped",
+        "description": "Play all mini-games once *All\nmini-games will be skipped",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
@@ -1540,7 +1540,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Complete all character conquests\n* The option to select \"Everyone\nfor H\" is available",
+        "description": "Complete all character conquests. \nThe option to select 4P becomes available",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
@@ -1660,7 +1660,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Please take off your jacket.\nTime passed: 5 minutes. Sexual\ndesire increased: +5",
+        "description": "Please take off your top.\nTime passed: 5 minutes. Sexual\ndesire increased: +5",
         "effects": [],
         "hitType": 0,
         "iconIndex": 98,
@@ -1750,7 +1750,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I'll be up all night. ◆Time\nzone\\n Can act at\n\\c[14]【Midnight】\\c[0]",
+        "description": "I'll be up all night. \n◆Can act at \\c[14]【Midnight】\\c[0]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 173,
@@ -1780,7 +1780,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The critical range will expand\nby \\n\\kw[1]\\n\\n◆ The width of\nthe critical judgment will\nbecome significantly larger by\n\\n \\c[14] \\c[0]",
+        "description": "The critical range expands.\nThe range of critical judgment \nbecomes significantly larger.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
@@ -1900,7 +1900,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will play a prank on the\nsleeping pussy. It's only\npossible when the heroine is\nasleep",
+        "description": "Play a prank on the\nsleeping pussy. It's only\npossible when the heroine is\nasleep",
         "effects": [],
         "hitType": 0,
         "iconIndex": 111,
@@ -1930,7 +1930,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will play a prank on the\nsleeping breasts. It's only\npossible when the heroine is\nasleep",
+        "description": "Play a prank on the\nsleeping breasts. It's only\npossible when the heroine is\nasleep",
         "effects": [],
         "hitType": 0,
         "iconIndex": 109,
@@ -1960,7 +1960,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will play a prank on the\nsleeping mouth. Only possible\nwhen the heroine is asleep",
+        "description": "Play a prank on the\nsleeping mouth. Only possible\nwhen the heroine is asleep",
         "effects": [],
         "hitType": 0,
         "iconIndex": 110,
@@ -1990,7 +1990,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "All time stops during \\n\\n◆ All\nnumerical increases and\ndecreases: \\c[14]±0\\c[0]\\n◆\n\\c[14] Appreciation \\c[0]\nPurpose skill",
+        "description": "Time stops during intimate moments. \n◆Numerical increases and decreases: \nFor ornamental purposes skill",
         "effects": [],
         "hitType": 0,
         "iconIndex": 91,
@@ -2140,7 +2140,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will masturbate with the\nunderwear in the dressing room.\nOnly possible with the underwear\nin the dressing room. Sexual\ndesire consumption: -30",
+        "description": "I will masturbate with the\nunderwear in the dressing room.\nDesire: -30",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -2320,7 +2320,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I'll have you suck it. Time\nelapsed: -5 minutes. Sexual\ndesire increase: +5",
+        "description": "I'll have you suck it. \nTime elapsed: -5 minutes. \nDesire: +5",
         "effects": [],
         "hitType": 0,
         "iconIndex": 44,
@@ -2350,7 +2350,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will bury my face in your\nbutt. It can be derived from\nbegging. Increase in sexual\ndesire: +10",
+        "description": "I will bury my face in your butt.\nIt can be derived from begging.\nDesire: +10",
         "effects": [],
         "hitType": 0,
         "iconIndex": 101,
@@ -2440,7 +2440,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I'll rub my penis against your\nbuttocks. It can derive from\nbegging. Increase in sexual\ndesire: +10",
+        "description": "I'll rub my penis against your\nbuttocks. It can derive from\nbegging. Desire +10",
         "effects": [],
         "hitType": 0,
         "iconIndex": 102,
@@ -2530,7 +2530,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Raises the upper limit of sexual\ndesire and physical strength to\n30. Can be learned once a day",
+        "description": "Raises the upper limit of \ndesire and physical strength to 30.\nCan be used once a day",
         "effects": [],
         "hitType": 0,
         "iconIndex": 203,
@@ -2560,7 +2560,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will receive an allowance of\n2000 yen. Can be learned once a\nday",
+        "description": "Receive an allowance of\n2000 yen. Can be used once a\nday",
         "effects": [],
         "hitType": 0,
         "iconIndex": 219,
@@ -2590,7 +2590,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will order several recovery\nitems. You can learn once a day.\nErection King, Elixir, etc",
+        "description": "I will order several recovery\nitems. Can be used once a day.\nErection King, Elixir, etc",
         "effects": [],
         "hitType": 0,
         "iconIndex": 205,
