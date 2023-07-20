@@ -287,7 +287,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's a hat that was hanging on a\ntree in the park. I wonder if it\ncan be used for Mizuki's\ndisguise...? \\n\\n\\n-------------\n---------------------\\n◆Event\nItem",
+        "description": "It's a hat that was hanging on a\ntree in the park. I wonder if it\ncan be used for Mizuki's\ndisguise...?\n----------------------------------\n◆ Event Item",
         "effects": [],
         "hitType": 0,
         "iconIndex": 187,
@@ -313,7 +313,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I won a fifth prize mask in the\nlottery. Essential for infection\nprevention measures. ◆Event Item",
+        "description": "As fifth prize,\nI won this mask in the lottery.\nEssential for infection\nprevention measures.\n----------------------------------\n◆ Event Item",
         "effects": [],
         "hitType": 0,
         "iconIndex": 187,
@@ -339,7 +339,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Found in Rion's room, a pair of\npitch-black sunglasses. --------\n-------------------------- Event\nItem",
+        "description": "Found in Rio's room, a pair of\npitch-black sunglasses.\n----------------------------------\n◆ Event Item",
         "effects": [],
         "hitType": 0,
         "iconIndex": 187,
@@ -365,7 +365,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It seems to have a sleep-\ninducing effect. Sleep recovery\n+20. It takes effect when you go\nto bed.",
+        "description": "It seems to have a sleep-inducing effects.\nStamina +20 upon sleeping.\nIt takes effect when you go to bed.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 187,
@@ -391,7 +391,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's a ticket needed to do a\nlottery draw. It becomes\npossible to do a lottery draw on\nthe highway.",
+        "description": "It's a ticket needed to do a\nlottery draw. It's possible\nto do a lottery draw on Street.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 219,
@@ -417,7 +417,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's the bait needed for\nfishing! It becomes possible to\nfish at the riverbank and\nembankment.",
+        "description": "It's the bait needed for fishing!\nIt's possible to fish\nat Riverbank and Embankment.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 176,
@@ -703,7 +703,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "About Mentai's skill It is\nwritten... ---------------------\n------------- ◆ Expansion of\ncritical range",
+        "description": "It explains about a Mentai skill.\n----------------------------------\n◆ Expansion of Critical Range",
         "effects": [],
         "hitType": 0,
         "iconIndex": 186,
@@ -729,12 +729,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You can understand a girl's\nnaughty experiences. Have a lot\nof fun and enjoy the numbers! It\ncan be viewed on the picture\ndiary screen.",
+        "description": "You can understand a girl's\nnaughty experiences. Have a lot\nof fun and enjoy the numbers!\nIt can be viewed on the picture\ndiary screen.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 186,
         "itypeId": 2,
-        "name": "Secret Notebook",
+        "name": "★Secret Notebook",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -911,7 +911,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An antique-style lamp with a\nmysterious backstory. ----------\n------------------------ ◆\nAddition of a new pleading\nskill.",
+        "description": "An antique-style lamp with a\nmysterious backstory.\n----------------------------------\n◆ Adds a new Skill",
         "effects": [],
         "hitType": 0,
         "iconIndex": 203,
@@ -937,7 +937,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It seems to be written how to\nbecome rich. -------------------\n--------------- ◆ Addition of\nnew begging skill",
+        "description": "It seems to be written how to\nbecome rich.\n----------------------------------\n◆ Adds a new Skill",
         "effects": [],
         "hitType": 0,
         "iconIndex": 186,
@@ -963,7 +963,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It seems like you can order\nsomething...? ------------------\n---------------- ◆ Addition of a\nnew begging skill",
+        "description": "It seems like you can order\nsomething...?\n----------------------------------\n◆ Adds a new Skill",
         "effects": [],
         "hitType": 0,
         "iconIndex": 202,
@@ -994,7 +994,7 @@
         "hitType": 0,
         "iconIndex": 32,
         "itypeId": 2,
-        "name": "★ Photo of Mentai Hunter",
+        "name": "★Photo of Mentai Hunter",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1015,7 +1015,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A slightly naughty book with a\nchuckle.  ----------------------\n------------◆ Addition of a new\nnaughty skill.",
+        "description": "A slightly naughty book with a\nchuckle.\n----------------------------------\n◆ Adds a new Skill",
         "effects": [],
         "hitType": 0,
         "iconIndex": 186,
@@ -1041,7 +1041,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's written about body\nmodification... New begging\nskill added.",
+        "description": "It's written about body\nmodification...\n----------------------------------\n◆ Adds a new Skill",
         "effects": [],
         "hitType": 0,
         "iconIndex": 186,
@@ -1067,7 +1067,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Invitation to a private hot\nspring inn! What happens when\nyou reach the ending?",
+        "description": "Invitation to a private hot\nspring inn!\nWhat happens when\nyou reach the ending?",
         "effects": [],
         "hitType": 0,
         "iconIndex": 187,
@@ -1685,7 +1685,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★☆☆☆ Recipe for making\ncurry rice ---------------Ingred\nients--------------- ◆Carrot ×1\n◆Onion ×1 ◆Potato ×1",
+        "description": "Rarity: ★☆☆☆\nRecipe for making Curry Rice\n----------------------------------\nIngredients:\n◆ Carrot ×1\n◆ Onion ×1\n◆ Potato ×1",
         "effects": [],
         "hitType": 0,
         "iconIndex": 158,
@@ -1711,7 +1711,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★☆☆☆ A recipe for making\nwhite rice ---------------Ingred\nients---------------  Rice ×1\nClean water ×1",
+        "description": "Rarity: ★☆☆☆\nA recipe for making White Rice\n----------------------------------\nIngredients:\n◆ Rice ×1\n◆ Clean Water ×1",
         "effects": [],
         "hitType": 0,
         "iconIndex": 158,
@@ -1737,7 +1737,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★☆☆☆ A recipe for making\nbaked sweet potatoes -----------\n----Ingredients---------------\n◆Sweet Potatoes x2",
+        "description": "Rarity: ★☆☆☆\nA recipe for making\nBaked Sweet Potatoes\n----------------------------------\nIngredients:\n◆ Sweet Potato x2",
         "effects": [],
         "hitType": 0,
         "iconIndex": 158,
@@ -1763,7 +1763,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★☆☆ Recipe for making\nAjillo ---------------Ingredient\ns--------------- ◆ Shiitake\nmushroom ×1 ◆ Garlic ×1 ◆ Oil ×1",
+        "description": "Rarity: ★★☆☆\nRecipe for making Garlic Shrimp\n----------------------------------\nIngredients:\n◆ Shiitake Mushroom ×1\n◆ Garlic ×1\n◆ Oil ×1",
         "effects": [],
         "hitType": 0,
         "iconIndex": 158,
@@ -1789,7 +1789,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★☆☆ Recipe for making\nfoil-grilled dishes ------------\n---Ingredients---------------\n◆Shimeji mushroom ×1 ◆Onion ×1\n◆Garlic ×1",
+        "description": "Rarity: ★★☆☆\nRecipe for making\nFoil-Grilled\n----------------------------------\nIngredients:\n◆ Shimeji Mushroom ×1\n◆ Onion ×1\n◆ Garlic ×1",
         "effects": [],
         "hitType": 0,
         "iconIndex": 158,
@@ -1815,7 +1815,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★☆☆ A recipe for making\nboiled wild vegetables ---------\n------Ingredients---------------\nWild vegetables x1  Salt x1",
+        "description": "Rarity: ★★☆☆\nA recipe for making\nBoiled Wild Vegetables\n----------------------------------\nIngredients:\n◆ Wild Vegetables x1\n◆ Salt x1",
         "effects": [],
         "hitType": 0,
         "iconIndex": 158,
@@ -1841,7 +1841,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★☆ Recipe for making\nSmelt Tempura ---------------\nIngredients --------------- ◆\nSmelt x1 ◆ Oil x1 ◆ Salt x1",
+        "description": "Rarity: ★★★☆\nRecipe for making\nSmelt Tempura\n----------------------------------\nIngredients:\n◆ Smelt x1\n◆ Oil x1\n◆ Salt x1",
         "effects": [],
         "hitType": 0,
         "iconIndex": 158,
@@ -1867,7 +1867,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★☆ Recipe for making a\nwild vegetable hot pot ---------\n------Ingredients---------------\n◆Eringi mushroom ×1 ◆Shiitake\nmushroom ×1 ◆Wild vegetables ×1",
+        "description": "Rarity: ★★★☆\nRecipe for making \nWild Vegetable Hot Pot\n----------------------------------\nIngredients:\n◆ Eringi Mushroom ×1\n◆ Shiitake Mushroom ×1\n◆ Wild Vegetables ×1",
         "effects": [],
         "hitType": 0,
         "iconIndex": 158,
@@ -1893,7 +1893,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★☆ Recipe for making\ngrilled Ayu (sweetfish) --------\n-------Ingredients--------------\n- Ayu ×1  Salt ×1  Wooden stick\n×1",
+        "description": "Rarity: ★★★☆\nRecipe for making\nGrilled Ayu (Sweetfish)\n----------------------------------\nIngredients:\n◆ Ayu ×1\n◆ Salt ×1\n◆ Wooden Stick ×1",
         "effects": [],
         "hitType": 0,
         "iconIndex": 158,
@@ -1919,12 +1919,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★★ Recipe for making\nAquapazza ---------------Ingredi\nents---------------  ◆ Rainbow\nTrout ×1  ◆ Eringi Mushroom ×1 ◆\nLemon ×1",
+        "description": "Rarity: ★★★★\nRecipe for making\nAquapazza\n----------------------------------\nIngredients:\n◆ Rainbow Trout ×1\n◆ Eringi Mushroom ×1\n◆ Lemon ×1",
         "effects": [],
         "hitType": 0,
         "iconIndex": 158,
         "itypeId": 2,
-        "name": "4 Star Aqua Piazza",
+        "name": "★4 Star Aqua Piazza",
         "note": "",
         "occasion": 3,
         "price": 1500,
@@ -1945,7 +1945,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★★ Recipe for making\nMatsutake rice ---------------\nIngredients --------------- Rice\n× 1 Matsutake × 1 Clean water ×\n1",
+        "description": "Rarity: ★★★★\nRecipe for making\nMatsutake Rice\n----------------------------------\nIngredients:\n◆ Rice ×1\n◆ Matsutake ×1\n◆ Clean Water ×1",
         "effects": [],
         "hitType": 0,
         "iconIndex": 158,
@@ -1971,7 +1971,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★★ Recipe for Mountain\nBounty Meal ---------------Ingre\ndients---------------  ◆ Rainbow\nTrout ×1  ◆ Mountain Vegetables\n×1  ◆ Japanese Pepper ×1",
+        "description": "Rarity: ★★★★\nRecipe for making\nMountain Bounty Meal\n----------------------------------\nIngredients:\n◆ Rainbow Trout ×1\n◆ Mountain Vegetables ×1\n◆ Sansho ×1",
         "effects": [],
         "hitType": 0,
         "iconIndex": 158,
@@ -2167,7 +2167,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The pattern is cute, just a\nnormal Menko. It can be\ncustomized at the secret base.",
+        "description": "The pattern is cute!\nJust a normal Menko.\n----------------------------------\nIt can be customize at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
@@ -2193,12 +2193,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's a big deal! During the\nmatch, HP increases by +50. You\ncan customize it at the secret\nbase.",
+        "description": "It's a big deal! During the\nmatch, HP increases by +50.\n----------------------------------\nIt can be customize at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
         "itypeId": 2,
-        "name": "Sumo Wrestler's Card",
+        "name": "Sumo Wrestler's Menko",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2219,7 +2219,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I'll borrow the power of the\nancient species ① During the\nmatch, ATK increases by +5. ----\n------------------------------\nCan be customized at the secret\nbase.",
+        "description": "I'll borrow the power of\nthe ancient species!\nDuring the match, \nATK increases by +5.\n----------------------------------\nIt can be customize at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
@@ -2245,7 +2245,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I'll borrow the power of the\nancient species ② During the\nmatch, DEF increases by +10 ----\n------------------------------\nCustomizable at the secret base.",
+        "description": "I'll borrow the power of\nthe ancient species!\nDuring the match, \nDEF increases by +10\n----------------------------------\nIt can be customize at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
@@ -2271,7 +2271,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Because it's fast, I avoid it\nmore than usual. During the\nmatch, there is a 30% chance of\nevasion. It can be customized in\nthe secret base.",
+        "description": "Because it's fast, it avoids \nmore than usual!\nDuring the match, \nthere is a 30% chance of Evasion.\n----------------------------------\nIt can be customize at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
@@ -2297,12 +2297,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "There's nothing that can beat a\nsingle stroke of a samurai's\nsword! Critical damage increase.\nYou can customize in the secret\nbase.",
+        "description": "There's nothing that can beat a\nsingle stroke of a samurai's sword!\nCritical Damage Increase.\n----------------------------------\nIt can be customize at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
         "itypeId": 2,
-        "name": "Samurai's Card",
+        "name": "Samurai's Menko",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2323,12 +2323,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You dirty ninja! Make sure your\nmenko doesn't become a miss. You\ncan customize in the secret\nbase.",
+        "description": "You dirty ninja!\nIt makes sure your\nMenko doesn't miss.\n----------------------------------\nIt can be customize at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
         "itypeId": 2,
-        "name": "Ninja's Card",
+        "name": "Ninja's Menko",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2505,7 +2505,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Shizuku's Naughty Photo 1 An\nextremely naughty angle taken\nupside down. -------------------\n--------------- Event Item: Can\nbe viewed in the Hidden Folder.",
+        "description": "Shizuku's Naughty Photo ①\nAn extremely naughty angle taken\nupside down.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2531,7 +2531,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Shizuku's Naughty Photo ② Her\nsoft-looking bare breasts are\ngood. \\n\\n\\n--------------------\n--------------\\n◆Event\nItem\\n◆\\c[14]Can be viewed in\nthe hidden folder\\c[0]",
+        "description": "Shizuku's Naughty Photo ②\nHer soft-looking bare breasts are good.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2557,7 +2557,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kanae's Naughty Photo 1 The\npanty bite is too erotic. \\n\\n\\n\n--------------------------------\n--\\n◆Event Item\\n◆\\c[14]Can be\nviewed in the Hidden Folder\\c[0]",
+        "description": "Kanae's Naughty Photo ①\nThe panty bite is too erotic.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2583,7 +2583,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kanae's Naughty Photo 2 Close-up\nphoto of dildo masturbation. ---\n-------------------------------\nEvent Item Can be viewed in the\nHidden Folder.",
+        "description": "Kanae's Naughty Photo ②\nClose-up photo of dildo masturbation.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2609,7 +2609,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Shizuku's Naughty Video ① A\ntitjob video has been recorded.\n\\n\\n\\n--------------------------\n--------\\n◆Event\nItem\\n◆\\c[14]Can be viewed in\nthe Hidden Folder\\c[0]",
+        "description": "Shizuku's Naughty Video ①\nA titjob video that has been recorded.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2635,7 +2635,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Shizuku's Naughty Video 2 The\nconnecting part is captured in\nclose-up. ----------------------\n------------ Event Item: Can be\nviewed in the Hidden Folder.",
+        "description": "Shizuku's Naughty Video ②\nThe connecting parts were captured in\nclose-up.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2661,7 +2661,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Shizuku's Naughty Video 3\nFootage from a public toilet is\nrecorded. ----------------------\n------------ Event Item: Can be\nviewed in the Hidden Folder.",
+        "description": "Shizuku's Naughty Video ③\nFootage from the Public Toilet\nthat got recorded.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2687,7 +2687,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Shizuku's Naughty Video ④ Sex in\na love hotel is recorded. ------\n----------------------------\n◆Event Item◆ Available for\nviewing in the Hidden Folder.",
+        "description": "Shizuku's Naughty Video ④\nSex in the Love Hotel that got recorded.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2713,7 +2713,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This is a photo of Kanae's\nhusband coming out of a hotel\nwith another woman. I won't\nforgive infidelity! ------------\n---------------------- ◆Event\nitem",
+        "description": "This is a photo of Kanae's\nhusband coming out of a hotel\nwith another woman.\nI won't forgive infidelity!\n----------------------------------\n◆ Event Item",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
