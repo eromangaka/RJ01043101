@@ -2360,8 +2360,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0000",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0000",
@@ -2374,6 +2409,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -2609,8 +2654,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0002",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0002",
@@ -2623,6 +2703,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -2749,8 +2839,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0004",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0004",
@@ -2763,6 +2888,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -5576,8 +5711,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0000",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0000",
@@ -5590,6 +5760,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -5825,8 +6005,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0002",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0002",
@@ -5839,6 +6054,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -6049,8 +6274,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0004",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0004",
@@ -6063,6 +6323,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -6759,8 +7029,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0000",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0000",
@@ -6773,6 +7078,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -6961,8 +7276,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0002",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0002",
@@ -6975,6 +7325,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -7271,8 +7631,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0004",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0004",
@@ -7285,6 +7680,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -7356,8 +7761,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0000",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0000",
@@ -7370,6 +7810,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -7446,8 +7896,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0002",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0002",
@@ -7460,6 +7945,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -7754,8 +8249,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0004",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0004",
@@ -7768,6 +8298,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -7856,8 +8396,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0001",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0001",
@@ -7870,6 +8445,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -7946,8 +8531,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0002",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0002",
@@ -7960,6 +8580,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -8158,8 +8788,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0004",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0004",
@@ -8172,6 +8837,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -8243,8 +8918,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)_0002",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)_0002",
@@ -8257,6 +8967,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -16913,6 +17633,34 @@
                             "indent": 0,
                             "parameters": [
                                 0,
+                                375,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                64,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
                                 183,
                                 0
                             ]
@@ -16944,8 +17692,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)朝_0000",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)朝_0000",
@@ -16958,6 +17741,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -17061,15 +17854,75 @@
                             ]
                         },
                         {
-                            "code": 356,
+                            "code": 111,
                             "indent": 0,
+                            "parameters": [
+                                0,
+                                375,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                61,
+                                61,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 1,
+                            "parameters": [
+                                "----------------------------------------"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                128,
+                                128,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 1,
+                            "parameters": [
+                                89
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 1,
+                            "parameters": [
+                                "----------------------------------------"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 356,
+                            "indent": 1,
                             "parameters": [
                                 "PA_INIT 3 30 連番 0"
                             ]
                         },
                         {
                             "code": 231,
-                            "indent": 0,
+                            "indent": 1,
                             "parameters": [
                                 30,
                                 "主人公(パ)3_0000",
@@ -17085,14 +17938,14 @@
                         },
                         {
                             "code": 356,
-                            "indent": 0,
+                            "indent": 1,
                             "parameters": [
                                 "PA_START_LOOP 30 2"
                             ]
                         },
                         {
                             "code": 232,
-                            "indent": 0,
+                            "indent": 1,
                             "parameters": [
                                 30,
                                 0,
@@ -17107,6 +17960,16 @@
                                 30,
                                 false
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
                         },
                         {
                             "code": 249,
@@ -17323,8 +18186,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)朝_0002",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)朝_0002",
@@ -17337,6 +18235,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -17410,33 +18318,35 @@
                             ]
                         },
                         {
-                            "code": 356,
+                            "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "PA_INIT 3 30 連番 0"
+                                "----------------------------------------"
                             ]
                         },
                         {
-                            "code": 231,
+                            "code": 122,
                             "indent": 1,
                             "parameters": [
-                                30,
-                                "主人公(パ)4_0000",
+                                128,
+                                128,
                                 0,
                                 0,
-                                0,
-                                182,
-                                100,
-                                100,
-                                0,
-                                0
+                                4
                             ]
                         },
                         {
-                            "code": 356,
+                            "code": 117,
                             "indent": 1,
                             "parameters": [
-                                "PA_START_LOOP 30 2"
+                                89
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 1,
+                            "parameters": [
+                                "----------------------------------------"
                             ]
                         },
                         {
@@ -17517,8 +18427,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)朝_0001",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)朝_0001",
@@ -17531,6 +18476,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -17617,8 +18572,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)朝_0003",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)朝_0003",
@@ -17631,6 +18621,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -17697,33 +18697,35 @@
                             ]
                         },
                         {
-                            "code": 356,
+                            "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "PA_INIT 3 30 連番 0"
+                                "----------------------------------------"
                             ]
                         },
                         {
-                            "code": 231,
+                            "code": 122,
                             "indent": 1,
                             "parameters": [
-                                30,
-                                "主人公(パ)6_0000",
+                                128,
+                                128,
                                 0,
                                 0,
-                                0,
-                                182,
-                                100,
-                                100,
-                                0,
-                                0
+                                6
                             ]
                         },
                         {
-                            "code": 356,
+                            "code": 117,
                             "indent": 1,
                             "parameters": [
-                                "PA_START_LOOP 30 2"
+                                89
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 1,
+                            "parameters": [
+                                "----------------------------------------"
                             ]
                         },
                         {
@@ -17828,8 +18830,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)朝_0001",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)朝_0001",
@@ -17842,6 +18879,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -17921,8 +18968,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)朝_0002",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)朝_0002",
@@ -17935,6 +19017,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -17979,33 +19071,35 @@
                             ]
                         },
                         {
-                            "code": 356,
+                            "code": 108,
                             "indent": 1,
                             "parameters": [
-                                "PA_INIT 3 30 連番 0"
+                                "----------------------------------------"
                             ]
                         },
                         {
-                            "code": 231,
+                            "code": 122,
                             "indent": 1,
                             "parameters": [
-                                30,
-                                "主人公(パ)3_0000",
+                                128,
+                                128,
                                 0,
                                 0,
-                                0,
-                                182,
-                                100,
-                                100,
-                                0,
-                                0
+                                3
                             ]
                         },
                         {
-                            "code": 356,
+                            "code": 117,
                             "indent": 1,
                             "parameters": [
-                                "PA_START_LOOP 30 2"
+                                89
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 1,
+                            "parameters": [
+                                "----------------------------------------"
                             ]
                         },
                         {
@@ -18124,8 +19218,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                64,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_美雪(裸)朝_0004",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_美雪(服)朝_0004",
@@ -18138,6 +19267,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
