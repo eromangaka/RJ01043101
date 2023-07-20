@@ -18054,7 +18054,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\I[158]☆Recipe for Aqua Pazza 20"
+                                "D_TEXT \\I[158]☆Recipe for Aqua Piazza 20"
                             ]
                         },
                         {
@@ -18145,7 +18145,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\I[158]☆Recipe for Aqua Pazza 20"
+                                "D_TEXT \\I[158]☆Recipe for Aqua Piazza 20"
                             ]
                         },
                         {
@@ -18400,7 +18400,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]Get the recipe for ★4 Aqua Pazzo! \\c[0]"
+                                "ShowInfo \\I[167]\\c[14]Get the recipe for ★4 Aqua Piazza! \\c[0]"
                             ]
                         },
                         {
