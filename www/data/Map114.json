@@ -7496,7 +7496,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\c[14]Aqua Pazza 15"
+                                "D_TEXT \\c[14]Aqua Piazza 15"
                             ]
                         },
                         {
@@ -11023,7 +11023,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\i[172]\\c[14]I made Aqua Pazza!\\c[0]"
+                                "ShowInfo \\i[172]\\c[14]I made Aqua Piazza!\\c[0]"
                             ]
                         },
                         {
