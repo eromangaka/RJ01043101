@@ -1041,7 +1041,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's written about body\nmodification...\n----------------------------------\n◆ Adds a new Skill.",
+        "description": "It's written about body\nmodification...\n----------------------------------\n◆ Adds a new Skill",
         "effects": [],
         "hitType": 0,
         "iconIndex": 186,
@@ -1867,7 +1867,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★☆\nRecipe for making a\nWild Vegetable Hot Pot\n----------------------------------\nIngredients:\n◆ Eringi Mushroom ×1\n◆ Shiitake Mushroom ×1\n◆ Wild Vegetables ×1",
+        "description": "Rarity: ★★★☆\nRecipe for making \nWild Vegetable Hot Pot\n----------------------------------\nIngredients:\n◆ Eringi Mushroom ×1\n◆ Shiitake Mushroom ×1\n◆ Wild Vegetables ×1",
         "effects": [],
         "hitType": 0,
         "iconIndex": 158,
@@ -1945,7 +1945,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★★\nRecipe for making\nMatsutake Rice\n----------------------------------\nIngredients:\n◆ Rice × 1\n◆ Matsutake × 1\n◆ Clean Water ×1",
+        "description": "Rarity: ★★★★\nRecipe for making\nMatsutake Rice\n----------------------------------\nIngredients:\n◆ Rice ×1\n◆ Matsutake ×1\n◆ Clean Water ×1",
         "effects": [],
         "hitType": 0,
         "iconIndex": 158,
@@ -1971,7 +1971,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rarity: ★★★★\nRecipe for making\n Mountain Bounty Meal\n----------------------------------\nIngredients:\n◆ Rainbow Trout ×1\n◆ Mountain Vegetables ×1\n◆ Japanese Pepper ×1",
+        "description": "Rarity: ★★★★\nRecipe for making\nMountain Bounty Meal\n----------------------------------\nIngredients:\n◆ Rainbow Trout ×1\n◆ Mountain Vegetables ×1\n◆ Sansho ×1",
         "effects": [],
         "hitType": 0,
         "iconIndex": 158,
@@ -2167,7 +2167,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The pattern is cute, just a\nnormal Menko. It can be\ncustomized at the secret base.",
+        "description": "The pattern is cute!\nJust a normal Menko.\n----------------------------------\nIt can be customize at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
@@ -2193,12 +2193,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's a big deal! During the\nmatch, HP increases by +50. You\ncan customize it at the secret\nbase.",
+        "description": "It's a big deal! During the\nmatch, HP increases by +50.\n----------------------------------\nIt can be customize at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
         "itypeId": 2,
-        "name": "Sumo Wrestler's Card",
+        "name": "Sumo Wrestler's Menko",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2219,7 +2219,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I'll borrow the power of the\nancient species ① During the\nmatch, ATK increases by +5. ----\n------------------------------\nCan be customized at the secret\nbase.",
+        "description": "I'll borrow the power of\nthe ancient species!\nDuring the match, \nATK increases by +5.\n----------------------------------\nIt can be customize at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
@@ -2245,7 +2245,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I'll borrow the power of the\nancient species ② During the\nmatch, DEF increases by +10 ----\n------------------------------\nCustomizable at the secret base.",
+        "description": "I'll borrow the power of\nthe ancient species!\nDuring the match, \nDEF increases by +10\n----------------------------------\nIt can be customize at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
@@ -2271,7 +2271,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Because it's fast, I avoid it\nmore than usual. During the\nmatch, there is a 30% chance of\nevasion. It can be customized in\nthe secret base.",
+        "description": "Because it's fast, it avoids \nmore than usual!\nDuring the match, \nthere is a 30% chance of Evasion.\n----------------------------------\nIt can be customize at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
@@ -2297,12 +2297,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "There's nothing that can beat a\nsingle stroke of a samurai's\nsword! Critical damage increase.\nYou can customize in the secret\nbase.",
+        "description": "There's nothing that can beat a\nsingle stroke of a samurai's sword!\nCritical Damage Increase.\n----------------------------------\nIt can be customize at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
         "itypeId": 2,
-        "name": "Samurai's Card",
+        "name": "Samurai's Menko",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2323,12 +2323,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You dirty ninja! Make sure your\nmenko doesn't become a miss. You\ncan customize in the secret\nbase.",
+        "description": "You dirty ninja!\nIt makes sure your\nMenko doesn't miss.\n----------------------------------\nIt can be customize at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
         "itypeId": 2,
-        "name": "Ninja's Card",
+        "name": "Ninja's Menko",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2505,7 +2505,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Shizuku's Naughty Photo 1 An\nextremely naughty angle taken\nupside down. -------------------\n--------------- Event Item: Can\nbe viewed in the Hidden Folder.",
+        "description": "Shizuku's Naughty Photo ①\nAn extremely naughty angle taken\nupside down.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2531,7 +2531,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Shizuku's Naughty Photo ② Her\nsoft-looking bare breasts are\ngood. \\n\\n\\n--------------------\n--------------\\n◆Event\nItem\\n◆\\c[14]Can be viewed in\nthe hidden folder\\c[0]",
+        "description": "Shizuku's Naughty Photo ②\nHer soft-looking bare breasts are good.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2557,7 +2557,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kanae's Naughty Photo 1 The\npanty bite is too erotic. \\n\\n\\n\n--------------------------------\n--\\n◆Event Item\\n◆\\c[14]Can be\nviewed in the Hidden Folder\\c[0]",
+        "description": "Kanae's Naughty Photo ①\nThe panty bite is too erotic.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2583,7 +2583,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Kanae's Naughty Photo 2 Close-up\nphoto of dildo masturbation. ---\n-------------------------------\nEvent Item Can be viewed in the\nHidden Folder.",
+        "description": "Kanae's Naughty Photo ②\nClose-up photo of dildo masturbation.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2609,7 +2609,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Shizuku's Naughty Video ① A\ntitjob video has been recorded.\n\\n\\n\\n--------------------------\n--------\\n◆Event\nItem\\n◆\\c[14]Can be viewed in\nthe Hidden Folder\\c[0]",
+        "description": "Shizuku's Naughty Video ①\nA titjob video that has been recorded.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2635,7 +2635,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Shizuku's Naughty Video 2 The\nconnecting part is captured in\nclose-up. ----------------------\n------------ Event Item: Can be\nviewed in the Hidden Folder.",
+        "description": "Shizuku's Naughty Video ②\nThe connecting parts were captured in\nclose-up.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2661,7 +2661,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Shizuku's Naughty Video 3\nFootage from a public toilet is\nrecorded. ----------------------\n------------ Event Item: Can be\nviewed in the Hidden Folder.",
+        "description": "Shizuku's Naughty Video ③\nFootage from the Public Toilet\nthat got recorded.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2687,7 +2687,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Shizuku's Naughty Video ④ Sex in\na love hotel is recorded. ------\n----------------------------\n◆Event Item◆ Available for\nviewing in the Hidden Folder.",
+        "description": "Shizuku's Naughty Video ④\nSex in the Love Hotel that got recorded.\n----------------------------------\n◆ Event Item:\nCan be viewed in the Hidden Folder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
@@ -2713,7 +2713,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This is a photo of Kanae's\nhusband coming out of a hotel\nwith another woman. I won't\nforgive infidelity! ------------\n---------------------- ◆Event\nitem",
+        "description": "This is a photo of Kanae's\nhusband coming out of a hotel\nwith another woman.\nI won't forgive infidelity!\n----------------------------------\n◆ Event Item",
         "effects": [],
         "hitType": 0,
         "iconIndex": 32,
