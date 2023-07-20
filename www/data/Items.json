@@ -2167,7 +2167,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The pattern is cute!\nJust a normal Menko.\n----------------------------------\nIt can be customize at the Secret Base.",
+        "description": "The pattern is cute!\nJust a normal Menko.\n----------------------------------\nIt can be customized at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
@@ -2193,7 +2193,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's a big deal! During the\nmatch, HP increases by +50.\n----------------------------------\nIt can be customize at the Secret Base.",
+        "description": "It's a big deal! During the\nmatch, HP increases by +50.\n----------------------------------\nIt can be customized at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
@@ -2219,7 +2219,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I'll borrow the power of\nthe ancient species!\nDuring the match, \nATK increases by +5.\n----------------------------------\nIt can be customize at the Secret Base.",
+        "description": "I'll borrow the power of\nthe ancient species!\nDuring the match, \nATK increases by +5.\n----------------------------------\nIt can be customized at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
@@ -2245,7 +2245,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I'll borrow the power of\nthe ancient species!\nDuring the match, \nDEF increases by +10\n----------------------------------\nIt can be customize at the Secret Base.",
+        "description": "I'll borrow the power of\nthe ancient species!\nDuring the match, \nDEF increases by +10\n----------------------------------\nIt can be customized at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
@@ -2271,7 +2271,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Because it's fast, it avoids \nmore than usual!\nDuring the match, \nthere is a 30% chance of Evasion.\n----------------------------------\nIt can be customize at the Secret Base.",
+        "description": "Because it's fast, it avoids \nmore than usual!\nDuring the match, \nthere is a 30% chance of Evasion.\n----------------------------------\nIt can be customized at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
@@ -2297,7 +2297,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "There's nothing that can beat a\nsingle stroke of a samurai's sword!\nCritical Damage Increase.\n----------------------------------\nIt can be customize at the Secret Base.",
+        "description": "There's nothing that can beat a\nsingle stroke of a samurai's sword!\nCritical Damage Increase.\n----------------------------------\nIt can be customized at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
@@ -2323,7 +2323,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You dirty ninja!\nIt makes sure your\nMenko doesn't miss.\n----------------------------------\nIt can be customize at the Secret Base.",
+        "description": "You dirty ninja!\nIt makes sure your\nMenko doesn't miss.\n----------------------------------\nIt can be customized at the Secret Base.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 190,
