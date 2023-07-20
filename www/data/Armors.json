@@ -327,7 +327,7 @@
     {
         "id": 13,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★★☆\\c[0]】\nMock Briccio.\n----------------------------------\n◆ Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★★★☆\\c[0]】\nIngredients for Brichio cuisine\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -337,7 +337,7 @@
             }
         ],
         "iconIndex": 193,
-        "name": "Fake Armor",
+        "name": "False Yellowtail",
         "note": "",
         "params": [
             0,
@@ -418,7 +418,7 @@
             }
         ],
         "iconIndex": 196,
-        "name": "Suma",
+        "name": "Mackerel",
         "note": "",
         "params": [
             0,
