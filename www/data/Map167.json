@@ -1411,7 +1411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This time of year, once the New Year's holidays are over, it\nsuddenly becomes boring, right?"
+                                "This time of year, once the\nNew Year's holidays are over, it\nsuddenly becomes boring, right?"
                             ]
                         },
                         {
@@ -1508,7 +1508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I think you look bored regardless of the New Year's\nholidays."
+                                "I think you'd be bored regardless\nof the New Year's holidays..."
                             ]
                         },
                         {
@@ -1645,7 +1645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1] will also go back home on the 11th, right?"
+                                "\\n[1] will go back home\non the 11th, right?"
                             ]
                         },
                         {
@@ -1844,7 +1844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh ..., Rio..."
+                                "Oh... Rio..."
                             ]
                         },
                         {
@@ -1861,7 +1861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I understand how you feel, but it's not good to trouble \\n[1]\ntoo much, you know?"
+                                "I understand how you feel, but\nit's not good to trouble \\n[1]\ntoo much, you know?"
                             ]
                         },
                         {
@@ -1958,7 +1958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is that right, onee-chan? \\n[1]-kun also has school, you\nknow."
+                                "That's right, onee-chan...\n\\n[1]-kun also has school, you know?"
                             ]
                         },
                         {
@@ -2029,7 +2029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's nice, isn't it? College students have long vacations."
+                                "It's nice, isn't it? College\nstudents have long vacations."
                             ]
                         },
                         {
@@ -2352,7 +2352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There will be a shrine with food stalls during New Year,\nright?"
+                                "There will be a shrine with\nfood stalls during New Year, right?"
                             ]
                         },
                         {
@@ -2395,7 +2395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They say that if you continue to make offerings there\n\\c[14], your wishes will come true \\c[0]."
+                                "They say that if you continue\nto make offerings there\\c[14],\nyour wishes will come true\\c[0]."
                             ]
                         },
                         {
@@ -2508,7 +2508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "When I noticed, \\c[14] time had rolled back and the vacation\nwas extended\\c[0], or something...."
+                                "When I noticed, \\c[14]time had\nrolled back and the vacation\nwas extended\\c[0], or something...."
                             ]
                         },
                         {
@@ -2691,7 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There was such a rumor about that shrine."
+                                "There was such a rumor\nabout that shrine?"
                             ]
                         },
                         {
@@ -2794,7 +2794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If the rumor is true, \\n[1]-kun, we can play for even longer,\nright? \\kw[1]"
+                                "If the rumor is true, \\n[1]-kun,\nwe can play for even longer, right?\\kw[1]"
                             ]
                         },
                         {
@@ -2948,7 +2948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14](Should we go and make a little prayer to the gods?\n...?)"
+                                "\\c[14](Should we go and make a\nlittle prayer to the gods?...?)"
                             ]
                         },
                         {
