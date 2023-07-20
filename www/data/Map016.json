@@ -2752,7 +2752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. I hope you have a good dream\\kw[1]"
+                                "Hehe\\kw[1]\\. I hope you\nhave a good dream\\kw[1]"
                             ]
                         },
                         {
@@ -3788,7 +3788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No good, Mr. Masakazu..."
+                                "It's not good, Masakazu-san..."
                             ]
                         },
                         {
@@ -3854,7 +3854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I haven't been able to do it here for a while ......"
+                                "I haven't been able to do it\nwith you for a while ......"
                             ]
                         },
                         {
@@ -3960,7 +3960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You always fall asleep in the middle of the act, don't\nyou...?"
+                                "You always fall asleep in the\nmiddle of the act, don't you...?"
                             ]
                         },
                         {
@@ -4091,7 +4091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You also drank alcohol today, didn't you...?"
+                                "You also drank alcohol\ntoday, didn't you...?"
                             ]
                         },
                         {
@@ -4108,7 +4108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We're not young anymore ... We have to take care of our\nbodies ......"
+                                "We're not young anymore ... We have\nto take care of our bodies ......"
                             ]
                         },
                         {
@@ -4504,7 +4504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The uncles are also about to go to bed now."
+                                "The adults are also about to go to bed now."
                             ]
                         },
                         {
@@ -4938,7 +4938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's not good, Masakazu-san. Shall we do it another time...?"
+                                "It's not good, Masakazu-san.\nShall we do it another time...?"
                             ]
                         },
                         {
@@ -4987,7 +4987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, \\. yeah...\\. That's right......"
+                                "Ah, \\. yeah...\\. That's fine......"
                             ]
                         },
                         {
@@ -5059,7 +5059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Goodnight, you."
+                                "Goodnight, Masakazu."
                             ]
                         },
                         {
@@ -6103,7 +6103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. I hope you have a good dream\\kw[1]"
+                                "Hehe\\kw[1]\\. I hope you\nhave a good dream\\kw[1]"
                             ]
                         },
                         {
@@ -19352,7 +19352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1] I hope today will be a good day too\\kw[1]"
+                                "Hehe\\kw[1] I hope today will\nbe a good day too\\kw[1]"
                             ]
                         },
                         {
