@@ -30,7 +30,7 @@
     {
         "id": 2,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 That familiar one \\n\\n\\n----------------------------------\\n◆Cooking\nIngredient",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】\nThat familiar one\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -57,7 +57,7 @@
     {
         "id": 3,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 It's the one you can catch on the ice, isn't\nit\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】\nIt's the one you can catch on the ice,\nisn't it?\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -84,7 +84,7 @@
     {
         "id": 4,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 It's not the name of a\nweed\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】\nIt's not the name of a weed.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -111,7 +111,7 @@
     {
         "id": 5,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 It's a flat fish, huh\\n\\n\\n----------------------------------\\n◆Cooking\nIngredient",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】\nIt's a flat fish, huh...\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -138,7 +138,7 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 Shota-kun is at home \\n\\n\\n----------------------------------\\n◆Cooking\nIngredients",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】\nShota-kun is back home.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -165,7 +165,7 @@
     {
         "id": 7,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 A black-colored carp. Ordinary.\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】\nA black-colored carp. Ordinary.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -192,7 +192,7 @@
     {
         "id": 8,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 Even if you catch it, it's not very\nexciting\\n\\n\\n----------------------------------\\n◆Cooking ingredient",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】\nEven if you catch it, it's not very exciting.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -219,7 +219,7 @@
     {
         "id": 9,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 \"Ayuru\" - Weak\\n\\n\\n----------------------------------\\n◆Cooking\nIngredient",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】\n\"Ayuru\" - Weak\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -246,7 +246,7 @@
     {
         "id": 10,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 It seems not tasty. \\n\\n\\n----------------------------------\\n◆Cooking\nIngredient",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】\nIt doesn't seem tasty.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -273,7 +273,7 @@
     {
         "id": 11,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 A popular luxury fish in\nHokkaido\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】\nA popular luxury fish in Hokkaido.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -300,7 +300,7 @@
     {
         "id": 12,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★★☆\\c[0]】 Briccio\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★★★☆\\c[0]】\nBriccio.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -327,7 +327,7 @@
     {
         "id": 13,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★★☆\\c[0]】 Mock Briccio\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★★★☆\\c[0]】\nIngredients for Brichio cuisine\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -337,7 +337,7 @@
             }
         ],
         "iconIndex": 193,
-        "name": "Fake Armor",
+        "name": "False Yellowtail",
         "note": "",
         "params": [
             0,
@@ -354,7 +354,7 @@
     {
         "id": 14,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★★☆\\c[0]】 Hey! \\n\\n\\n----------------------------------\\n◆Cooking Ingredients",
+        "description": "【Rarity: \\c[14]★★★☆\\c[0]】\nHey~\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -381,7 +381,7 @@
     {
         "id": 15,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★★☆\\c[0]】 Sashimi is delicious, isn't\nit?\\n\\n\\n----------------------------------\\n◆Cooking Ingredients",
+        "description": "【Rarity: \\c[14]★★★☆\\c[0]】\nSashimi is delicious, isn't it?\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -408,7 +408,7 @@
     {
         "id": 16,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★★☆\\c[0]】 Side Smash - Side Smash\nAttack\\n\\n\\n----------------------------------\\n◆Cooking Ingredients",
+        "description": "【Rarity: \\c[14]★★★☆\\c[0]】\nSide Smash - Side Smash Attack.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -418,7 +418,7 @@
             }
         ],
         "iconIndex": 196,
-        "name": "スマ",
+        "name": "Mackerel",
         "note": "",
         "params": [
             0,
@@ -435,7 +435,7 @@
     {
         "id": 17,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★★★\\c[0]】 It's said to be cheap for a type of tuna.\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★★★★\\c[0]】\nIt's said to be cheap for a type of tuna.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -462,7 +462,7 @@
     {
         "id": 18,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★★★\\c[0]】 That's right. It's similar.\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredients",
+        "description": "【Rarity: \\c[14]★★★★\\c[0]】\nThat's right. It's similar.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -489,7 +489,7 @@
     {
         "id": 19,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★★★\\c[0]】 Eyes, sparkly! \\n\\n\\n----------------------------------\\n◆Cooking\nIngredients",
+        "description": "【Rarity: \\c[14]★★★★\\c[0]】\nEyes, sparkly!\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -516,7 +516,7 @@
     {
         "id": 20,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★★★\\c[0]】 Especially delicious among fish!\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★★★★\\c[0]】\nEspecially delicious among fish!\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -543,7 +543,7 @@
     {
         "id": 21,
         "atypeId": 1,
-        "description": "【Rarity: \\c[14]★★★★\\c[0]】 Why did I catch something like this?\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★★★★\\c[0]】\nWhy did I catch something like this?\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -570,7 +570,7 @@
     {
         "id": 22,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 A common root vegetable.\n\\n\\n\\n----------------------------------\\n◆Cooking ingredient",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】\nA common root vegetable.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -597,7 +597,7 @@
     {
         "id": 23,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 A handy vegetable. \\n\\n\\n----------------------------------\\n◆Cooking\ningredient",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】\nA handy vegetable.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -624,7 +624,7 @@
     {
         "id": 24,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 Boil it, grill it, or steam it!\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】\nBoil it, grill it, or steam it!\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -651,7 +651,7 @@
     {
         "id": 25,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 Its simple sweetness is delicious.\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredients",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】\nIts simple sweetness is delicious.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -678,7 +678,7 @@
     {
         "id": 26,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 The staple food of Japan!\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredients",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】\nThe staple food of Japan!\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -705,7 +705,7 @@
     {
         "id": 27,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 For fatigue recovery and nourishment.\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredients",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】\nFor fatigue recovery and nourishment.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -732,7 +732,7 @@
     {
         "id": 28,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 For various dishes. \\nZero cholesterol.\n\\n\\n----------------------------------\\n◆Cooking ingredient",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】\nFor various dishes.\nZero cholesterol.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -759,7 +759,7 @@
     {
         "id": 29,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 Natural sea salt. \\n\\n\\n----------------------------------\\n◆Cooking\ningredient",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】\nNatural sea salt.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -786,7 +786,7 @@
     {
         "id": 30,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 A sour citrus fruit. \\n\\n\\n----------------------------------\\n◆Cooking\nIngredient",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】\nA sour citrus fruit.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -813,7 +813,7 @@
     {
         "id": 31,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 Clear natural water. \\nDrinkable.\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】\nClear natural water.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -840,7 +840,7 @@
     {
         "id": 32,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 A common edible mushroom. \\nA bouncy\ntexture!\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】\nA common edible mushroom.\nIt has a bouncy texture!\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -867,7 +867,7 @@
     {
         "id": 33,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 A mushroom that's delicious whether fresh or dried. \\nFull of\nflavor!\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】\nA mushroom that's delicious whether\nfresh or dried.\nFull of flavor!\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -894,7 +894,7 @@
     {
         "id": 34,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】 A mushroom with a plain taste. \\nCrisp\ntexture!\\n\\n----------------------------------\\n◆Cooking ingredient",
+        "description": "【Rarity: \\c[14]★★☆☆\\c[0]】\nA mushroom with a plain taste.\nSuch a crisp texture!\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -921,7 +921,7 @@
     {
         "id": 35,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★★★★\\c[0]】 A legendary mushroom. \\nScientific name is Tricholoma\nmatsutake\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★★★★\\c[0]】\nA legendary mushroom.\nIts scientific name is Tricholoma Matsutake.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -948,7 +948,7 @@
     {
         "id": 36,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★★★☆\\c[0]】 It can be found growing wild in the mountains. \\nAn edible plant.\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★★★☆\\c[0]】\nIt can be found growing wild\nin the mountains.\nAn edible plant.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -975,7 +975,7 @@
     {
         "id": 37,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★★★☆\\c[0]】 A spice with a unique spiciness that becomes addictive.\n\\n\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★★★☆\\c[0]】\nA spice with a unique spiciness\nthat becomes addictive.\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
@@ -1002,7 +1002,7 @@
     {
         "id": 38,
         "atypeId": 0,
-        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】 A branch that has fallen nearby. \\nFood\ningredient...?\\n\\n----------------------------------\\n◆Cooking Ingredient",
+        "description": "【Rarity: \\c[14]★☆☆☆\\c[0]】\nA branch that has fallen nearby.\nFood ingredient...?\n----------------------------------\n◆ Cooking Ingredient",
         "etypeId": 2,
         "traits": [
             {
