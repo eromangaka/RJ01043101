@@ -1413,7 +1413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\> \\n[1]-kun ... 's \\kw[1] nn ... 's"
+                                "\\> \\n[1]-kun's...\\kw[1] nn...\\kw[1]"
                             ]
                         },
                         {
@@ -1469,7 +1469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<It's okay, ...\\n[1]-kun \\>   \\<since he won't\nwake up anyway. ......"
+                                "\\>Kanae: \\<It's okay...\\n[1]-kun\\kw[1]\\>   \\<since he won't wake up anyway......\\kw[1]"
                             ]
                         },
                         {
@@ -1486,7 +1486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<And also ......"
+                                "\\>Kanae: \\<And also......"
                             ]
                         },
                         {
@@ -1529,7 +1529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<It's not like it matters if he wakes up or\nnot...\\kw[1]"
+                                "\\>Kanae: \\<It's not like it matters if he wakes up or not...\\kw[1]"
                             ]
                         },
                         {
@@ -1568,7 +1568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]: Akari..."
+                                "\\n[1]: Kanae..."
                             ]
                         },
                         {
@@ -1585,7 +1585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<I'll show you that I'm no longer yours,\n\\>   \\<kw[1]"
+                                "\\>Kanae: \\<I'll show him that I'm no longer his....\\kw[1]"
                             ]
                         },
                         {
@@ -1602,7 +1602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<Not bad, ......\\kw[1]."
+                                "\\>Kanae: \\<That's good......\\kw[1]."
                             ]
                         },
                         {
@@ -1687,7 +1687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<I'm sorry, \\n[1]-kun...\\. \\>   \\<for making you be\nwith someone like me......."
+                                "\\>Kanae: \\<I'm sorry, \\n[1]-kun...\\.\\> \\<for making you be\n   with someone like me......."
                             ]
                         },
                         {
@@ -1704,7 +1704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<If \\n[1]-kun becomes inconvenient ..."
+                                "\\>Kanae: \\<If it becomes inconvenient for \\n[1]-kun..."
                             ]
                         },
                         {
@@ -1842,7 +1842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\n[1]: \\<I came here today because I wanted to see Kanae-\nsan! ...!"
+                                "\\>\\n[1]: \\<I came here today because I wanted to see Kanae-san...!"
                             ]
                         },
                         {
@@ -1881,7 +1881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\n[1]: \\<I won't abandon Kanae-san or anything like\nthat...."
+                                "\\>\\n[1]: \\<I won't abandon Kanae-san or anything like that...."
                             ]
                         },
                         {
@@ -1937,7 +1937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<Ah, ......"
+                                "\\>Kanae: \\<Ah......\\kw[1]"
                             ]
                         },
                         {
@@ -1983,7 +1983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<Hehe..., \\kw[1]I'm happy......\\kw[1]."
+                                "\\>Kanae: \\<Hehe...\\kw[1] I'm happy......\\kw[1]."
                             ]
                         },
                         {
@@ -2029,7 +2029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<\\n[1]-kun...\\hehe..."
+                                "\\>Kanae: \\<\\n[1]-kun...\\kw[1] hehe...\\kw[1]"
                             ]
                         },
                         {
@@ -2084,7 +2084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<Will you fall with me ...together......? \\kw[1]"
+                                "\\>Kanae: \\<Will you give yourself... to me......? \\kw[1]"
                             ]
                         },
                         {
@@ -2140,7 +2140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\n[1]: \\<Since the moment I decided to date Kanae-san, ..."
+                                "\\>\\n[1]: \\<Since the moment I decided to date Kanae-san..."
                             ]
                         },
                         {
@@ -2157,7 +2157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\n[1]: \\<I am already ......prepared for it, so ......"
+                                "\\>\\n[1]: \\<I was already ......prepared for it, so ......"
                             ]
                         },
                         {
@@ -2196,7 +2196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<\\n[1]-kun...\\hehe..."
+                                "\\>Kanae: \\<\\n[1]-kun...\\kw[1] hehe...\\kw[1]"
                             ]
                         },
                         {
@@ -2213,7 +2213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kanae: Thank you."
+                                "Kanae: Thank you.\\kw[1]"
                             ]
                         },
                         {
@@ -2256,7 +2256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<Right......? \\kw[1]\\. \\>   \\<Move more......?\n\\kw[1]"
+                                "\\>Kanae: \\<Hey......?\\kw[1]\\.\\>   \\<Go faster......okay?\\kw[1]"
                             ]
                         },
                         {
@@ -2290,7 +2290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kanae: \\<My husband might wake up... \\> \\<Intense sex...\n......\\kw[1]"
+                                "\\>Kanae: \\<Rough sex...... that might wake my husband up...\\kw[1]"
                             ]
                         },
                         {
@@ -2307,7 +2307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kanae: \\< With me, ......, right? \\kw[1]"
+                                "Kanae: \\<With me......okay?\\kw[1]"
                             ]
                         },
                         {
