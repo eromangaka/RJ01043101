@@ -288,14 +288,15 @@
     };
 
     Game_Screen.prototype.setDTextPicture = function (value, size) {
+        const searchRegExp = /_/g;
         if (typeof TranslationManager !== 'undefined') {
             TranslationManager.translateIfNeed(value, function (translatedText) {
                 value = translatedText;
             });
         }
         this.dUsingVariables = (this.dUsingVariables || []).concat(getUsingVariables(value));
-        this.dTextValue = (this.dTextValue || '') + getArgString(value, false) + '\n';
-        this.dTextOriginal = (this.dTextOriginal || '') + value + '\n';
+        this.dTextValue = (this.dTextValue || '') + getArgString(value, false).replace(searchRegExp, ' ') + '\n';
+        this.dTextOriginal = (this.dTextOriginal || '').replace(searchRegExp, ' ') + value + '\n';
         this.dTextSize = size;
     };
 
